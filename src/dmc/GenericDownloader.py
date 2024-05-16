@@ -115,7 +115,8 @@ class GenericDownloader:
     def download_all(self):
         link_info_list = self.get_link_info_list()
         n_downloaded = 0
-        for link_info in link_info_list:
+        n_total = len(link_info_list)
+        for i_link, link_info in enumerate(link_info_list, start=1):
             file_path = GenericDownloader.get_file_path(
                 self.dir_data, link_info
             )
@@ -126,8 +127,8 @@ class GenericDownloader:
             GenericDownloader.download_binary(link_info['href'], file_path)
             n_downloaded += 1
             log.info(
-                f"{n_downloaded}/{GenericDownloader.N_MAX_DOWNLOADS})"
-                + f" Downloaded {file_path}"
+                f"{i_link}/{n_total})"
+                + f" Downloaded {file_path} ({n_downloaded})"
             )
 
             if n_downloaded >= GenericDownloader.N_MAX_DOWNLOADS:
