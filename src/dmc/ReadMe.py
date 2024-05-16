@@ -21,7 +21,7 @@ class ReadMe:
 
         n_downloaded = 0
         for child_name in os.listdir(dir_path):
-            if not child_name.endswith('.json'):
+            if child_name.endswith('.json'):
                 continue
             n_downloaded += 1
 
