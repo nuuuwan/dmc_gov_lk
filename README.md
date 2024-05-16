@@ -1,5 +1,7 @@
 # Disaster Management Center (DMC) Sri Lanka :sri_lanka:
 
+*Documents downloaded from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)*
+
 ## Earthquakes
 
 **1/14** documents downloaded.

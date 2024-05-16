@@ -57,8 +57,11 @@ class ReadMe:
 
     @property
     def lines(self):
+        url = GenericDownloader.BASE_URL
         return [
             '# Disaster Management Center (DMC) Sri Lanka :sri_lanka:',
+            '',
+            f'*Documents downloaded from [{url}]({url})*',
             '',
         ] + self.lines_for_doc_types
 
