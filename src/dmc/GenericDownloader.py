@@ -14,10 +14,12 @@ log = Log('GenericDownloader')
 
 class GenericDownloader:
     BASE_URL = 'https://www.dmc.gov.lk'
-    N_MAX_DOWNLOADS = 3 if os.name == 'nt' else 100
+    N_MAX_DOWNLOADS = 1 if os.name == 'nt' else 100
 
-    def __init__(self, doc_type: str):
+    def __init__(self, doc_type: str, report_type_id: str):
         self.doc_type = doc_type
+
+        self.report_type_id = report_type_id
 
     @property
     def dir_data(self):
@@ -28,10 +30,10 @@ class GenericDownloader:
         d = dict(
             option='com_dmcreports',
             view='reports',
-            Itemid=273,
+
             limit=0,
             search='',
-            report_type_id=1,
+            report_type_id=self.report_type_id,
             fromdate='2014-05-31',
             todate='2024-05-31',
             lang='en',
@@ -59,6 +61,7 @@ class GenericDownloader:
     def parse_name_str(name):
         name = re.sub(r'[^\w\s]', '', name)
         name = re.sub(r'\s+', ' ', name)
+        name = name.strip()
         name = name.replace(' ', '-')
         return name.lower()
 
@@ -95,6 +98,9 @@ class GenericDownloader:
         time.sleep(t_sleep)
 
     def download_all(self):
+        if not os.path.exists(self.dir_data):
+            os.makedirs(self.dir_data)
+
         link_info_list = self.get_link_info_list()
         n_downloaded = 0
         for link_info in link_info_list:
