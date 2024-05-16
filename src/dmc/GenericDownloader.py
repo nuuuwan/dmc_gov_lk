@@ -103,10 +103,11 @@ class GenericDownloader:
         log.debug(f"😴 {t_sleep:.2f}s")
         time.sleep(t_sleep)
 
-    def get_file_path(self, link_info):
+    @staticmethod
+    def get_file_path(dir_data, link_info):
         name_str = GenericDownloader.parse_name_str(link_info['name'])
         file_path = os.path.join(
-            self.dir_data,
+            dir_data,
             f"{link_info['time_id']}.{name_str}.{link_info['ext']}",
         )
         return file_path
@@ -115,7 +116,9 @@ class GenericDownloader:
         link_info_list = self.get_link_info_list()
         n_downloaded = 0
         for link_info in link_info_list:
-            file_path = self.get_file_path(link_info)
+            file_path = GenericDownloader.get_file_path(
+                self.dir_data, link_info
+            )
             if os.path.exists(file_path):
                 log.debug(f"{file_path} exists.")
                 continue

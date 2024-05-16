@@ -1,4 +1,4 @@
-name: download_all
+name: pipeline
 
 on:
   workflow_dispatch:
@@ -6,7 +6,7 @@ on:
     - cron: "44 * * * *"
 
 jobs:
-  download_all:
+  pipeline:
     runs-on: ubuntu-latest
 
     steps:
@@ -29,10 +29,15 @@ jobs:
           ref: "main"
           token: "${{ secrets.REPO_DATA_TOKEN }}"
 
-      - name: workflows/download_all.py
+      - name: STEP 1) download_all
         run: |
           export PYTHONPATH="$PYTHONPATH:./src"
           python workflows/download_all.py
+
+      - name: STEP 2) build_readme
+        run: |
+          export PYTHONPATH="$PYTHONPATH:./src"
+          python workflows/build_readme.py
 
       - name: Push to github repo
         run: |
@@ -41,5 +46,5 @@ jobs:
 
           git pull origin main
           git add .
-          git commit -m "download_all $(date)"
+          git commit -m "pipeline $(date)"
           git push origin main
