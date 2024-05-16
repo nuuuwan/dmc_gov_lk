@@ -3,7 +3,7 @@ name: download_all
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "44 * * * *"
 
 jobs:
   download_all:
