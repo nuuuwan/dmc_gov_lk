@@ -4,7 +4,7 @@
 
 ## Flood Inundation Maps
 
-**1/19** documents downloaded.
+**19/19** documents downloaded.
 
 * [2023-09-24 10:00 water level](data/flood-inundation-maps/20230924.1000.water-level.pdf)
 * [2022-09-01 09:30 water level report](data/flood-inundation-maps/20220901.0930.water-level-report.pdf)
@@ -19,7 +19,7 @@
 
 ## River Water Level And Flood Warnings
 
-**1/1460** documents downloaded.
+**203/1460** documents downloaded.
 
 * [2024-05-15 09:30 Water Level & Rainfall](data/river-water-level-and-flood-warnings/20240515.0930.water-level-rainfall.pdf)
 * [2024-05-04 10:00 water level](data/river-water-level-and-flood-warnings/20240504.1000.water-level.pdf)
@@ -34,7 +34,7 @@
 
 ## Landslide Warnings
 
-**1/534** documents downloaded.
+**203/534** documents downloaded.
 
 * [2024-05-15 16:00 Landslide Early Warning](data/landslide-warnings/20240515.1600.landslide-early-warning.pdf)
 * [2024-05-14 16:00 Landslide Early Warning](data/landslide-warnings/20240514.1600.landslide-early-warning.pdf)
@@ -49,7 +49,7 @@
 
 ## Earthquakes
 
-**1/14** documents downloaded.
+**14/14** documents downloaded.
 
 * [2023-04-25 01:55 EARTHQUAKE INFORMATION BULLETIN](data/earthquakes/20230425.0155.earthquake-information-bulletin.pdf)
 * [2023-04-25 01:45 EARTHQUAKE INFORMATION BULLETIN](data/earthquakes/20230425.0145.earthquake-information-bulletin.pdf)
@@ -64,7 +64,7 @@
 
 ## Emergency Response Data Viewer
 
-**1/4** documents downloaded.
+**4/4** documents downloaded.
 
 * [2023-03-27 09:30 Air Quality Report](data/emergency-response-data-viewer/20230327.0930.air-quality-report.pdf)
 * [2023-02-22 10:00 Air Quality Report](data/emergency-response-data-viewer/20230222.1000.air-quality-report.pdf)
@@ -73,7 +73,7 @@
 
 ## Situation Reports
 
-**1/3958** documents downloaded.
+**317/3958** documents downloaded.
 
 * [2024-05-16 09:00 Situation Report](data/situation-reports/20240516.0900.situation-report.pdf)
 * [2024-05-15 09:00 Situation Report](data/situation-reports/20240515.0900.situation-report.pdf)
@@ -88,7 +88,7 @@
 
 ## Weather Reports
 
-**1/8272** documents downloaded.
+**206/8272** documents downloaded.
 
 * [2024-05-16 12:00 Special Weather Buletin](data/weather-reports/20240516.1200.special-weather-buletin.pdf)
 * [2024-05-16 12:00 Weather Report](data/weather-reports/20240516.1200.weather-report.pdf)
