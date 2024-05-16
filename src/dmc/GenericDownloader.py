@@ -7,7 +7,7 @@ from functools import cached_property
 
 import requests
 from bs4 import BeautifulSoup
-from utils import Log, Time, TimeFormat
+from utils import JSONFile, Log, Time, TimeFormat
 
 log = Log('GenericDownloader')
 
@@ -23,14 +23,16 @@ class GenericDownloader:
 
     @property
     def dir_data(self):
-        return os.path.join('data', self.doc_type)
+        dir_data = os.path.join('data', self.doc_type)
+        if not os.path.exists(dir_data):
+            os.makedirs(dir_data)
+        return dir_data
 
     @property
     def url(self):
         d = dict(
             option='com_dmcreports',
             view='reports',
-
             limit=0,
             search='',
             report_type_id=self.report_type_id,
@@ -88,6 +90,10 @@ class GenericDownloader:
             d_list.append(d)
         n = len(d_list)
         log.info(f'Found {n} links.')
+
+        data_path = os.path.join(self.dir_data, 'info.json')
+        JSONFile(data_path).write(d_list)
+        log.info(f'Wrote {data_path}')
         return d_list
 
     def download_binary(url, file_path):
@@ -97,18 +103,19 @@ class GenericDownloader:
         log.debug(f"😴 {t_sleep:.2f}s")
         time.sleep(t_sleep)
 
-    def download_all(self):
-        if not os.path.exists(self.dir_data):
-            os.makedirs(self.dir_data)
+    def get_file_path(self, link_info):
+        name_str = GenericDownloader.parse_name_str(link_info['name'])
+        file_path = os.path.join(
+            self.dir_data,
+            f"{link_info['time_id']}.{name_str}.{link_info['ext']}",
+        )
+        return file_path
 
+    def download_all(self):
         link_info_list = self.get_link_info_list()
         n_downloaded = 0
         for link_info in link_info_list:
-            name_str = GenericDownloader.parse_name_str(link_info['name'])
-            file_path = os.path.join(
-                self.dir_data,
-                f"{link_info['time_id']}.{name_str}.{link_info['ext']}",
-            )
+            file_path = self.get_file_path(link_info)
             if os.path.exists(file_path):
                 log.debug(f"{file_path} exists.")
                 continue

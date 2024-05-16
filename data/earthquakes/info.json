@@ -1,0 +1,114 @@
+[
+  {
+    "name": "EARTHQUAKE INFORMATION BULLETIN",
+    "time_str": "2023-04-25 01:55",
+    "time_id": "20230425.0155",
+    "ut": 1682367900.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/02_TB__No_threat_25_04_2023_1_53_28_AM__1682370263.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "EARTHQUAKE INFORMATION BULLETIN",
+    "time_str": "2023-04-25 01:45",
+    "time_id": "20230425.0145",
+    "ut": 1682367300.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/01_TB_Information_25_04_2023_1_41_25_AM_(1)__1682370213.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "EARTHQUAKE INFORMATION BULLETIN",
+    "time_str": "2023-02-22 12:10",
+    "time_id": "20230222.1210",
+    "ut": 1677048000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/2023__1677048942.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "EARTHQUAKE INFORMATION BULLETIN",
+    "time_str": "2022-11-18 19:23",
+    "time_id": "20221118.1923",
+    "ut": 1668779580.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/01_TB_Information_18_11_2022_7_18_19_PM__1668781056.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "NO TSUNAMI THREAT BULLETIN",
+    "time_str": "2022-11-18 17:41",
+    "time_id": "20221118.1741",
+    "ut": 1668773460.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/02_TB__No_threat_18_11_2022_7_37_05_PM__1668781312.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "EARTHQUAKE INFORMATION BULLETIN_ No Threat",
+    "time_str": "2021-08-03 10:50",
+    "time_id": "20210803.1050",
+    "ut": 1627968000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/02_Tsunami_Bulletin__No__1627968933.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "EARTHQUAKE INFORMATION BULLETIN",
+    "time_str": "2021-08-03 10:00",
+    "time_id": "20210803.1000",
+    "ut": 1627965000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/01_Tsunami_Bulletin___No__1627966690.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Earthquake Bulletin NoThreat",
+    "time_str": "2021-05-14 12:55",
+    "time_id": "20210514.1255",
+    "ut": 1620977100.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/02_Tsunami_Bulletin__No__1620977202.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Earthquake Information Bulletin",
+    "time_str": "2021-05-14 12:40",
+    "time_id": "20210514.1240",
+    "ut": 1620976200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/01_Tsunami_Bulletin_No__1620977173.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Earthquake Information Bulletin",
+    "time_str": "2021-05-12 21:35",
+    "time_id": "20210512.2135",
+    "ut": 1620835500.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Tsunami_Bulletin__No__1620836931.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "EARTHQUAKE INFORMATION BULLETIN ",
+    "time_str": "2020-08-19 06:00",
+    "time_id": "20200819.0600",
+    "ut": 1597797000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/01_Tsunami_Bulletin___No__1597797524.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "No Tsunami Threat to Sri Lanka ",
+    "time_str": "2019-08-02 19:30",
+    "time_id": "20190802.1930",
+    "ut": 1564754400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/No_Tsunami_Threat_to_Sri_Lanka_at_1930hrs_on_2019__1564755790.PDF",
+    "ext": "PDF"
+  },
+  {
+    "name": "EARTHQUAKE INFORMATION BULLETIN ",
+    "time_str": "2019-08-02 17:45",
+    "time_id": "20190802.1745",
+    "ut": 1564748100.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/EARTHQUAKE_INFORMATION_BULLETIN_at_0545p__1564751327.PDF",
+    "ext": "PDF"
+  },
+  {
+    "name": "Earthquake Bulletin Level 03",
+    "time_str": "2019-03-16 11:45",
+    "time_id": "20190316.1145",
+    "ut": 1552716900.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/3__1552717800.pdf",
+    "ext": "pdf"
+  }
+]
