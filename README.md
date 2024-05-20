@@ -19,7 +19,7 @@
 
 ## River Water Level And Flood Warnings
 
-**474/1476** documents downloaded.
+**484/1476** documents downloaded.
 
 * [2024-05-20 21:30 water level](data/river-water-level-and-flood-warnings/20240520.2130.water-level.pdf)
 * [2024-05-20 21:00 Flood warning for Aththanagalu Oya Basin  No 01](data/river-water-level-and-flood-warnings/20240520.2100.flood-warning-for-aththanagalu-oya-basin-no-01.pdf)
@@ -34,7 +34,7 @@
 
 ## Landslide Warnings
 
-**474/541** documents downloaded.
+**484/541** documents downloaded.
 
 * [2024-05-20 16:00 Landslide Early Warning](data/landslide-warnings/20240520.1600.landslide-early-warning.pdf)
 * [2024-05-20 12:00 Landslide Early Warning](data/landslide-warnings/20240520.1200.landslide-early-warning.pdf)
@@ -73,7 +73,7 @@
 
 ## Situation Reports
 
-**588/3962** documents downloaded.
+**598/3962** documents downloaded.
 
 * [2024-05-20 09:00 Situation Report](data/situation-reports/20240520.0900.situation-report.pdf)
 * [2024-05-19 09:00 Situation Report](data/situation-reports/20240519.0900.situation-report.pdf)
@@ -88,7 +88,7 @@
 
 ## Weather Reports
 
-**477/8298** documents downloaded.
+**487/8298** documents downloaded.
 
 * [2024-05-20 16:00 Weather Forcast](data/weather-reports/20240520.1600.weather-forcast.pdf)
 * [2024-05-20 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240520.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
