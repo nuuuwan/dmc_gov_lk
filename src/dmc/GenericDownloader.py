@@ -12,6 +12,10 @@ from utils import JSONFile, Log, Time, TimeFormat
 log = Log('GenericDownloader')
 
 
+def clean_text(x):
+    return re.sub(r'[^a-zA-Z]\s', ' ', x)
+
+
 class GenericDownloader:
     BASE_URL = 'https://www.dmc.gov.lk'
     N_MAX_DOWNLOADS = 1 if os.name == 'nt' else 100
@@ -73,7 +77,7 @@ class GenericDownloader:
         d_list = []
         for elem_tr in elem_table.find_all('tr')[1:]:
             elem_tds = elem_tr.find_all('td')
-            name = elem_tds[0].text
+            name = clean_text(elem_tds[0].text)
             time_str = elem_tds[1].text + ' ' + elem_tds[2].text
             ut = self.parse_date_str(time_str)
             time_id = TimeFormat('%Y%m%d.%H%M').format(Time(ut))
