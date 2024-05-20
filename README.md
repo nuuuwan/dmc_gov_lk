@@ -19,7 +19,7 @@
 
 ## River Water Level And Flood Warnings
 
-**414/1472** documents downloaded.
+**424/1472** documents downloaded.
 
 * [2024-05-20 15:30 Water Level Report](data/river-water-level-and-flood-warnings/20240520.1530.water-level-report.pdf)
 * [2024-05-20 09:30 River Water Level Report](data/river-water-level-and-flood-warnings/20240520.0930.river-water-level-report.pdf)
@@ -34,7 +34,7 @@
 
 ## Landslide Warnings
 
-**414/541** documents downloaded.
+**424/541** documents downloaded.
 
 * [2024-05-20 16:00 Landslide Early Warning](data/landslide-warnings/20240520.1600.landslide-early-warning.pdf)
 * [2024-05-20 12:00 Landslide Early Warning](data/landslide-warnings/20240520.1200.landslide-early-warning.pdf)
@@ -73,7 +73,7 @@
 
 ## Situation Reports
 
-**528/3962** documents downloaded.
+**538/3962** documents downloaded.
 
 * [2024-05-20 09:00 Situation Report](data/situation-reports/20240520.0900.situation-report.pdf)
 * [2024-05-19 09:00 Situation Report](data/situation-reports/20240519.0900.situation-report.pdf)
@@ -88,7 +88,7 @@
 
 ## Weather Reports
 
-**417/8298** documents downloaded.
+**427/8298** documents downloaded.
 
 * [2024-05-20 16:00 Weather Forcast](data/weather-reports/20240520.1600.weather-forcast.pdf)
 * [2024-05-20 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240520.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
