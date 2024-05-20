@@ -1,6 +1,62 @@
 [
   {
     "name": "Landslide Early Warning",
+    "time_str": "2024-05-20 16:00",
+    "time_id": "20240520.1600",
+    "ut": 1716201000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/LEWM_20-05-2024_16_00_(1)__1716203350.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Landslide Early Warning",
+    "time_str": "2024-05-20 12:00",
+    "time_id": "20240520.1200",
+    "ut": 1716186600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Landslide_EW_Report_at_1200hrs_on_2024__1716188417.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Landslide Early Warning",
+    "time_str": "2024-05-19 16:00",
+    "time_id": "20240519.1600",
+    "ut": 1716114600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Landslide_EW_Report_at_1600hrs_on_2024__1716115479.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Landslide Early Warning",
+    "time_str": "2024-05-19 03:30",
+    "time_id": "20240519.0330",
+    "ut": 1716069600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Landslide_warning_at_0330hrs__1716070107.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Landslide Early Warning",
+    "time_str": "2024-05-18 16:00",
+    "time_id": "20240518.1600",
+    "ut": 1716028200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Landslide_Early_Warning_at_1600hrs_on_18__1716030528.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Landslide Early Warning",
+    "time_str": "2024-05-17 16:00",
+    "time_id": "20240517.1600",
+    "ut": 1715941800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Landslide_Early_Warning_at_1600hrs_on_17__1715942569.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Landslide Early Warning ",
+    "time_str": "2024-05-16 16:00",
+    "time_id": "20240516.1600",
+    "ut": 1715855400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Landslide_Early_Warning_at_1600hrs_on_16__1715855822.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Landslide Early Warning",
     "time_str": "2024-05-15 16:00",
     "time_id": "20240515.1600",
     "ut": 1715769000.0,
@@ -192,7 +248,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Landslide  early warning ",
+    "name": "Landslide early warning ",
     "time_str": "2023-12-19 16:00",
     "time_id": "20231219.1600",
     "ut": 1702981800.0,
@@ -872,7 +928,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Landslide Warning - Evacuation",
+    "name": "Landslide Warning  Evacuation",
     "time_str": "2023-10-07 14:30",
     "time_id": "20231007.1430",
     "ut": 1696669200.0,
@@ -888,7 +944,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Landslide EW Report (Red - Level 3)",
+    "name": "Landslide EW Report (Red  Level 3)",
     "time_str": "2023-10-06 20:30",
     "time_id": "20231006.2030",
     "ut": 1696604400.0,
@@ -2880,7 +2936,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Landslide Warning - Alert",
+    "name": "Landslide Warning  Alert",
     "time_str": "2021-05-15 19:00",
     "time_id": "20210515.1900",
     "ut": 1621085400.0,
@@ -3024,7 +3080,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Landslide Warning - Alert",
+    "name": "Landslide Warning  Alert",
     "time_str": "2020-09-18 17:45",
     "time_id": "20200918.1745",
     "ut": 1600431300.0,
@@ -3072,7 +3128,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Landslide Warning - Alert",
+    "name": "Landslide Warning  Alert",
     "time_str": "2020-09-02 01:00",
     "time_id": "20200902.0100",
     "ut": 1598988600.0,
@@ -3448,7 +3504,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Landslide Warning - Red",
+    "name": "Landslide Warning  Red",
     "time_str": "2019-12-08 16:45",
     "time_id": "20191208.1645",
     "ut": 1575803700.0,
@@ -3672,7 +3728,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Landslide Warning - Alert",
+    "name": "Landslide Warning  Alert",
     "time_str": "2019-09-26 11:00",
     "time_id": "20190926.1100",
     "ut": 1569475800.0,
@@ -3720,7 +3776,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Landslide Warning - Alert",
+    "name": "Landslide Warning  Alert",
     "time_str": "2019-09-23 12:00",
     "time_id": "20190923.1200",
     "ut": 1569220200.0,
@@ -3744,7 +3800,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Landslide Warning - Alert",
+    "name": "Landslide Warning  Alert",
     "time_str": "2019-09-17 15:30",
     "time_id": "20190917.1530",
     "ut": 1568714400.0,
@@ -3784,7 +3840,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Landslide Warning - Alert",
+    "name": "Landslide Warning  Alert",
     "time_str": "2019-08-14 16:00",
     "time_id": "20190814.1600",
     "ut": 1565778600.0,

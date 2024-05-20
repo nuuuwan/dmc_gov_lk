@@ -18,7 +18,7 @@ def clean_text(x):
 
 class GenericDownloader:
     BASE_URL = 'https://www.dmc.gov.lk'
-    N_MAX_DOWNLOADS = 1 if os.name == 'nt' else 100
+    N_MAX_DOWNLOADS = 1 if os.name == 'nt' else 10
 
     def __init__(self, doc_type: str, report_type_id: str):
         self.doc_type = doc_type

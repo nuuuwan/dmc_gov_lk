@@ -1,6 +1,102 @@
 [
   {
-    "name": "Water Level & Rainfall ",
+    "name": "Water Level Report ",
+    "time_str": "2024-05-20 15:30",
+    "time_id": "20240520.1530",
+    "ut": 1716199200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2024__1716200879.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "River Water Level Report",
+    "time_str": "2024-05-20 09:30",
+    "time_id": "20240520.0930",
+    "ut": 1716177600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2024__1716178611.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "water level",
+    "time_str": "2024-05-20 06:30",
+    "time_id": "20240520.0630",
+    "ut": 1716166800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2024__1716168408.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "water level",
+    "time_str": "2024-05-20 03:30",
+    "time_id": "20240520.0330",
+    "ut": 1716156000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2024__1716157801.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "water level",
+    "time_str": "2024-05-20 00:00",
+    "time_id": "20240520.0000",
+    "ut": 1716143400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2024__1716156569.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "water level",
+    "time_str": "2024-05-19 21:30",
+    "time_id": "20240519.2130",
+    "ut": 1716134400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2024__1716135471.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "water level",
+    "time_str": "2024-05-19 18:30",
+    "time_id": "20240519.1830",
+    "ut": 1716123600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2024__1716124885.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "water level",
+    "time_str": "2024-05-19 15:30",
+    "time_id": "20240519.1530",
+    "ut": 1716112800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2024__1716115144.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "water level",
+    "time_str": "2024-05-19 12:30",
+    "time_id": "20240519.1230",
+    "ut": 1716102000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2024__1716102745.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "water level",
+    "time_str": "2024-05-19 09:30",
+    "time_id": "20240519.0930",
+    "ut": 1716091200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2024__1716091899.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "water level",
+    "time_str": "2024-05-19 06:30",
+    "time_id": "20240519.0630",
+    "ut": 1716080400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2024__1716083653.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Water Level",
+    "time_str": "2024-05-18 18:30",
+    "time_id": "20240518.1830",
+    "ut": 1716037200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2024__1716039078.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Water Level  Rainfall ",
     "time_str": "2024-05-15 09:30",
     "time_id": "20240515.0930",
     "ut": 1715745600.0,
@@ -352,7 +448,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Withdrawal of Flood warning - Nilwala River Basin - 2023.12.21",
+    "name": "Withdrawal of Flood warning  Nilwala River Basin  2023.12.21",
     "time_str": "2023-12-21 18:30",
     "time_id": "20231221.1830",
     "ut": 1703163600.0,
@@ -408,7 +504,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood warning for Malwathu Oya Basin - No 01 -",
+    "name": "Flood warning for Malwathu Oya Basin  No 0 -",
     "time_str": "2023-12-20 15:30",
     "time_id": "20231220.1530",
     "ut": 1703066400.0,
@@ -504,7 +600,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood warning Message No - 02 Malwathu Oya Basin",
+    "name": "Flood warning Message No  0 Malwathu Oya Basin",
     "time_str": "2023-12-18 15:15",
     "time_id": "20231218.1515",
     "ut": 1702892700.0,
@@ -536,7 +632,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood warning for Malwathu Oya Basin - No 01 -",
+    "name": "Flood warning for Malwathu Oya Basin  No 0 -",
     "time_str": "2023-12-17 14:00",
     "time_id": "20231217.1400",
     "ut": 1702801800.0,
@@ -560,7 +656,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood warning for Nilwala Ganga Basin - No 07 - ",
+    "name": "Flood warning for Nilwala Ganga Basin  No 0  ",
     "time_str": "2023-12-17 06:00",
     "time_id": "20231217.0600",
     "ut": 1702773000.0,
@@ -600,7 +696,7 @@
     "ext": "pdf"
   },
   {
-    "name": " Nilwala Ganga Basin - No 06 - (Extended warning)_2023.12.16",
+    "name": " Nilwala Ganga Basin  No 0  (Extended warning)_2023.12.16",
     "time_str": "2023-12-16 06:00",
     "time_id": "20231216.0600",
     "ut": 1702686600.0,
@@ -608,7 +704,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood warning for Nilwala Ganga Basin - No 05",
+    "name": "Flood warning for Nilwala Ganga Basin  No 05",
     "time_str": "2023-12-15 18:00",
     "time_id": "20231215.1800",
     "ut": 1702643400.0,
@@ -624,7 +720,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood warning for Kuda Ganga Sub Basin of Kalu River - No 04 ",
+    "name": "Flood warning for Kuda Ganga Sub Basin of Kalu River  No 0 ",
     "time_str": "2023-12-15 18:00",
     "time_id": "20231215.1800",
     "ut": 1702643400.0,
@@ -672,7 +768,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood warning for Kuda Ganga Sub Basin of Kalu River - No 03",
+    "name": "Flood warning for Kuda Ganga Sub Basin of Kalu River  No 03",
     "time_str": "2023-12-14 18:00",
     "time_id": "20231214.1800",
     "ut": 1702557000.0,
@@ -712,7 +808,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood warning for Kuda Ganga Sub Basin of Kalu River - No 02(Extended warning)",
+    "name": "Flood warning for Kuda Ganga Sub Basin of Kalu River  No 02(Extended warning)",
     "time_str": "2023-12-13 18:30",
     "time_id": "20231213.1830",
     "ut": 1702472400.0,
@@ -1160,7 +1256,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Water level & Rainfall",
+    "name": "Water level  Rainfall",
     "time_str": "2023-11-22 12:30",
     "time_id": "20231122.1230",
     "ut": 1700636400.0,
@@ -1208,7 +1304,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood Warning For Maha Oya River Basin - No -02",
+    "name": "Flood Warning For Maha Oya River Basin  No -02",
     "time_str": "2023-11-21 10:30",
     "time_id": "20231121.1030",
     "ut": 1700542800.0,
@@ -1240,7 +1336,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Water level & Rainfall",
+    "name": "Water level  Rainfall",
     "time_str": "2023-11-20 12:30",
     "time_id": "20231120.1230",
     "ut": 1700463600.0,
@@ -1248,7 +1344,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood warning for Deduru Oya Basin - No 02 - (Extended Warning)",
+    "name": "Flood warning for Deduru Oya Basin  No 0  (Extended Warning)",
     "time_str": "2023-11-20 10:30",
     "time_id": "20231120.1030",
     "ut": 1700456400.0,
@@ -1264,7 +1360,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood Warning For Maha Oya River Basin - No.01 - RED",
+    "name": "Flood Warning For Maha Oya River Basin  No.0  RED",
     "time_str": "2023-11-20 05:00",
     "time_id": "20231120.0500",
     "ut": 1700436600.0,
@@ -1272,7 +1368,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood Warning For Maha Oya River Basin - No.01",
+    "name": "Flood Warning For Maha Oya River Basin  No.01",
     "time_str": "2023-11-19 20:15",
     "time_id": "20231119.2015",
     "ut": 1700405100.0,
@@ -1328,7 +1424,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Water level & Rainfall",
+    "name": "Water level  Rainfall",
     "time_str": "2023-11-14 09:30",
     "time_id": "20231114.0930",
     "ut": 1699934400.0,
@@ -1344,7 +1440,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Water level & Rainfall",
+    "name": "Water level  Rainfall",
     "time_str": "2023-11-13 15:30",
     "time_id": "20231113.1530",
     "ut": 1699869600.0,
@@ -1352,7 +1448,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Water level & Rainfall",
+    "name": "Water level  Rainfall",
     "time_str": "2023-11-13 12:30",
     "time_id": "20231113.1230",
     "ut": 1699858800.0,
@@ -1416,7 +1512,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood warning for Deduru Oya Basin - No 02 - (Extended Warning)",
+    "name": "Flood warning for Deduru Oya Basin  No 0  (Extended Warning)",
     "time_str": "2023-11-11 18:00",
     "time_id": "20231111.1800",
     "ut": 1699705800.0,
@@ -1424,7 +1520,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood warning for Aththanagalu Oya Basin - No 12 - (Extended Warning)",
+    "name": "Flood warning for Aththanagalu Oya Basin  No 1  (Extended Warning)",
     "time_str": "2023-11-11 16:30",
     "time_id": "20231111.1630",
     "ut": 1699700400.0,
@@ -1488,7 +1584,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Water Level & Rainfall ",
+    "name": "Water Level  Rainfall ",
     "time_str": "2023-11-10 15:30",
     "time_id": "20231110.1530",
     "ut": 1699610400.0,
@@ -1528,7 +1624,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood warning for Aththanagalu Oya Basin - No 03 - (Extended Warning)_2023.10.08",
+    "name": "Flood warning for Aththanagalu Oya Basin  No 0  (Extended Warning)_2023.10.08",
     "time_str": "2023-11-09 18:30",
     "time_id": "20231109.1830",
     "ut": 1699534800.0,
@@ -1544,7 +1640,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Water level & Rainfall",
+    "name": "Water level  Rainfall",
     "time_str": "2023-11-09 15:30",
     "time_id": "20231109.1530",
     "ut": 1699524000.0,
@@ -1584,7 +1680,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood warning for Nilwala Ganga Basin - No 15",
+    "name": "Flood warning for Nilwala Ganga Basin  No 15",
     "time_str": "2023-11-08 10:00",
     "time_id": "20231108.1000",
     "ut": 1699417800.0,
@@ -1680,7 +1776,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood Warning for Deduru Oya(Extended warning) No-01",
+    "name": "Flood Warning for Deduru Oya(Extended warning No-01",
     "time_str": "2023-11-06 03:30",
     "time_id": "20231106.0330",
     "ut": 1699221600.0,
@@ -1720,7 +1816,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood warning for Nilwala Ganga Basin - No 12",
+    "name": "Flood warning for Nilwala Ganga Basin  No 12",
     "time_str": "2023-11-05 10:00",
     "time_id": "20231105.1000",
     "ut": 1699158600.0,
@@ -1784,7 +1880,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood warning for Aththanagalu Oya Basin - No 04 - (Extended Warning)",
+    "name": "Flood warning for Aththanagalu Oya Basin  No 0  (Extended Warning)",
     "time_str": "2023-11-03 18:30",
     "time_id": "20231103.1830",
     "ut": 1699016400.0,
@@ -1832,7 +1928,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood warning for Aththanagalu Oya Basin - No 03 - (Extended Warning)",
+    "name": "Flood warning for Aththanagalu Oya Basin  No 0  (Extended Warning)",
     "time_str": "2023-11-02 18:30",
     "time_id": "20231102.1830",
     "ut": 1698930000.0,
@@ -1856,7 +1952,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood warning for Nilwala Ganga Basin - No 09 - (Extended warning)_2023.11.02",
+    "name": "Flood warning for Nilwala Ganga Basin  No 0  (Extended warning)_2023.11.02",
     "time_str": "2023-11-02 10:00",
     "time_id": "20231102.1000",
     "ut": 1698899400.0,
@@ -1896,7 +1992,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood Warning For Attanagalu Oya Basin - 02 (Extended Warning) ",
+    "name": "Flood Warning For Attanagalu Oya Basin  0 (Extended Warning ",
     "time_str": "2023-11-01 22:00",
     "time_id": "20231101.2200",
     "ut": 1698856200.0,
@@ -1936,7 +2032,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood warning for Kuda Ganga Sub Basin of Kalu River - No 03(Extended warning)_2023.11.01 ",
+    "name": "Flood warning for Kuda Ganga Sub Basin of Kalu River  No 03(Extended warning)_2023.11.0 ",
     "time_str": "2023-11-01 10:15",
     "time_id": "20231101.1015",
     "ut": 1698813900.0,
@@ -2024,7 +2120,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood Warning for Deduru Oya(Extended warning) No-02",
+    "name": "Flood Warning for Deduru Oya(Extended warning No-02",
     "time_str": "2023-10-31 10:15",
     "time_id": "20231031.1015",
     "ut": 1698727500.0,
@@ -2032,7 +2128,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood warning for Aththanagalu Oya Basin - No 01",
+    "name": "Flood warning for Aththanagalu Oya Basin  No 01",
     "time_str": "2023-10-31 10:15",
     "time_id": "20231031.1015",
     "ut": 1698727500.0,
@@ -2256,7 +2352,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood warning for Nilwala Ganga Basin - No 03",
+    "name": "Flood warning for Nilwala Ganga Basin  No 03",
     "time_str": "2023-10-25 10:00",
     "time_id": "20231025.1000",
     "ut": 1698208200.0,
@@ -2520,7 +2616,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Water Level & Rainfall",
+    "name": "Water Level  Rainfall",
     "time_str": "2023-10-18 12:30",
     "time_id": "20231018.1230",
     "ut": 1697612400.0,
@@ -2648,7 +2744,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood warning for Nilwala Ganga Basin - No 16 - (Extended warning) 2023.10.14",
+    "name": "Flood warning for Nilwala Ganga Basin  No 1  (Extended warning 2023.10.14",
     "time_str": "2023-10-14 09:00",
     "time_id": "20231014.0900",
     "ut": 1697254200.0,
@@ -2720,7 +2816,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Water Level & Rainfall",
+    "name": "Water Level  Rainfall",
     "time_str": "2023-10-12 15:30",
     "time_id": "20231012.1530",
     "ut": 1697104800.0,
@@ -2728,7 +2824,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Water Level  Report ",
+    "name": "Water Level Report ",
     "time_str": "2023-10-12 12:30",
     "time_id": "20231012.1230",
     "ut": 1697094000.0,
@@ -2800,7 +2896,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Withdrawal of Flood warning - Kalu - Aththanagalu",
+    "name": "Withdrawal of Flood warning  Kalu  Aththanagalu",
     "time_str": "2023-10-10 10:50",
     "time_id": "20231010.1050",
     "ut": 1696915200.0,
@@ -2816,7 +2912,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood warning for Gin Ganga Basin - No 13 - (Extended warning) ",
+    "name": "Flood warning for Gin Ganga Basin  No 1  (Extended warning ",
     "time_str": "2023-10-10 09:00",
     "time_id": "20231010.0900",
     "ut": 1696908600.0,
@@ -2976,7 +3072,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood Warning For Gin Ganga Basin (Extended) 2023.10.08",
+    "name": "Flood Warning For Gin Ganga Basin (Extended 2023.10.08",
     "time_str": "2023-10-08 10:15",
     "time_id": "20231008.1015",
     "ut": 1696740300.0,
@@ -2984,7 +3080,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood warning for Aththanagalu Oya Basin - No 09 - (Extended Warning)_2023.10.08",
+    "name": "Flood warning for Aththanagalu Oya Basin  No 0  (Extended Warning)_2023.10.08",
     "time_str": "2023-10-08 10:15",
     "time_id": "20231008.1015",
     "ut": 1696740300.0,
@@ -2992,7 +3088,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood Warning For Kuda River Basin(Extended) 2023.10.08",
+    "name": "Flood Warning For Kuda River Basin(Extended 2023.10.08",
     "time_str": "2023-10-08 10:15",
     "time_id": "20231008.1015",
     "ut": 1696740300.0,
@@ -3072,7 +3168,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood warning for Aththanagalu Oya Basin - No 03 - (Extended Warning)_2023.10.07",
+    "name": "Flood warning for Aththanagalu Oya Basin  No 0  (Extended Warning)_2023.10.07",
     "time_str": "2023-10-07 10:00",
     "time_id": "20231007.1000",
     "ut": 1696653000.0,
@@ -3080,7 +3176,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood Warning For Kuda River Basin(Extended) 2023.10.07",
+    "name": "Flood Warning For Kuda River Basin(Extended 2023.10.07",
     "time_str": "2023-10-07 10:00",
     "time_id": "20231007.1000",
     "ut": 1696653000.0,
@@ -3088,7 +3184,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood Warning For Gin Ganga Basin (Extended) 2023.10.07",
+    "name": "Flood Warning For Gin Ganga Basin (Extended 2023.10.07",
     "time_str": "2023-10-07 10:00",
     "time_id": "20231007.1000",
     "ut": 1696653000.0,
@@ -3352,7 +3448,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood warning for Aththanagalu Oya Basin - No 05 - (Extended Warning)_2023.10.04",
+    "name": "Flood warning for Aththanagalu Oya Basin  No 0  (Extended Warning)_2023.10.04",
     "time_str": "2023-10-04 09:00",
     "time_id": "20231004.0900",
     "ut": 1696390200.0,
@@ -3360,7 +3456,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood warning for Gin Ganga Basin - No 07 - (Extended warning)_2023.10.04",
+    "name": "Flood warning for Gin Ganga Basin  No 0  (Extended warning)_2023.10.04",
     "time_str": "2023-10-04 09:00",
     "time_id": "20231004.0900",
     "ut": 1696390200.0,
@@ -3368,7 +3464,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood warning for Kuda Ganga Sub Basin of Kalu River - No 07 - (Extended warning)_2023.10.04",
+    "name": "Flood warning for Kuda Ganga Sub Basin of Kalu River  No 0  (Extended warning)_2023.10.04",
     "time_str": "2023-10-04 09:00",
     "time_id": "20231004.0900",
     "ut": 1696390200.0,
@@ -3376,7 +3472,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood warning for Nilwala Ganga Basin - No 07 - (Extended warning)_2023.10.04",
+    "name": "Flood warning for Nilwala Ganga Basin  No 0  (Extended warning)_2023.10.04",
     "time_str": "2023-10-04 09:00",
     "time_id": "20231004.0900",
     "ut": 1696390200.0,
@@ -3528,7 +3624,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood warning for Aththanagalu Oya Basin - No 03 - (Extended Warning)_2023.10.02",
+    "name": "Flood warning for Aththanagalu Oya Basin  No 0  (Extended Warning)_2023.10.02",
     "time_str": "2023-10-02 09:00",
     "time_id": "20231002.0900",
     "ut": 1696217400.0,
@@ -3536,7 +3632,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood warning for Gin Ganga Basin - No 05 - (Extended warning)_2023.10.02",
+    "name": "Flood warning for Gin Ganga Basin  No 0  (Extended warning)_2023.10.02",
     "time_str": "2023-10-02 09:00",
     "time_id": "20231002.0900",
     "ut": 1696217400.0,
@@ -3544,7 +3640,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood warning for Kuda Ganga Sub Basin of Kalu River - No 05 - (Extended warning)_2023.10.02",
+    "name": "Flood warning for Kuda Ganga Sub Basin of Kalu River  No 0  (Extended warning)_2023.10.02",
     "time_str": "2023-10-02 09:00",
     "time_id": "20231002.0900",
     "ut": 1696217400.0,
@@ -3552,7 +3648,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood warning for Nilwala Ganga Basin - No 05 - (Extended warning)_2023.10.02 (1)",
+    "name": "Flood warning for Nilwala Ganga Basin  No 0  (Extended warning)_2023.10.0 (1)",
     "time_str": "2023-10-02 09:00",
     "time_id": "20231002.0900",
     "ut": 1696217400.0,
@@ -3640,7 +3736,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood warning for Kuda Ganga Sub Basin of Kalu River - No 04 - (Extended warning)_2023.10.01",
+    "name": "Flood warning for Kuda Ganga Sub Basin of Kalu River  No 0  (Extended warning)_2023.10.01",
     "time_str": "2023-10-01 09:30",
     "time_id": "20231001.0930",
     "ut": 1696132800.0,
@@ -3808,7 +3904,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood warning - Nilwala River (Extended)",
+    "name": "Flood warning  Nilwala River (Extended)",
     "time_str": "2023-09-29 10:15",
     "time_id": "20230929.1015",
     "ut": 1695962700.0,
@@ -4352,7 +4448,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood Warnning _ Kuda Ganga Sub Basin of Kalu River",
+    "name": "Flood Warnning  Kuda Ganga Sub Basin of Kalu River",
     "time_str": "2023-06-06 18:00",
     "time_id": "20230606.1800",
     "ut": 1686054600.0,
@@ -4512,7 +4608,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood Warnning _ KaluGanga",
+    "name": "Flood Warnning  KaluGanga",
     "time_str": "2023-06-04 11:00",
     "time_id": "20230604.1100",
     "ut": 1685856600.0,
@@ -4808,7 +4904,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood Warnning _ Gin Ganga",
+    "name": "Flood Warnning  Gin Ganga",
     "time_str": "2023-05-16 15:00",
     "time_id": "20230516.1500",
     "ut": 1684229400.0,
@@ -4816,7 +4912,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood Warnning _ Nilwla Ganga",
+    "name": "Flood Warnning  Nilwla Ganga",
     "time_str": "2023-05-16 13:30",
     "time_id": "20230516.1330",
     "ut": 1684224000.0,
@@ -4944,7 +5040,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood Warnning _ Gin Ganga",
+    "name": "Flood Warnning  Gin Ganga",
     "time_str": "2023-05-14 14:00",
     "time_id": "20230514.1400",
     "ut": 1684053000.0,
@@ -4952,7 +5048,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood Warnning _ Nilwla Ganga",
+    "name": "Flood Warnning  Nilwla Ganga",
     "time_str": "2023-05-14 12:00",
     "time_id": "20230514.1200",
     "ut": 1684045800.0,
@@ -5672,7 +5768,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Water level & Rainfall",
+    "name": "Water level  Rainfall",
     "time_str": "2022-09-06 18:00",
     "time_id": "20220906.1800",
     "ut": 1662467400.0,
@@ -5944,7 +6040,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood Warning for Kalu Ganga - No 01",
+    "name": "Flood Warning for Kalu Ganga  No 01",
     "time_str": "2022-08-31 19:00",
     "time_id": "20220831.1900",
     "ut": 1661952600.0,
@@ -6016,7 +6112,7 @@
     "ext": "pdf"
   },
   {
-    "name": "The  Withdrawal Of Flood Warning ",
+    "name": "The Withdrawal Of Flood Warning ",
     "time_str": "2022-08-05 18:30",
     "time_id": "20220805.1830",
     "ut": 1659704400.0,
@@ -6224,7 +6320,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood Warning for Kalu Ganga - No 01",
+    "name": "Flood Warning for Kalu Ganga  No 01",
     "time_str": "2022-08-01 13:00",
     "time_id": "20220801.1300",
     "ut": 1659339000.0,
@@ -6272,7 +6368,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood Warning - Gin Ganga",
+    "name": "Flood Warning  Gin Ganga",
     "time_str": "2022-07-03 08:00",
     "time_id": "20220703.0800",
     "ut": 1656815400.0,
@@ -6456,7 +6552,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood Warning - Gin Ganga",
+    "name": "Flood Warning  Gin Ganga",
     "time_str": "2022-05-31 18:30",
     "time_id": "20220531.1830",
     "ut": 1654002000.0,
@@ -6488,7 +6584,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood Warning for Kalu Ganga - No 01",
+    "name": "Flood Warning for Kalu Ganga  No 01",
     "time_str": "2022-05-31 12:20",
     "time_id": "20220531.1220",
     "ut": 1653979800.0,
@@ -6504,7 +6600,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood Warning - Nilwala Ganga",
+    "name": "Flood Warning  Nilwala Ganga",
     "time_str": "2022-05-31 12:00",
     "time_id": "20220531.1200",
     "ut": 1653978600.0,
@@ -6888,7 +6984,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood Warning _ Kalu Ganga",
+    "name": "Flood Warning  Kalu Ganga",
     "time_str": "2022-05-13 20:00",
     "time_id": "20220513.2000",
     "ut": 1652452200.0,
@@ -7072,7 +7168,7 @@
     "ext": "pdf"
   },
   {
-    "name": "The Withdrawal of\u200d Flood Warnings",
+    "name": "The Withdrawal of Flood Warnings",
     "time_str": "2021-11-30 10:00",
     "time_id": "20211130.1000",
     "ut": 1638246600.0,
@@ -7608,7 +7704,7 @@
     "ext": "pdf"
   },
   {
-    "name": "The Withdrawal of\u200d Flood Warnings ",
+    "name": "The Withdrawal of Flood Warnings ",
     "time_str": "2021-07-12 13:00",
     "time_id": "20210712.1300",
     "ut": 1626075000.0,
@@ -8088,7 +8184,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Aththanagalu - Minor Flood Warning 2021.06.03",
+    "name": "Aththanagalu  Minor Flood Warning 2021.06.03",
     "time_str": "2021-06-03 11:00",
     "time_id": "20210603.1100",
     "ut": 1622698200.0,
@@ -8248,7 +8344,7 @@
     "ext": "pdf"
   },
   {
-    "name": "The Flood Warning Message : Kalu River Basin Report",
+    "name": "The Flood Warning Message  Kalu River Basin Report",
     "time_str": "2021-05-25 03:00",
     "time_id": "20210525.0300",
     "ut": 1621891800.0,
@@ -8304,7 +8400,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Withdrawal Of  Flood Warning",
+    "name": "Withdrawal Of Flood Warning",
     "time_str": "2021-05-17 14:00",
     "time_id": "20210517.1400",
     "ut": 1621240200.0,
@@ -9192,7 +9288,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood Warning & Water level",
+    "name": "Flood Warning  Water level",
     "time_str": "2020-05-16 10:30",
     "time_id": "20200516.1030",
     "ut": 1589605200.0,
@@ -9688,7 +9784,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Flood Warning Report ( Nilwala River and Gin ganga)",
+    "name": "Flood Warning Report  Nilwala River and Gin ganga)",
     "time_str": "2019-09-29 15:30",
     "time_id": "20190929.1530",
     "ut": 1569751200.0,
@@ -10112,7 +10208,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Major Flood Warning Report ( Nilwala River and Gin ganga)",
+    "name": "Major Flood Warning Report  Nilwala River and Gin ganga)",
     "time_str": "2019-09-22 12:30",
     "time_id": "20190922.1230",
     "ut": 1569135600.0,
@@ -10120,7 +10216,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Flood Warning Report ( Nilwala River and Gin ganga)",
+    "name": "Flood Warning Report  Nilwala River and Gin ganga)",
     "time_str": "2019-09-22 09:30",
     "time_id": "20190922.0930",
     "ut": 1569124800.0,
@@ -10136,7 +10232,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Flood Warning Report ( Nilwala River)",
+    "name": "Flood Warning Report  Nilwala River)",
     "time_str": "2019-09-22 07:30",
     "time_id": "20190922.0730",
     "ut": 1569117600.0,

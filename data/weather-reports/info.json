@@ -1,5 +1,205 @@
 [
   {
+    "name": "Weather Forcast",
+    "time_str": "2024-05-20 16:00",
+    "time_id": "20240520.1600",
+    "ut": 1716201000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at1600hrs_on_2024__1716203642.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Fishermen bulletin for strong winds and rough seas ",
+    "time_str": "2024-05-20 15:00",
+    "time_id": "20240520.1500",
+    "ut": 1716197400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Fishermen_bulletin_for_strong_winds_and_rough_seas_at_1500hrs_on_20__1716198948.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Report ",
+    "time_str": "2024-05-20 12:00",
+    "time_id": "20240520.1200",
+    "ut": 1716186600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at1200hrs_on_2024__1716187912.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Heavy rain and strong winds rough seas Report ",
+    "time_str": "2024-05-20 11:30",
+    "time_id": "20240520.1130",
+    "ut": 1716184800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_rain_and_strong_winds_rough_seas_at_1130hrs_on_20__1716185518.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Heavy Rain",
+    "time_str": "2024-05-20 09:00",
+    "time_id": "20240520.0900",
+    "ut": 1716175800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_Heavy_Rain_at_0830hrs_on_20__1716183337.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2024-05-20 05:30",
+    "time_id": "20240520.0530",
+    "ut": 1716163200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_2024__1716163666.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2024-05-19 16:00",
+    "time_id": "20240519.1600",
+    "ut": 1716114600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2024__1716115339.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Report ",
+    "time_str": "2024-05-19 12:30",
+    "time_id": "20240519.1230",
+    "ut": 1716102000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1200hrs_on_2024__1716102201.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Strong Winds and Rough Seas Report ",
+    "time_str": "2024-05-19 12:30",
+    "time_id": "20240519.1230",
+    "ut": 1716102000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_strong_winds_and_rough_seas_at_12__1716105442.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Heavy rain and strong winds rough seas Report",
+    "time_str": "2024-05-19 12:00",
+    "time_id": "20240519.1200",
+    "ut": 1716100200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_rain_and_strong_winds_rough_seas_at_11__1716100634.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Heavy Rain",
+    "time_str": "2024-05-19 08:45",
+    "time_id": "20240519.0845",
+    "ut": 1716088500.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_Heavy_Rain_report_at_0845hrs_on_2024__1716088625.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2024-05-19 05:30",
+    "time_id": "20240519.0530",
+    "ut": 1716076800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_report_at_0530hrs__1716085918.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Report ",
+    "time_str": "2024-05-18 16:00",
+    "time_id": "20240518.1600",
+    "ut": 1716028200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2024__1716029153.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Heavy Rain Report ",
+    "time_str": "2024-05-18 15:00",
+    "time_id": "20240518.1500",
+    "ut": 1716024600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_Rain_at_1500hrs_on_18__1716025248.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Strong Winds and Rough Seas Report ",
+    "time_str": "2024-05-18 12:30",
+    "time_id": "20240518.1230",
+    "ut": 1716015600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_strong_winds_and_rough_seas_at_1230hrs_on_18__1716016342.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Report",
+    "time_str": "2024-05-18 12:00",
+    "time_id": "20240518.1200",
+    "ut": 1716013800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1200hrs_on_2024__1716015407.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Heavy rain and strong winds rough seas Report ",
+    "time_str": "2024-05-18 11:30",
+    "time_id": "20240518.1130",
+    "ut": 1716012000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_rain_and_strong_winds_rough_seas_at_11__1716013887.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2024-05-18 05:30",
+    "time_id": "20240518.0530",
+    "ut": 1715990400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_2024__1715991557.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Report ",
+    "time_str": "2024-05-17 16:00",
+    "time_id": "20240517.1600",
+    "ut": 1715941800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2024__1715942174.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Heavy Rain Report",
+    "time_str": "2024-05-17 15:00",
+    "time_id": "20240517.1500",
+    "ut": 1715938200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_Rain_Report_at_1500_hrs_on_2024__1715938788.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for strong winds and rough seas",
+    "time_str": "2024-05-17 12:00",
+    "time_id": "20240517.1200",
+    "ut": 1715927400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_strong_winds_and_rough_seas_at_1200hrs_on_17__1715928634.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Report ",
+    "time_str": "2024-05-17 12:00",
+    "time_id": "20240517.1200",
+    "ut": 1715927400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1200hrs_on_2024__1715928922.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for strong winds and rough seas",
+    "time_str": "2024-05-17 11:30",
+    "time_id": "20240517.1130",
+    "ut": 1715925600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_rain_and_strong_winds_and_rough_seas_at_1130hrs_on_2024__1715926771.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2024-05-17 05:45",
+    "time_id": "20240517.0545",
+    "ut": 1715904900.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_report_at_0545hrs__1715905873.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Report ",
+    "time_str": "2024-05-16 16:00",
+    "time_id": "20240516.1600",
+    "ut": 1715855400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2024__1715856908.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Special Weather Buletin",
     "time_str": "2024-05-16 12:00",
     "time_id": "20240516.1200",
@@ -101,6 +301,14 @@
     "time_id": "20240513.1200",
     "ut": 1715581800.0,
     "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1200_hrs_on_2024__1715582699.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Heavy Rain",
+    "time_str": "2024-05-13 09:00",
+    "time_id": "20240513.0900",
+    "ut": 1715571000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/WWL20240520E__1716183357.pdf",
     "ext": "pdf"
   },
   {
@@ -360,7 +568,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast  ",
+    "name": "Weather Forecast ",
     "time_str": "2024-05-05 16:00",
     "time_id": "20240505.1600",
     "ut": 1714905000.0,
@@ -3904,7 +4112,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for Heavy Rain & Strong Winds",
+    "name": "Advisory for Heavy Rain  Strong Winds",
     "time_str": "2024-01-10 09:30",
     "time_id": "20240110.0930",
     "ut": 1704859200.0,
@@ -4928,7 +5136,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for Rough Strong Winds & RoughSea Area",
+    "name": "Advisory for Rough Strong Winds  RoughSea Area",
     "time_str": "2023-12-04 15:00",
     "time_id": "20231204.1500",
     "ut": 1701682200.0,
@@ -5232,7 +5440,7 @@
     "ext": "pdf"
   },
   {
-    "name": "The  Advisory for Heavy Rain",
+    "name": "The Advisory for Heavy Rain",
     "time_str": "2023-11-28 14:00",
     "time_id": "20231128.1400",
     "ut": 1701160200.0,
@@ -5240,7 +5448,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for Heavy Rain, ",
+    "name": "Advisory for Heavy Rain ",
     "time_str": "2023-11-28 14:00",
     "time_id": "20231128.1400",
     "ut": 1701160200.0,
@@ -6256,7 +6464,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory  for Strong winds ",
+    "name": "Advisory for Strong winds ",
     "time_str": "2023-10-25 06:00",
     "time_id": "20231025.0600",
     "ut": 1698193800.0,
@@ -7744,7 +7952,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for Rough Strong Winds & RoughSea Area",
+    "name": "Advisory for Rough Strong Winds  RoughSea Area",
     "time_str": "2023-09-03 09:30",
     "time_id": "20230903.0930",
     "ut": 1693713600.0,
@@ -8928,7 +9136,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory  for Strong winds",
+    "name": "Advisory for Strong winds",
     "time_str": "2023-07-21 16:30",
     "time_id": "20230721.1630",
     "ut": 1689937200.0,
@@ -8968,7 +9176,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for Rough Strong Winds & RoughSea Area",
+    "name": "Advisory for Rough Strong Winds  RoughSea Area",
     "time_str": "2023-07-20 15:00",
     "time_id": "20230720.1500",
     "ut": 1689845400.0,
@@ -9000,7 +9208,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for Rough Strong Winds & RoughSea Area",
+    "name": "Advisory for Rough Strong Winds  RoughSea Area",
     "time_str": "2023-07-19 13:30",
     "time_id": "20230719.1330",
     "ut": 1689753600.0,
@@ -10176,7 +10384,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for multi-day boats in the Arabian sea  ",
+    "name": "Advisory for multi-day boats in the Arabian sea ",
     "time_str": "2023-06-07 07:30",
     "time_id": "20230607.0730",
     "ut": 1686103200.0,
@@ -10912,7 +11120,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Warning for very severe cyclonic storm \u201cMocha\u201d ",
+    "name": "Warning for very severe cyclonic storm \u201cMocha ",
     "time_str": "2023-05-13 11:00",
     "time_id": "20230513.1100",
     "ut": 1683955800.0,
@@ -10952,7 +11160,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Warning for cyclone 'Mocha' ",
+    "name": "Warning for cyclone 'Mocha ",
     "time_str": "2023-05-12 11:00",
     "time_id": "20230512.1100",
     "ut": 1683869400.0,
@@ -11128,7 +11336,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for strong winds & rough seas",
+    "name": "Advisory for strong winds  rough seas",
     "time_str": "2023-05-07 15:00",
     "time_id": "20230507.1500",
     "ut": 1683451800.0,
@@ -14888,7 +15096,7 @@
     "ext": "pdf"
   },
   {
-    "name": "he Advisory for heavy rain & Strong Winds",
+    "name": "he Advisory for heavy rain  Strong Winds",
     "time_str": "2022-12-24 14:00",
     "time_id": "20221224.1400",
     "ut": 1671870600.0,
@@ -15000,7 +15208,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for strong winds & rough seas",
+    "name": "Advisory for strong winds  rough seas",
     "time_str": "2022-12-21 16:30",
     "time_id": "20221221.1630",
     "ut": 1671620400.0,
@@ -15032,7 +15240,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Heavy showers, Strong Winds and Rough Sea Advisory",
+    "name": "Heavy showers Strong Winds and Rough Sea Advisory",
     "time_str": "2022-12-21 15:00",
     "time_id": "20221221.1500",
     "ut": 1671615000.0,
@@ -15072,7 +15280,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Heavy showers, Strong Winds and Rough Sea Advisory",
+    "name": "Heavy showers Strong Winds and Rough Sea Advisory",
     "time_str": "2022-12-20 15:00",
     "time_id": "20221220.1500",
     "ut": 1671528600.0,
@@ -15136,7 +15344,7 @@
     "ext": "pdf"
   },
   {
-    "name": "he Advisory for heavy rain & Strong Winds for Land Area",
+    "name": "he Advisory for heavy rain  Strong Winds for Land Area",
     "time_str": "2022-12-18 15:30",
     "time_id": "20221218.1530",
     "ut": 1671357600.0,
@@ -15176,7 +15384,7 @@
     "ext": "pdf"
   },
   {
-    "name": "The Advisory for heavy rain & Strong Winds ",
+    "name": "The Advisory for heavy rain  Strong Winds ",
     "time_str": "2022-12-17 15:30",
     "time_id": "20221217.1530",
     "ut": 1671271200.0,
@@ -15192,7 +15400,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for strong winds & rough seas",
+    "name": "Advisory for strong winds  rough seas",
     "time_str": "2022-12-17 15:30",
     "time_id": "20221217.1530",
     "ut": 1671271200.0,
@@ -15456,7 +15664,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for Cyclonic storm \u201cMandous\u201d. at 1900 hrs on 2022.12.08",
+    "name": "Advisory for Cyclonic storm \u201cMandous\u201d at 190 hrs on 2022.12.08",
     "time_str": "2022-12-08 19:00",
     "time_id": "20221208.1900",
     "ut": 1670506200.0,
@@ -15488,7 +15696,7 @@
     "ext": "pdf"
   },
   {
-    "name": "he Advisory for heavy rain & Strong Winds for Land Area",
+    "name": "he Advisory for heavy rain  Strong Winds for Land Area",
     "time_str": "2022-12-08 09:30",
     "time_id": "20221208.0930",
     "ut": 1670472000.0,
@@ -15520,7 +15728,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for strong winds & rough seas",
+    "name": "Advisory for strong winds  rough seas",
     "time_str": "2022-12-07 15:00",
     "time_id": "20221207.1500",
     "ut": 1670405400.0,
@@ -15544,7 +15752,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for strong winds & rough seas",
+    "name": "Advisory for strong winds  rough seas",
     "time_str": "2022-12-06 15:27",
     "time_id": "20221206.1527",
     "ut": 1670320620.0,
@@ -15552,7 +15760,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for strong winds & rough seas",
+    "name": "Advisory for strong winds  rough seas",
     "time_str": "2022-12-06 15:27",
     "time_id": "20221206.1527",
     "ut": 1670320620.0,
@@ -16568,7 +16776,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Heavy showers, Strong Winds and Rough Sea Advisory",
+    "name": "Heavy showers Strong Winds and Rough Sea Advisory",
     "time_str": "2022-10-31 15:30",
     "time_id": "20221031.1530",
     "ut": 1667210400.0,
@@ -16600,7 +16808,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Heavy showers, Strong Winds and Rough Sea Advisory",
+    "name": "Heavy showers Strong Winds and Rough Sea Advisory",
     "time_str": "2022-10-30 13:00",
     "time_id": "20221030.1300",
     "ut": 1667115000.0,
@@ -19120,7 +19328,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for Heavy showers, Strong Winds",
+    "name": "Advisory for Heavy showers Strong Winds",
     "time_str": "2022-08-03 10:00",
     "time_id": "20220803.1000",
     "ut": 1659501000.0,
@@ -20016,7 +20224,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for Heavy showers & Strong Winds",
+    "name": "Advisory for Heavy showers  Strong Winds",
     "time_str": "2022-07-03 07:00",
     "time_id": "20220703.0700",
     "ut": 1656811800.0,
@@ -20120,7 +20328,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for Strong winds ( Land Areas)",
+    "name": "Advisory for Strong winds  Land Areas)",
     "time_str": "2022-07-01 11:30",
     "time_id": "20220701.1130",
     "ut": 1656655200.0,
@@ -21632,7 +21840,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for Heavy showers, Strong Winds and Rough Sea",
+    "name": "Advisory for Heavy showers Strong Winds and Rough Sea",
     "time_str": "2022-05-11 08:00",
     "time_id": "20220511.0800",
     "ut": 1652236200.0,
@@ -23168,7 +23376,7 @@
     "ext": "pdf"
   },
   {
-    "name": " \tRED Warning - The Warning for the Depression over Southeast Bay of Bengal ",
+    "name": " RED Warning  The Warning for the Depression over Southeast Bay of Bengal ",
     "time_str": "2022-03-21 14:30",
     "time_id": "20220321.1430",
     "ut": 1647853200.0,
@@ -23200,7 +23408,7 @@
     "ext": "pdf"
   },
   {
-    "name": "RED Warning - The Warning for the Depression over Southeast Bay of Bengal ",
+    "name": "RED Warning  The Warning for the Depression over Southeast Bay of Bengal ",
     "time_str": "2022-03-20 14:30",
     "time_id": "20220320.1430",
     "ut": 1647766800.0,
@@ -24056,7 +24264,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Heavy showers, Strong Winds and Rough Sea Advisory",
+    "name": "Heavy showers Strong Winds and Rough Sea Advisory",
     "time_str": "2022-02-19 09:00",
     "time_id": "20220219.0900",
     "ut": 1645241400.0,
@@ -26160,7 +26368,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for Severe Lightning & Heavy Rain",
+    "name": "Advisory for Severe Lightning  Heavy Rain",
     "time_str": "2021-11-28 14:30",
     "time_id": "20211128.1430",
     "ut": 1638090000.0,
@@ -26464,7 +26672,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Wrning for Sea Areas ( RED ALERT)",
+    "name": "Wrning for Sea Areas  RED ALERT)",
     "time_str": "2021-11-18 07:30",
     "time_id": "20211118.0730",
     "ut": 1637200800.0,
@@ -27168,7 +27376,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for Severe Lightning & Heavy Rain",
+    "name": "Advisory for Severe Lightning  Heavy Rain",
     "time_str": "2021-10-26 15:30",
     "time_id": "20211026.1530",
     "ut": 1635242400.0,
@@ -27200,7 +27408,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for Severe Lightning & Heavy Rain",
+    "name": "Advisory for Severe Lightning  Heavy Rain",
     "time_str": "2021-10-25 15:45",
     "time_id": "20211025.1545",
     "ut": 1635156900.0,
@@ -28056,7 +28264,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for Heavy Rain, winds and High waves",
+    "name": "Advisory for Heavy Rain winds and High waves",
     "time_str": "2021-09-26 07:00",
     "time_id": "20210926.0700",
     "ut": 1632619800.0,
@@ -30464,7 +30672,7 @@
     "ext": "pdf"
   },
   {
-    "name": "The Strong Winds and Rough seas Advisory  Report",
+    "name": "The Strong Winds and Rough seas Advisory Report",
     "time_str": "2021-07-07 14:30",
     "time_id": "20210707.1430",
     "ut": 1625648400.0,
@@ -30496,7 +30704,7 @@
     "ext": "pdf"
   },
   {
-    "name": "The Strong Winds and Rough seas Advisory  Report",
+    "name": "The Strong Winds and Rough seas Advisory Report",
     "time_str": "2021-07-05 21:30",
     "time_id": "20210705.2130",
     "ut": 1625500800.0,
@@ -30512,7 +30720,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for Heavy Rain & Lightning",
+    "name": "Advisory for Heavy Rain  Lightning",
     "time_str": "2021-07-05 14:30",
     "time_id": "20210705.1430",
     "ut": 1625475600.0,
@@ -31576,7 +31784,7 @@
     "ext": "pdf"
   },
   {
-    "name": "The Strong Winds and Rough seas Advisory  Report",
+    "name": "The Strong Winds and Rough seas Advisory Report",
     "time_str": "2021-05-28 12:30",
     "time_id": "20210528.1230",
     "ut": 1622185200.0,
@@ -31656,7 +31864,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for the Cyclonic storm \u201cYASS\u201d in the East Central Bay of Bengal ",
+    "name": "Advisory for the Cyclonic storm \u201cYASS in the East Central Bay of Bengal ",
     "time_str": "2021-05-26 16:00",
     "time_id": "20210526.1600",
     "ut": 1622025000.0,
@@ -32064,7 +32272,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for the Cyclonic Storm \" TAUKTAE \"",
+    "name": "Advisory for the Cyclonic Storm  TAUKTAE \"",
     "time_str": "2021-05-15 07:00",
     "time_id": "20210515.0700",
     "ut": 1621042200.0,
@@ -32328,7 +32536,7 @@
     "ext": "pdf"
   },
   {
-    "name": "The Advisory for Heavy Rain and Severe Lightning at 1635 hrs on 2021.05.07",
+    "name": "The Advisory for Heavy Rain and Severe Lightning at 163 hrs on 2021.05.07",
     "time_str": "2021-05-07 16:35",
     "time_id": "20210507.1635",
     "ut": 1620385500.0,
@@ -33088,7 +33296,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Fisherman Bulleting For Strong Winds & Rough Seas",
+    "name": "Fisherman Bulleting For Strong Winds  Rough Seas",
     "time_str": "2021-04-11 15:00",
     "time_id": "20210411.1500",
     "ut": 1618133400.0,
@@ -33576,7 +33784,7 @@
     "ext": "pdf"
   },
   {
-    "name": "FISHERMEN ADVISORY FOR STRONG WINDS AND ROUGH SEAS Report at 1520 hrs on 2021.03.30",
+    "name": "FISHERMEN ADVISORY FOR STRONG WINDS AND ROUGH SEAS Report at 152 hrs on 2021.03.30",
     "time_str": "2021-03-30 15:20",
     "time_id": "20210330.1520",
     "ut": 1617097800.0,
@@ -33584,7 +33792,7 @@
     "ext": "pdf"
   },
   {
-    "name": "FISHERMEN ADVISORY FOR STRONG WINDS AND ROUGH SEAS Report at 1520 hrs on 2021.03.30",
+    "name": "FISHERMEN ADVISORY FOR STRONG WINDS AND ROUGH SEAS Report at 152 hrs on 2021.03.30",
     "time_str": "2021-03-30 15:20",
     "time_id": "20210330.1520",
     "ut": 1617097800.0,
@@ -33768,7 +33976,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Heavy Rain, Strong Winds & Rough Seas Advisory ",
+    "name": "Heavy Rain Strong Winds  Rough Seas Advisory ",
     "time_str": "2021-03-25 08:30",
     "time_id": "20210325.0830",
     "ut": 1616641200.0,
@@ -36080,7 +36288,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for Heavy Rain, Strong winds & Rough Seas",
+    "name": "Advisory for Heavy Rain Strong winds  Rough Seas",
     "time_str": "2020-12-28 04:00",
     "time_id": "20201228.0400",
     "ut": 1609108200.0,
@@ -36088,7 +36296,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for Heavy Rain, Strong winds & Rough Seas",
+    "name": "Advisory for Heavy Rain Strong winds  Rough Seas",
     "time_str": "2020-12-28 04:00",
     "time_id": "20201228.0400",
     "ut": 1609108200.0,
@@ -36112,7 +36320,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for Heavy Rain, Strong winds and Rough Seas",
+    "name": "Advisory for Heavy Rain Strong winds and Rough Seas",
     "time_str": "2020-12-27 16:05",
     "time_id": "20201227.1605",
     "ut": 1609065300.0,
@@ -37136,7 +37344,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Warning for Heavy rain, Strong winds and Rough seas",
+    "name": "Warning for Heavy rain Strong winds and Rough seas",
     "time_str": "2020-11-25 22:30",
     "time_id": "20201125.2230",
     "ut": 1606323600.0,
@@ -37144,7 +37352,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Warning for Heavy rain, Strong winds and Rough seas",
+    "name": "Warning for Heavy rain Strong winds and Rough seas",
     "time_str": "2020-11-25 19:30",
     "time_id": "20201125.1930",
     "ut": 1606312800.0,
@@ -37160,7 +37368,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Warning for Heavy rain, Strong winds and Rough seas",
+    "name": "Warning for Heavy rain Strong winds and Rough seas",
     "time_str": "2020-11-25 16:00",
     "time_id": "20201125.1600",
     "ut": 1606300200.0,
@@ -37168,7 +37376,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Warning for Heavy rain, Strong winds and Rough seas",
+    "name": "Warning for Heavy rain Strong winds and Rough seas",
     "time_str": "2020-11-25 13:30",
     "time_id": "20201125.1330",
     "ut": 1606291200.0,
@@ -37184,7 +37392,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Warning for Heavy rain, Strong winds and Rough seas",
+    "name": "Warning for Heavy rain Strong winds and Rough seas",
     "time_str": "2020-11-25 10:30",
     "time_id": "20201125.1030",
     "ut": 1606280400.0,
@@ -37192,7 +37400,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Warning for Heavy rain, Strong winds and Rough seas",
+    "name": "Warning for Heavy rain Strong winds and Rough seas",
     "time_str": "2020-11-25 07:30",
     "time_id": "20201125.0730",
     "ut": 1606269600.0,
@@ -37208,7 +37416,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Warning for Heavy rain, Strong winds and Rough seas",
+    "name": "Warning for Heavy rain Strong winds and Rough seas",
     "time_str": "2020-11-25 04:30",
     "time_id": "20201125.0430",
     "ut": 1606258800.0,
@@ -37224,7 +37432,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Warning for Heavy rain, Strong winds and Rough seas",
+    "name": "Warning for Heavy rain Strong winds and Rough seas",
     "time_str": "2020-11-24 22:45",
     "time_id": "20201124.2245",
     "ut": 1606238100.0,
@@ -37232,7 +37440,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Warning for Heavy rain, Strong winds and Rough seas",
+    "name": "Warning for Heavy rain Strong winds and Rough seas",
     "time_str": "2020-11-24 19:30",
     "time_id": "20201124.1930",
     "ut": 1606226400.0,
@@ -37240,7 +37448,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Warning for Heavy rain, Strong winds and Rough seas",
+    "name": "Warning for Heavy rain Strong winds and Rough seas",
     "time_str": "2020-11-24 16:45",
     "time_id": "20201124.1645",
     "ut": 1606216500.0,
@@ -37256,7 +37464,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Warning for Heavy rain, Strong winds and Rough seas",
+    "name": "Warning for Heavy rain Strong winds and Rough seas",
     "time_str": "2020-11-24 13:45",
     "time_id": "20201124.1345",
     "ut": 1606205700.0,
@@ -37272,7 +37480,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Warning for Heavy rain, Strong winds and Rough seas",
+    "name": "Warning for Heavy rain Strong winds and Rough seas",
     "time_str": "2020-11-24 10:30",
     "time_id": "20201124.1030",
     "ut": 1606194000.0,
@@ -37288,7 +37496,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Warning for Heavy rain, Strong winds and Rough seas",
+    "name": "Warning for Heavy rain Strong winds and Rough seas",
     "time_str": "2020-11-24 05:00",
     "time_id": "20201124.0500",
     "ut": 1606174200.0,
@@ -37304,7 +37512,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Warning for Heavy rain, Strong winds and Rough seas",
+    "name": "Warning for Heavy rain Strong winds and Rough seas",
     "time_str": "2020-11-23 17:00",
     "time_id": "20201123.1700",
     "ut": 1606131000.0,
@@ -37328,7 +37536,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Heavy Rain, Strong Winds & Rough Seas Warning",
+    "name": "Heavy Rain Strong Winds  Rough Seas Warning",
     "time_str": "2020-11-23 08:45",
     "time_id": "20201123.0845",
     "ut": 1606101300.0,
@@ -37376,7 +37584,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Heavy Rain, Strong Winds & Rough Seas Warning",
+    "name": "Heavy Rain Strong Winds  Rough Seas Warning",
     "time_str": "2020-11-21 16:45",
     "time_id": "20201121.1645",
     "ut": 1605957300.0,
@@ -37560,7 +37768,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Heavy Rain, Strong Winds & Rough Seas Warning",
+    "name": "Heavy Rain Strong Winds  Rough Seas Warning",
     "time_str": "2020-11-16 14:00",
     "time_id": "20201116.1400",
     "ut": 1605515400.0,
@@ -38536,7 +38744,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for Strong Wind & Rough seas",
+    "name": "Advisory for Strong Wind  Rough seas",
     "time_str": "2020-10-14 07:00",
     "time_id": "20201014.0700",
     "ut": 1602639000.0,
@@ -39872,7 +40080,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Strong Wind & Rough seas",
+    "name": "Strong Wind  Rough seas",
     "time_str": "2020-09-02 10:00",
     "time_id": "20200902.1000",
     "ut": 1599021000.0,
@@ -39888,7 +40096,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Warning for Heavy rain & Strong wind",
+    "name": "Warning for Heavy rain  Strong wind",
     "time_str": "2020-09-02 01:05",
     "time_id": "20200902.0105",
     "ut": 1598988900.0,
@@ -40448,7 +40656,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Strong Wind & Rough seas",
+    "name": "Strong Wind  Rough seas",
     "time_str": "2020-08-10 08:35",
     "time_id": "20200810.0835",
     "ut": 1597028700.0,
@@ -40768,7 +40976,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for Heavy Rain & strong winds",
+    "name": "Advisory for Heavy Rain  strong winds",
     "time_str": "2020-08-02 05:40",
     "time_id": "20200802.0540",
     "ut": 1596327000.0,
@@ -41800,7 +42008,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for Strong Wind & Rough seas",
+    "name": "Advisory for Strong Wind  Rough seas",
     "time_str": "2020-06-27 06:00",
     "time_id": "20200627.0600",
     "ut": 1593217800.0,
@@ -41856,7 +42064,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for Strong Wind & Rough seas",
+    "name": "Advisory for Strong Wind  Rough seas",
     "time_str": "2020-06-25 15:30",
     "time_id": "20200625.1530",
     "ut": 1593079200.0,
@@ -41864,7 +42072,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for Strong Wind & Rough seas",
+    "name": "Advisory for Strong Wind  Rough seas",
     "time_str": "2020-06-25 15:30",
     "time_id": "20200625.1530",
     "ut": 1593079200.0,
@@ -41896,7 +42104,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for Strong Wind & Rough seas",
+    "name": "Advisory for Strong Wind  Rough seas",
     "time_str": "2020-06-24 15:50",
     "time_id": "20200624.1550",
     "ut": 1592994000.0,
@@ -41904,7 +42112,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for Strong Wind & Rough seas",
+    "name": "Advisory for Strong Wind  Rough seas",
     "time_str": "2020-06-24 15:50",
     "time_id": "20200624.1550",
     "ut": 1592994000.0,
@@ -42240,7 +42448,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for Strong Wind & Rough seas",
+    "name": "Advisory for Strong Wind  Rough seas",
     "time_str": "2020-06-12 18:20",
     "time_id": "20200612.1820",
     "ut": 1591966200.0,
@@ -42248,7 +42456,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for Strong Wind & Rough seas",
+    "name": "Advisory for Strong Wind  Rough seas",
     "time_str": "2020-06-12 18:20",
     "time_id": "20200612.1820",
     "ut": 1591966200.0,
@@ -42280,7 +42488,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Heavy showers, Strong Wind and Rough Sea Advisory",
+    "name": "Heavy showers Strong Wind and Rough Sea Advisory",
     "time_str": "2020-06-11 18:30",
     "time_id": "20200611.1830",
     "ut": 1591880400.0,
@@ -42288,7 +42496,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Heavy showers, Strong Wind and Rough Sea Advisory",
+    "name": "Heavy showers Strong Wind and Rough Sea Advisory",
     "time_str": "2020-06-11 18:00",
     "time_id": "20200611.1800",
     "ut": 1591878600.0,
@@ -42320,7 +42528,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Heavy showers, Strong Wind and Rough Sea Advisory",
+    "name": "Heavy showers Strong Wind and Rough Sea Advisory",
     "time_str": "2020-06-10 17:50",
     "time_id": "20200610.1750",
     "ut": 1591791600.0,
@@ -42328,7 +42536,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Heavy showers, Strong Wind and Rough Sea Advisory",
+    "name": "Heavy showers Strong Wind and Rough Sea Advisory",
     "time_str": "2020-06-10 17:50",
     "time_id": "20200610.1750",
     "ut": 1591791600.0,
@@ -42360,7 +42568,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Heavy showers, Strong Wind and Rough Sea Advisory",
+    "name": "Heavy showers Strong Wind and Rough Sea Advisory",
     "time_str": "2020-06-09 18:30",
     "time_id": "20200609.1830",
     "ut": 1591707600.0,
@@ -42368,7 +42576,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Heavy showers, Strong Wind and Rough Sea Advisory",
+    "name": "Heavy showers Strong Wind and Rough Sea Advisory",
     "time_str": "2020-06-09 18:30",
     "time_id": "20200609.1830",
     "ut": 1591707600.0,
@@ -42744,7 +42952,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Heavy showers, Strong Wind and Rough Sea Advisory   ",
+    "name": "Heavy showers Strong Wind and Rough Sea Advisory  ",
     "time_str": "2020-05-26 14:20",
     "time_id": "20200526.1420",
     "ut": 1590483000.0,
@@ -43064,7 +43272,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Warning for Heavy rain, Strong winds and Rough seas",
+    "name": "Warning for Heavy rain Strong winds and Rough seas",
     "time_str": "2020-05-17 12:25",
     "time_id": "20200517.1225",
     "ut": 1589698500.0,
@@ -43096,7 +43304,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Warning for Heavy rain, Strong winds and Rough seas",
+    "name": "Warning for Heavy rain Strong winds and Rough seas",
     "time_str": "2020-05-16 11:00",
     "time_id": "20200516.1100",
     "ut": 1589607000.0,
@@ -43144,7 +43352,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Warning for Heavy rain, Strong winds and Rough seas",
+    "name": "Warning for Heavy rain Strong winds and Rough seas",
     "time_str": "2020-05-15 14:45",
     "time_id": "20200515.1445",
     "ut": 1589534100.0,
@@ -43152,7 +43360,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Warning for Heavy rain, Strong winds and Rough seas",
+    "name": "Warning for Heavy rain Strong winds and Rough seas",
     "time_str": "2020-05-15 14:45",
     "time_id": "20200515.1445",
     "ut": 1589534100.0,
@@ -43184,7 +43392,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Special Advisory for Heavy Rain, Strong Winds & Rough Seas ",
+    "name": "Special Advisory for Heavy Rain Strong Winds  Rough Seas ",
     "time_str": "2020-05-14 14:00",
     "time_id": "20200514.1400",
     "ut": 1589445000.0,
@@ -43264,7 +43472,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Heavy Rain, Strong Winds & Rough Seas Warning",
+    "name": "Heavy Rain Strong Winds  Rough Seas Warning",
     "time_str": "2020-05-11 11:00",
     "time_id": "20200511.1100",
     "ut": 1589175000.0,
@@ -43880,7 +44088,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Advisory for  rough sea area Report",
+    "name": "Advisory for rough sea area Report",
     "time_str": "2020-04-23 18:30",
     "time_id": "20200423.1830",
     "ut": 1587646800.0,
@@ -43952,7 +44160,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Heavy Rain & Strong Wind Advisory ",
+    "name": "Heavy Rain  Strong Wind Advisory ",
     "time_str": "2020-04-22 09:40",
     "time_id": "20200422.0940",
     "ut": 1587528600.0,
@@ -44976,7 +45184,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Heavy Rain, Strong Winds & Rough Seas Advisory ",
+    "name": "Heavy Rain Strong Winds  Rough Seas Advisory ",
     "time_str": "2020-03-17 15:00",
     "time_id": "20200317.1500",
     "ut": 1584437400.0,
@@ -47560,7 +47768,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Special Advisory for Heavy Rain,  Strong Wind and Rough seas ",
+    "name": "Special Advisory for Heavy Rain  Strong Wind and Rough seas ",
     "time_str": "2019-12-09 14:10",
     "time_id": "20191209.1410",
     "ut": 1575880800.0,
@@ -47864,7 +48072,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Weather Warning  for Severe Lightning",
+    "name": "Weather Warning for Severe Lightning",
     "time_str": "2019-11-30 15:30",
     "time_id": "20191130.1530",
     "ut": 1575108000.0,
@@ -47872,7 +48080,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Warning  for Severe Lightning",
+    "name": "Weather Warning for Severe Lightning",
     "time_str": "2019-11-30 15:30",
     "time_id": "20191130.1530",
     "ut": 1575108000.0,
@@ -48200,7 +48408,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Weather Advisory for Heavy Rain, Strong  Wind &  and Rough Seas ",
+    "name": "Weather Advisory for Heavy Rain Strong Wind   and Rough Seas ",
     "time_str": "2019-11-22 17:00",
     "time_id": "20191122.1700",
     "ut": 1574422200.0,
@@ -48704,7 +48912,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Weather Advisory for Heavy Rain, Strong  Wind &  and Rough Seas ",
+    "name": "Weather Advisory for Heavy Rain Strong Wind   and Rough Seas ",
     "time_str": "2019-11-06 15:00",
     "time_id": "20191106.1500",
     "ut": 1573032600.0,
@@ -48936,7 +49144,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Heavy Rain, Strong Winds & Rough Seas Advisory ",
+    "name": "Heavy Rain Strong Winds  Rough Seas Advisory ",
     "time_str": "2019-10-30 07:00",
     "time_id": "20191030.0700",
     "ut": 1572399000.0,
@@ -48992,7 +49200,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Weather Advisory for Heavy Rain, Strong  Wind &  and Rough Seas ",
+    "name": "Weather Advisory for Heavy Rain Strong Wind   and Rough Seas ",
     "time_str": "2019-10-28 07:00",
     "time_id": "20191028.0700",
     "ut": 1572226200.0,
@@ -49032,7 +49240,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Weather Advisory for Heavy Rain, Strong  Wind &  and Rough Seas ",
+    "name": "Weather Advisory for Heavy Rain Strong Wind   and Rough Seas ",
     "time_str": "2019-10-27 07:00",
     "time_id": "20191027.0700",
     "ut": 1572139800.0,
@@ -49096,7 +49304,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Heavy Rain, Strong Wind and Rough seas Advisory",
+    "name": "Heavy Rain Strong Wind and Rough seas Advisory",
     "time_str": "2019-10-25 09:30",
     "time_id": "20191025.0930",
     "ut": 1571976000.0,
@@ -49288,7 +49496,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Heavy Rain, Strong Winds & Rough Seas Warning",
+    "name": "Heavy Rain Strong Winds  Rough Seas Warning",
     "time_str": "2019-10-20 10:45",
     "time_id": "20191020.1045",
     "ut": 1571548500.0,
@@ -49880,7 +50088,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Advisory for heavy rain & lighting",
+    "name": "Advisory for heavy rain  lighting",
     "time_str": "2019-10-03 13:10",
     "time_id": "20191003.1310",
     "ut": 1570088400.0,
@@ -50208,7 +50416,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Heavy Rain, Strong Winds & Rough Seas Warning",
+    "name": "Heavy Rain Strong Winds  Rough Seas Warning",
     "time_str": "2019-09-23 15:00",
     "time_id": "20190923.1500",
     "ut": 1569231000.0,
@@ -50912,7 +51120,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Weather Warning  for Sea Area & Land Area",
+    "name": "Weather Warning for Sea Area  Land Area",
     "time_str": "2019-08-31 09:30",
     "time_id": "20190831.0930",
     "ut": 1567224000.0,
@@ -51048,7 +51256,7 @@
     "ext": "PDF"
   },
   {
-    "name": "The  Advisory for strong winds & Rough Seas",
+    "name": "The Advisory for strong winds  Rough Seas",
     "time_str": "2019-08-27 10:30",
     "time_id": "20190827.1030",
     "ut": 1566882000.0,
@@ -51136,7 +51344,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Advisory for Strong Winds & Rough Seas",
+    "name": "Advisory for Strong Winds  Rough Seas",
     "time_str": "2019-08-24 13:45",
     "time_id": "20190824.1345",
     "ut": 1566634500.0,
@@ -51176,7 +51384,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Advisory for Strong Winds & Rought Seas",
+    "name": "Advisory for Strong Winds  Rought Seas",
     "time_str": "2019-08-23 14:00",
     "time_id": "20190823.1400",
     "ut": 1566549000.0,
@@ -51192,7 +51400,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Advisory for Heavy Rain & High Wind",
+    "name": "Advisory for Heavy Rain  High Wind",
     "time_str": "2019-08-23 07:00",
     "time_id": "20190823.0700",
     "ut": 1566523800.0,
@@ -51328,7 +51536,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Heavy  Rain and Strong Wind Advisory",
+    "name": "Heavy Rain and Strong Wind Advisory",
     "time_str": "2019-08-18 15:30",
     "time_id": "20190818.1530",
     "ut": 1566122400.0,
@@ -51512,7 +51720,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Strong Wind for  Sea areas Advisory",
+    "name": "Strong Wind for Sea areas Advisory",
     "time_str": "2019-08-13 07:30",
     "time_id": "20190813.0730",
     "ut": 1565661600.0,
@@ -52920,7 +53128,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Advisory for Strong Winds - Land Areas ",
+    "name": "Advisory for Strong Winds  Land Areas ",
     "time_str": "2019-07-02 13:00",
     "time_id": "20190702.1300",
     "ut": 1562052600.0,
@@ -53672,7 +53880,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Heavy rain &  Strong Wind Warning ",
+    "name": "Heavy rain   Strong Wind Warning ",
     "time_str": "2019-06-08 15:00",
     "time_id": "20190608.1500",
     "ut": 1559986200.0,
@@ -53712,7 +53920,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Heavy rain &  Strong Wind Warning ",
+    "name": "Heavy rain   Strong Wind Warning ",
     "time_str": "2019-06-07 15:30",
     "time_id": "20190607.1530",
     "ut": 1559901600.0,
@@ -53728,7 +53936,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Heavy rain &  Strong Wind Warning ",
+    "name": "Heavy rain   Strong Wind Warning ",
     "time_str": "2019-06-07 11:00",
     "time_id": "20190607.1100",
     "ut": 1559885400.0,
@@ -55008,7 +55216,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Heavy Rain, Strong Winds & Rough Seas Warning",
+    "name": "Heavy Rain Strong Winds  Rough Seas Warning",
     "time_str": "2019-04-27 14:40",
     "time_id": "20190427.1440",
     "ut": 1556356200.0,
@@ -55040,7 +55248,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Heavy Rain, Strong Winds & Rough Seas Warning",
+    "name": "Heavy Rain Strong Winds  Rough Seas Warning",
     "time_str": "2019-04-26 15:55",
     "time_id": "20190426.1555",
     "ut": 1556274300.0,
@@ -55064,7 +55272,7 @@
     "ext": "PDF"
   },
   {
-    "name": "The Advisory for Heavy rain, Strong winds and Rough seas ",
+    "name": "The Advisory for Heavy rain Strong winds and Rough seas ",
     "time_str": "2019-04-25 23:00",
     "time_id": "20190425.2300",
     "ut": 1556213400.0,
@@ -55112,7 +55320,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Advisory for  rough sea area Report",
+    "name": "Advisory for rough sea area Report",
     "time_str": "2019-04-24 17:00",
     "time_id": "20190424.1700",
     "ut": 1556105400.0,
@@ -56376,7 +56584,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Heat  Weather Advisory ",
+    "name": "Heat Weather Advisory ",
     "time_str": "2019-03-19 13:30",
     "time_id": "20190319.1330",
     "ut": 1552982400.0,
@@ -56568,7 +56776,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Heavy rain &  Strong Wind Weather Advisory ",
+    "name": "Heavy rain   Strong Wind Weather Advisory ",
     "time_str": "2019-03-13 09:30",
     "time_id": "20190313.0930",
     "ut": 1552449600.0,
@@ -58048,7 +58256,7 @@
     "ext": "PDF"
   },
   {
-    "name": "The Advisory for Heavy Rain, Strong Wind and Rough Sea",
+    "name": "The Advisory for Heavy Rain Strong Wind and Rough Sea",
     "time_str": "2019-01-18 15:00",
     "time_id": "20190118.1500",
     "ut": 1547803800.0,
@@ -58872,7 +59080,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Heavy Rain, Strong Winds and Rough seas Advisory",
+    "name": "Heavy Rain Strong Winds and Rough seas Advisory",
     "time_str": "2018-12-22 13:00",
     "time_id": "20181222.1300",
     "ut": 1545463800.0,
@@ -58904,7 +59112,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Heavy Rain, Strong Winds & Rough Seas Warning",
+    "name": "Heavy Rain Strong Winds  Rough Seas Warning",
     "time_str": "2018-12-21 18:15",
     "time_id": "20181221.1815",
     "ut": 1545396300.0,
@@ -59328,7 +59536,7 @@
     "ext": "PDF"
   },
   {
-    "name": "The Advisory for Heavy Rain, Strong Wind and Rough Sea",
+    "name": "The Advisory for Heavy Rain Strong Wind and Rough Sea",
     "time_str": "2018-12-09 08:00",
     "time_id": "20181209.0800",
     "ut": 1544322600.0,
@@ -60104,7 +60312,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Special Advisory for Strong winds, Heavy Rain and Rough seas",
+    "name": "Special Advisory for Strong winds Heavy Rain and Rough seas",
     "time_str": "2018-11-14 14:30",
     "time_id": "20181114.1430",
     "ut": 1542186000.0,
@@ -60208,7 +60416,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Bad Weather Report - Sea Areas",
+    "name": "Bad Weather Report  Sea Areas",
     "time_str": "2018-11-11 14:15",
     "time_id": "20181111.1415",
     "ut": 1541925900.0,
@@ -60400,7 +60608,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Bad Weather Report - Land Areas",
+    "name": "Bad Weather Report  Land Areas",
     "time_str": "2018-11-05 21:30",
     "time_id": "20181105.2130",
     "ut": 1541433600.0,
@@ -60568,7 +60776,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Heavy Rain, Strong Winds and Rough seas advisory",
+    "name": "Heavy Rain Strong Winds and Rough seas advisory",
     "time_str": "2018-11-01 06:30",
     "time_id": "20181101.0630",
     "ut": 1541034000.0,
@@ -60584,7 +60792,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Bad Weather Report - Sea Areas",
+    "name": "Bad Weather Report  Sea Areas",
     "time_str": "2018-10-31 21:00",
     "time_id": "20181031.2100",
     "ut": 1540999800.0,
@@ -60608,7 +60816,7 @@
     "ext": "PDF"
   },
   {
-    "name": "The Heavy Rain, Strong Winds and Rough seas Warning",
+    "name": "The Heavy Rain Strong Winds and Rough seas Warning",
     "time_str": "2018-10-31 06:00",
     "time_id": "20181031.0600",
     "ut": 1540945800.0,
@@ -60696,7 +60904,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Bad Weather Report - Sea Areas",
+    "name": "Bad Weather Report  Sea Areas",
     "time_str": "2018-10-28 09:00",
     "time_id": "20181028.0900",
     "ut": 1540697400.0,
@@ -60728,7 +60936,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Bad Weather Report - Land & Sea Area",
+    "name": "Bad Weather Report  Land  Sea Area",
     "time_str": "2018-10-27 07:00",
     "time_id": "20181027.0700",
     "ut": 1540603800.0,
@@ -60744,7 +60952,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Bad Weather Report - Sea Areas",
+    "name": "Bad Weather Report  Sea Areas",
     "time_str": "2018-10-26 18:30",
     "time_id": "20181026.1830",
     "ut": 1540558800.0,
@@ -60808,7 +61016,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Bad Weather Report - Sea Areas",
+    "name": "Bad Weather Report  Sea Areas",
     "time_str": "2018-10-24 13:00",
     "time_id": "20181024.1300",
     "ut": 1540366200.0,
@@ -60816,7 +61024,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Bad Weather Report - Land Areas",
+    "name": "Bad Weather Report  Land Areas",
     "time_str": "2018-10-24 13:00",
     "time_id": "20181024.1300",
     "ut": 1540366200.0,
@@ -61144,7 +61352,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Bad Weather Report - Sea Areas",
+    "name": "Bad Weather Report  Sea Areas",
     "time_str": "2018-10-11 14:50",
     "time_id": "20181011.1450",
     "ut": 1539249600.0,
@@ -61184,7 +61392,7 @@
     "ext": "PDF"
   },
   {
-    "name": "The Heavy Rain, Strong Winds and Rough seas Advisory Report ",
+    "name": "The Heavy Rain Strong Winds and Rough seas Advisory Report ",
     "time_str": "2018-10-10 11:00",
     "time_id": "20181010.1100",
     "ut": 1539149400.0,
@@ -61216,7 +61424,7 @@
     "ext": "PDF"
   },
   {
-    "name": "The Heavy Rain, Strong Winds and Rough seas Advisory Report ",
+    "name": "The Heavy Rain Strong Winds and Rough seas Advisory Report ",
     "time_str": "2018-10-09 11:00",
     "time_id": "20181009.1100",
     "ut": 1539063000.0,
@@ -61256,7 +61464,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Heavy Rain, Strong Winds and Rough seas Advisory for the Sea areas",
+    "name": "Heavy Rain Strong Winds and Rough seas Advisory for the Sea areas",
     "time_str": "2018-10-08 10:30",
     "time_id": "20181008.1030",
     "ut": 1538974800.0,
@@ -61264,7 +61472,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Heavy Rain, Strong Winds and Rough seas Advisory the Sea areas (English)",
+    "name": "Heavy Rain Strong Winds and Rough seas Advisory the Sea areas (English)",
     "time_str": "2018-10-08 10:30",
     "time_id": "20181008.1030",
     "ut": 1538974800.0,
@@ -61296,7 +61504,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Bad Weather Report - Sea Areas",
+    "name": "Bad Weather Report  Sea Areas",
     "time_str": "2018-10-07 10:30",
     "time_id": "20181007.1030",
     "ut": 1538888400.0,
@@ -61312,7 +61520,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Bad Weather Report - Sea Areas",
+    "name": "Bad Weather Report  Sea Areas",
     "time_str": "2018-10-06 22:00",
     "time_id": "20181006.2200",
     "ut": 1538843400.0,
@@ -61320,7 +61528,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Bad Weather Report - Amber",
+    "name": "Bad Weather Report  Amber",
     "time_str": "2018-10-06 18:00",
     "time_id": "20181006.1800",
     "ut": 1538829000.0,
@@ -61336,7 +61544,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Bad Weather Report - Land Areas",
+    "name": "Bad Weather Report  Land Areas",
     "time_str": "2018-10-06 13:00",
     "time_id": "20181006.1300",
     "ut": 1538811000.0,
@@ -61344,7 +61552,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Bad Weather Report - Sea Areas",
+    "name": "Bad Weather Report  Sea Areas",
     "time_str": "2018-10-06 13:00",
     "time_id": "20181006.1300",
     "ut": 1538811000.0,
@@ -61880,7 +62088,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Strong wing  Advisory For the land area (Sinhala)",
+    "name": "Strong wing Advisory For the land area (Sinhala)",
     "time_str": "2018-09-17 14:00",
     "time_id": "20180917.1400",
     "ut": 1537173000.0,
@@ -65152,7 +65360,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Heavy Rain, Strong winds Advisory",
+    "name": "Heavy Rain Strong winds Advisory",
     "time_str": "2018-05-21 10:00",
     "time_id": "20180521.1000",
     "ut": 1526877000.0,
@@ -65200,7 +65408,7 @@
     "ext": "PDF"
   },
   {
-    "name": "1600 hrs",
+    "name": "160 hrs",
     "time_str": "2018-05-19 16:00",
     "time_id": "20180519.1600",
     "ut": 1526725800.0,
@@ -65248,7 +65456,7 @@
     "ext": "PDF"
   },
   {
-    "name": "Heavy Rain, Strong Winds and Rough seas Advisory",
+    "name": "Heavy Rain Strong Winds and Rough seas Advisory",
     "time_str": "2018-05-18 10:30",
     "time_id": "20180518.1030",
     "ut": 1526619600.0,
@@ -65256,7 +65464,7 @@
     "ext": "PDF"
   },
   {
-    "name": "1600 hrs",
+    "name": "160 hrs",
     "time_str": "2018-05-17 18:00",
     "time_id": "20180517.1800",
     "ut": 1526560200.0,
@@ -65264,7 +65472,7 @@
     "ext": "pdf"
   },
   {
-    "name": "The herewith Heavy Rain, Strong Winds and Rough seas Advisory ",
+    "name": "The herewith Heavy Rain Strong Winds and Rough seas Advisory ",
     "time_str": "2018-05-17 13:00",
     "time_id": "20180517.1300",
     "ut": 1526542200.0,
@@ -65344,7 +65552,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-02-04 05:30",
     "time_id": "20180204.0530",
     "ut": 1517702400.0,
@@ -65352,7 +65560,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-02-03 16:00",
     "time_id": "20180203.1600",
     "ut": 1517653800.0,
@@ -65360,7 +65568,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-02-03 12:00",
     "time_id": "20180203.1200",
     "ut": 1517639400.0,
@@ -65368,7 +65576,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-02-03 05:30",
     "time_id": "20180203.0530",
     "ut": 1517616000.0,
@@ -65376,7 +65584,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-02-02 16:00",
     "time_id": "20180202.1600",
     "ut": 1517567400.0,
@@ -65384,7 +65592,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-02-02 12:00",
     "time_id": "20180202.1200",
     "ut": 1517553000.0,
@@ -65392,7 +65600,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-02-02 05:30",
     "time_id": "20180202.0530",
     "ut": 1517529600.0,
@@ -65400,7 +65608,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-02-01 16:00",
     "time_id": "20180201.1600",
     "ut": 1517481000.0,
@@ -65408,7 +65616,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-02-01 12:00",
     "time_id": "20180201.1200",
     "ut": 1517466600.0,
@@ -65416,7 +65624,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-02-01 05:30",
     "time_id": "20180201.0530",
     "ut": 1517443200.0,
@@ -65424,7 +65632,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-31 16:00",
     "time_id": "20180131.1600",
     "ut": 1517394600.0,
@@ -65432,7 +65640,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-31 12:00",
     "time_id": "20180131.1200",
     "ut": 1517380200.0,
@@ -65440,7 +65648,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-31 05:30",
     "time_id": "20180131.0530",
     "ut": 1517356800.0,
@@ -65448,7 +65656,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-30 06:30",
     "time_id": "20180130.0630",
     "ut": 1517274000.0,
@@ -65456,7 +65664,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-30 05:30",
     "time_id": "20180130.0530",
     "ut": 1517270400.0,
@@ -65464,7 +65672,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-29 21:00",
     "time_id": "20180129.2100",
     "ut": 1517239800.0,
@@ -65472,7 +65680,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-29 19:00",
     "time_id": "20180129.1900",
     "ut": 1517232600.0,
@@ -65480,7 +65688,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-29 16:00",
     "time_id": "20180129.1600",
     "ut": 1517221800.0,
@@ -65488,7 +65696,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-29 12:00",
     "time_id": "20180129.1200",
     "ut": 1517207400.0,
@@ -65496,7 +65704,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-29 05:30",
     "time_id": "20180129.0530",
     "ut": 1517184000.0,
@@ -65504,7 +65712,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-28 18:00",
     "time_id": "20180128.1800",
     "ut": 1517142600.0,
@@ -65512,7 +65720,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-28 16:00",
     "time_id": "20180128.1600",
     "ut": 1517135400.0,
@@ -65520,7 +65728,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-28 12:00",
     "time_id": "20180128.1200",
     "ut": 1517121000.0,
@@ -65528,7 +65736,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-28 06:00",
     "time_id": "20180128.0600",
     "ut": 1517099400.0,
@@ -65536,7 +65744,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-28 05:30",
     "time_id": "20180128.0530",
     "ut": 1517097600.0,
@@ -65544,7 +65752,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-27 16:00",
     "time_id": "20180127.1600",
     "ut": 1517049000.0,
@@ -65552,7 +65760,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-27 12:00",
     "time_id": "20180127.1200",
     "ut": 1517034600.0,
@@ -65560,7 +65768,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-27 05:30",
     "time_id": "20180127.0530",
     "ut": 1517011200.0,
@@ -65568,7 +65776,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-26 16:00",
     "time_id": "20180126.1600",
     "ut": 1516962600.0,
@@ -65576,7 +65784,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-26 12:00",
     "time_id": "20180126.1200",
     "ut": 1516948200.0,
@@ -65584,7 +65792,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-25 16:00",
     "time_id": "20180125.1600",
     "ut": 1516876200.0,
@@ -65592,7 +65800,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-25 12:00",
     "time_id": "20180125.1200",
     "ut": 1516861800.0,
@@ -65600,7 +65808,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-25 05:30",
     "time_id": "20180125.0530",
     "ut": 1516838400.0,
@@ -65608,7 +65816,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-24 16:00",
     "time_id": "20180124.1600",
     "ut": 1516789800.0,
@@ -65616,7 +65824,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-24 12:00",
     "time_id": "20180124.1200",
     "ut": 1516775400.0,
@@ -65624,7 +65832,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-24 05:30",
     "time_id": "20180124.0530",
     "ut": 1516752000.0,
@@ -65632,7 +65840,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-23 16:00",
     "time_id": "20180123.1600",
     "ut": 1516703400.0,
@@ -65640,7 +65848,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-23 12:00",
     "time_id": "20180123.1200",
     "ut": 1516689000.0,
@@ -65648,7 +65856,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-23 05:30",
     "time_id": "20180123.0530",
     "ut": 1516665600.0,
@@ -65656,7 +65864,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-22 16:00",
     "time_id": "20180122.1600",
     "ut": 1516617000.0,
@@ -65664,7 +65872,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-22 12:00",
     "time_id": "20180122.1200",
     "ut": 1516602600.0,
@@ -65672,7 +65880,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-22 05:30",
     "time_id": "20180122.0530",
     "ut": 1516579200.0,
@@ -65680,7 +65888,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-21 16:00",
     "time_id": "20180121.1600",
     "ut": 1516530600.0,
@@ -65688,7 +65896,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-21 12:00",
     "time_id": "20180121.1200",
     "ut": 1516516200.0,
@@ -65696,7 +65904,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-21 05:30",
     "time_id": "20180121.0530",
     "ut": 1516492800.0,
@@ -65704,7 +65912,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-20 16:00",
     "time_id": "20180120.1600",
     "ut": 1516444200.0,
@@ -65712,7 +65920,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-20 12:00",
     "time_id": "20180120.1200",
     "ut": 1516429800.0,
@@ -65720,7 +65928,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-20 05:30",
     "time_id": "20180120.0530",
     "ut": 1516406400.0,
@@ -65728,7 +65936,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-19 16:00",
     "time_id": "20180119.1600",
     "ut": 1516357800.0,
@@ -65736,7 +65944,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-19 12:00",
     "time_id": "20180119.1200",
     "ut": 1516343400.0,
@@ -65744,7 +65952,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-19 05:30",
     "time_id": "20180119.0530",
     "ut": 1516320000.0,
@@ -65752,7 +65960,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-18 16:00",
     "time_id": "20180118.1600",
     "ut": 1516271400.0,
@@ -65760,7 +65968,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-18 12:00",
     "time_id": "20180118.1200",
     "ut": 1516257000.0,
@@ -65768,7 +65976,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-18 05:30",
     "time_id": "20180118.0530",
     "ut": 1516233600.0,
@@ -65776,7 +65984,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-17 16:00",
     "time_id": "20180117.1600",
     "ut": 1516185000.0,
@@ -65784,7 +65992,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-17 12:00",
     "time_id": "20180117.1200",
     "ut": 1516170600.0,
@@ -65792,7 +66000,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-17 05:30",
     "time_id": "20180117.0530",
     "ut": 1516147200.0,
@@ -65800,7 +66008,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-16 16:00",
     "time_id": "20180116.1600",
     "ut": 1516098600.0,
@@ -65808,7 +66016,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-16 12:00",
     "time_id": "20180116.1200",
     "ut": 1516084200.0,
@@ -65816,7 +66024,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-16 05:30",
     "time_id": "20180116.0530",
     "ut": 1516060800.0,
@@ -65824,7 +66032,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-15 16:00",
     "time_id": "20180115.1600",
     "ut": 1516012200.0,
@@ -65832,7 +66040,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-15 12:00",
     "time_id": "20180115.1200",
     "ut": 1515997800.0,
@@ -65840,7 +66048,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-15 05:30",
     "time_id": "20180115.0530",
     "ut": 1515974400.0,
@@ -65848,7 +66056,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-14 16:00",
     "time_id": "20180114.1600",
     "ut": 1515925800.0,
@@ -65856,7 +66064,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-14 12:00",
     "time_id": "20180114.1200",
     "ut": 1515911400.0,
@@ -65864,7 +66072,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-14 05:30",
     "time_id": "20180114.0530",
     "ut": 1515888000.0,
@@ -65872,7 +66080,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-13 16:00",
     "time_id": "20180113.1600",
     "ut": 1515839400.0,
@@ -65880,7 +66088,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-13 12:00",
     "time_id": "20180113.1200",
     "ut": 1515825000.0,
@@ -65888,7 +66096,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-13 05:30",
     "time_id": "20180113.0530",
     "ut": 1515801600.0,
@@ -65896,7 +66104,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-12 20:30",
     "time_id": "20180112.2030",
     "ut": 1515769200.0,
@@ -65904,7 +66112,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-12 19:00",
     "time_id": "20180112.1900",
     "ut": 1515763800.0,
@@ -65912,7 +66120,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-12 16:00",
     "time_id": "20180112.1600",
     "ut": 1515753000.0,
@@ -65920,7 +66128,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-12 05:30",
     "time_id": "20180112.0530",
     "ut": 1515715200.0,
@@ -65928,7 +66136,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-11 16:00",
     "time_id": "20180111.1600",
     "ut": 1515666600.0,
@@ -65936,7 +66144,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-11 12:00",
     "time_id": "20180111.1200",
     "ut": 1515652200.0,
@@ -65944,7 +66152,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-11 05:30",
     "time_id": "20180111.0530",
     "ut": 1515628800.0,
@@ -65952,7 +66160,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-10 16:00",
     "time_id": "20180110.1600",
     "ut": 1515580200.0,
@@ -65960,7 +66168,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-10 12:00",
     "time_id": "20180110.1200",
     "ut": 1515565800.0,
@@ -65968,7 +66176,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-10 05:30",
     "time_id": "20180110.0530",
     "ut": 1515542400.0,
@@ -65976,7 +66184,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-09 16:00",
     "time_id": "20180109.1600",
     "ut": 1515493800.0,
@@ -65984,7 +66192,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-09 12:00",
     "time_id": "20180109.1200",
     "ut": 1515479400.0,
@@ -65992,7 +66200,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-09 05:30",
     "time_id": "20180109.0530",
     "ut": 1515456000.0,
@@ -66000,7 +66208,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-08 16:00",
     "time_id": "20180108.1600",
     "ut": 1515407400.0,
@@ -66008,7 +66216,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-08 12:00",
     "time_id": "20180108.1200",
     "ut": 1515393000.0,
@@ -66016,7 +66224,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-08 05:30",
     "time_id": "20180108.0530",
     "ut": 1515369600.0,
@@ -66024,7 +66232,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-07 16:00",
     "time_id": "20180107.1600",
     "ut": 1515321000.0,
@@ -66032,7 +66240,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-07 12:00",
     "time_id": "20180107.1200",
     "ut": 1515306600.0,
@@ -66040,7 +66248,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-07 05:30",
     "time_id": "20180107.0530",
     "ut": 1515283200.0,
@@ -66048,7 +66256,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-06 12:00",
     "time_id": "20180106.1200",
     "ut": 1515220200.0,
@@ -66056,7 +66264,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-05 16:00",
     "time_id": "20180105.1600",
     "ut": 1515148200.0,
@@ -66064,7 +66272,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-05 12:00",
     "time_id": "20180105.1200",
     "ut": 1515133800.0,
@@ -66072,7 +66280,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-05 05:30",
     "time_id": "20180105.0530",
     "ut": 1515110400.0,
@@ -66080,7 +66288,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-04 16:00",
     "time_id": "20180104.1600",
     "ut": 1515061800.0,
@@ -66088,7 +66296,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-04 12:00",
     "time_id": "20180104.1200",
     "ut": 1515047400.0,
@@ -66096,7 +66304,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-04 05:30",
     "time_id": "20180104.0530",
     "ut": 1515024000.0,
@@ -66104,7 +66312,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-03 16:00",
     "time_id": "20180103.1600",
     "ut": 1514975400.0,
@@ -66112,7 +66320,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-03 12:00",
     "time_id": "20180103.1200",
     "ut": 1514961000.0,
@@ -66120,7 +66328,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-03 05:30",
     "time_id": "20180103.0530",
     "ut": 1514937600.0,
@@ -66128,7 +66336,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-02 16:00",
     "time_id": "20180102.1600",
     "ut": 1514889000.0,
@@ -66136,7 +66344,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-02 12:00",
     "time_id": "20180102.1200",
     "ut": 1514874600.0,
@@ -66144,7 +66352,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-02 05:30",
     "time_id": "20180102.0530",
     "ut": 1514851200.0,
@@ -66152,7 +66360,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-01 16:00",
     "time_id": "20180101.1600",
     "ut": 1514802600.0,
@@ -66160,7 +66368,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-01 12:00",
     "time_id": "20180101.1200",
     "ut": 1514788200.0,
@@ -66168,7 +66376,7 @@
     "ext": "pdf"
   },
   {
-    "name": "Weather Forecast - [PDF]",
+    "name": "Weather Forecast  [PDF]",
     "time_str": "2018-01-01 05:30",
     "time_id": "20180101.0530",
     "ut": 1514764800.0,
