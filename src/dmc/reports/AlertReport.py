@@ -38,7 +38,7 @@ class AlertReport:
                 f'| {rwl.alert_emoji} {rwl.level_text} | {rwl.river_basin}'
                 + f' | {rwl.river} | {rwl.station}'
                 + f' | {rwl.rising_rate_mm_per_hr:.0f} {rwl.rising_rate_emoji}'
-                + f' |'
+                + ' |'
             )
         lines.append('')
         return lines

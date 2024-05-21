@@ -1,20 +1,15 @@
 import os
 from dataclasses import dataclass
 
-import camelot
-from utils import JSONFile, Log, Time, TimeFormat, TimeUnit
+from utils import JSONFile, Log, TimeUnit
+
+from dmc.core.RiverWaterLevelParser import RiverWaterLevelParser
 
 log = Log('RiverWaterLevel')
 
 
-def parse_float(s):
-    if s == '-':
-        return 0
-    return float(s)
-
-
 @dataclass
-class RiverWaterLevel:
+class RiverWaterLevel(RiverWaterLevelParser):
     # constants
     DOC_TYPE = 'river-water-level-and-flood-warnings'
     DIR_PDFS = os.path.join(
@@ -136,83 +131,9 @@ class RiverWaterLevel:
         return data_list
 
     @staticmethod
-    def list_from_pdf(pdf_path):
-        tables = camelot.read_pdf(pdf_path, pages='1', flavor='stream')
-        table = tables[0]
-        df = table.df
-        d_list = df.values.tolist()
-
-        date = d_list[1][1]
-        time = d_list[1][9]
-        log.debug(f'{date=}, {time=}, ')
-
-        # 21-May-2024 6:30 AM
-        def get_ut(time1):
-            return TimeFormat('%d-%b-%Y %I:%M %p').parse(f'{date} {time1}').ut
-
-        ut = get_ut(time)
-        log.debug(f'{ut=}')
-
-        water_level_time_1 = d_list[7][7]
-        water_leveL_time_2 = d_list[7][8]
-        log.debug(f'{water_level_time_1=}, {water_leveL_time_2=}')
-        ut_water_level_1 = get_ut(water_level_time_1)
-        ut_water_level_2 = get_ut(water_leveL_time_2)
-        log.debug(f'{ut_water_level_1=}, {ut_water_level_2=}')
-        assert ut_water_level_1 <= ut_water_level_2
-        assert ut_water_level_2 <= ut
-
-        rainfall_duration = int(d_list[3][12].split(' ')[0])
-        rainfall_end_time = d_list[7][12]
-        log.debug(f'{rainfall_duration=}, {rainfall_end_time=}')
-        ut_rainfall_end = get_ut(rainfall_end_time)
-        log.debug(f'{ut_rainfall_end=}')
-        assert ut_rainfall_end <= ut
-
-        rwl_list = []
-        river_basin = None
-        for d in d_list[7:]:
-            if d[0]:
-                if not d[0].startswith('('):
-                    river_basin = d[0]
-                continue
-
-            if not d[1]:
-                continue
-
-            unit = d[3]
-            unit_k = 1
-            if unit == 'ft':
-                unit_k = 0.3048
-
-            def to_height(s):
-                return parse_float(s) * unit_k
-
-            rwl = RiverWaterLevel(
-                ut=ut,
-                river_basin=river_basin,
-                river=d[1],
-                station=d[2],
-                alert_level=to_height(d[4]),
-                minor_flood_level=to_height(d[5]),
-                major_flood_level=to_height(d[6]),
-                ut_water_level_1=ut_water_level_1,
-                ut_water_level_2=ut_water_level_2,
-                water_level_1=to_height(d[7]),
-                water_level_2=to_height(d[8]),
-                remarks=d[9],
-                remarks_rising=d[10],
-                ut_rainfall_end=ut_rainfall_end,
-                rainfall_duration=rainfall_duration,
-                rainfall=parse_float(d[12]),
-            )
-
-            rwl_list.append(rwl)
-
-        time_id = TimeFormat.TIME_ID.format(Time(ut))
-        if not os.path.exists(RiverWaterLevel.DIR_PARSED_DATA):
-            os.makedirs(RiverWaterLevel.DIR_PARSED_DATA)
-        data_path = RiverWaterLevel.get_data_path_from_time_id(time_id)
-        JSONFile(data_path).write([rwl.to_dict() for rwl in rwl_list])
-        log.info(f'Wrote {data_path}')
-        return rwl_list
+    def get_pdf_path_list():
+        return [
+            os.path.join(RiverWaterLevel.DIR_PDFS, f)
+            for f in os.listdir(RiverWaterLevel.DIR_PDFS)
+            if f.endswith('.pdf')
+        ]
