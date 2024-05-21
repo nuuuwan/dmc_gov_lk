@@ -4,6 +4,8 @@
 
 ## River Water Level
 
+Last updated **2024-05-21 06:30:00**.
+
 | Level | Basin | River | Station |
 |-------|-------|-------|---------|
 | 🟠 Minor Flood | Kalu Ganga | Kuda Ganga |  |

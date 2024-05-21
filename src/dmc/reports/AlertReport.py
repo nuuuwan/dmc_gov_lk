@@ -1,4 +1,4 @@
-from utils import File, Log, TimeFormat
+from utils import File, Log, TimeFormat, Time
 
 from dmc.core import RiverWaterLevel
 
@@ -21,7 +21,7 @@ class AlertReport:
         )
 
         ut = rwl_list[0].ut
-        time_str = TimeFormat.TIME.format(ut)
+        time_str = TimeFormat.TIME.format(Time(ut))
         
         lines.extend([f'Last updated **{time_str}**.', ''])
 
