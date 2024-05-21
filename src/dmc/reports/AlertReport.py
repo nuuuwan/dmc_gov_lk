@@ -12,7 +12,7 @@ class AlertReport:
 
     @property
     def lines_river_water_level(self):
-        lines = ['## River Water Level', '']
+        lines = ['## River Water Level :sri_lanka:', '']
 
         rwl_list = RiverWaterLevel.list_from_latest()
         rwl_list.sort(
