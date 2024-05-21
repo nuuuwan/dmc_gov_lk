@@ -6,8 +6,8 @@
 
 Last updated **2024-05-21 06:30:00**.
 
-| Level | Basin | River | Station | mm/hr |
-|-------|-------|-------|---------| ----: |
+| Level | Basin | River | Station | Rising Rate (mm/hr) |
+|---|---|---|---|--:|
 | 🟠 Minor Flood | Kalu Ganga | Kuda Ganga |  | 80 🡅 |
 | 🟠 Minor Flood | Attanagalu Oya | Attanagalu Oya | Dunamale | -20 🡇 |
 | 🟡 Alert | Kalu Ganga | Maguru Ganga | Magura | -110 🡇 |
