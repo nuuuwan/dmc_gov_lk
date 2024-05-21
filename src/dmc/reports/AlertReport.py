@@ -29,8 +29,8 @@ class AlertReport:
         lines.extend(
             [
                 '| Level | Basin | River | Station'
-                + ' | Rising Rate (mm/hr) |',
-                '|---|---|---|---' + '|--:|',
+                + ' | Rising Rate (mm/hr)'+ ' | Level (m) | Alert Level (m) | Time to Alert (hrs) |',
+                '|---|---|---|---' + '|--:' + ' |--:|--:|--:|',
             ]
         )
 
@@ -39,6 +39,7 @@ class AlertReport:
                 f'| {rwl.alert_emoji} {rwl.level_text} | {rwl.river_basin}'
                 + f' | {rwl.river} | {rwl.station}'
                 + f' | {rwl.rising_rate_mm_per_hr:.0f} {rwl.rising_rate_emoji}'
+                + f' | {rwl.water_level_2:.1f} | {rwl.alert_level:.1f} | {rwl.time_to_alert_str}'
                 + ' |'
             )
         lines.append('')

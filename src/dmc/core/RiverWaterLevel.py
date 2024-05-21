@@ -75,6 +75,19 @@ class RiverWaterLevel(RiverWaterLevelParser):
         if self.rising_rate_mm_per_hr < 0:
             return '🡇'
         return ''
+    
+    @property
+    def time_to_alert_str(self) -> str:
+        diff = self.alert_level - self.water_level_2
+        if diff <= 0:
+            return '🟡 above alert level' 
+        
+        rate = self.rising_rate_m_per_s
+        if rate <= 0:
+            return '🟢 not rising'
+        
+        t = diff / rate / TimeUnit.SECONDS_IN.HOUR
+        return f'🡅 {t:.1f}'
 
     @staticmethod
     def get_data_path_from_time_id(time_id):
