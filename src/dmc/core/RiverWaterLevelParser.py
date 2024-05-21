@@ -1,5 +1,5 @@
 import os
-
+import re
 import camelot
 from utils import JSONFile, Log, Time, TimeFormat, TimeUnit
 
@@ -7,7 +7,7 @@ log = Log('RiverWaterLevelParser')
 
 
 def parse_float(s):
-    s = s.split('\n')[0]
+    s = s.split(' ')[0]
     if s == '-':
         return 0
     if s == '':
@@ -16,6 +16,12 @@ def parse_float(s):
         return 0
     return float(s)
 
+
+def clean(x):
+    x = x.replace('\n', ' ')
+    x = re.sub(r'\s+', ' ', x)
+    x = x.strip()
+    return x
 
 class RiverWaterLevelParser:
 
@@ -88,9 +94,9 @@ class RiverWaterLevelParser:
         rwl_list = []
         river_basin = None
         for d in d_list[2:]:
-
+            d = [clean(di) for di in d]
             if d[0]:
-                river_basin = d[0].split('\n')[0]
+                river_basin = d[0]
 
             if not d[1] and not d[2]:
                 continue

@@ -1,7 +1,7 @@
 [
   {
     "ut": 1716199200.0,
-    "river_basin": "Kelani Ganga      ",
+    "river_basin": "Kelani Ganga (RB 01)",
     "river": "Kelani Ganga",
     "station": "N' Street",
     "alert_level": 1.2192,
@@ -19,7 +19,7 @@
   },
   {
     "ut": 1716199200.0,
-    "river_basin": "Kelani Ganga      ",
+    "river_basin": "Kelani Ganga (RB 01)",
     "river": "Kelani Ganga",
     "station": "Hanwella",
     "alert_level": 7.0,
@@ -37,7 +37,7 @@
   },
   {
     "ut": 1716199200.0,
-    "river_basin": "Kelani Ganga      ",
+    "river_basin": "Kelani Ganga (RB 01)",
     "river": "Kelani Ganga",
     "station": "Glencourse",
     "alert_level": 15.0,
@@ -55,7 +55,7 @@
   },
   {
     "ut": 1716199200.0,
-    "river_basin": "Kelani Ganga      ",
+    "river_basin": "Kelani Ganga (RB 01)",
     "river": "Kelani Ganga",
     "station": "Kitulgala",
     "alert_level": 3.0,
@@ -73,7 +73,7 @@
   },
   {
     "ut": 1716199200.0,
-    "river_basin": "Kelani Ganga      ",
+    "river_basin": "Kelani Ganga (RB 01)",
     "river": "Gurugoda Oya",
     "station": "Holombuwa",
     "alert_level": 3.0,
@@ -91,7 +91,7 @@
   },
   {
     "ut": 1716199200.0,
-    "river_basin": "Kelani Ganga      ",
+    "river_basin": "Kelani Ganga (RB 01)",
     "river": "Seethawaka Ganga",
     "station": "Deraniyagala",
     "alert_level": 4.8,
@@ -109,7 +109,7 @@
   },
   {
     "ut": 1716199200.0,
-    "river_basin": "Kelani Ganga      ",
+    "river_basin": "Kelani Ganga (RB 01)",
     "river": "Kehelgamu Oya",
     "station": "Norwood",
     "alert_level": 1.5,
@@ -127,7 +127,7 @@
   },
   {
     "ut": 1716199200.0,
-    "river_basin": "Kalu Ganga         ",
+    "river_basin": "Kalu Ganga (RB 03)",
     "river": "Kalu Ganga",
     "station": "Putupaula",
     "alert_level": 3.0,
@@ -145,7 +145,7 @@
   },
   {
     "ut": 1716199200.0,
-    "river_basin": "Kalu Ganga         ",
+    "river_basin": "Kalu Ganga (RB 03)",
     "river": "Kalu Ganga",
     "station": "Ellagawa",
     "alert_level": 10.0,
@@ -163,7 +163,7 @@
   },
   {
     "ut": 1716199200.0,
-    "river_basin": "Kalu Ganga         ",
+    "river_basin": "Kalu Ganga (RB 03)",
     "river": "Kalu Ganga",
     "station": "Ratnapura",
     "alert_level": 5.2,
@@ -181,7 +181,7 @@
   },
   {
     "ut": 1716199200.0,
-    "river_basin": "Kalu Ganga         ",
+    "river_basin": "Kalu Ganga (RB 03)",
     "river": "Maguru Ganga",
     "station": "Magura",
     "alert_level": 4.0,
@@ -199,9 +199,9 @@
   },
   {
     "ut": 1716199200.0,
-    "river_basin": "Kalu Ganga         ",
+    "river_basin": "Kalu Ganga (RB 03)",
     "river": "Kuda Ganga",
-    "station": "Kalawellawa \n(Millakanda)",
+    "station": "Kalawellawa (Millakanda)",
     "alert_level": 5.0,
     "minor_flood_level": 6.5,
     "major_flood_level": 8.0,
@@ -217,7 +217,7 @@
   },
   {
     "ut": 1716199200.0,
-    "river_basin": "Gin Ganga           ",
+    "river_basin": "Gin Ganga (RB 09)",
     "river": "Gin Ganga",
     "station": "Baddegama",
     "alert_level": 3.5,
@@ -235,7 +235,7 @@
   },
   {
     "ut": 1716199200.0,
-    "river_basin": "Gin Ganga           ",
+    "river_basin": "Gin Ganga (RB 09)",
     "river": "Gin Ganga",
     "station": "Tawalama",
     "alert_level": 4.0,
@@ -253,7 +253,7 @@
   },
   {
     "ut": 1716199200.0,
-    "river_basin": "Nilwala Ganga             ",
+    "river_basin": "Nilwala Ganga (RB 12)",
     "river": "Nilwala Ganga",
     "station": "Thalgahagoda",
     "alert_level": 1.4,
@@ -271,7 +271,7 @@
   },
   {
     "ut": 1716199200.0,
-    "river_basin": "Nilwala Ganga             ",
+    "river_basin": "Nilwala Ganga (RB 12)",
     "river": "Nilwala Ganga",
     "station": "Panadugama",
     "alert_level": 5.0,
@@ -289,7 +289,7 @@
   },
   {
     "ut": 1716199200.0,
-    "river_basin": "Nilwala Ganga             ",
+    "river_basin": "Nilwala Ganga (RB 12)",
     "river": "Nilwala Ganga",
     "station": "Pitabeddara",
     "alert_level": 4.0,
@@ -307,7 +307,7 @@
   },
   {
     "ut": 1716199200.0,
-    "river_basin": "Nilwala Ganga             ",
+    "river_basin": "Nilwala Ganga (RB 12)",
     "river": "Urubokka Ganga",
     "station": "Urawa",
     "alert_level": 2.5,
@@ -325,7 +325,7 @@
   },
   {
     "ut": 1716199200.0,
-    "river_basin": "Walawe Ganga     ",
+    "river_basin": "Walawe Ganga (RB 18)",
     "river": "Walawe Ganga",
     "station": "Moraketiya",
     "alert_level": 3.0,
@@ -343,7 +343,7 @@
   },
   {
     "ut": 1716199200.0,
-    "river_basin": "Maduru Oya     ",
+    "river_basin": "Maduru Oya (RB 54)",
     "river": "Maduru Oya",
     "station": "Padiyatalawa",
     "alert_level": 4.0,
@@ -361,7 +361,7 @@
   },
   {
     "ut": 1716199200.0,
-    "river_basin": "Mahaweli Ganga  ",
+    "river_basin": "Mahaweli Ganga (RB 60)",
     "river": "Mahaweli Ganga",
     "station": "Manampitiya (HMIS)",
     "alert_level": 3.0,
@@ -379,7 +379,7 @@
   },
   {
     "ut": 1716199200.0,
-    "river_basin": "Mahaweli Ganga  ",
+    "river_basin": "Mahaweli Ganga (RB 60)",
     "river": "Mahaweli Ganga",
     "station": "Weragantota",
     "alert_level": 5.0,
@@ -397,7 +397,7 @@
   },
   {
     "ut": 1716199200.0,
-    "river_basin": "Mahaweli Ganga  ",
+    "river_basin": "Mahaweli Ganga (RB 60)",
     "river": "Mahaweli Ganga",
     "station": "Peradeniya",
     "alert_level": 5.0,
@@ -415,7 +415,7 @@
   },
   {
     "ut": 1716199200.0,
-    "river_basin": "Mahaweli Ganga  ",
+    "river_basin": "Mahaweli Ganga (RB 60)",
     "river": "Mahaweli Ganga",
     "station": "Nawalapitiya",
     "alert_level": 3.5,
@@ -433,7 +433,7 @@
   },
   {
     "ut": 1716199200.0,
-    "river_basin": "Mahaweli Ganga  ",
+    "river_basin": "Mahaweli Ganga (RB 60)",
     "river": "Badulu Oya",
     "station": "Taldena",
     "alert_level": 3.0,
@@ -451,7 +451,7 @@
   },
   {
     "ut": 1716199200.0,
-    "river_basin": "Yan Oya                ",
+    "river_basin": "Yan Oya (RB 67)",
     "river": "Yan Oya",
     "station": "Horowpatana",
     "alert_level": 6.0,
@@ -469,7 +469,7 @@
   },
   {
     "ut": 1716199200.0,
-    "river_basin": "Maa Oya (RB 69)  Mukunu Oya",
+    "river_basin": "Maa Oya (RB 69) Mukunu Oya",
     "river": "",
     "station": "Yakawewa",
     "alert_level": 4.0,
@@ -487,7 +487,7 @@
   },
   {
     "ut": 1716199200.0,
-    "river_basin": "Deduru Oya      ",
+    "river_basin": "Deduru Oya (RB 99)",
     "river": "Deduru Oya",
     "station": "Moragaswewa",
     "alert_level": 4.75,
@@ -505,7 +505,7 @@
   },
   {
     "ut": 1716199200.0,
-    "river_basin": "Maha Oya             ",
+    "river_basin": "Maha Oya (RB 102)",
     "river": "Maha Oya",
     "station": "Badalgama",
     "alert_level": 5.0,
@@ -523,7 +523,7 @@
   },
   {
     "ut": 1716199200.0,
-    "river_basin": "Maha Oya             ",
+    "river_basin": "Maha Oya (RB 102)",
     "river": "Maha Oya",
     "station": "Giriulla",
     "alert_level": 5.5,
@@ -541,7 +541,7 @@
   },
   {
     "ut": 1716199200.0,
-    "river_basin": "Attanagalu Oya ",
+    "river_basin": "Attanagalu Oya (RB 103)",
     "river": "Attanagalu Oya",
     "station": "Dunamale",
     "alert_level": 3.3,
