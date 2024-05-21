@@ -127,9 +127,11 @@ class GenericDownloader:
             if os.path.exists(file_path):
                 log.debug(f"{file_path} exists.")
                 continue
-            
+
             try:
-                GenericDownloader.download_binary(link_info['href'], file_path)
+                GenericDownloader.download_binary(
+                    link_info['href'], file_path
+                )
                 n_downloaded += 1
                 log.info(
                     f"{i_link}/{n_total})"
@@ -140,4 +142,3 @@ class GenericDownloader:
                     break
             except BaseException as e:
                 log.error(f"Failed to download {file_path}: {e}")
-                

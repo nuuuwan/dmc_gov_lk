@@ -2,7 +2,7 @@ import os
 
 from utils import File, JSONFile, Log
 
-from dmc.GenericDownloader import GenericDownloader
+from dmc.downloaders.GenericDownloader import GenericDownloader
 
 log = Log('ReadMe')
 
