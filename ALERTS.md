@@ -15,14 +15,14 @@ Last updated **2024-05-21 15:30:00**.
 | 🟡 Alert | Kalu Ganga (RB 03) | Maguru Ganga | Magura | -70 🡇 | 4.8 | 4.0 | 🟡 |
 | 🟡 Alert | Nilwala Ganga (RB 12) | Nilwala Ganga | Panadugama | -20 🡇 | 5.3 | 5.0 | 🟡 |
 | 🟡 Alert | Nilwala Ganga (RB 12) | Nilwala Ganga | Thalgahagoda | 20 🡅 | 1.5 | 1.4 | 🟡 |
-| 🟢 Normal | Gin Ganga (RB 09) | Gin Ganga | Tawalama | 130 🡅 | 2.7 | 4.0 | 🔵 10.2 |
-| 🟢 Normal | Kelani Ganga (RB 01) | Kelani Ganga | Kitulgala | 110 🡅 | 1.6 | 3.0 | 🔵 12.5 |
-| 🟢 Normal | Mahaweli Ganga (RB 60) | Mahaweli Ganga | Nawalapitiya | 100 🡅 | 1.6 | 3.5 | 🔵 19.3 |
-| 🟢 Normal | Nilwala Ganga (RB 12) | Urubokka Ganga | Urawa | 30 🡅 | 0.7 | 2.5 | 🔵 59.0 |
-| 🟢 Normal | Kelani Ganga (RB 01) | Seethawaka Ganga | Deraniyagala | 40 🡅 | 1.4 | 4.8 | 🔵 85.0 |
-| 🟢 Normal | Kalu Ganga (RB 03) | Kalu Ganga | Ratnapura | 10 🡅 | 4.3 | 5.2 | 🔵 91.0 |
-| 🟢 Normal | Nilwala Ganga (RB 12) | Nilwala Ganga | Pitabeddara | 20 🡅 | 1.5 | 4.0 | 🔵 125.5 |
-| 🟢 Normal | Mahaweli Ganga (RB 60) | Mahaweli Ganga | Peradeniya | 10 🡅 | 1.7 | 5.0 | 🔵 326.0 |
+| 🟢 Normal | Gin Ganga (RB 09) | Gin Ganga | Tawalama | 130 🡅 | 2.7 | 4.0 | 10.2 ⏳ |
+| 🟢 Normal | Kelani Ganga (RB 01) | Kelani Ganga | Kitulgala | 110 🡅 | 1.6 | 3.0 | 12.5 ⏳ |
+| 🟢 Normal | Mahaweli Ganga (RB 60) | Mahaweli Ganga | Nawalapitiya | 100 🡅 | 1.6 | 3.5 | 19.3 ⏳ |
+| 🟢 Normal | Nilwala Ganga (RB 12) | Urubokka Ganga | Urawa | 30 🡅 | 0.7 | 2.5 | 59.0 ⏳ |
+| 🟢 Normal | Kelani Ganga (RB 01) | Seethawaka Ganga | Deraniyagala | 40 🡅 | 1.4 | 4.8 | 85.0 ⏳ |
+| 🟢 Normal | Kalu Ganga (RB 03) | Kalu Ganga | Ratnapura | 10 🡅 | 4.3 | 5.2 | 91.0 ⏳ |
+| 🟢 Normal | Nilwala Ganga (RB 12) | Nilwala Ganga | Pitabeddara | 20 🡅 | 1.5 | 4.0 | 125.5 ⏳ |
+| 🟢 Normal | Mahaweli Ganga (RB 60) | Mahaweli Ganga | Peradeniya | 10 🡅 | 1.7 | 5.0 | 326.0 ⏳ |
 | 🟢 Normal | Deduru Oya (RB 99) | Deduru Oya | Moragaswewa | -70 🡇 | 4.5 | 4.8 | 🟢 |
 | 🟢 Normal | Heda Oya (RB 36) | Heda Oya | Siyambalanduwa | 0  | 0.6 | 4.5 | 🟢 |
 | 🟢 Normal | Kalu Ganga (RB 03) | Kalu Ganga | Ellagawa | 0  | 8.6 | 10.0 | 🟢 |

@@ -100,7 +100,7 @@ class RiverWaterLevel(RiverWaterLevelParser):
             return '🟢'
 
         t = diff / rate / TimeUnit.SECONDS_IN.HOUR
-        return f'🔵 {t:.1f}'
+        return f'{t:.1f} ⏳'
 
     @staticmethod
     def get_data_path_from_time_id(time_id):
