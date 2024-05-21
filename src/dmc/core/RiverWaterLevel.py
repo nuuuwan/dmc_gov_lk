@@ -76,9 +76,9 @@ class RiverWaterLevel:
     @property
     def rising_rate_emoji(self):
         if self.rising_rate_mm_per_hr > 0:
-            return '🟥'
+            return '🡅'
         if self.rising_rate_mm_per_hr < 0:
-            return '🟩'
+            return '🡇'
         return ''
 
     @staticmethod

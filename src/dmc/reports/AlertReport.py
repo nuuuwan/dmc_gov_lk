@@ -34,9 +34,9 @@ class AlertReport:
 
         for rwl in rwl_list:
             lines.append(
-                f'| {rwl.alert_emoji} {rwl.level_text} | {rwl.river_basin} '
-                + f'| {rwl.river} | {rwl.station} |'
-                + f' {rwl.rising_rate_emoji} {rwl.rising_rate_mm_per_hr:.0f} |'
+                f'| {rwl.alert_emoji} {rwl.level_text} | {rwl.river_basin}'
+                + f' | {rwl.river} | {rwl.station}'
+                + f' | {rwl.rising_rate_mm_per_hr:.0f} {rwl.rising_rate_emoji} |'
             )
         lines.append('')
         return lines
