@@ -22,6 +22,7 @@ class AlertReport:
 
         ut = rwl_list[0].ut
         time_str = TimeFormat.TIME.format(Time(ut))
+        log.debug(f'{time_str=}')
 
         lines.extend([f'Last updated **{time_str}**.', ''])
 
