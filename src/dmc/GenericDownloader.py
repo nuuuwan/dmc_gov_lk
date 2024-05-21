@@ -127,13 +127,17 @@ class GenericDownloader:
             if os.path.exists(file_path):
                 log.debug(f"{file_path} exists.")
                 continue
+            
+            try:
+                GenericDownloader.download_binary(link_info['href'], file_path)
+                n_downloaded += 1
+                log.info(
+                    f"{i_link}/{n_total})"
+                    + f" Downloaded {file_path} ({n_downloaded})"
+                )
 
-            GenericDownloader.download_binary(link_info['href'], file_path)
-            n_downloaded += 1
-            log.info(
-                f"{i_link}/{n_total})"
-                + f" Downloaded {file_path} ({n_downloaded})"
-            )
-
-            if n_downloaded >= GenericDownloader.N_MAX_DOWNLOADS:
-                break
+                if n_downloaded >= GenericDownloader.N_MAX_DOWNLOADS:
+                    break
+            except BaseException as e:
+                log.error(f"Failed to download {file_path}: {e}")
+                
