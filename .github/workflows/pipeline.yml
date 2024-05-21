@@ -41,10 +41,15 @@ jobs:
           export PYTHONPATH="$PYTHONPATH:./src"
           python workflows/build_readme.py
 
-      - name: STEP 3) build_alers
+      - name: STEP 3) build_alerts
         run: |
           export PYTHONPATH="$PYTHONPATH:./src"
           python workflows/build_alerts.py
+
+      - name: STEP 4) copy_landslide_map
+        run: |
+          export PYTHONPATH="$PYTHONPATH:./src"
+          python workflows/copy_landslide_map.py
 
       - name: Push to github repo
         run: |
