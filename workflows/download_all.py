@@ -1,4 +1,4 @@
-from dmc import GenericDownloader
+from dmc import GenericDownloader, RiverWaterLevel
 
 
 def main():
@@ -8,7 +8,7 @@ def main():
         ['flood-inundation-maps', 3],
         ['emergency-response-data-viewer', 4],
         ['landslide-warnings', 5],
-        ['river-water-level-and-flood-warnings', 6],
+        [RiverWaterLevel.DOC_TYPE, 6],
         ['earthquakes', 7],
     ]:
         downloader = GenericDownloader(doc_type, report_type_id)

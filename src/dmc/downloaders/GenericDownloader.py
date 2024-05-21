@@ -9,6 +9,8 @@ import requests
 from bs4 import BeautifulSoup
 from utils import JSONFile, Log, Time, TimeFormat
 
+from dmc.core import RiverWaterLevel
+
 log = Log('GenericDownloader')
 
 
@@ -137,6 +139,10 @@ class GenericDownloader:
                     f"{i_link}/{n_total})"
                     + f" Downloaded {file_path} ({n_downloaded})"
                 )
+
+                # HACK: parse
+                if self.doc_type == RiverWaterLevel.DOC_TYPE:
+                    RiverWaterLevel.list_from_pdf(file_path)
 
                 if n_downloaded >= GenericDownloader.N_MAX_DOWNLOADS:
                     break

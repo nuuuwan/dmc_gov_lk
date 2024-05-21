@@ -15,6 +15,18 @@ def parse_float(s):
 
 @dataclass
 class RiverWaterLevel:
+    # constants
+    DOC_TYPE = 'river-water-level-and-flood-warnings'
+    DIR_PDFS = os.path.join(
+        'data',
+        DOC_TYPE,
+    )
+    DIR_PARSED_DATA = os.path.join(
+        'data-parsed',
+        DOC_TYPE,
+    )
+
+    # dataclass
     ut: float
     river_basin: str
     river: str
@@ -49,15 +61,6 @@ class RiverWaterLevel:
     @property
     def level_text(self):
         return ['Normal', 'Alert', 'Minor Flood', 'Major Flood'][self.level]
-
-    DIR_PDFS = os.path.join(
-        'data',
-        'river-water-level-and-flood-warnings',
-    )
-    DIR_PARSED_DATA = os.path.join(
-        'data-parsed',
-        'river-water-level-and-flood-warnings',
-    )
 
     @staticmethod
     def get_data_path_from_time_id(time_id):
@@ -194,15 +197,3 @@ class RiverWaterLevel:
         JSONFile(data_path).write([rwl.to_dict() for rwl in rwl_list])
         log.info(f'Wrote {data_path}')
         return rwl_list
-
-
-def main():
-    RiverWaterLevel.list_from_pdf(
-        os.path.join(
-            RiverWaterLevel.DIR_PDFS, '20240521.0630.water-level-report.pdf'
-        )
-    )
-
-
-if __name__ == "__main__":
-    main()
