@@ -1,4 +1,4 @@
-from utils import File, Log, TimeFormat, Time
+from utils import File, Log, Time, TimeFormat
 
 from dmc.core import RiverWaterLevel
 
@@ -22,20 +22,21 @@ class AlertReport:
 
         ut = rwl_list[0].ut
         time_str = TimeFormat.TIME.format(Time(ut))
-        
+
         lines.extend([f'Last updated **{time_str}**.', ''])
 
         lines.extend(
             [
-                '| Level | Basin | River | Station |',
-                '|-------|-------|-------|---------|',
+                '| Level | Basin | River | Station | mm/hr |',
+                '|-------|-------|-------|---------| ----: |',
             ]
         )
 
         for rwl in rwl_list:
             lines.append(
-                f'| {rwl.emoji} {rwl.level_text} | {rwl.river_basin} '
+                f'| {rwl.alert_emoji} {rwl.level_text} | {rwl.river_basin} '
                 + f'| {rwl.river} | {rwl.station} |'
+                + f' {rwl.rising_rate_emoji} {rwl.rising_rate_mm_per_hr:.0f} |'
             )
         lines.append('')
         return lines

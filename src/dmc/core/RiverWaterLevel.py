@@ -2,7 +2,7 @@ import os
 from dataclasses import dataclass
 
 import camelot
-from utils import JSONFile, Log, Time, TimeFormat
+from utils import JSONFile, Log, Time, TimeFormat, TimeUnit
 
 log = Log('RiverWaterLevel')
 
@@ -55,12 +55,31 @@ class RiverWaterLevel:
         return 0
 
     @property
-    def emoji(self):
+    def alert_emoji(self):
         return ['🟢', '🟡', '🟠', '🔴'][self.level]
 
     @property
     def level_text(self):
         return ['Normal', 'Alert', 'Minor Flood', 'Major Flood'][self.level]
+
+    @property
+    def rising_rate_m_per_s(self) -> float:
+        return (self.water_level_2 - self.water_level_1) / (
+            self.ut_water_level_2 - self.ut_water_level_1
+        )
+
+    @property
+    def rising_rate_mm_per_hr(self) -> float:
+        MM_IN_M = 1_000
+        return self.rising_rate_m_per_s * TimeUnit.SECONDS_IN.HOUR * MM_IN_M
+
+    @property
+    def rising_rate_emoji(self):
+        if self.rising_rate_mm_per_hr > 0:
+            return '🟥'
+        if self.rising_rate_mm_per_hr < 0:
+            return '🟩'
+        return ''
 
     @staticmethod
     def get_data_path_from_time_id(time_id):
