@@ -16,8 +16,7 @@ class AlertReport:
 
         rwl_list = RiverWaterLevel.list_from_latest()
         rwl_list.sort(
-            key=lambda rwl: (rwl.level,),
-            reverse=True,
+            key=lambda rwl: (-rwl.level, rwl.time_to_alert, rwl.river_basin, rwl.river, rwl.station),
         )
 
         ut = rwl_list[0].ut
