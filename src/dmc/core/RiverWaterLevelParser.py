@@ -41,8 +41,9 @@ class RiverWaterLevelParser:
         table = tables[0]
         df = table.df
         d_list = df.values.tolist()
-        for i, d in enumerate(d_list):
-            print(i, d)
+        
+        # for i, d in enumerate(d_list):
+        #     print(i, d)
 
 
         date_id = pdf_file[:8]
@@ -89,7 +90,7 @@ class RiverWaterLevelParser:
         for d in d_list[2:]:
 
             if d[0]:
-                river_basin = d[0]
+                river_basin = d[0].split('\n')[0]
 
             if not d[1] and not d[2]:
                 continue
