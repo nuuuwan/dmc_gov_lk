@@ -81,24 +81,24 @@ class RiverWaterLevel(RiverWaterLevelParser):
         diff = self.alert_level - self.water_level_2
         if diff <= 0:
             return 1_000_000
-        
+
         rate = self.rising_rate_m_per_s
         if rate <= 0:
             return 1_000_000
-        
+
         t = diff / rate / TimeUnit.SECONDS_IN.HOUR
         return t
-    
+
     @property
     def time_to_alert_str(self) -> str:
         diff = self.alert_level - self.water_level_2
         if diff <= 0:
-            return '🟡' 
-        
+            return '🟡'
+
         rate = self.rising_rate_m_per_s
         if rate <= 0:
             return '🟢'
-        
+
         t = diff / rate / TimeUnit.SECONDS_IN.HOUR
         return f'🔵 {t:.1f}'
 

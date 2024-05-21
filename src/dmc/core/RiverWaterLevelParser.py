@@ -1,5 +1,6 @@
 import os
 import re
+
 import camelot
 from utils import JSONFile, Log, Time, TimeFormat, TimeUnit
 
@@ -23,9 +24,8 @@ def clean(x):
     x = x.strip()
     return x
 
+
 class RiverWaterLevelParser:
-
-
     @classmethod
     def list_from_pdf(cls, pdf_path):
         # parse ut
@@ -47,23 +47,23 @@ class RiverWaterLevelParser:
         table = tables[0]
         df = table.df
         d_list = df.values.tolist()
-        
+
         # for i, d in enumerate(d_list):
         #     print(i, d)
-
 
         date_id = pdf_file[:8]
 
         def get_ut(time1):
-            
-            time1 = time1.lower().replace('noon', '12:00 pm').replace('midnight', '12:00 am')
+            time1 = (
+                time1.lower()
+                .replace('noon', '12:00 pm')
+                .replace('midnight', '12:00 am')
+            )
             time1 = time1.replace('.', ':')
             time1 = time1.replace("12:00 12:00", '12:00')
             time1 = time1.replace('p:m:', 'pm')
             time1 = time1.replace('p:m', 'pm')
-            ut = (
-                TimeFormat('%Y%m%d %I:%M %p').parse(f'{date_id} {time1}').ut
-            )
+            ut = TimeFormat('%Y%m%d %I:%M %p').parse(f'{date_id} {time1}').ut
 
             ut_date = TimeFormat.DATE_ID.parse(date_id).ut
             if ut > ut_date:
@@ -74,7 +74,15 @@ class RiverWaterLevelParser:
         rainfall_duration = int(
             d_list[0][-1].split(' ')[0].lower().replace('hr', '')
         )
-        rainfall_end_time = d_list[0][-1].lower().replace('p.m.', 'pm').replace('p.m', 'pm').replace('\npm', 'pm').split('\n')[-1].replace('mm at ', '')
+        rainfall_end_time = (
+            d_list[0][-1]
+            .lower()
+            .replace('p.m.', 'pm')
+            .replace('p.m', 'pm')
+            .replace('\npm', 'pm')
+            .split('\n')[-1]
+            .replace('mm at ', '')
+        )
         log.debug(f'{rainfall_duration=}, {rainfall_end_time=}')
         ut_rainfall_end = get_ut(rainfall_end_time)
         log.debug(f'{ut_rainfall_end=}')
@@ -133,11 +141,10 @@ class RiverWaterLevelParser:
         log.debug(rwl_list[0])
         log.debug(rwl_list[-1])
         n = len(rwl_list)
-        
-        
+
         if not os.path.exists(cls.DIR_PARSED_DATA):
             os.makedirs(cls.DIR_PARSED_DATA)
-        
+
         JSONFile(data_path).write([rwl.to_dict() for rwl in rwl_list])
         log.info(f'Wrote {n} records to {data_path}')
         return rwl_list

@@ -16,7 +16,13 @@ class AlertReport:
 
         rwl_list = RiverWaterLevel.list_from_latest()
         rwl_list.sort(
-            key=lambda rwl: (-rwl.level, rwl.time_to_alert, rwl.river_basin, rwl.river, rwl.station),
+            key=lambda rwl: (
+                -rwl.level,
+                rwl.time_to_alert,
+                rwl.river_basin,
+                rwl.river,
+                rwl.station,
+            ),
         )
 
         ut = rwl_list[0].ut
@@ -28,7 +34,8 @@ class AlertReport:
         lines.extend(
             [
                 '| Level | Basin | River | Station'
-                + ' | Rising Rate (mm/hr)'+ ' | Level (m) | Alert Level (m) | Time to Alert (hrs) |',
+                + ' | Rising Rate (mm/hr)'
+                + ' | Level (m) | Alert Level (m) | Time to Alert (hrs) |',
                 '|---|---|---|---' + '|--:' + ' |--:|--:|--:|',
             ]
         )
