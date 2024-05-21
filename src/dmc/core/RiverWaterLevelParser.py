@@ -53,6 +53,7 @@ class RiverWaterLevelParser:
             time1 = time1.replace('.', ':')
             time1 = time1.replace("12:00 12:00", '12:00')
             time1 = time1.replace('p:m:', 'pm')
+            time1 = time1.replace('p:m', 'pm')
             ut = (
                 TimeFormat('%Y%m%d %I:%M %p').parse(f'{date_id} {time1}').ut
             )
@@ -89,6 +90,9 @@ class RiverWaterLevelParser:
 
             if d[0]:
                 river_basin = d[0]
+
+            if not d[1] and not d[2]:
+                continue
 
             unit = d[3]
             unit_k = 1
