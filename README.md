@@ -19,7 +19,7 @@
 
 ## River Water Level And Flood Warnings
 
-**1485/1488** documents downloaded.
+**1487/1488** documents downloaded.
 
 * [2024-05-22 15:30 Water Level](data/river-water-level-and-flood-warnings/20240522.1530.water-level.pdf)
 * [2024-05-22 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20240522.0930.water-level-rainfall.pdf)
@@ -73,7 +73,7 @@
 
 ## Situation Reports
 
-**970/3964** documents downloaded.
+**980/3964** documents downloaded.
 
 * [2024-05-22 09:00 Situation Report](data/situation-reports/20240522.0900.situation-report.pdf)
 * [2024-05-21 09:00 Situation Report](data/situation-reports/20240521.0900.situation-report.pdf)
@@ -88,7 +88,7 @@
 
 ## Weather Reports
 
-**859/8313** documents downloaded.
+**869/8313** documents downloaded.
 
 * [2024-05-22 15:00 Fisherma Bulleting 1500hrs](data/weather-reports/20240522.1500.fisherma-bulleting-1500hrs.pdf)
 * [2024-05-22 13:30 Advisory for Strong Winds and Rough Seas Report](data/weather-reports/20240522.1330.advisory-for-strong-winds-and-rough-seas-report.pdf)
