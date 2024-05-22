@@ -73,7 +73,7 @@
 
 ## Situation Reports
 
-**1050/3964** documents downloaded.
+**1060/3964** documents downloaded.
 
 * [2024-05-22 09:00 Situation Report](data/situation-reports/20240522.0900.situation-report.pdf)
 * [2024-05-21 09:00 Situation Report](data/situation-reports/20240521.0900.situation-report.pdf)
@@ -88,7 +88,7 @@
 
 ## Weather Reports
 
-**939/8314** documents downloaded.
+**949/8314** documents downloaded.
 
 * [2024-05-22 22:30 Fisherman Bulletin](data/weather-reports/20240522.2230.fisherman-bulletin.pdf)
 * [2024-05-22 15:00 Fisherma Bulleting 1500hrs](data/weather-reports/20240522.1500.fisherma-bulleting-1500hrs.pdf)
