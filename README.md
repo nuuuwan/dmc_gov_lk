@@ -19,18 +19,18 @@
 
 ## River Water Level And Flood Warnings
 
-**1488/1489** documents downloaded.
+**1489/1490** documents downloaded.
 
 * [2024-05-22 18:30 Water Level](data/river-water-level-and-flood-warnings/20240522.1830.water-level.pdf)
 * [2024-05-22 15:30 Water Level](data/river-water-level-and-flood-warnings/20240522.1530.water-level.pdf)
 * [2024-05-22 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20240522.0930.water-level-rainfall.pdf)
+* [2024-05-22 09:30 Water level](data/river-water-level-and-flood-warnings/20240522.0930.water-level.pdf)
 * [2024-05-22 06:30 water level](data/river-water-level-and-flood-warnings/20240522.0630.water-level.pdf)
 * [2024-05-22 03:30 water level](data/river-water-level-and-flood-warnings/20240522.0330.water-level.pdf)
 * [2024-05-22 00:30 water level](data/river-water-level-and-flood-warnings/20240522.0030.water-level.pdf)
 * [2024-05-21 21:30 water level](data/river-water-level-and-flood-warnings/20240521.2130.water-level.pdf)
 * [2024-05-21 18:30 Water Level](data/river-water-level-and-flood-warnings/20240521.1830.water-level.pdf)
 * [2024-05-21 15:30 Water Level Report](data/river-water-level-and-flood-warnings/20240521.1530.water-level-report.pdf)
-* [2024-05-21 12:30 water level](data/river-water-level-and-flood-warnings/20240521.1230.water-level.pdf)
 
 ## Landslide Warnings
 
@@ -73,7 +73,7 @@
 
 ## Situation Reports
 
-**1020/3964** documents downloaded.
+**1030/3964** documents downloaded.
 
 * [2024-05-22 09:00 Situation Report](data/situation-reports/20240522.0900.situation-report.pdf)
 * [2024-05-21 09:00 Situation Report](data/situation-reports/20240521.0900.situation-report.pdf)
@@ -88,7 +88,7 @@
 
 ## Weather Reports
 
-**909/8313** documents downloaded.
+**919/8313** documents downloaded.
 
 * [2024-05-22 15:00 Fisherma Bulleting 1500hrs](data/weather-reports/20240522.1500.fisherma-bulleting-1500hrs.pdf)
 * [2024-05-22 13:30 Advisory for Strong Winds and Rough Seas Report](data/weather-reports/20240522.1330.advisory-for-strong-winds-and-rough-seas-report.pdf)
