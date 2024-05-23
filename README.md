@@ -73,7 +73,7 @@
 
 ## Situation Reports
 
-**1120/3964** documents downloaded.
+**1130/3964** documents downloaded.
 
 * [2024-05-22 09:00 Situation Report](data/situation-reports/20240522.0900.situation-report.pdf)
 * [2024-05-21 09:00 Situation Report](data/situation-reports/20240521.0900.situation-report.pdf)
@@ -88,7 +88,7 @@
 
 ## Weather Reports
 
-**1009/8315** documents downloaded.
+**1019/8315** documents downloaded.
 
 * [2024-05-23 05:30 Weather Forcast](data/weather-reports/20240523.0530.weather-forcast.pdf)
 * [2024-05-22 22:30 Fisherman Bulletin](data/weather-reports/20240522.2230.fisherman-bulletin.pdf)
