@@ -1,5 +1,13 @@
 [
   {
+    "name": "Water Level",
+    "time_str": "2024-05-24 00:30",
+    "time_id": "20240524.0030",
+    "ut": 1716490800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2024__1716494428.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Advisory for Strong Winds and Rough Seas Report",
     "time_str": "2024-05-23 22:30",
     "time_id": "20240523.2230",
