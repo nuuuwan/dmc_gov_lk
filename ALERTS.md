@@ -53,4 +53,9 @@ Last updated **2024-05-23 12:00:00**.
 | 🟢 Normal | Walawe Ganga (RB 18) | Walawe Ganga | Moraketiya | 0  | 1.4 | 3.0 | 🟢 |
 | 🟢 Normal | Yan Oya (RB 67) | Yan Oya | Horowpatana | 0  | 1.8 | 6.0 | 🟢 |
 
+
+<div id="river-water-level-map">
+
 ![River Water Level Map](images/river-water-level-map.png)
+
+</div>
