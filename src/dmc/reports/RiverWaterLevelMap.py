@@ -27,8 +27,8 @@ class RiverWaterLevelMap:
 
         
         fig, ax = plt.subplots()
-        fig.set_size_inches(4.5, 8)
-        plt.tight_layout()
+        fig.set_size_inches(8, 8)
+
         
         
         for ent in ents:
@@ -51,7 +51,7 @@ class RiverWaterLevelMap:
 
             geo = ent.geo()
             geo.plot(ax=ax, color=color, edgecolor='#fff')
-            ax.grid(False)
+        
 
         for level in range(0, 4):
             for rwl in rwl_list:
@@ -90,6 +90,9 @@ class RiverWaterLevelMap:
 
         ax.set_xticks([])
         ax.set_yticks([])
+        ax.grid(False)
+        for key, spine in ax.spines.items():
+            spine.set_visible(False)
 
         ut = rwl_list[0].ut
         time_str = TimeFormat.TIME.format(Time(ut))
