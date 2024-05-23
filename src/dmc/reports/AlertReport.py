@@ -83,8 +83,7 @@ class AlertReport:
                 '',
                 '![River Water Level Map](images/river-water-level-map.png)',
                 '',
-                '</div>'
-                '',
+                '</div>' '',
             ]
         )
 
