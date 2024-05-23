@@ -14,7 +14,9 @@ class StationLatLngData:
         "Hanwella": LatLng(6.910489028063102, 80.08133984391833),
         "Holombuwa": LatLng(7.18861230041471, 80.27381001159266),
         "Horowpatana": LatLng(8.577144224946247, 80.88120305584708),
-        "Kalawellawa (Millakanda)": LatLng(6.6315078194386246, 80.16073462916866),
+        "Kalawellawa (Millakanda)": LatLng(
+            6.6315078194386246, 80.16073462916866
+        ),
         "Katharagama": LatLng(6.418350424146931, 81.33162402101244),
         "Kitulgala": LatLng(6.985283769517581, 80.42544930669654),
         "Kuda Oya": LatLng(6.531299778512797, 81.11931312403397),

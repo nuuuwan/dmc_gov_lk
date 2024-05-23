@@ -6,13 +6,14 @@ from utils import JSONFile, Log
 
 from dmc.core.station.StationDistrictData import StationDistrictData
 from dmc.core.station.StationLatLngData import StationLatLngData
+from dmc.core.station.StationLinks import StationLinks
 from utils_future import LatLng
 
 log = Log('Station')
 
 
 @dataclass
-class Station(StationLatLngData, StationDistrictData):
+class Station(StationLatLngData, StationDistrictData, StationLinks):
     DATA_PATH = os.path.join('data-static', 'stations.json')
 
     river_basin: str

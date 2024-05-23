@@ -3,7 +3,7 @@ import os
 import matplotlib.pyplot as plt
 from gig import Ent, EntType
 from utils import Log, Time, TimeFormat
-
+from matplotlib import collections as mc
 from dmc.core import RiverWaterLevel, Station
 
 log = Log('RiverWaterLevelMap')
@@ -25,8 +25,23 @@ class RiverWaterLevelMap:
         ents = Ent.list_from_type(self.ENT_TYPE)
         rwl_list = RiverWaterLevel.list_from_latest()
 
+
+
+        lines  = []
+        for  station_names in Station.RIVERS.values():
+            line = []
+            for station_name in station_names:
+                station = Station.from_name(station_name)
+                line.append([
+                    station.latLng.lng, station.latLng.lat
+                ])
+            lines.append(line)
+                
+        lc = mc.LineCollection(lines, colors='#444', linewidths=3)
+        lc.set_zorder(2)
         fig, ax = plt.subplots()
         fig.set_size_inches(8, 8)
+        ax.add_collection(lc)
 
         for ent in ents:
             max_level = 0
@@ -63,6 +78,7 @@ class RiverWaterLevelMap:
                     facecolor=color,
                     edgecolor="black",
                 )
+                circle.set_zorder(2)
                 ax.add_patch(circle)
                 plt.text(
                     station.latLng.lng + 0.05,
@@ -86,7 +102,8 @@ class RiverWaterLevelMap:
                 label,
                 fontsize=5,
             )
-
+        PADDING = 0.01
+        plt.subplots_adjust(left=PADDING, right=1-PADDING, top=1-PADDING, bottom=PADDING, wspace=PADDING*2, hspace=PADDING*2)
         ax.set_xticks([])
         ax.set_yticks([])
         ax.grid(False)
