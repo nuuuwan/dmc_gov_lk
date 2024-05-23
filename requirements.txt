@@ -2,3 +2,4 @@ utils-nuuuwan
 bs4
 camelot-py[cv]
 gig-nuuuwan
+matplotlib
