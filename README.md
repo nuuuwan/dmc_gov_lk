@@ -19,8 +19,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1492/1493** documents downloaded.
+**1493/1494** documents downloaded.
 
+* [2024-05-23 09:30 water level](data/river-water-level-and-flood-warnings/20240523.0930.water-level.pdf)
 * [2024-05-23 06:30 Water Level](data/river-water-level-and-flood-warnings/20240523.0630.water-level.pdf)
 * [2024-05-23 03:30 Water Level](data/river-water-level-and-flood-warnings/20240523.0330.water-level.pdf)
 * [2024-05-23 00:30 Water Level](data/river-water-level-and-flood-warnings/20240523.0030.water-level.pdf)
@@ -30,7 +31,6 @@
 * [2024-05-22 09:30 Water level](data/river-water-level-and-flood-warnings/20240522.0930.water-level.pdf)
 * [2024-05-22 06:30 water level](data/river-water-level-and-flood-warnings/20240522.0630.water-level.pdf)
 * [2024-05-22 03:30 water level](data/river-water-level-and-flood-warnings/20240522.0330.water-level.pdf)
-* [2024-05-22 00:30 water level](data/river-water-level-and-flood-warnings/20240522.0030.water-level.pdf)
 
 ## Landslide Warnings
 
@@ -73,8 +73,9 @@
 
 ## Situation Reports
 
-**1130/3964** documents downloaded.
+**1140/3965** documents downloaded.
 
+* [2024-05-23 09:00 Situation Report](data/situation-reports/20240523.0900.situation-report.pdf)
 * [2024-05-22 09:00 Situation Report](data/situation-reports/20240522.0900.situation-report.pdf)
 * [2024-05-21 09:00 Situation Report](data/situation-reports/20240521.0900.situation-report.pdf)
 * [2024-05-20 09:00 Situation Report](data/situation-reports/20240520.0900.situation-report.pdf)
@@ -84,12 +85,13 @@
 * [2024-05-16 09:00 Situation Report](data/situation-reports/20240516.0900.situation-report.pdf)
 * [2024-05-15 09:00 Situation Report](data/situation-reports/20240515.0900.situation-report.pdf)
 * [2024-05-14 16:00 Situation Report](data/situation-reports/20240514.1600.situation-report.pdf)
-* [2024-05-14 09:00 Situation Report](data/situation-reports/20240514.0900.situation-report.pdf)
 
 ## Weather Reports
 
-**1019/8315** documents downloaded.
+**1029/8317** documents downloaded.
 
+* [2024-05-23 09:00 Advisory for Heavy Rain](data/weather-reports/20240523.0900.advisory-for-heavy-rain.pdf)
+* [2024-05-23 09:00 Advisory for Heavy Rain](data/weather-reports/20240523.0900.advisory-for-heavy-rain.pdf)
 * [2024-05-23 05:30 Weather Forcast](data/weather-reports/20240523.0530.weather-forcast.pdf)
 * [2024-05-22 22:30 Fisherman Bulletin](data/weather-reports/20240522.2230.fisherman-bulletin.pdf)
 * [2024-05-22 15:00 Fisherma Bulleting 1500hrs](data/weather-reports/20240522.1500.fisherma-bulleting-1500hrs.pdf)
@@ -98,5 +100,3 @@
 * [2024-05-22 13:00 Advisory for Heavy Rain](data/weather-reports/20240522.1300.advisory-for-heavy-rain.pdf)
 * [2024-05-22 12:00 Weather Forcast](data/weather-reports/20240522.1200.weather-forcast.pdf)
 * [2024-05-22 10:30 Advisory for Strong winds](data/weather-reports/20240522.1030.advisory-for-strong-winds.pdf)
-* [2024-05-22 09:30 Warning for Heavy Rain and Strong wind](data/weather-reports/20240522.0930.warning-for-heavy-rain-and-strong-wind.pdf)
-* [2024-05-22 05:30 Weather Report](data/weather-reports/20240522.0530.weather-report.pdf)
