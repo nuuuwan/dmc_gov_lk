@@ -2,7 +2,7 @@ import os
 
 import matplotlib.pyplot as plt
 from gig import Ent, EntType
-from utils import Log
+from utils import Log, Time, TimeFormat
 
 from dmc.core import RiverWaterLevel, Station
 
@@ -56,7 +56,7 @@ class RiverWaterLevelMap:
                 continue
             color = ['#080', '#ff0', '#f80', '#f00'][rwl.level]
             circle = plt.Circle(
-                (station.latLng.lng, station.latLng.lat), 0.04, color=color
+                (station.latLng.lng, station.latLng.lat), 0.03, color=color
             )
             ax.add_patch(circle)
             plt.text(
@@ -68,7 +68,11 @@ class RiverWaterLevelMap:
         ax.set_xticks([])
         ax.set_yticks([])
 
-        plt.title(f'River Water Levels')
+        ut = rwl_list[0].ut
+        time_str = TimeFormat.TIME.format(Time(ut))
+        log.debug(f'{time_str=}')
+
+        plt.title(f'River Water Levels ({time_str})')
         plt.savefig(self.image_path, dpi=600)
         plt.close()
         log.info(f'Wrote {self.image_path}')
