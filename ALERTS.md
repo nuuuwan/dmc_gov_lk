@@ -47,3 +47,5 @@ Last updated **2024-05-23 09:30:00**.
 | 🟢 Normal | Nilwala Ganga (RB 12) | Urubokka Ganga | Urawa | -30 🡇 | 1.1 | 2.5 | 🟢 |
 | 🟢 Normal | Walawe Ganga (RB 18) | Walawe Ganga | Moraketiya | 0  | 1.4 | 3.0 | 🟢 |
 | 🟢 Normal | Yan Oya (RB 67) | Yan Oya | Horowpatana | 0  | 1.8 | 6.0 | 🟢 |
+
+![River Water Level Map](images/river-water-level-map.png)

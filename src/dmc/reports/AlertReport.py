@@ -53,14 +53,19 @@ class AlertReport:
 
     @property
     def lines(self):
-        return [
-            '# Alerts',
-            '',
-            '*As posted on [https://www.dmc.gov.lk](https://www.dmc.gov.lk)*',
-            '',
-            '![River Water Level Map](images/river-water-level-map.png)',
-            '',
-        ] + self.lines_river_water_level
+        return (
+            [
+                '# Alerts',
+                '',
+                '*As posted on [https://www.dmc.gov.lk](https://www.dmc.gov.lk)*',
+                '',
+            ]
+            + self.lines_river_water_level
+            + [
+                '![River Water Level Map](images/river-water-level-map.png)',
+                '',
+            ]
+        )
 
     def build(self):
         File(self.alert_path).write_lines(self.lines)
