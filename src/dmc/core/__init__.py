@@ -2,4 +2,4 @@
 
 from dmc.core.RiverWaterLevel import RiverWaterLevel
 from dmc.core.RiverWaterLevelParser import RiverWaterLevelParser
-from dmc.core.station import Station, StationLatLngData
+from dmc.core.station import Station, StationDistrictData, StationLatLngData

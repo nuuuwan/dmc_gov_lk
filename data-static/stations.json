@@ -2,7 +2,8 @@
   {
     "river_basin": "Kelani Ganga (RB 01)",
     "river": "Kelani Ganga",
-    "station": "N' Street",
+    "name": "N' Street",
+    "district_id": "LK-11;LK-12",
     "latLng": [
       6.96027242132317,
       79.87858326530204
@@ -14,7 +15,8 @@
   {
     "river_basin": "Kelani Ganga (RB 01)",
     "river": "Kelani Ganga",
-    "station": "Hanwella",
+    "name": "Hanwella",
+    "district_id": "LK-11",
     "latLng": [
       6.910489028063102,
       80.08133984391833
@@ -26,7 +28,8 @@
   {
     "river_basin": "Kelani Ganga (RB 01)",
     "river": "Kelani Ganga",
-    "station": "Glencourse",
+    "name": "Glencourse",
+    "district_id": "LK-11;LK-12;LK-92",
     "latLng": [
       6.975736673046383,
       80.18660711562987
@@ -38,7 +41,8 @@
   {
     "river_basin": "Kelani Ganga (RB 01)",
     "river": "Kelani Ganga",
-    "station": "Kitulgala",
+    "name": "Kitulgala",
+    "district_id": "LK-92",
     "latLng": [
       6.985283769517581,
       80.42544930669654
@@ -50,7 +54,8 @@
   {
     "river_basin": "Kelani Ganga (RB 01)",
     "river": "Gurugoda Oya",
-    "station": "Holombuwa",
+    "name": "Holombuwa",
+    "district_id": "LK-92",
     "latLng": [
       7.18861230041471,
       80.27381001159266
@@ -62,7 +67,8 @@
   {
     "river_basin": "Kelani Ganga (RB 01)",
     "river": "Seethawaka Ganga",
-    "station": "Deraniyagala",
+    "name": "Deraniyagala",
+    "district_id": "LK-92",
     "latLng": [
       6.925762947059961,
       80.33922404112188
@@ -74,7 +80,8 @@
   {
     "river_basin": "Kelani Ganga (RB 01)",
     "river": "Kehelgamu Oya",
-    "station": "Norwood",
+    "name": "Norwood",
+    "district_id": "LK-23",
     "latLng": [
       6.839557267884663,
       80.61239609102284
@@ -86,7 +93,8 @@
   {
     "river_basin": "Kalu Ganga (RB 03)",
     "river": "Kalu Ganga",
-    "station": "Putupaula",
+    "name": "Putupaula",
+    "district_id": "LK-13",
     "latLng": [
       6.611561688998894,
       80.05974948036196
@@ -98,7 +106,8 @@
   {
     "river_basin": "Kalu Ganga (RB 03)",
     "river": "Kalu Ganga",
-    "station": "Ellagawa",
+    "name": "Ellagawa",
+    "district_id": "LK-91;LK-13",
     "latLng": [
       6.730399127799353,
       80.21307042256922
@@ -110,7 +119,8 @@
   {
     "river_basin": "Kalu Ganga (RB 03)",
     "river": "Kalu Ganga",
-    "station": "Ratnapura",
+    "name": "Ratnapura",
+    "district_id": "LK-91",
     "latLng": [
       6.689859893761882,
       80.38027645749384
@@ -122,7 +132,8 @@
   {
     "river_basin": "Kalu Ganga (RB 03)",
     "river": "Maguru Ganga",
-    "station": "Magura",
+    "name": "Magura",
+    "district_id": "LK-13",
     "latLng": [
       6.513716270509724,
       80.24399187228877
@@ -134,7 +145,8 @@
   {
     "river_basin": "Kalu Ganga (RB 03)",
     "river": "Kuda Ganga",
-    "station": "Kalawellawa (Millakanda)",
+    "name": "Kalawellawa (Millakanda)",
+    "district_id": "LK-13",
     "latLng": [
       6.6315078194386246,
       80.16073462916866
@@ -146,7 +158,8 @@
   {
     "river_basin": "Gin Ganga (RB 09)",
     "river": "Gin Ganga",
-    "station": "Baddegama",
+    "name": "Baddegama",
+    "district_id": "LK-31",
     "latLng": [
       6.177477311875031,
       80.18051836126706
@@ -158,7 +171,8 @@
   {
     "river_basin": "Gin Ganga (RB 09)",
     "river": "Gin Ganga",
-    "station": "Tawalama",
+    "name": "Tawalama",
+    "district_id": "LK-31;LK-13",
     "latLng": [
       6.342938049010117,
       80.33185946143057
@@ -170,7 +184,8 @@
   {
     "river_basin": "Nilwala Ganga (RB 12)",
     "river": "Nilwala Ganga",
-    "station": "Thalgahagoda",
+    "name": "Thalgahagoda",
+    "district_id": "LK-32",
     "latLng": [
       6.012329836481981,
       80.5347970941782
@@ -182,7 +197,8 @@
   {
     "river_basin": "Nilwala Ganga (RB 12)",
     "river": "Nilwala Ganga",
-    "station": "Panadugama",
+    "name": "Panadugama",
+    "district_id": "LK-32",
     "latLng": [
       6.1100549018149115,
       80.48065133051018
@@ -194,7 +210,8 @@
   {
     "river_basin": "Nilwala Ganga (RB 12)",
     "river": "Nilwala Ganga",
-    "station": "Pitabeddara",
+    "name": "Pitabeddara",
+    "district_id": "LK-32",
     "latLng": [
       6.20712968715078,
       80.45044348808202
@@ -206,7 +223,8 @@
   {
     "river_basin": "Nilwala Ganga (RB 12)",
     "river": "Urubokka Ganga",
-    "station": "Urawa",
+    "name": "Urawa",
+    "district_id": "LK-32",
     "latLng": [
       6.236507396306039,
       80.56633784106945
@@ -218,7 +236,8 @@
   {
     "river_basin": "Walawe Ganga (RB 18)",
     "river": "Walawe Ganga",
-    "station": "Moraketiya",
+    "name": "Moraketiya",
+    "district_id": "LK-91;LK-82",
     "latLng": [
       6.3450504078771,
       80.90195373048093
@@ -230,7 +249,8 @@
   {
     "river_basin": "Kirindi Oya (RB 22)",
     "river": "Kirindi Oya",
-    "station": "Tanamalwila",
+    "name": "Tanamalwila",
+    "district_id": "LK-82",
     "latLng": [
       6.44280954004885,
       81.13889314602751
@@ -242,7 +262,8 @@
   {
     "river_basin": "Kirindi Oya (RB 22)",
     "river": "Kirindi Oya",
-    "station": "Wellawaya",
+    "name": "Wellawaya",
+    "district_id": "LK-82",
     "latLng": [
       6.733186416118142,
       81.10987205932976
@@ -254,7 +275,8 @@
   {
     "river_basin": "Kirindi Oya (RB 22)",
     "river": "Kuda Oya",
-    "station": "Kuda Oya",
+    "name": "Kuda Oya",
+    "district_id": "LK-82",
     "latLng": [
       6.531299778512797,
       81.11931312403397
@@ -266,7 +288,8 @@
   {
     "river_basin": "Menik Ganga (RB 26)",
     "river": "Menik Ganga",
-    "station": "Katharagama",
+    "name": "Katharagama",
+    "district_id": "LK-82",
     "latLng": [
       6.418350424146931,
       81.33162402101244
@@ -278,7 +301,8 @@
   {
     "river_basin": "Kumbukkan Oya (RB 31)",
     "river": "Kumbukkan Oya",
-    "station": "Nakkala",
+    "name": "Nakkala",
+    "district_id": "LK-82",
     "latLng": [
       6.890291115719028,
       81.29789316071579
@@ -290,7 +314,8 @@
   {
     "river_basin": "Heda Oya (RB 36)",
     "river": "Heda Oya",
-    "station": "Siyambalanduwa",
+    "name": "Siyambalanduwa",
+    "district_id": "LK-82",
     "latLng": [
       6.905508688496518,
       81.54537666124355
@@ -302,7 +327,8 @@
   {
     "river_basin": "Maduru Oya (RB 54)",
     "river": "Maduru Oya",
-    "station": "Padiyatalawa",
+    "name": "Padiyatalawa",
+    "district_id": "LK-81;LK-52",
     "latLng": [
       7.3827145879708445,
       81.19476999029227
@@ -314,7 +340,8 @@
   {
     "river_basin": "Mahaweli Ganga (RB 60)",
     "river": "Mahaweli Ganga",
-    "station": "Manampitiya (HMIS)",
+    "name": "Manampitiya (HMIS)",
+    "district_id": "LK-72",
     "latLng": [
       7.913305747028369,
       81.08904162459265
@@ -326,7 +353,8 @@
   {
     "river_basin": "Mahaweli Ganga (RB 60)",
     "river": "Mahaweli Ganga",
-    "station": "Weragantota",
+    "name": "Weragantota",
+    "district_id": "LK-21;LK-81",
     "latLng": [
       7.329958849723429,
       80.98789578050872
@@ -338,7 +366,8 @@
   {
     "river_basin": "Mahaweli Ganga (RB 60)",
     "river": "Mahaweli Ganga",
-    "station": "Peradeniya",
+    "name": "Peradeniya",
+    "district_id": "LK-21",
     "latLng": [
       7.2641705575045075,
       80.5936236622826
@@ -350,7 +379,8 @@
   {
     "river_basin": "Mahaweli Ganga (RB 60)",
     "river": "Mahaweli Ganga",
-    "station": "Nawalapitiya",
+    "name": "Nawalapitiya",
+    "district_id": "LK-21",
     "latLng": [
       7.046038718801128,
       80.52624731051829
@@ -362,7 +392,8 @@
   {
     "river_basin": "Mahaweli Ganga (RB 60)",
     "river": "Badulu Oya",
-    "station": "Taldena",
+    "name": "Taldena",
+    "district_id": "LK-81",
     "latLng": [
       7.092702894310825,
       81.04865409851845
@@ -374,7 +405,8 @@
   {
     "river_basin": "Yan Oya (RB 67)",
     "river": "Yan Oya",
-    "station": "Horowpatana",
+    "name": "Horowpatana",
+    "district_id": "LK-71",
     "latLng": [
       8.577144224946247,
       80.88120305584708
@@ -386,7 +418,8 @@
   {
     "river_basin": "Maa Oya (RB 69) Mukunu Oya",
     "river": "",
-    "station": "Yakawewa",
+    "name": "Yakawewa",
+    "district_id": "LK-61",
     "latLng": [
       8.726531670464757,
       80.67505377972024
@@ -398,7 +431,8 @@
   {
     "river_basin": "Malwathu Oya (RB 90)",
     "river": "Malwathu Oya",
-    "station": "Tantirimale",
+    "name": "Tantirimale",
+    "district_id": "LK-71;LK-43",
     "latLng": [
       8.580763249784683,
       80.28400551575419
@@ -408,9 +442,23 @@
     "major_flood_level": 7.8
   },
   {
+    "river_basin": "Mee Oya (RB 95)",
+    "river": "Mee Oya",
+    "name": "Galgamuwa",
+    "district_id": "LK-61",
+    "latLng": [
+      0,
+      0
+    ],
+    "alert_level": 4.84,
+    "minor_flood_level": 5.94,
+    "major_flood_level": 8.0
+  },
+  {
     "river_basin": "Deduru Oya (RB 99)",
     "river": "Deduru Oya",
-    "station": "Moragaswewa",
+    "name": "Moragaswewa",
+    "district_id": "LK-61",
     "latLng": [
       7.731867586461941,
       80.24296279159842
@@ -422,7 +470,8 @@
   {
     "river_basin": "Maha Oya (RB 102)",
     "river": "Maha Oya",
-    "station": "Badalgama",
+    "name": "Badalgama",
+    "district_id": "LK-62;LK-61;LK-12",
     "latLng": [
       7.2931279607144255,
       79.97767925329397
@@ -434,7 +483,8 @@
   {
     "river_basin": "Maha Oya (RB 102)",
     "river": "Maha Oya",
-    "station": "Giriulla",
+    "name": "Giriulla",
+    "district_id": "LK-61",
     "latLng": [
       7.3303094121475345,
       80.12432086937476
@@ -446,7 +496,8 @@
   {
     "river_basin": "Attanagalu Oya (RB 103)",
     "river": "Attanagalu Oya",
-    "station": "Dunamale",
+    "name": "Dunamale",
+    "district_id": "LK-12",
     "latLng": [
       7.113033305509533,
       80.07900097051707
