@@ -58,6 +58,8 @@ class AlertReport:
             '',
             '*As posted on [https://www.dmc.gov.lk](https://www.dmc.gov.lk)*',
             '',
+            '![River Water Level Map](images/river-water-level-map.png)',
+            '',
         ] + self.lines_river_water_level
 
     def build(self):
