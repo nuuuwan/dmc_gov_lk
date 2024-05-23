@@ -58,6 +58,20 @@ class RiverWaterLevelMap:
         fig.set_size_inches(8, 8)
         ax.add_collection(lc)
 
+        for river in Station.RIVERS:
+            station = Station.from_name(Station.RIVERS[river][0])
+            if not station:
+                continue
+            text = river.split(' ')[0]
+            plt.text(
+                station.latLng.lng,
+                station.latLng.lat,
+                text,
+                fontsize=4,
+                horizontalalignment='center',
+                fontstyle='italic',
+            )
+
         for ent in ents:
             max_level = 0
             no_stations = True
