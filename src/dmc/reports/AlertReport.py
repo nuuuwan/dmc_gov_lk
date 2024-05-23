@@ -15,7 +15,6 @@ class AlertReport:
 
     def get_lines_river_water_level(self, alert_mode):
         title = 'Alerts' if alert_mode else 'Other Stations'
-        lines = [f'## {title}', '']
 
         rwl_list = [
             rwl
@@ -33,16 +32,20 @@ class AlertReport:
             ),
         )
 
+        n = len(rwl_list)
+
+        lines = [f'## {title} ({n:,})', '']
+
         lines.extend(
             [
                 '| Level | Basin | River | Station'
                 + ' | Rising Rate (mm/hr)'
                 + ' | Level (m) | Alert Level (m) |'
-                + (' Time to Alert |' if alert_mode else ''),
+                + (' Time to Alert |' if not alert_mode else ''),
                 '|---|---|---|---'
                 + '|--:'
                 + ' |--:|--:|'
-                + ('---|' if alert_mode else ''),
+                + ('---|' if not alert_mode else ''),
             ]
         )
 
@@ -52,7 +55,7 @@ class AlertReport:
                 + f' | {rwl.river} | {rwl.station}'
                 + f' | {rwl.rising_rate_mm_per_hr:.0f} {rwl.rising_rate_emoji}'
                 + f' | {rwl.water_level_2:.1f} | {rwl.alert_level:.1f} |'
-                + (f' {rwl.time_to_alert_str} |' if alert_mode else ''),
+                + (f' {rwl.time_to_alert_str} |' if not alert_mode else ''),
             )
         lines.append('')
         return lines
