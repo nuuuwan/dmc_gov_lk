@@ -447,8 +447,8 @@
     "name": "Galgamuwa",
     "district_id": "LK-61",
     "latLng": [
-      0,
-      0
+      7.968417972307392,
+      80.26139261952191
     ],
     "alert_level": 4.84,
     "minor_flood_level": 5.94,
