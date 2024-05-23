@@ -2,8 +2,9 @@ import os
 
 import matplotlib.pyplot as plt
 from gig import Ent, EntType
-from utils import Log, Time, TimeFormat
 from matplotlib import collections as mc
+from utils import Log, Time, TimeFormat
+
 from dmc.core import RiverWaterLevel, Station
 
 log = Log('RiverWaterLevelMap')
@@ -11,6 +12,7 @@ log = Log('RiverWaterLevelMap')
 
 class RiverWaterLevelMap:
     ENT_TYPE = EntType.DISTRICT
+    CIRCLE_RADIUS = 0.025
 
     @property
     def image_path(self):
@@ -25,19 +27,32 @@ class RiverWaterLevelMap:
         ents = Ent.list_from_type(self.ENT_TYPE)
         rwl_list = RiverWaterLevel.list_from_latest()
 
-
-
-        lines  = []
-        for  station_names in Station.RIVERS.values():
+        lines = []
+        for station_names in Station.RIVERS.values():
             line = []
+
+            prev_point = None
             for station_name in station_names:
                 station = Station.from_name(station_name)
-                line.append([
-                    station.latLng.lng, station.latLng.lat
-                ])
+                point = [station.latLng.lng, station.latLng.lat]
+
+                if prev_point:
+                    x1, y1 = prev_point
+                    x2, y2 = point
+                    dx, dy = x2 - x1, y2 - y1
+                    if abs(dx) < abs(dy):
+                        x_mid = x1 + dx
+                        y_mid = y1 + abs(dx) * dy / abs(dy)
+                    else:
+                        x_mid = x1 + abs(dy) * dx / abs(dx)
+                        y_mid = y1 + dy
+                    line.append([x_mid, y_mid])
+
+                line.append(point)
+                prev_point = point
             lines.append(line)
-                
-        lc = mc.LineCollection(lines, colors='#444', linewidths=3)
+
+        lc = mc.LineCollection(lines, colors='#0488', linewidths=4)
         lc.set_zorder(2)
         fig, ax = plt.subplots()
         fig.set_size_inches(8, 8)
@@ -74,7 +89,7 @@ class RiverWaterLevelMap:
                 color = ['#080', '#ff0', '#f80', '#f00'][rwl.level]
                 circle = plt.Circle(
                     (station.latLng.lng, station.latLng.lat),
-                    0.03,
+                    self.CIRCLE_RADIUS,
                     facecolor=color,
                     edgecolor="black",
                 )
@@ -92,7 +107,10 @@ class RiverWaterLevelMap:
             lat = 9.5 - 0.1 * level
             color = ['#080', '#ff0', '#f80', '#f00'][level]
             circle = plt.Circle(
-                (lng, lat), 0.03, facecolor=color, edgecolor="black"
+                (lng, lat),
+                self.CIRCLE_RADIUS,
+                facecolor=color,
+                edgecolor="black",
             )
             ax.add_patch(circle)
             label = ['Normal', 'Alert', 'Minor Flood', "Major Flood"][level]
@@ -103,7 +121,14 @@ class RiverWaterLevelMap:
                 fontsize=5,
             )
         PADDING = 0.01
-        plt.subplots_adjust(left=PADDING, right=1-PADDING, top=1-PADDING, bottom=PADDING, wspace=PADDING*2, hspace=PADDING*2)
+        plt.subplots_adjust(
+            left=PADDING,
+            right=1 - PADDING,
+            top=1 - PADDING,
+            bottom=PADDING,
+            wspace=PADDING * 2,
+            hspace=PADDING * 2,
+        )
         ax.set_xticks([])
         ax.set_yticks([])
         ax.grid(False)

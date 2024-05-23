@@ -1,6 +1,7 @@
 class StationLinks:
     RIVERS = {
         'Kelani': [
+            'Colombo',
             "N' Street",
             "Hanwella",
             "Glencourse",
@@ -19,6 +20,7 @@ class StationLinks:
             'Norwood',
         ],
         'Kalu Ganga': [
+            'Kalutara',
             'Putupaula',
             'Ellagawa',
             'Ratnapura',
@@ -27,15 +29,14 @@ class StationLinks:
             'Putupaula',
             'Magura',
         ],
-        'Kuda Ganga': [
-            'Putupaula',
-            'Kalawellawa (Millakanda)'
-        ],
+        'Kuda Ganga': ['Putupaula', 'Kalawellawa (Millakanda)'],
         'Gin Ganga': [
+            'Gintota',
             'Baddegama',
             'Tawalama',
         ],
         'Nilwala Ganga': [
+            'Matara',
             'Thalgahagoda',
             'Panadugama',
             'Pitabeddara',
@@ -44,10 +45,9 @@ class StationLinks:
             'Pitabeddara',
             'Urawa',
         ],
-        'Walawe Ganga': [
-            'Moraketiya'
-        ],
+        'Walawe Ganga': ['Ambalantota', 'Moraketiya'],
         'Kirindi Oya': [
+            'Kirinda',
             'Tanamalwila',
             'Wellawaya',
         ],
@@ -56,33 +56,37 @@ class StationLinks:
             'Kuda Oya',
         ],
         'Menik Ganga': [
+            'Yala',
             'Katharagama',
         ],
         'Heda Oya': [
+            'Arugam Bay',
             'Siyambalanduwa',
         ],
         'Maduru Oya': [
+            'Kalkudah',
             'Padiyatalawa',
         ],
+        'Kumbukkan Oya': [
+            'Arugam Bay',
+            'Nakkala',
+        ],
         'Mahaweli Ganga': [
+            'Trincomalee',
             'Manampitiya (HMIS)',
             'Weragantota',
             'Peradeniya',
             'Nawalapitiya',
-            
         ],
         'Badulu Oya': [
             'Weragantota',
             'Taldena',
         ],
-        'Yan Oya': ['Horowpatana'],
-        'Mukunu Oya': ['Yakawewa'],
-        'Malwathu Oya': ['Tantirimale'],
-        'Mee Oya': ['Galgamuwa'],
-        'Deduru Oya': ['Moragaswewa'],
-        'Maha Oya': ['Badalgama', 'Giriulla'],
-        'Attanagalu Oya': ['Dunamale'],
-
-
-      
+        'Yan Oya': ['Pulmoddai', 'Horowpatana'],
+        'Mukunu Oya': ['Kokkilai', 'Yakawewa'],
+        'Malwathu Oya': ['Vankalai', 'Tantirimale'],
+        'Mee Oya': ['Puttalam', 'Galgamuwa'],
+        'Deduru Oya': ['Chilaw', 'Moragaswewa'],
+        'Maha Oya': ['Kochchikade', 'Badalgama', 'Giriulla'],
+        'Attanagalu Oya': ['Negombo', 'Dunamale'],
     }

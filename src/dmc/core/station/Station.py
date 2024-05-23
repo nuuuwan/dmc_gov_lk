@@ -5,6 +5,7 @@ from functools import cache
 from utils import JSONFile, Log
 
 from dmc.core.station.StationDistrictData import StationDistrictData
+from dmc.core.station.StationDummy import StationDummy
 from dmc.core.station.StationLatLngData import StationLatLngData
 from dmc.core.station.StationLinks import StationLinks
 from utils_future import LatLng
@@ -13,7 +14,9 @@ log = Log('Station')
 
 
 @dataclass
-class Station(StationLatLngData, StationDistrictData, StationLinks):
+class Station(
+    StationLatLngData, StationDistrictData, StationLinks, StationDummy
+):
     DATA_PATH = os.path.join('data-static', 'stations.json')
 
     river_basin: str
@@ -38,6 +41,19 @@ class Station(StationLatLngData, StationDistrictData, StationLinks):
         }
 
     @staticmethod
+    def dummy(name, latLng):
+        return Station(
+            river_basin='Dummy',
+            river='Dummy',
+            name=name,
+            district_id='LK-XX',
+            latLng=latLng,
+            alert_level=0,
+            minor_flood_level=0,
+            major_flood_level=0,
+        )
+
+    @staticmethod
     def from_dict(data: dict) -> 'Station':
         return Station(
             river_basin=data['river_basin'],
@@ -52,7 +68,7 @@ class Station(StationLatLngData, StationDistrictData, StationLinks):
 
     @staticmethod
     def from_name(station_name: str) -> 'Station':
-        all = Station.list_all()
+        all = Station.list_all() + Station.list_all_dummy()
         for station in all:
             if station.name == station_name:
                 return station
