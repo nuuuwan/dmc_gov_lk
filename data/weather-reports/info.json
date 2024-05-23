@@ -1,5 +1,13 @@
 [
   {
+    "name": "Weather Forcast",
+    "time_str": "2024-05-23 05:30",
+    "time_id": "20240523.0530",
+    "ut": 1716422400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_report_at_0530hrs__1716425797.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Fisherman Bulletin",
     "time_str": "2024-05-22 22:30",
     "time_id": "20240522.2230",
