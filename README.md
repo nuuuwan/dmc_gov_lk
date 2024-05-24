@@ -73,8 +73,9 @@
 
 ## Situation Reports
 
-**1380/3965** documents downloaded.
+**1390/3966** documents downloaded.
 
+* [2024-05-24 09:00 Situation Report](data/situation-reports/20240524.0900.situation-report.pdf)
 * [2024-05-23 09:00 Situation Report](data/situation-reports/20240523.0900.situation-report.pdf)
 * [2024-05-22 09:00 Situation Report](data/situation-reports/20240522.0900.situation-report.pdf)
 * [2024-05-21 09:00 Situation Report](data/situation-reports/20240521.0900.situation-report.pdf)
@@ -84,12 +85,12 @@
 * [2024-05-17 09:00 Situation Report](data/situation-reports/20240517.0900.situation-report.pdf)
 * [2024-05-16 09:00 Situation Report](data/situation-reports/20240516.0900.situation-report.pdf)
 * [2024-05-15 09:00 Situation Report](data/situation-reports/20240515.0900.situation-report.pdf)
-* [2024-05-14 16:00 Situation Report](data/situation-reports/20240514.1600.situation-report.pdf)
 
 ## Weather Reports
 
-**1269/8325** documents downloaded.
+**1279/8326** documents downloaded.
 
+* [2024-05-24 12:00 Weather Report](data/weather-reports/20240524.1200.weather-report.pdf)
 * [2024-05-24 10:30 Advisory for Strong winds (land area)](data/weather-reports/20240524.1030.advisory-for-strong-winds-land-area.pdf)
 * [2024-05-24 09:30 Advisory for Heavy Rain](data/weather-reports/20240524.0930.advisory-for-heavy-rain.pdf)
 * [2024-05-24 09:30 Advisory for Heavy Rain](data/weather-reports/20240524.0930.advisory-for-heavy-rain.pdf)
@@ -98,5 +99,4 @@
 * [2024-05-23 14:30 Advisory for Strong Winds and Rough Seas Report](data/weather-reports/20240523.1430.advisory-for-strong-winds-and-rough-seas-report.pdf)
 * [2024-05-23 14:30 Advisory for Strong Winds and Rough Seas Report](data/weather-reports/20240523.1430.advisory-for-strong-winds-and-rough-seas-report.pdf)
 * [2024-05-23 11:30 Advisory for Strong Winds and Rough Seas Report](data/weather-reports/20240523.1130.advisory-for-strong-winds-and-rough-seas-report.pdf)
-* [2024-05-23 09:00 Advisory for Heavy Rain](data/weather-reports/20240523.0900.advisory-for-heavy-rain.pdf)
 * [2024-05-23 09:00 Advisory for Heavy Rain](data/weather-reports/20240523.0900.advisory-for-heavy-rain.pdf)
