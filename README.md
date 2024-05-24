@@ -19,8 +19,10 @@
 
 ## River Water Level And Flood Warnings
 
-**1507/1508** documents downloaded.
+**1509/1510** documents downloaded.
 
+* [2024-05-25 03:30 water level](data/river-water-level-and-flood-warnings/20240525.0330.water-level.pdf)
+* [2024-05-25 00:30 Water Level](data/river-water-level-and-flood-warnings/20240525.0030.water-level.pdf)
 * [2024-05-24 21:30 water level](data/river-water-level-and-flood-warnings/20240524.2130.water-level.pdf)
 * [2024-05-24 21:00 Flood warning for Aththanagalu Oya Basin](data/river-water-level-and-flood-warnings/20240524.2100.flood-warning-for-aththanagalu-oya-basin.pdf)
 * [2024-05-24 21:00 Flood warning for Kuda Ganga Sub Basin of Kalu River](data/river-water-level-and-flood-warnings/20240524.2100.flood-warning-for-kuda-ganga-sub-basin-of-kalu-river.pdf)
@@ -29,8 +31,6 @@
 * [2024-05-24 09:30 Water Level](data/river-water-level-and-flood-warnings/20240524.0930.water-level.pdf)
 * [2024-05-24 06:00 water level](data/river-water-level-and-flood-warnings/20240524.0600.water-level.pdf)
 * [2024-05-24 03:30 water level](data/river-water-level-and-flood-warnings/20240524.0330.water-level.pdf)
-* [2024-05-24 00:30 Water Level](data/river-water-level-and-flood-warnings/20240524.0030.water-level.pdf)
-* [2024-05-23 22:30 Advisory for Strong Winds and Rough Seas Report](data/river-water-level-and-flood-warnings/20240523.2230.advisory-for-strong-winds-and-rough-seas-report.pdf)
 
 ## Landslide Warnings
 
@@ -73,7 +73,7 @@
 
 ## Situation Reports
 
-**1520/3966** documents downloaded.
+**1530/3966** documents downloaded.
 
 * [2024-05-24 09:00 Situation Report](data/situation-reports/20240524.0900.situation-report.pdf)
 * [2024-05-23 09:00 Situation Report](data/situation-reports/20240523.0900.situation-report.pdf)
@@ -88,7 +88,7 @@
 
 ## Weather Reports
 
-**1409/8331** documents downloaded.
+**1419/8331** documents downloaded.
 
 * [2024-05-24 16:00 Weather Forcast](data/weather-reports/20240524.1600.weather-forcast.pdf)
 * [2024-05-24 14:00 Advisory for Strong Winds and Rough Seas Report](data/weather-reports/20240524.1400.advisory-for-strong-winds-and-rough-seas-report.pdf)
