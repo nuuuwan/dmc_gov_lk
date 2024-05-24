@@ -34,8 +34,9 @@
 
 ## Landslide Warnings
 
-**538/544** documents downloaded.
+**539/545** documents downloaded.
 
+* [2024-05-24 16:00 Landslide Early Warning](data/landslide-warnings/20240524.1600.landslide-early-warning.pdf)
 * [2024-05-23 16:00 Landslide Early Warning](data/landslide-warnings/20240523.1600.landslide-early-warning.pdf)
 * [2024-05-22 15:00 Landslide Early Warning](data/landslide-warnings/20240522.1500.landslide-early-warning.pdf)
 * [2024-05-21 16:00 Landslide Early Warning](data/landslide-warnings/20240521.1600.landslide-early-warning.pdf)
@@ -45,7 +46,6 @@
 * [2024-05-19 03:30 Landslide Early Warning](data/landslide-warnings/20240519.0330.landslide-early-warning.pdf)
 * [2024-05-18 16:00 Landslide Early Warning](data/landslide-warnings/20240518.1600.landslide-early-warning.pdf)
 * [2024-05-17 16:00 Landslide Early Warning](data/landslide-warnings/20240517.1600.landslide-early-warning.pdf)
-* [2024-05-16 16:00 Landslide Early Warning](data/landslide-warnings/20240516.1600.landslide-early-warning.pdf)
 
 ## Earthquakes
 
@@ -73,7 +73,7 @@
 
 ## Situation Reports
 
-**1420/3966** documents downloaded.
+**1430/3966** documents downloaded.
 
 * [2024-05-24 09:00 Situation Report](data/situation-reports/20240524.0900.situation-report.pdf)
 * [2024-05-23 09:00 Situation Report](data/situation-reports/20240523.0900.situation-report.pdf)
@@ -88,8 +88,9 @@
 
 ## Weather Reports
 
-**1309/8330** documents downloaded.
+**1319/8331** documents downloaded.
 
+* [2024-05-24 16:00 Weather Forcast](data/weather-reports/20240524.1600.weather-forcast.pdf)
 * [2024-05-24 14:00 Advisory for Strong Winds and Rough Seas Report](data/weather-reports/20240524.1400.advisory-for-strong-winds-and-rough-seas-report.pdf)
 * [2024-05-24 14:00 Advisory for Strong Winds and Rough Seas Report](data/weather-reports/20240524.1400.advisory-for-strong-winds-and-rough-seas-report.pdf)
 * [2024-05-24 12:00 Weather Report](data/weather-reports/20240524.1200.weather-report.pdf)
@@ -99,4 +100,3 @@
 * [2024-05-24 09:30 Advisory for Heavy Rain](data/weather-reports/20240524.0930.advisory-for-heavy-rain.pdf)
 * [2024-05-24 09:30 Advisory for Heavy Rain](data/weather-reports/20240524.0930.advisory-for-heavy-rain.pdf)
 * [2024-05-24 05:30 Weather Forcast](data/weather-reports/20240524.0530.weather-forcast.pdf)
-* [2024-05-23 16:00 Weather Forcast](data/weather-reports/20240523.1600.weather-forcast.pdf)
