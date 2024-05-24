@@ -1,10 +1,26 @@
 [
   {
+    "name": "water level",
+    "time_str": "2024-05-24 21:30",
+    "time_id": "20240524.2130",
+    "ut": 1716566400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2024__1716568635.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Flood warning for Aththanagalu Oya Basin",
     "time_str": "2024-05-24 21:00",
     "time_id": "20240524.2100",
     "ut": 1716564600.0,
     "href": "https://www.dmc.gov.lk/images/dmcreports/Flood_warning_for_Aththanagalu_Oya_Basin_-_No_03_-_(Extended_Warning)_2024__1716565720.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Flood warning for Kuda Ganga Sub Basin of Kalu River",
+    "time_str": "2024-05-24 21:00",
+    "time_id": "20240524.2100",
+    "ut": 1716564600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Flood_warning_for_Kuda_Ganga_Sub_Basin_of_Kalu_River_-_No_03_-_(Extended_warning)_2024__1716565819.pdf",
     "ext": "pdf"
   },
   {
