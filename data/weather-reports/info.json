@@ -1,5 +1,13 @@
 [
   {
+    "name": "Advisory for Strong winds (land area)",
+    "time_str": "2024-05-24 10:30",
+    "time_id": "20240524.1030",
+    "ut": 1716526800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Strong_winds_issued_at_10__1716527999.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Advisory for Heavy Rain",
     "time_str": "2024-05-24 09:30",
     "time_id": "20240524.0930",
