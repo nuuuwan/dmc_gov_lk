@@ -19,8 +19,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1510/1511** documents downloaded.
+**1511/1512** documents downloaded.
 
+* [2024-05-25 09:30 Water Level](data/river-water-level-and-flood-warnings/20240525.0930.water-level.pdf)
 * [2024-05-25 06:30 Water Level](data/river-water-level-and-flood-warnings/20240525.0630.water-level.pdf)
 * [2024-05-25 03:30 water level](data/river-water-level-and-flood-warnings/20240525.0330.water-level.pdf)
 * [2024-05-25 00:30 Water Level](data/river-water-level-and-flood-warnings/20240525.0030.water-level.pdf)
@@ -30,7 +31,6 @@
 * [2024-05-24 18:00 water level](data/river-water-level-and-flood-warnings/20240524.1800.water-level.pdf)
 * [2024-05-24 12:00 water level](data/river-water-level-and-flood-warnings/20240524.1200.water-level.pdf)
 * [2024-05-24 09:30 Water Level](data/river-water-level-and-flood-warnings/20240524.0930.water-level.pdf)
-* [2024-05-24 06:00 water level](data/river-water-level-and-flood-warnings/20240524.0600.water-level.pdf)
 
 ## Landslide Warnings
 
@@ -73,7 +73,7 @@
 
 ## Situation Reports
 
-**1580/3967** documents downloaded.
+**1590/3967** documents downloaded.
 
 * [2024-05-25 09:00 Situation Report](data/situation-reports/20240525.0900.situation-report.pdf)
 * [2024-05-24 09:00 Situation Report](data/situation-reports/20240524.0900.situation-report.pdf)
@@ -88,8 +88,9 @@
 
 ## Weather Reports
 
-**1469/8332** documents downloaded.
+**1479/8333** documents downloaded.
 
+* [2024-05-25 10:00 The Advisory for heavy rain Report](data/weather-reports/20240525.1000.the-advisory-for-heavy-rain-report.pdf)
 * [2024-05-25 05:30 Weather Forcast](data/weather-reports/20240525.0530.weather-forcast.pdf)
 * [2024-05-24 16:00 Weather Forcast](data/weather-reports/20240524.1600.weather-forcast.pdf)
 * [2024-05-24 14:00 Advisory for Strong Winds and Rough Seas Report](data/weather-reports/20240524.1400.advisory-for-strong-winds-and-rough-seas-report.pdf)
@@ -98,5 +99,4 @@
 * [2024-05-24 12:00 Advisory for Strong Winds and Rough Seas Report](data/weather-reports/20240524.1200.advisory-for-strong-winds-and-rough-seas-report.pdf)
 * [2024-05-24 12:00 Advisory for Strong Winds and Rough Seas Report](data/weather-reports/20240524.1200.advisory-for-strong-winds-and-rough-seas-report.pdf)
 * [2024-05-24 10:30 Advisory for Strong winds (land area)](data/weather-reports/20240524.1030.advisory-for-strong-winds-land-area.pdf)
-* [2024-05-24 09:30 Advisory for Heavy Rain](data/weather-reports/20240524.0930.advisory-for-heavy-rain.pdf)
 * [2024-05-24 09:30 Advisory for Heavy Rain](data/weather-reports/20240524.0930.advisory-for-heavy-rain.pdf)
