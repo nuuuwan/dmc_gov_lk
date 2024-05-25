@@ -19,8 +19,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1512/1513** documents downloaded.
+**1513/1514** documents downloaded.
 
+* [2024-05-25 15:00 Water Level](data/river-water-level-and-flood-warnings/20240525.1500.water-level.pdf)
 * [2024-05-25 12:30 Water Level](data/river-water-level-and-flood-warnings/20240525.1230.water-level.pdf)
 * [2024-05-25 09:30 Water Level](data/river-water-level-and-flood-warnings/20240525.0930.water-level.pdf)
 * [2024-05-25 06:30 Water Level](data/river-water-level-and-flood-warnings/20240525.0630.water-level.pdf)
@@ -30,12 +31,12 @@
 * [2024-05-24 21:00 Flood warning for Aththanagalu Oya Basin](data/river-water-level-and-flood-warnings/20240524.2100.flood-warning-for-aththanagalu-oya-basin.pdf)
 * [2024-05-24 21:00 Flood warning for Kuda Ganga Sub Basin of Kalu River](data/river-water-level-and-flood-warnings/20240524.2100.flood-warning-for-kuda-ganga-sub-basin-of-kalu-river.pdf)
 * [2024-05-24 18:00 water level](data/river-water-level-and-flood-warnings/20240524.1800.water-level.pdf)
-* [2024-05-24 12:00 water level](data/river-water-level-and-flood-warnings/20240524.1200.water-level.pdf)
 
 ## Landslide Warnings
 
-**539/545** documents downloaded.
+**540/546** documents downloaded.
 
+* [2024-05-25 16:15 Landslide Early Warning](data/landslide-warnings/20240525.1615.landslide-early-warning.pdf)
 * [2024-05-24 16:00 Landslide Early Warning](data/landslide-warnings/20240524.1600.landslide-early-warning.pdf)
 * [2024-05-23 16:00 Landslide Early Warning](data/landslide-warnings/20240523.1600.landslide-early-warning.pdf)
 * [2024-05-22 15:00 Landslide Early Warning](data/landslide-warnings/20240522.1500.landslide-early-warning.pdf)
@@ -45,7 +46,6 @@
 * [2024-05-19 16:00 Landslide Early Warning](data/landslide-warnings/20240519.1600.landslide-early-warning.pdf)
 * [2024-05-19 03:30 Landslide Early Warning](data/landslide-warnings/20240519.0330.landslide-early-warning.pdf)
 * [2024-05-18 16:00 Landslide Early Warning](data/landslide-warnings/20240518.1600.landslide-early-warning.pdf)
-* [2024-05-17 16:00 Landslide Early Warning](data/landslide-warnings/20240517.1600.landslide-early-warning.pdf)
 
 ## Earthquakes
 
@@ -73,7 +73,7 @@
 
 ## Situation Reports
 
-**1640/3967** documents downloaded.
+**1650/3967** documents downloaded.
 
 * [2024-05-25 09:00 Situation Report](data/situation-reports/20240525.0900.situation-report.pdf)
 * [2024-05-24 09:00 Situation Report](data/situation-reports/20240524.0900.situation-report.pdf)
@@ -88,8 +88,9 @@
 
 ## Weather Reports
 
-**1529/8336** documents downloaded.
+**1539/8337** documents downloaded.
 
+* [2024-05-25 16:00 Weather Forcast](data/weather-reports/20240525.1600.weather-forcast.pdf)
 * [2024-05-25 12:00 Warning for strong winds and rough seas](data/weather-reports/20240525.1200.warning-for-strong-winds-and-rough-seas.pdf)
 * [2024-05-25 12:00 Weather Report](data/weather-reports/20240525.1200.weather-report.pdf)
 * [2024-05-25 10:30 Advisory for Strong winds](data/weather-reports/20240525.1030.advisory-for-strong-winds.pdf)
@@ -99,4 +100,3 @@
 * [2024-05-24 14:00 Advisory for Strong Winds and Rough Seas Report](data/weather-reports/20240524.1400.advisory-for-strong-winds-and-rough-seas-report.pdf)
 * [2024-05-24 14:00 Advisory for Strong Winds and Rough Seas Report](data/weather-reports/20240524.1400.advisory-for-strong-winds-and-rough-seas-report.pdf)
 * [2024-05-24 12:00 Weather Report](data/weather-reports/20240524.1200.weather-report.pdf)
-* [2024-05-24 12:00 Advisory for Strong Winds and Rough Seas Report](data/weather-reports/20240524.1200.advisory-for-strong-winds-and-rough-seas-report.pdf)
