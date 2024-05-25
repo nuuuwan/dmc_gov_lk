@@ -73,7 +73,7 @@
 
 ## Situation Reports
 
-**1620/3967** documents downloaded.
+**1630/3967** documents downloaded.
 
 * [2024-05-25 09:00 Situation Report](data/situation-reports/20240525.0900.situation-report.pdf)
 * [2024-05-24 09:00 Situation Report](data/situation-reports/20240524.0900.situation-report.pdf)
@@ -88,7 +88,7 @@
 
 ## Weather Reports
 
-**1509/8336** documents downloaded.
+**1519/8336** documents downloaded.
 
 * [2024-05-25 12:00 Warning for strong winds and rough seas](data/weather-reports/20240525.1200.warning-for-strong-winds-and-rough-seas.pdf)
 * [2024-05-25 12:00 Weather Report](data/weather-reports/20240525.1200.weather-report.pdf)
