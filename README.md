@@ -19,8 +19,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1516/1517** documents downloaded.
+**1517/1518** documents downloaded.
 
+* [2024-05-26 00:30 water level](data/river-water-level-and-flood-warnings/20240526.0030.water-level.pdf)
 * [2024-05-25 21:30 Flood warning for Kuda Ganga Sub Basin of Kalu River](data/river-water-level-and-flood-warnings/20240525.2130.flood-warning-for-kuda-ganga-sub-basin-of-kalu-river.pdf)
 * [2024-05-25 21:30 Water Level](data/river-water-level-and-flood-warnings/20240525.2130.water-level.pdf)
 * [2024-05-25 18:00 Water Level](data/river-water-level-and-flood-warnings/20240525.1800.water-level.pdf)
@@ -30,7 +31,6 @@
 * [2024-05-25 06:30 Water Level](data/river-water-level-and-flood-warnings/20240525.0630.water-level.pdf)
 * [2024-05-25 03:30 water level](data/river-water-level-and-flood-warnings/20240525.0330.water-level.pdf)
 * [2024-05-25 00:30 Water Level](data/river-water-level-and-flood-warnings/20240525.0030.water-level.pdf)
-* [2024-05-24 21:30 water level](data/river-water-level-and-flood-warnings/20240524.2130.water-level.pdf)
 
 ## Landslide Warnings
 
@@ -73,7 +73,7 @@
 
 ## Situation Reports
 
-**1730/3967** documents downloaded.
+**1740/3967** documents downloaded.
 
 * [2024-05-25 09:00 Situation Report](data/situation-reports/20240525.0900.situation-report.pdf)
 * [2024-05-24 09:00 Situation Report](data/situation-reports/20240524.0900.situation-report.pdf)
@@ -88,7 +88,7 @@
 
 ## Weather Reports
 
-**1619/8338** documents downloaded.
+**1629/8338** documents downloaded.
 
 * [2024-05-25 22:30 Warning for strong winds and rough seas](data/weather-reports/20240525.2230.warning-for-strong-winds-and-rough-seas.pdf)
 * [2024-05-25 16:00 Weather Forcast](data/weather-reports/20240525.1600.weather-forcast.pdf)
