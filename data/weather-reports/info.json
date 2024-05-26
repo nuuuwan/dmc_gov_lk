@@ -1,5 +1,21 @@
 [
   {
+    "name": "Weather Forcast",
+    "time_str": "2024-05-26 12:00",
+    "time_id": "20240526.1200",
+    "ut": 1716705000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_report_at_1200hrs__1716706189.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Strong Winds and Rough Seas Report",
+    "time_str": "2024-05-26 12:00",
+    "time_id": "20240526.1200",
+    "ut": 1716705000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_strong_winds_and_rough_seas,_26-05-2024__1716706654.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Advisory for Heavy Rain",
     "time_str": "2024-05-26 11:00",
     "time_id": "20240526.1100",
