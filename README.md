@@ -73,8 +73,9 @@
 
 ## Situation Reports
 
-**2060/3968** documents downloaded.
+**2070/3969** documents downloaded.
 
+* [2024-05-27 09:00 Situation Report](data/situation-reports/20240527.0900.situation-report.pdf)
 * [2024-05-26 09:00 Situation Report](data/situation-reports/20240526.0900.situation-report.pdf)
 * [2024-05-25 09:00 Situation Report](data/situation-reports/20240525.0900.situation-report.pdf)
 * [2024-05-24 09:00 Situation Report](data/situation-reports/20240524.0900.situation-report.pdf)
@@ -84,11 +85,10 @@
 * [2024-05-20 09:00 Situation Report](data/situation-reports/20240520.0900.situation-report.pdf)
 * [2024-05-19 09:00 Situation Report](data/situation-reports/20240519.0900.situation-report.pdf)
 * [2024-05-18 09:00 Situation Report](data/situation-reports/20240518.0900.situation-report.pdf)
-* [2024-05-17 09:00 Situation Report](data/situation-reports/20240517.0900.situation-report.pdf)
 
 ## Weather Reports
 
-**1949/8346** documents downloaded.
+**1959/8346** documents downloaded.
 
 * [2024-05-27 05:30 Weather Forcast](data/weather-reports/20240527.0530.weather-forcast.pdf)
 * [2024-05-26 16:00 Weather Forcast](data/weather-reports/20240526.1600.weather-forcast.pdf)
