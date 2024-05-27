@@ -1,5 +1,29 @@
 [
   {
+    "name": "Advisory for Strong winds",
+    "time_str": "2024-05-27 10:30",
+    "time_id": "20240527.1030",
+    "ut": 1716786000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Strong_winds_at_1030_hrs_on_2024__1716786594.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "The Warning for strong winds and rough seas",
+    "time_str": "2024-05-27 10:30",
+    "time_id": "20240527.1030",
+    "ut": 1716786000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_strong_winds_and_rough_seas_at_1030hrs_on_2024__1716787416.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Heavy Rain",
+    "time_str": "2024-05-27 10:00",
+    "time_id": "20240527.1000",
+    "ut": 1716784200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_at_1000_hrs_on_2024__1716786183.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2024-05-27 05:30",
     "time_id": "20240527.0530",
