@@ -19,8 +19,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1537/1538** documents downloaded.
+**1538/1539** documents downloaded.
 
+* [2024-05-28 06:30 Water Level](data/river-water-level-and-flood-warnings/20240528.0630.water-level.pdf)
 * [2024-05-28 03:30 water level](data/river-water-level-and-flood-warnings/20240528.0330.water-level.pdf)
 * [2024-05-28 00:30 water level](data/river-water-level-and-flood-warnings/20240528.0030.water-level.pdf)
 * [2024-05-27 21:30 Flood warning for Aththanagalu Oya Basin](data/river-water-level-and-flood-warnings/20240527.2130.flood-warning-for-aththanagalu-oya-basin.pdf)
@@ -30,7 +31,6 @@
 * [2024-05-27 15:30 Water Level Report](data/river-water-level-and-flood-warnings/20240527.1530.water-level-report.pdf)
 * [2024-05-27 12:00 water level](data/river-water-level-and-flood-warnings/20240527.1200.water-level.pdf)
 * [2024-05-27 09:00 Water Level](data/river-water-level-and-flood-warnings/20240527.0900.water-level.pdf)
-* [2024-05-27 06:00 Water Level](data/river-water-level-and-flood-warnings/20240527.0600.water-level.pdf)
 
 ## Landslide Warnings
 
@@ -73,7 +73,7 @@
 
 ## Situation Reports
 
-**2260/3969** documents downloaded.
+**2270/3969** documents downloaded.
 
 * [2024-05-27 09:00 Situation Report](data/situation-reports/20240527.0900.situation-report.pdf)
 * [2024-05-26 09:00 Situation Report](data/situation-reports/20240526.0900.situation-report.pdf)
@@ -88,8 +88,9 @@
 
 ## Weather Reports
 
-**2149/8353** documents downloaded.
+**2159/8354** documents downloaded.
 
+* [2024-05-28 05:30 Weather Forcast](data/weather-reports/20240528.0530.weather-forcast.pdf)
 * [2024-05-27 16:00 Weather Report](data/weather-reports/20240527.1600.weather-report.pdf)
 * [2024-05-27 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240527.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
 * [2024-05-27 12:00 Weather Forcast](data/weather-reports/20240527.1200.weather-forcast.pdf)
@@ -99,4 +100,3 @@
 * [2024-05-27 10:00 Advisory for Heavy Rain](data/weather-reports/20240527.1000.advisory-for-heavy-rain.pdf)
 * [2024-05-27 05:30 Weather Forcast](data/weather-reports/20240527.0530.weather-forcast.pdf)
 * [2024-05-26 16:00 Weather Forcast](data/weather-reports/20240526.1600.weather-forcast.pdf)
-* [2024-05-26 12:00 Weather Forcast](data/weather-reports/20240526.1200.weather-forcast.pdf)
