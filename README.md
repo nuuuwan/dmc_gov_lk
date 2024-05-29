@@ -19,8 +19,10 @@
 
 ## River Water Level And Flood Warnings
 
-**1551/1552** documents downloaded.
+**1553/1554** documents downloaded.
 
+* [2024-05-29 21:30 Withdrawal of Flood warning for Attanagalu Basin](data/river-water-level-and-flood-warnings/20240529.2130.withdrawal-of-flood-warning-for-attanagalu-basin.pdf)
+* [2024-05-29 21:30 Water level](data/river-water-level-and-flood-warnings/20240529.2130.water-level.pdf)
 * [2024-05-29 18:00 Water Level](data/river-water-level-and-flood-warnings/20240529.1800.water-level.pdf)
 * [2024-05-29 15:30 Water Level Report](data/river-water-level-and-flood-warnings/20240529.1530.water-level-report.pdf)
 * [2024-05-29 12:30 Water Level Report](data/river-water-level-and-flood-warnings/20240529.1230.water-level-report.pdf)
@@ -29,8 +31,6 @@
 * [2024-05-29 00:30 water level](data/river-water-level-and-flood-warnings/20240529.0030.water-level.pdf)
 * [2024-05-28 21:30 Water Level](data/river-water-level-and-flood-warnings/20240528.2130.water-level.pdf)
 * [2024-05-28 21:00 Flood warning for Kuda Ganga Sub Basin of Kalu River](data/river-water-level-and-flood-warnings/20240528.2100.flood-warning-for-kuda-ganga-sub-basin-of-kalu-river.pdf)
-* [2024-05-28 21:00 Flood warning for Aththanagalu Oya Basin](data/river-water-level-and-flood-warnings/20240528.2100.flood-warning-for-aththanagalu-oya-basin.pdf)
-* [2024-05-28 18:00 water level](data/river-water-level-and-flood-warnings/20240528.1800.water-level.pdf)
 
 ## Landslide Warnings
 
@@ -73,7 +73,7 @@
 
 ## Situation Reports
 
-**2650/3971** documents downloaded.
+**2660/3971** documents downloaded.
 
 * [2024-05-29 09:00 Situation Report](data/situation-reports/20240529.0900.situation-report.pdf)
 * [2024-05-28 09:00 Situation Report](data/situation-reports/20240528.0900.situation-report.pdf)
@@ -88,7 +88,7 @@
 
 ## Weather Reports
 
-**2539/8366** documents downloaded.
+**2549/8366** documents downloaded.
 
 * [2024-05-29 16:00 Weather Forcast](data/weather-reports/20240529.1600.weather-forcast.pdf)
 * [2024-05-29 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240529.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
