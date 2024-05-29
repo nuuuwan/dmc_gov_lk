@@ -73,8 +73,9 @@
 
 ## Situation Reports
 
-**2520/3970** documents downloaded.
+**2530/3971** documents downloaded.
 
+* [2024-05-29 09:00 Situation Report](data/situation-reports/20240529.0900.situation-report.pdf)
 * [2024-05-28 09:00 Situation Report](data/situation-reports/20240528.0900.situation-report.pdf)
 * [2024-05-27 09:00 Situation Report](data/situation-reports/20240527.0900.situation-report.pdf)
 * [2024-05-26 09:00 Situation Report](data/situation-reports/20240526.0900.situation-report.pdf)
@@ -84,11 +85,10 @@
 * [2024-05-22 09:00 Situation Report](data/situation-reports/20240522.0900.situation-report.pdf)
 * [2024-05-21 09:00 Situation Report](data/situation-reports/20240521.0900.situation-report.pdf)
 * [2024-05-20 09:00 Situation Report](data/situation-reports/20240520.0900.situation-report.pdf)
-* [2024-05-19 09:00 Situation Report](data/situation-reports/20240519.0900.situation-report.pdf)
 
 ## Weather Reports
 
-**2409/8361** documents downloaded.
+**2419/8361** documents downloaded.
 
 * [2024-05-28 16:00 Weather Report](data/weather-reports/20240528.1600.weather-report.pdf)
 * [2024-05-28 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240528.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
