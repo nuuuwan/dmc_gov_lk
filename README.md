@@ -73,7 +73,7 @@
 
 ## Situation Reports
 
-**3140/3973** documents downloaded.
+**3150/3973** documents downloaded.
 
 * [2024-05-31 09:00 Situation Report](data/situation-reports/20240531.0900.situation-report.pdf)
 * [2024-05-30 09:00 Situation Report](data/situation-reports/20240530.0900.situation-report.pdf)
@@ -88,7 +88,7 @@
 
 ## Weather Reports
 
-**3029/8375** documents downloaded.
+**3039/8375** documents downloaded.
 
 * [2024-05-31 16:00 Weather Report](data/weather-reports/20240531.1600.weather-report.pdf)
 * [2024-05-31 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240531.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
