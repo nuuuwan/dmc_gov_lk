@@ -19,8 +19,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1564/1565** documents downloaded.
+**1565/1566** documents downloaded.
 
+* [2024-05-31 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240531.0930.water-level-report.pdf)
 * [2024-05-31 06:30 water level](data/river-water-level-and-flood-warnings/20240531.0630.water-level.pdf)
 * [2024-05-31 03:30 water level](data/river-water-level-and-flood-warnings/20240531.0330.water-level.pdf)
 * [2024-05-31 00:30 Water Level Report](data/river-water-level-and-flood-warnings/20240531.0030.water-level-report.pdf)
@@ -30,7 +31,6 @@
 * [2024-05-30 12:30 water level](data/river-water-level-and-flood-warnings/20240530.1230.water-level.pdf)
 * [2024-05-30 06:30 water level](data/river-water-level-and-flood-warnings/20240530.0630.water-level.pdf)
 * [2024-05-30 03:30 Water Level](data/river-water-level-and-flood-warnings/20240530.0330.water-level.pdf)
-* [2024-05-30 00:30 Water Level Report](data/river-water-level-and-flood-warnings/20240530.0030.water-level-report.pdf)
 
 ## Landslide Warnings
 
@@ -73,7 +73,7 @@
 
 ## Situation Reports
 
-**3000/3972** documents downloaded.
+**3010/3972** documents downloaded.
 
 * [2024-05-30 09:00 Situation Report](data/situation-reports/20240530.0900.situation-report.pdf)
 * [2024-05-29 09:00 Situation Report](data/situation-reports/20240529.0900.situation-report.pdf)
@@ -88,7 +88,7 @@
 
 ## Weather Reports
 
-**2889/8370** documents downloaded.
+**2899/8370** documents downloaded.
 
 * [2024-05-31 05:30 Weather Forcast](data/weather-reports/20240531.0530.weather-forcast.pdf)
 * [2024-05-30 16:00 Weather Report](data/weather-reports/20240530.1600.weather-report.pdf)
