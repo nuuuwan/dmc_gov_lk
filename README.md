@@ -73,7 +73,7 @@
 
 ## Situation Reports
 
-**2960/3972** documents downloaded.
+**2970/3972** documents downloaded.
 
 * [2024-05-30 09:00 Situation Report](data/situation-reports/20240530.0900.situation-report.pdf)
 * [2024-05-29 09:00 Situation Report](data/situation-reports/20240529.0900.situation-report.pdf)
@@ -88,8 +88,9 @@
 
 ## Weather Reports
 
-**2849/8369** documents downloaded.
+**2859/8370** documents downloaded.
 
+* [2024-05-31 05:30 Weather Forcast](data/weather-reports/20240531.0530.weather-forcast.pdf)
 * [2024-05-30 16:00 Weather Report](data/weather-reports/20240530.1600.weather-report.pdf)
 * [2024-05-30 12:00 Weather Forcast](data/weather-reports/20240530.1200.weather-forcast.pdf)
 * [2024-05-30 05:30 Weather Forcast](data/weather-reports/20240530.0530.weather-forcast.pdf)
@@ -99,4 +100,3 @@
 * [2024-05-29 10:00 The Advisory for Heavy Rain](data/weather-reports/20240529.1000.the-advisory-for-heavy-rain.pdf)
 * [2024-05-29 10:00 Warning for strong winds and rough seas](data/weather-reports/20240529.1000.warning-for-strong-winds-and-rough-seas.pdf)
 * [2024-05-28 16:00 Weather Report](data/weather-reports/20240528.1600.weather-report.pdf)
-* [2024-05-28 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240528.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
