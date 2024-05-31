@@ -34,8 +34,9 @@
 
 ## Landslide Warnings
 
-**546/552** documents downloaded.
+**547/553** documents downloaded.
 
+* [2024-05-31 17:00 Landslide Early Warning](data/landslide-warnings/20240531.1700.landslide-early-warning.pdf)
 * [2024-05-30 16:00 Landslide EW Report](data/landslide-warnings/20240530.1600.landslide-ew-report.pdf)
 * [2024-05-30 07:00 Landslide Early Warning](data/landslide-warnings/20240530.0700.landslide-early-warning.pdf)
 * [2024-05-29 16:00 Landslide Early Warning](data/landslide-warnings/20240529.1600.landslide-early-warning.pdf)
@@ -45,7 +46,6 @@
 * [2024-05-25 16:15 Landslide Early Warning](data/landslide-warnings/20240525.1615.landslide-early-warning.pdf)
 * [2024-05-24 16:00 Landslide Early Warning](data/landslide-warnings/20240524.1600.landslide-early-warning.pdf)
 * [2024-05-23 16:00 Landslide Early Warning](data/landslide-warnings/20240523.1600.landslide-early-warning.pdf)
-* [2024-05-22 15:00 Landslide Early Warning](data/landslide-warnings/20240522.1500.landslide-early-warning.pdf)
 
 ## Earthquakes
 
@@ -73,7 +73,7 @@
 
 ## Situation Reports
 
-**3070/3973** documents downloaded.
+**3080/3973** documents downloaded.
 
 * [2024-05-31 09:00 Situation Report](data/situation-reports/20240531.0900.situation-report.pdf)
 * [2024-05-30 09:00 Situation Report](data/situation-reports/20240530.0900.situation-report.pdf)
@@ -88,7 +88,7 @@
 
 ## Weather Reports
 
-**2959/8375** documents downloaded.
+**2969/8375** documents downloaded.
 
 * [2024-05-31 16:00 Weather Report](data/weather-reports/20240531.1600.weather-report.pdf)
 * [2024-05-31 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240531.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
