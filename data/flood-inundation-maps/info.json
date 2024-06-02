@@ -150,5 +150,77 @@
     "ut": 1494991800.0,
     "href": "https://www.dmc.gov.lk/images/dmcreports/Flood_SL_Sept2016-1__1528088230.pdf",
     "ext": "pdf"
+  },
+  {
+    "name": "Flood Inundation Mapping East and North Central Provinces",
+    "time_str": "2011-02-06 09:00",
+    "time_id": "20110206.0900",
+    "ut": 1296963000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Flood_06Feb2011_Vavuniya__1527827446.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Flood Inundation Mapping Trincomalee District Sri Lanka",
+    "time_str": "2011-02-06 09:00",
+    "time_id": "20110206.0900",
+    "ut": 1296963000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Flood_06Feb2011_Trincomalee__1527827528.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Flood Inundation Mapping Polonnaruwa District Sri Lanka",
+    "time_str": "2011-02-06 09:00",
+    "time_id": "20110206.0900",
+    "ut": 1296963000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Flood_06Feb2011_Polonnaruwa__1527828575.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Flood Inundation Mapping Mulaitivu District Sri Lanka",
+    "time_str": "2011-02-06 09:00",
+    "time_id": "20110206.0900",
+    "ut": 1296963000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Flood_06Feb2011_Mulaitivu__1527829738.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Flood Inundation Mapping Killinochchi District Sri Lanka",
+    "time_str": "2011-02-06 09:00",
+    "time_id": "20110206.0900",
+    "ut": 1296963000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Flood_06Feb2011_Killinochchi__1527830242.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Flood Inundation Mapping Batticaloa District Sri Lanka",
+    "time_str": "2011-02-06 09:00",
+    "time_id": "20110206.0900",
+    "ut": 1296963000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Flood_06Feb2011_Batticaloa__1527830324.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Flood Inundation Mapping Anuradhapura District Sri Lanka",
+    "time_str": "2011-02-06 09:00",
+    "time_id": "20110206.0900",
+    "ut": 1296963000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Flood_06Feb2011_Anuradhapura__1527831315.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Flood Inundation Mapping Ampara District Sri Lanka",
+    "time_str": "2011-02-06 09:00",
+    "time_id": "20110206.0900",
+    "ut": 1296963000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Flood_06Feb2011_Ampara__1527832232.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Flood Inundation Mapping Eastern part of Sri Lanka",
+    "time_str": "2011-01-13 09:00",
+    "time_id": "20110113.0900",
+    "ut": 1294889400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Flood_Inundation_Eastern_part_of_Sri_Lanka2__1527827097.pdf",
+    "ext": "pdf"
   }
 ]

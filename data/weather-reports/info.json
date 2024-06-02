@@ -1,6 +1,94 @@
 [
   {
     "name": "Weather Report",
+    "time_str": "2024-06-02 16:00",
+    "time_id": "20240602.1600",
+    "ut": 1717324200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2024__1717325976.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Report",
+    "time_str": "2024-06-02 12:00",
+    "time_id": "20240602.1200",
+    "ut": 1717309800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1200_hrs_on_2024__1717311515.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Warning for Heavy Rain",
+    "time_str": "2024-06-02 07:00",
+    "time_id": "20240602.0700",
+    "ut": 1717291800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_Heavy_Rain_at_0700hrs_on_2024__1717294213.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2024-06-02 05:30",
+    "time_id": "20240602.0530",
+    "ut": 1717286400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0600_hrs_on_2024__1717287734.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Report",
+    "time_str": "2024-06-01 16:00",
+    "time_id": "20240601.1600",
+    "ut": 1717237800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600_hrs_on_2024__1717239554.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Fishermen bulletin for strong winds and rough seas",
+    "time_str": "2024-06-01 15:00",
+    "time_id": "20240601.1500",
+    "ut": 1717234200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Fishermen_bulletin_for_strong_winds_and_rough_seas_at_1500hrs_on_2024__1717234566.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Report ",
+    "time_str": "2024-06-01 12:00",
+    "time_id": "20240601.1200",
+    "ut": 1717223400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1200_hrs_on_2024__1717224526.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Warning for strong winds and rough seas ",
+    "time_str": "2024-06-01 11:30",
+    "time_id": "20240601.1130",
+    "ut": 1717221600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_strong_winds_and_rough_seas_at_1130hrs_on_2024__1717224941.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for strong winds and rough seas",
+    "time_str": "2024-06-01 10:30",
+    "time_id": "20240601.1030",
+    "ut": 1717218000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_strong_winds_and_rough_seas_at_1030hrs_on_2024__1717218723.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Heavy Rain",
+    "time_str": "2024-06-01 06:00",
+    "time_id": "20240601.0600",
+    "ut": 1717201800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_Rain,_issued_on_01__1717203353.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2024-06-01 05:30",
+    "time_id": "20240601.0530",
+    "ut": 1717200000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0600_hrs_on_2024__1717202945.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Report",
     "time_str": "2024-05-31 16:00",
     "time_id": "20240531.1600",
     "ut": 1717151400.0,
