@@ -42,8 +42,8 @@ class GenericDownloader:
             limit=0,
             search='',
             report_type_id=self.report_type_id,
-            fromdate='2014-05-31',
-            todate='2024-05-31',
+            fromdate='2000-01-01',
+            todate='2030-01-01',
             lang='en',
         )
 
