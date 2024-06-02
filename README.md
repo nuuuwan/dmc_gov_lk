@@ -73,7 +73,7 @@
 
 ## Situation Reports
 
-**3630/3975** documents downloaded.
+**3640/3975** documents downloaded.
 
 * [2024-06-02 09:00 Situation Report](data/situation-reports/20240602.0900.situation-report.pdf)
 * [2024-06-01 09:00 Situation Report](data/situation-reports/20240601.0900.situation-report.pdf)
@@ -88,7 +88,7 @@
 
 ## Weather Reports
 
-**3519/8386** documents downloaded.
+**3529/8386** documents downloaded.
 
 * [2024-06-02 16:00 Weather Report](data/weather-reports/20240602.1600.weather-report.pdf)
 * [2024-06-02 12:00 Weather Report](data/weather-reports/20240602.1200.weather-report.pdf)
