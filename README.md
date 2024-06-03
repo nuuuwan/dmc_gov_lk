@@ -19,9 +19,11 @@
 
 ## River Water Level And Flood Warnings
 
-**1595/1596** documents downloaded.
+**1597/1598** documents downloaded.
 
 * [2024-06-04 03:30 Water Level](data/river-water-level-and-flood-warnings/20240604.0330.water-level.pdf)
+* [2024-06-04 03:00 Flood warning for Gin Ganga Basin](data/river-water-level-and-flood-warnings/20240604.0300.flood-warning-for-gin-ganga-basin.pdf)
+* [2024-06-04 03:00 Weather Forcast](data/river-water-level-and-flood-warnings/20240604.0300.weather-forcast.pdf)
 * [2024-06-04 00:30 Water Level](data/river-water-level-and-flood-warnings/20240604.0030.water-level.pdf)
 * [2024-06-03 18:30 Water Level](data/river-water-level-and-flood-warnings/20240603.1830.water-level.pdf)
 * [2024-06-03 15:00 water level](data/river-water-level-and-flood-warnings/20240603.1500.water-level.pdf)
@@ -29,8 +31,6 @@
 * [2024-06-03 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20240603.0930.water-level-rainfall.pdf)
 * [2024-06-03 06:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20240603.0630.water-level-rainfall.pdf)
 * [2024-06-03 03:30 water level](data/river-water-level-and-flood-warnings/20240603.0330.water-level.pdf)
-* [2024-06-03 03:00 The Flood warning for Kalu River Basin Report](data/river-water-level-and-flood-warnings/20240603.0300.the-flood-warning-for-kalu-river-basin-report.pdf)
-* [2024-06-03 02:00 Flood warning for Nilwala River Basin](data/river-water-level-and-flood-warnings/20240603.0200.flood-warning-for-nilwala-river-basin.pdf)
 
 ## Landslide Warnings
 
@@ -73,7 +73,7 @@
 
 ## Situation Reports
 
-**3890/3975** documents downloaded.
+**3900/3975** documents downloaded.
 
 * [2024-06-02 09:00 Situation Report](data/situation-reports/20240602.0900.situation-report.pdf)
 * [2024-06-01 09:00 Situation Report](data/situation-reports/20240601.0900.situation-report.pdf)
@@ -88,7 +88,7 @@
 
 ## Weather Reports
 
-**3779/8391** documents downloaded.
+**3789/8391** documents downloaded.
 
 * [2024-06-03 22:30 water level](data/weather-reports/20240603.2230.water-level.pdf)
 * [2024-06-03 16:00 Weather Report](data/weather-reports/20240603.1600.weather-report.pdf)
