@@ -19,8 +19,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1590/1591** documents downloaded.
+**1591/1592** documents downloaded.
 
+* [2024-06-03 12:30 Water Level Report](data/river-water-level-and-flood-warnings/20240603.1230.water-level-report.pdf)
 * [2024-06-03 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20240603.0930.water-level-rainfall.pdf)
 * [2024-06-03 06:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20240603.0630.water-level-rainfall.pdf)
 * [2024-06-03 03:30 water level](data/river-water-level-and-flood-warnings/20240603.0330.water-level.pdf)
@@ -30,7 +31,6 @@
 * [2024-06-02 18:00 water level](data/river-water-level-and-flood-warnings/20240602.1800.water-level.pdf)
 * [2024-06-02 15:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20240602.1530.water-level-rainfall.pdf)
 * [2024-06-02 15:00 Flood warning for Aththanagalu Oya Basin](data/river-water-level-and-flood-warnings/20240602.1500.flood-warning-for-aththanagalu-oya-basin.pdf)
-* [2024-06-02 12:30 Water Level Report](data/river-water-level-and-flood-warnings/20240602.1230.water-level-report.pdf)
 
 ## Landslide Warnings
 
@@ -73,7 +73,7 @@
 
 ## Situation Reports
 
-**3740/3975** documents downloaded.
+**3750/3975** documents downloaded.
 
 * [2024-06-02 09:00 Situation Report](data/situation-reports/20240602.0900.situation-report.pdf)
 * [2024-06-01 09:00 Situation Report](data/situation-reports/20240601.0900.situation-report.pdf)
@@ -88,8 +88,9 @@
 
 ## Weather Reports
 
-**3629/8388** documents downloaded.
+**3639/8389** documents downloaded.
 
+* [2024-06-03 12:00 Weather Report](data/weather-reports/20240603.1200.weather-report.pdf)
 * [2024-06-03 10:30 The Advisory for strong winds and rough seas at 1030hrs on 2024.06.](data/weather-reports/20240603.1030.the-advisory-for-strong-winds-and-rough-seas-at-1030hrs-on-202406.pdf)
 * [2024-06-03 05:30 Weather Forcast](data/weather-reports/20240603.0530.weather-forcast.pdf)
 * [2024-06-02 16:00 Weather Report](data/weather-reports/20240602.1600.weather-report.pdf)
@@ -99,4 +100,3 @@
 * [2024-06-01 16:00 Weather Report](data/weather-reports/20240601.1600.weather-report.pdf)
 * [2024-06-01 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240601.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
 * [2024-06-01 12:00 Weather Report](data/weather-reports/20240601.1200.weather-report.pdf)
-* [2024-06-01 11:30 Warning for strong winds and rough seas](data/weather-reports/20240601.1130.warning-for-strong-winds-and-rough-seas.pdf)
