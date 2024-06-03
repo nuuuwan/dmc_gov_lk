@@ -19,8 +19,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1588/1589** documents downloaded.
+**1589/1590** documents downloaded.
 
+* [2024-06-03 06:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20240603.0630.water-level-rainfall.pdf)
 * [2024-06-03 03:30 water level](data/river-water-level-and-flood-warnings/20240603.0330.water-level.pdf)
 * [2024-06-03 03:00 The Flood warning for Kalu River Basin Report](data/river-water-level-and-flood-warnings/20240603.0300.the-flood-warning-for-kalu-river-basin-report.pdf)
 * [2024-06-03 02:00 Flood warning for Nilwala River Basin](data/river-water-level-and-flood-warnings/20240603.0200.flood-warning-for-nilwala-river-basin.pdf)
@@ -30,7 +31,6 @@
 * [2024-06-02 15:00 Flood warning for Aththanagalu Oya Basin](data/river-water-level-and-flood-warnings/20240602.1500.flood-warning-for-aththanagalu-oya-basin.pdf)
 * [2024-06-02 12:30 Water Level Report](data/river-water-level-and-flood-warnings/20240602.1230.water-level-report.pdf)
 * [2024-06-02 10:30 Major Flood Warning for Kuda Ganga SubBasin Of Kalu River](data/river-water-level-and-flood-warnings/20240602.1030.major-flood-warning-for-kuda-ganga-subbasin-of-kalu-river.pdf)
-* [2024-06-02 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240602.0930.water-level-report.pdf)
 
 ## Landslide Warnings
 
@@ -73,7 +73,7 @@
 
 ## Situation Reports
 
-**3680/3975** documents downloaded.
+**3690/3975** documents downloaded.
 
 * [2024-06-02 09:00 Situation Report](data/situation-reports/20240602.0900.situation-report.pdf)
 * [2024-06-01 09:00 Situation Report](data/situation-reports/20240601.0900.situation-report.pdf)
@@ -88,7 +88,7 @@
 
 ## Weather Reports
 
-**3569/8387** documents downloaded.
+**3579/8387** documents downloaded.
 
 * [2024-06-03 05:30 Weather Forcast](data/weather-reports/20240603.0530.weather-forcast.pdf)
 * [2024-06-02 16:00 Weather Report](data/weather-reports/20240602.1600.weather-report.pdf)
