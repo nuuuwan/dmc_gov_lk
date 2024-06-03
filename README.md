@@ -19,8 +19,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1592/1593** documents downloaded.
+**1593/1594** documents downloaded.
 
+* [2024-06-03 18:30 Water Level](data/river-water-level-and-flood-warnings/20240603.1830.water-level.pdf)
 * [2024-06-03 15:00 water level](data/river-water-level-and-flood-warnings/20240603.1500.water-level.pdf)
 * [2024-06-03 12:30 Water Level Report](data/river-water-level-and-flood-warnings/20240603.1230.water-level-report.pdf)
 * [2024-06-03 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20240603.0930.water-level-rainfall.pdf)
@@ -30,7 +31,6 @@
 * [2024-06-03 02:00 Flood warning for Nilwala River Basin](data/river-water-level-and-flood-warnings/20240603.0200.flood-warning-for-nilwala-river-basin.pdf)
 * [2024-06-03 00:30 water level](data/river-water-level-and-flood-warnings/20240603.0030.water-level.pdf)
 * [2024-06-02 18:00 water level](data/river-water-level-and-flood-warnings/20240602.1800.water-level.pdf)
-* [2024-06-02 15:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20240602.1530.water-level-rainfall.pdf)
 
 ## Landslide Warnings
 
@@ -73,7 +73,7 @@
 
 ## Situation Reports
 
-**3790/3975** documents downloaded.
+**3800/3975** documents downloaded.
 
 * [2024-06-02 09:00 Situation Report](data/situation-reports/20240602.0900.situation-report.pdf)
 * [2024-06-01 09:00 Situation Report](data/situation-reports/20240601.0900.situation-report.pdf)
@@ -88,7 +88,7 @@
 
 ## Weather Reports
 
-**3679/8390** documents downloaded.
+**3689/8390** documents downloaded.
 
 * [2024-06-03 16:00 Weather Report](data/weather-reports/20240603.1600.weather-report.pdf)
 * [2024-06-03 12:00 Weather Report](data/weather-reports/20240603.1200.weather-report.pdf)
