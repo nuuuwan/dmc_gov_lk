@@ -34,8 +34,9 @@
 
 ## Landslide Warnings
 
-**553/559** documents downloaded.
+**554/560** documents downloaded.
 
+* [2024-06-03 16:00 Landslide Early Warning Report](data/landslide-warnings/20240603.1600.landslide-early-warning-report.pdf)
 * [2024-06-02 16:00 Landslide Early Warning Report](data/landslide-warnings/20240602.1600.landslide-early-warning-report.pdf)
 * [2024-06-02 07:00 Landslide Early Warning Report](data/landslide-warnings/20240602.0700.landslide-early-warning-report.pdf)
 * [2024-06-02 04:00 Landslide Early Warning](data/landslide-warnings/20240602.0400.landslide-early-warning.pdf)
@@ -45,7 +46,6 @@
 * [2024-05-31 17:00 Landslide Early Warning](data/landslide-warnings/20240531.1700.landslide-early-warning.pdf)
 * [2024-05-30 16:00 Landslide EW Report](data/landslide-warnings/20240530.1600.landslide-ew-report.pdf)
 * [2024-05-30 07:00 Landslide Early Warning](data/landslide-warnings/20240530.0700.landslide-early-warning.pdf)
-* [2024-05-29 16:00 Landslide Early Warning](data/landslide-warnings/20240529.1600.landslide-early-warning.pdf)
 
 ## Earthquakes
 
@@ -73,7 +73,7 @@
 
 ## Situation Reports
 
-**3780/3975** documents downloaded.
+**3790/3975** documents downloaded.
 
 * [2024-06-02 09:00 Situation Report](data/situation-reports/20240602.0900.situation-report.pdf)
 * [2024-06-01 09:00 Situation Report](data/situation-reports/20240601.0900.situation-report.pdf)
@@ -88,8 +88,9 @@
 
 ## Weather Reports
 
-**3669/8389** documents downloaded.
+**3679/8390** documents downloaded.
 
+* [2024-06-03 16:00 Weather Report](data/weather-reports/20240603.1600.weather-report.pdf)
 * [2024-06-03 12:00 Weather Report](data/weather-reports/20240603.1200.weather-report.pdf)
 * [2024-06-03 10:30 The Advisory for strong winds and rough seas at 1030hrs on 2024.06.](data/weather-reports/20240603.1030.the-advisory-for-strong-winds-and-rough-seas-at-1030hrs-on-202406.pdf)
 * [2024-06-03 05:30 Weather Forcast](data/weather-reports/20240603.0530.weather-forcast.pdf)
@@ -99,4 +100,3 @@
 * [2024-06-02 05:30 Weather Forcast](data/weather-reports/20240602.0530.weather-forcast.pdf)
 * [2024-06-01 16:00 Weather Report](data/weather-reports/20240601.1600.weather-report.pdf)
 * [2024-06-01 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240601.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
-* [2024-06-01 12:00 Weather Report](data/weather-reports/20240601.1200.weather-report.pdf)
