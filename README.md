@@ -19,8 +19,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1597/1598** documents downloaded.
+**1598/1599** documents downloaded.
 
+* [2024-06-04 06:00 Water Level](data/river-water-level-and-flood-warnings/20240604.0600.water-level.pdf)
 * [2024-06-04 03:30 Water Level](data/river-water-level-and-flood-warnings/20240604.0330.water-level.pdf)
 * [2024-06-04 03:00 Flood warning for Gin Ganga Basin](data/river-water-level-and-flood-warnings/20240604.0300.flood-warning-for-gin-ganga-basin.pdf)
 * [2024-06-04 03:00 Weather Forcast](data/river-water-level-and-flood-warnings/20240604.0300.weather-forcast.pdf)
@@ -30,7 +31,6 @@
 * [2024-06-03 12:30 Water Level Report](data/river-water-level-and-flood-warnings/20240603.1230.water-level-report.pdf)
 * [2024-06-03 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20240603.0930.water-level-rainfall.pdf)
 * [2024-06-03 06:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20240603.0630.water-level-rainfall.pdf)
-* [2024-06-03 03:30 water level](data/river-water-level-and-flood-warnings/20240603.0330.water-level.pdf)
 
 ## Landslide Warnings
 
@@ -73,7 +73,7 @@
 
 ## Situation Reports
 
-**3900/3975** documents downloaded.
+**3901/3975** documents downloaded.
 
 * [2024-06-02 09:00 Situation Report](data/situation-reports/20240602.0900.situation-report.pdf)
 * [2024-06-01 09:00 Situation Report](data/situation-reports/20240601.0900.situation-report.pdf)
@@ -88,8 +88,9 @@
 
 ## Weather Reports
 
-**3789/8391** documents downloaded.
+**3799/8392** documents downloaded.
 
+* [2024-06-04 05:30 Weather Forcast](data/weather-reports/20240604.0530.weather-forcast.pdf)
 * [2024-06-03 22:30 water level](data/weather-reports/20240603.2230.water-level.pdf)
 * [2024-06-03 16:00 Weather Report](data/weather-reports/20240603.1600.weather-report.pdf)
 * [2024-06-03 12:00 Weather Report](data/weather-reports/20240603.1200.weather-report.pdf)
@@ -99,4 +100,3 @@
 * [2024-06-02 12:00 Weather Report](data/weather-reports/20240602.1200.weather-report.pdf)
 * [2024-06-02 07:00 Warning for Heavy Rain](data/weather-reports/20240602.0700.warning-for-heavy-rain.pdf)
 * [2024-06-02 05:30 Weather Forcast](data/weather-reports/20240602.0530.weather-forcast.pdf)
-* [2024-06-01 16:00 Weather Report](data/weather-reports/20240601.1600.weather-report.pdf)
