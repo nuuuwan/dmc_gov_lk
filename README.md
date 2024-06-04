@@ -19,8 +19,11 @@
 
 ## River Water Level And Flood Warnings
 
-**1604/1605** documents downloaded.
+**1607/1608** documents downloaded.
 
+* [2024-06-05 03:30 Water Level](data/river-water-level-and-flood-warnings/20240605.0330.water-level.pdf)
+* [2024-06-05 03:00 The Flood warning for Kalu River Basin  No 0](data/river-water-level-and-flood-warnings/20240605.0300.the-flood-warning-for-kalu-river-basin-no-0.pdf)
+* [2024-06-05 00:30 water level](data/river-water-level-and-flood-warnings/20240605.0030.water-level.pdf)
 * [2024-06-04 21:30 Water Level  Rainfall Situation](data/river-water-level-and-flood-warnings/20240604.2130.water-level-rainfall-situation.pdf)
 * [2024-06-04 18:30 water level](data/river-water-level-and-flood-warnings/20240604.1830.water-level.pdf)
 * [2024-06-04 16:00 Flood warning for Aththanagalu Oya Basin No-02](data/river-water-level-and-flood-warnings/20240604.1600.flood-warning-for-aththanagalu-oya-basin-no02.pdf)
@@ -28,9 +31,6 @@
 * [2024-06-04 12:30 Water Level Report](data/river-water-level-and-flood-warnings/20240604.1230.water-level-report.pdf)
 * [2024-06-04 09:30 water level](data/river-water-level-and-flood-warnings/20240604.0930.water-level.pdf)
 * [2024-06-04 06:00 Water Level](data/river-water-level-and-flood-warnings/20240604.0600.water-level.pdf)
-* [2024-06-04 03:30 Water Level](data/river-water-level-and-flood-warnings/20240604.0330.water-level.pdf)
-* [2024-06-04 03:00 Flood warning for Gin Ganga Basin](data/river-water-level-and-flood-warnings/20240604.0300.flood-warning-for-gin-ganga-basin.pdf)
-* [2024-06-04 03:00 Weather Forcast](data/river-water-level-and-flood-warnings/20240604.0300.weather-forcast.pdf)
 
 ## Landslide Warnings
 
@@ -88,7 +88,7 @@
 
 ## Weather Reports
 
-**4019/8394** documents downloaded.
+**4029/8394** documents downloaded.
 
 * [2024-06-04 16:00 Weather Report](data/weather-reports/20240604.1600.weather-report.pdf)
 * [2024-06-04 12:00 Weather Forcast](data/weather-reports/20240604.1200.weather-forcast.pdf)
