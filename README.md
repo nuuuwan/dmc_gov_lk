@@ -88,8 +88,9 @@
 
 ## Weather Reports
 
-**3849/8392** documents downloaded.
+**3859/8393** documents downloaded.
 
+* [2024-06-04 12:00 Weather Forcast](data/weather-reports/20240604.1200.weather-forcast.pdf)
 * [2024-06-04 05:30 Weather Forcast](data/weather-reports/20240604.0530.weather-forcast.pdf)
 * [2024-06-03 22:30 water level](data/weather-reports/20240603.2230.water-level.pdf)
 * [2024-06-03 16:00 Weather Report](data/weather-reports/20240603.1600.weather-report.pdf)
@@ -99,4 +100,3 @@
 * [2024-06-02 16:00 Weather Report](data/weather-reports/20240602.1600.weather-report.pdf)
 * [2024-06-02 12:00 Weather Report](data/weather-reports/20240602.1200.weather-report.pdf)
 * [2024-06-02 07:00 Warning for Heavy Rain](data/weather-reports/20240602.0700.warning-for-heavy-rain.pdf)
-* [2024-06-02 05:30 Weather Forcast](data/weather-reports/20240602.0530.weather-forcast.pdf)
