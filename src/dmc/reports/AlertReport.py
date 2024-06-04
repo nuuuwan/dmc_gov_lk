@@ -74,17 +74,17 @@ class AlertReport:
                 '',
                 f'Last updated **{time_str}**.',
                 '',
-            ]
-            + self.get_lines_river_water_level(True)
-            + self.get_lines_river_water_level(False)
-            + [
+            ] +  [
                 '',
                 '<div id="river-water-level-map">',
                 '',
                 '![River Water Level Map](images/river-water-level-map.png)',
                 '',
-                '</div>' '',
-            ]
+                '</div>', 
+                '',
+            ] + self.get_lines_river_water_level(True)
+            + self.get_lines_river_water_level(False)
+            + ['']
         )
 
     def build(self):
