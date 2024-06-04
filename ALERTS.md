@@ -4,6 +4,13 @@
 
 Last updated **2024-06-04 15:30:00**.
 
+
+<div id="river-water-level-map">
+
+![River Water Level Map](images/river-water-level-map.png)
+
+</div>
+
 ## Alerts (11)
 
 | Level | Basin | River | Station | Rising Rate (mm/hr) | Level (m) | Alert Level (m) |
@@ -53,9 +60,3 @@ Last updated **2024-06-04 15:30:00**.
 | 🟢 Normal | Walawe Ganga (RB 18) | Walawe Ganga | Moraketiya | 0  | 1.2 | 3.0 | 🟢 |
 | 🟢 Normal | Yan Oya (RB 67) | Yan Oya | Horowpatana | 0  | 1.5 | 6.0 | 🟢 |
 
-
-<div id="river-water-level-map">
-
-![River Water Level Map](images/river-water-level-map.png)
-
-</div>

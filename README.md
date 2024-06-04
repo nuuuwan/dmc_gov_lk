@@ -19,8 +19,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1601/1602** documents downloaded.
+**1602/1603** documents downloaded.
 
+* [2024-06-04 16:00 Flood warning for Aththanagalu Oya Basin No-02](data/river-water-level-and-flood-warnings/20240604.1600.flood-warning-for-aththanagalu-oya-basin-no02.pdf)
 * [2024-06-04 15:30 Water Level Report](data/river-water-level-and-flood-warnings/20240604.1530.water-level-report.pdf)
 * [2024-06-04 12:30 Water Level Report](data/river-water-level-and-flood-warnings/20240604.1230.water-level-report.pdf)
 * [2024-06-04 09:30 water level](data/river-water-level-and-flood-warnings/20240604.0930.water-level.pdf)
@@ -30,7 +31,6 @@
 * [2024-06-04 03:00 Weather Forcast](data/river-water-level-and-flood-warnings/20240604.0300.weather-forcast.pdf)
 * [2024-06-04 00:30 Water Level](data/river-water-level-and-flood-warnings/20240604.0030.water-level.pdf)
 * [2024-06-03 18:30 Water Level](data/river-water-level-and-flood-warnings/20240603.1830.water-level.pdf)
-* [2024-06-03 15:00 water level](data/river-water-level-and-flood-warnings/20240603.1500.water-level.pdf)
 
 ## Landslide Warnings
 
@@ -88,8 +88,9 @@
 
 ## Weather Reports
 
-**3899/8393** documents downloaded.
+**3909/8394** documents downloaded.
 
+* [2024-06-04 16:00 Weather Report](data/weather-reports/20240604.1600.weather-report.pdf)
 * [2024-06-04 12:00 Weather Forcast](data/weather-reports/20240604.1200.weather-forcast.pdf)
 * [2024-06-04 05:30 Weather Forcast](data/weather-reports/20240604.0530.weather-forcast.pdf)
 * [2024-06-03 22:30 water level](data/weather-reports/20240603.2230.water-level.pdf)
@@ -99,4 +100,3 @@
 * [2024-06-03 05:30 Weather Forcast](data/weather-reports/20240603.0530.weather-forcast.pdf)
 * [2024-06-02 16:00 Weather Report](data/weather-reports/20240602.1600.weather-report.pdf)
 * [2024-06-02 12:00 Weather Report](data/weather-reports/20240602.1200.weather-report.pdf)
-* [2024-06-02 07:00 Warning for Heavy Rain](data/weather-reports/20240602.0700.warning-for-heavy-rain.pdf)
