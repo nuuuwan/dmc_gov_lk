@@ -19,8 +19,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1612/1613** documents downloaded.
+**1613/1614** documents downloaded.
 
+* [2024-06-05 21:00 Water Leval Report](data/river-water-level-and-flood-warnings/20240605.2100.water-leval-report.pdf)
 * [2024-06-05 18:30 water level](data/river-water-level-and-flood-warnings/20240605.1830.water-level.pdf)
 * [2024-06-05 15:30 Water Level Report](data/river-water-level-and-flood-warnings/20240605.1530.water-level-report.pdf)
 * [2024-06-05 12:30 Water Level Report](data/river-water-level-and-flood-warnings/20240605.1230.water-level-report.pdf)
@@ -30,7 +31,6 @@
 * [2024-06-05 03:00 The Flood warning for Kalu River Basin  No 0](data/river-water-level-and-flood-warnings/20240605.0300.the-flood-warning-for-kalu-river-basin-no-0.pdf)
 * [2024-06-05 00:30 water level](data/river-water-level-and-flood-warnings/20240605.0030.water-level.pdf)
 * [2024-06-04 21:30 Water Level  Rainfall Situation](data/river-water-level-and-flood-warnings/20240604.2130.water-level-rainfall-situation.pdf)
-* [2024-06-04 18:30 water level](data/river-water-level-and-flood-warnings/20240604.1830.water-level.pdf)
 
 ## Landslide Warnings
 
@@ -88,7 +88,7 @@
 
 ## Weather Reports
 
-**4209/8398** documents downloaded.
+**4219/8398** documents downloaded.
 
 * [2024-06-05 16:00 Weather Report](data/weather-reports/20240605.1600.weather-report.pdf)
 * [2024-06-05 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240605.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
