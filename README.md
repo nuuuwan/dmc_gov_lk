@@ -88,8 +88,9 @@
 
 ## Weather Reports
 
-**4039/8394** documents downloaded.
+**4049/8395** documents downloaded.
 
+* [2024-06-05 05:30 Weather Forcast](data/weather-reports/20240605.0530.weather-forcast.pdf)
 * [2024-06-04 16:00 Weather Report](data/weather-reports/20240604.1600.weather-report.pdf)
 * [2024-06-04 12:00 Weather Forcast](data/weather-reports/20240604.1200.weather-forcast.pdf)
 * [2024-06-04 05:30 Weather Forcast](data/weather-reports/20240604.0530.weather-forcast.pdf)
@@ -99,4 +100,3 @@
 * [2024-06-03 10:30 The Advisory for strong winds and rough seas at 1030hrs on 2024.06.](data/weather-reports/20240603.1030.the-advisory-for-strong-winds-and-rough-seas-at-1030hrs-on-202406.pdf)
 * [2024-06-03 05:30 Weather Forcast](data/weather-reports/20240603.0530.weather-forcast.pdf)
 * [2024-06-02 16:00 Weather Report](data/weather-reports/20240602.1600.weather-report.pdf)
-* [2024-06-02 12:00 Weather Report](data/weather-reports/20240602.1200.weather-report.pdf)
