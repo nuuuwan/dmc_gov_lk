@@ -1,5 +1,13 @@
 [
   {
+    "name": "Weather Reports",
+    "time_str": "2024-06-06 05:30",
+    "time_id": "20240606.0530",
+    "ut": 1717632000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530_hrs_on_2024__1717632648.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Report ",
     "time_str": "2024-06-05 16:00",
     "time_id": "20240605.1600",
