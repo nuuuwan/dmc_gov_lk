@@ -147,4 +147,3 @@ class GenericDownloader:
                     break
             except BaseException as e:
                 log.error(f"Failed to download {file_path}: {e}")
-               
