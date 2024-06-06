@@ -47,7 +47,6 @@ class AlertReport:
                 alert_level_m=f'{rwl.alert_level:.1f}',
                 minor_flood_level_m=f'{rwl.minor_flood_level:.1f}',
                 major_flood_level_m=f'{rwl.major_flood_level:.1f}',
-
             )
             for rwl in rwl_list
         ]
@@ -66,7 +65,6 @@ class AlertReport:
             'alert_level_m': 'Alert Level (m)',
             'minor_flood_level_m': 'Minor Flood Level (m)',
             'major_flood_level_m': 'Major Flood Level (m)',
-
         }
         md = Markdown()
         title = 'Alerts' if alert_mode else 'Other Stations'
