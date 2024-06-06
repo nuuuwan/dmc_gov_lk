@@ -5,7 +5,9 @@ As posted [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 Last updated **2024-06-06 15:30:00**.
 
 <div id="river-water-level-map">
+
 ![images/river-water-level-map.png](images/river-water-level-map.png)
+
 </div>
 
 ## Alerts (6)
@@ -18,6 +20,7 @@ Last updated **2024-06-06 15:30:00**.
 | 🟠 Minor Flood | Nilwala Ganga (RB 12) | Nilwala Ganga | Thalgahagoda | -20 🡇 | 2.2 | 1.4 |  |
 | 🟡 Alert | Kalu Ganga (RB 03) | Kalu Ganga | Ellagawa | -60 🡇 | 10.3 | 10.0 |  |
 | 🟡 Alert | Nilwala Ganga (RB 12) | Nilwala Ganga | Panadugama | -30 🡇 | 5.6 | 5.0 |  |
+
 ## Other Stations (33)
 
 | Level | Basin | River | Station | Rising Rate (mm/hr) | Level (m) | Alert Level (m) | Time to Alert |

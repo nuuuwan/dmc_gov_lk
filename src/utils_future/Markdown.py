@@ -42,7 +42,7 @@ class Markdown:
 
     def div(self, id, children):
         self.lines.extend(
-            [f'<div id="{id}">', *children, '</div>', Markdown.BLANK_LINE]
+            [f'<div id="{id}">', '', *children, '', '</div>', Markdown.BLANK_LINE]
         )
 
     def table(self, data_list, key_to_label=None):
@@ -63,6 +63,7 @@ class Markdown:
             self.lines.extend(
                 ['| ' + ' | '.join([str(data[key]) for key in keys]) + ' |']
             )
+        self.lines.append(Markdown.BLANK_LINE)
 
    
     def __add__(self, other):
