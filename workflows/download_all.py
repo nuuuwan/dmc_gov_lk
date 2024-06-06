@@ -8,7 +8,6 @@ def main():
         ['landslide-warnings', 5],
         ['weather-reports', 2],
         ['situation-reports', 1],
-        
         # less common
         ['flood-inundation-maps', 3],
         ['emergency-response-data-viewer', 4],
