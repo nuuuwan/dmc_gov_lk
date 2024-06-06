@@ -1,6 +1,7 @@
-from utils import File, Log, Time, TimeFormat
+from utils import Log, Time, TimeFormat
 
 from dmc.core import RiverWaterLevel
+from utils_future import Markdown
 
 log = Log('AlertReport')
 
@@ -13,9 +14,7 @@ class AlertReport:
     def alert_path(self):
         return 'ALERTS.md'
 
-    def get_lines_river_water_level(self, alert_mode):
-        title = 'Alerts' if alert_mode else 'Other Stations'
-
+    def get_sorted_rwl_list(self, alert_mode):
         rwl_list = [
             rwl
             for rwl in self.rwl_list
@@ -31,65 +30,71 @@ class AlertReport:
                 rwl.station,
             ),
         )
+        return rwl_list
 
-        n = len(rwl_list)
+    def get_data_list(self, alert_mode):
+        rwl_list = self.get_sorted_rwl_list(alert_mode)
 
-        lines = [f'## {title} ({n:,})', '']
-
-        lines.extend(
-            [
-                '| Level | Basin | River | Station'
-                + ' | Rising Rate (mm/hr)'
-                + ' | Level (m) | Alert Level (m) |'
-                + (' Time to Alert |' if not alert_mode else ''),
-                '|---|---|---|---'
-                + '|--:'
-                + ' |--:|--:|'
-                + ('---|' if not alert_mode else ''),
-            ]
-        )
-
-        for rwl in rwl_list:
-            lines.append(
-                f'| {rwl.alert_emoji} {rwl.level_text} | {rwl.river_basin}'
-                + f' | {rwl.river} | {rwl.station}'
-                + f' | {rwl.rising_rate_mm_per_hr:.0f} {rwl.rising_rate_emoji}'
-                + f' | {rwl.water_level_2:.1f} | {rwl.alert_level:.1f} |'
-                + (f' {rwl.time_to_alert_str} |' if not alert_mode else ''),
+        data_list = [
+            dict(
+                level=f'{rwl.alert_emoji} {rwl.level_text}',
+                basin=rwl.river_basin,
+                river=rwl.river,
+                station=rwl.station,
+                rising_rate=f'{rwl.rising_rate_mm_per_hr:.0f}'
+                + f' {rwl.rising_rate_emoji}',
+                level_m=f'{rwl.water_level_2:.1f}',
+                alert_level_m=f'{rwl.alert_level:.1f}',
+                time_to_alert=rwl.time_to_alert_str if not alert_mode else '',
             )
-        lines.append('')
-        return lines
+            for rwl in rwl_list
+        ]
+
+        return data_list
+
+    def get_md_river_water_level(self, alert_mode):
+        data_list = self.get_data_list(alert_mode)
+        key_to_label = {
+            'level': 'Level',
+            'basin': 'Basin',
+            'river': 'River',
+            'station': 'Station',
+            'rising_rate': 'Rising Rate (mm/hr)',
+            'level_m': 'Level (m)',
+            'alert_level_m': 'Alert Level (m)',
+            'time_to_alert': 'Time to Alert',
+        }
+        md = Markdown()
+        title = 'Alerts' if alert_mode else 'Other Stations'
+        n = len(data_list)
+        md.h2(f'{title} ({n:,})')
+        md.table(
+            data_list,
+            key_to_label,
+        )
+        return md
 
     @property
-    def lines(self):
+    def md(self):
         ut = self.rwl_list[0].ut
         time_str = TimeFormat.TIME.format(Time(ut))
         log.debug(f'{time_str=}')
 
-        return (
-            [
-                '# River Water Levels :sri_lanka:',
-                '',
-                '*As posted '
-                + ' [https://www.dmc.gov.lk](https://www.dmc.gov.lk)*',
-                '',
-                f'Last updated **{time_str}**.',
-                '',
-            ]
-            + [
-                '',
-                '<div id="river-water-level-map">',
-                '',
-                '![River Water Level Map](images/river-water-level-map.png)',
-                '',
-                '</div>',
-                '',
-            ]
-            + self.get_lines_river_water_level(True)
-            + self.get_lines_river_water_level(False)
-            + ['']
+        md = Markdown()
+
+        md.h1('River Water Levels :sri_lanka:')
+        md.p(
+            'As posted ' + md.link('https://www.dmc.gov.lk'),
         )
+        md.p('Last updated ' + md.bold(time_str) + '.')
+        md.div(
+            'river-water-level-map',
+            [md.image('images/river-water-level-map.png')],
+        )
+        md += self.get_md_river_water_level(True)
+        md += self.get_md_river_water_level(False)
+
+        return md
 
     def build(self):
-        File(self.alert_path).write_lines(self.lines)
-        log.info(f'Wrote {self.alert_path}')
+        self.md.save(self.alert_path)
