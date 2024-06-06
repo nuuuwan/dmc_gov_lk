@@ -142,7 +142,7 @@ class RiverWaterLevelParser:
 
     @classmethod
     def list_from_pdf(cls, pdf_path):
-        pdf_file = os.path.basename(data_path)
+        pdf_file = os.path.basename(pdf_path)
         log.debug(f'{pdf_file=}')
         ut = TimeFormat('%Y%m%d.%H%M').parse(pdf_file[:13]).ut
         log.debug(f'{ut=}')
