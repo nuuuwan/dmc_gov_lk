@@ -19,8 +19,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1622/1624** documents downloaded.
+**1623/1625** documents downloaded.
 
+* [2024-06-07 12:30 Water Level Report](data/river-water-level-and-flood-warnings/20240607.1230.water-level-report.pdf)
 * [2024-06-06 21:00 Water Level](data/river-water-level-and-flood-warnings/20240606.2100.water-level.pdf)
 * [2024-06-06 18:30 water level](data/river-water-level-and-flood-warnings/20240606.1830.water-level.pdf)
 * [2024-06-06 15:30 Water Level Report](data/river-water-level-and-flood-warnings/20240606.1530.water-level-report.pdf)
@@ -30,7 +31,6 @@
 * [2024-06-06 04:30 Water Level Report](data/river-water-level-and-flood-warnings/20240606.0430.water-level-report.pdf)
 * [2024-06-06 03:30 warning for Nilwala Ganga Basin  No 04](data/river-water-level-and-flood-warnings/20240606.0330.warning-for-nilwala-ganga-basin-no-04.pdf)
 * [2024-06-06 03:00 Water Level Report](data/river-water-level-and-flood-warnings/20240606.0300.water-level-report.pdf)
-* [2024-06-06 00:30 River Water Level Report 2024.06.0](data/river-water-level-and-flood-warnings/20240606.0030.river-water-level-report-2024060.pdf)
 
 ## Landslide Warnings
 
@@ -88,7 +88,7 @@
 
 ## Weather Reports
 
-**4450/8402** documents downloaded.
+**4460/8402** documents downloaded.
 
 * [2024-06-06 16:00 Weather Report](data/weather-reports/20240606.1600.weather-report.pdf)
 * [2024-06-06 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240606.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
