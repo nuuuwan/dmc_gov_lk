@@ -1,6 +1,6 @@
 # River Water Levels :sri_lanka:
 
-*As posted on [https://www.dmc.gov.lk](https://www.dmc.gov.lk)*
+*As posted  [https://www.dmc.gov.lk](https://www.dmc.gov.lk)*
 
 Last updated **2024-06-06 12:30:00**.
 

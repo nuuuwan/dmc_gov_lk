@@ -19,8 +19,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1619/1621** documents downloaded.
+**1620/1622** documents downloaded.
 
+* [2024-06-06 15:30 Water Level Report](data/river-water-level-and-flood-warnings/20240606.1530.water-level-report.pdf)
 * [2024-06-06 12:30 Water Level Report](data/river-water-level-and-flood-warnings/20240606.1230.water-level-report.pdf)
 * [2024-06-06 09:30 water level](data/river-water-level-and-flood-warnings/20240606.0930.water-level.lk/images/dmcreports/)
 * [2024-06-06 06:30 Water Level Report](data/river-water-level-and-flood-warnings/20240606.0630.water-level-report.pdf)
@@ -30,12 +31,12 @@
 * [2024-06-06 00:30 River Water Level Report 2024.06.0](data/river-water-level-and-flood-warnings/20240606.0030.river-water-level-report-2024060.pdf)
 * [2024-06-05 21:00 Water Leval Report](data/river-water-level-and-flood-warnings/20240605.2100.water-leval-report.pdf)
 * [2024-06-05 18:30 water level](data/river-water-level-and-flood-warnings/20240605.1830.water-level.pdf)
-* [2024-06-05 15:30 Water Level Report](data/river-water-level-and-flood-warnings/20240605.1530.water-level-report.pdf)
 
 ## Landslide Warnings
 
-**556/562** documents downloaded.
+**557/563** documents downloaded.
 
+* [2024-06-06 16:00 Landslide Early Warning Report](data/landslide-warnings/20240606.1600.landslide-early-warning-report.pdf)
 * [2024-06-05 16:00 Landslide Early Warning Report](data/landslide-warnings/20240605.1600.landslide-early-warning-report.pdf)
 * [2024-06-04 16:00 Landslide Early Warning Report](data/landslide-warnings/20240604.1600.landslide-early-warning-report.pdf)
 * [2024-06-03 16:00 Landslide Early Warning Report](data/landslide-warnings/20240603.1600.landslide-early-warning-report.pdf)
@@ -45,7 +46,6 @@
 * [2024-06-01 18:30 Landslide Warning](data/landslide-warnings/20240601.1830.landslide-warning.pdf)
 * [2024-06-01 16:00 Landslide Early Warning](data/landslide-warnings/20240601.1600.landslide-early-warning.pdf)
 * [2024-06-01 08:00 Landslide Early Warning](data/landslide-warnings/20240601.0800.landslide-early-warning.pdf)
-* [2024-05-31 17:00 Landslide Early Warning](data/landslide-warnings/20240531.1700.landslide-early-warning.pdf)
 
 ## Earthquakes
 
@@ -88,8 +88,9 @@
 
 ## Weather Reports
 
-**4359/8401** documents downloaded.
+**4369/8402** documents downloaded.
 
+* [2024-06-06 16:00 Weather Report](data/weather-reports/20240606.1600.weather-report.pdf)
 * [2024-06-06 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240606.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
 * [2024-06-06 12:00 Weather Report](data/weather-reports/20240606.1200.weather-report.pdf)
 * [2024-06-06 05:30 Weather Reports](data/weather-reports/20240606.0530.weather-reports.pdf)
@@ -99,4 +100,3 @@
 * [2024-06-05 05:30 Weather Forcast](data/weather-reports/20240605.0530.weather-forcast.pdf)
 * [2024-06-04 16:00 Weather Report](data/weather-reports/20240604.1600.weather-report.pdf)
 * [2024-06-04 12:00 Weather Forcast](data/weather-reports/20240604.1200.weather-forcast.pdf)
-* [2024-06-04 05:30 Weather Forcast](data/weather-reports/20240604.0530.weather-forcast.pdf)
