@@ -65,18 +65,28 @@ class RiverWaterLevelParser:
         log.debug(f'{ut_rainfall_end=}')
         assert ut_rainfall_end <= ut
         return ut_rainfall_end, rainfall_duration
+    
+
+    @staticmethod
+    def parse_water_level_time_single(d_list, i_level, date_id, ut):
+        water_level_time = d_list[0][i_level].split('\n')[-1]
+       
+        log.debug(f'{water_level_time=}')
+        ut_water_level = RiverWaterLevelParser.get_ut(
+            date_id, water_level_time
+        )
+
+        log.debug(f'{ut_water_level=}')
+        assert ut_water_level <= ut
+        return ut_water_level
 
     @staticmethod
     def parse_water_level_time(d_list, date_id, ut):
-        water_level_time_1 = d_list[0][7].split('\n')[-1]
-        water_leveL_time_2 = d_list[0][8].split('\n')[-1]
-
-        log.debug(f'{water_level_time_1=}, {water_leveL_time_2=}')
-        ut_water_level_1 = RiverWaterLevelParser.get_ut(
-            date_id, water_level_time_1
+        ut_water_level_1 = RiverWaterLevelParser.parse_water_level_time_single(
+            d_list, 7, date_id, ut
         )
-        ut_water_level_2 = RiverWaterLevelParser.get_ut(
-            date_id, water_leveL_time_2
+        ut_water_level_2 = RiverWaterLevelParser.parse_water_level_time_single(
+            d_list, 8, date_id, ut
         )
         log.debug(f'{ut_water_level_1=}, {ut_water_level_2=}')
         assert ut_water_level_1 <= ut_water_level_2
