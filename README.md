@@ -19,8 +19,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1620/1622** documents downloaded.
+**1621/1623** documents downloaded.
 
+* [2024-06-06 18:30 water level](data/river-water-level-and-flood-warnings/20240606.1830.water-level.pdf)
 * [2024-06-06 15:30 Water Level Report](data/river-water-level-and-flood-warnings/20240606.1530.water-level-report.pdf)
 * [2024-06-06 12:30 Water Level Report](data/river-water-level-and-flood-warnings/20240606.1230.water-level-report.pdf)
 * [2024-06-06 09:30 water level](data/river-water-level-and-flood-warnings/20240606.0930.water-level.lk/images/dmcreports/)
@@ -30,7 +31,6 @@
 * [2024-06-06 03:00 Water Level Report](data/river-water-level-and-flood-warnings/20240606.0300.water-level-report.pdf)
 * [2024-06-06 00:30 River Water Level Report 2024.06.0](data/river-water-level-and-flood-warnings/20240606.0030.river-water-level-report-2024060.pdf)
 * [2024-06-05 21:00 Water Leval Report](data/river-water-level-and-flood-warnings/20240605.2100.water-leval-report.pdf)
-* [2024-06-05 18:30 water level](data/river-water-level-and-flood-warnings/20240605.1830.water-level.pdf)
 
 ## Landslide Warnings
 
@@ -88,7 +88,7 @@
 
 ## Weather Reports
 
-**4390/8402** documents downloaded.
+**4400/8402** documents downloaded.
 
 * [2024-06-06 16:00 Weather Report](data/weather-reports/20240606.1600.weather-report.pdf)
 * [2024-06-06 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240606.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
