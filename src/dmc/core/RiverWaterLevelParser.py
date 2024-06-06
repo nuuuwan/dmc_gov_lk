@@ -59,7 +59,7 @@ class RiverWaterLevelParser:
             .replace('mm at ', '')
         )
         log.debug(f'{rainfall_duration=}, {rainfall_end_time=}')
-        ut_rainfall_end = RiverWaterLevelParser.get_ut(
+        ut_rainfall_end = RiverWaterLevelParser.parse_ut(
             date_id, rainfall_end_time
         )
         log.debug(f'{ut_rainfall_end=}')
@@ -71,7 +71,7 @@ class RiverWaterLevelParser:
         water_level_time = d_list[0][i_level].split('\n')[-1]
 
         log.debug(f'{water_level_time=}')
-        ut_water_level = RiverWaterLevelParser.get_ut(
+        ut_water_level = RiverWaterLevelParser.parse_ut(
             date_id, water_level_time
         )
 

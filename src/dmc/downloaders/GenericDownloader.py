@@ -123,24 +123,23 @@ class GenericDownloader:
         n_downloaded = 0
         n_total = len(link_info_list)
         for i_link, link_info in enumerate(link_info_list, start=1):
+            if not link_info['href'].lower().endswith('.pdf'):
+                continue
             file_path = GenericDownloader.get_file_path(
                 self.dir_data, link_info
             )
-            if os.path.exists(file_path):
-                log.debug(f"{file_path} exists.")
-                continue
 
             try:
-                GenericDownloader.download_binary(
-                    link_info['href'], file_path
-                )
-                n_downloaded += 1
-                log.info(
-                    f"{i_link}/{n_total})"
-                    + f" Downloaded {file_path} ({n_downloaded})"
-                )
+                if not os.path.exists(file_path):
+                    GenericDownloader.download_binary(
+                        link_info['href'], file_path
+                    )
+                    n_downloaded += 1
+                    log.info(
+                        f"{i_link}/{n_total})"
+                        + f" Downloaded {file_path} ({n_downloaded})"
+                    )
 
-                # HACK: parse
                 if self.doc_type == RiverWaterLevel.DOC_TYPE:
                     RiverWaterLevel.list_from_pdf(file_path)
 
@@ -148,3 +147,4 @@ class GenericDownloader:
                     break
             except BaseException as e:
                 log.error(f"Failed to download {file_path}: {e}")
+               
