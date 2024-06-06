@@ -45,7 +45,7 @@ class AlertReport:
                 + f' {rwl.rising_rate_emoji}',
                 level_m=f'{rwl.water_level_2:.1f}',
                 alert_level_m=f'{rwl.alert_level:.1f}',
-                time_to_alert=rwl.time_to_alert_str if not alert_mode else '',
+
             )
             for rwl in rwl_list
         ]
@@ -62,7 +62,7 @@ class AlertReport:
             'rising_rate': 'Rising Rate (mm/hr)',
             'level_m': 'Level (m)',
             'alert_level_m': 'Alert Level (m)',
-            'time_to_alert': 'Time to Alert',
+
         }
         md = Markdown()
         title = 'Alerts' if alert_mode else 'Other Stations'
