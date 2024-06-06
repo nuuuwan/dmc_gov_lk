@@ -38,9 +38,9 @@ class AlertReport:
         data_list = [
             dict(
                 level=f'{rwl.alert_emoji} {rwl.level_text}',
-                basin=rwl.river_basin,
-                river=rwl.river,
                 station=rwl.station,
+                river=rwl.river,
+                basin=rwl.river_basin,
                 rising_rate=f'{rwl.rising_rate_mm_per_hr:.0f}'
                 + f' {rwl.rising_rate_emoji}',
                 level_m=f'{rwl.water_level_2:.1f}',
@@ -56,9 +56,9 @@ class AlertReport:
         data_list = self.get_data_list(alert_mode)
         key_to_label = {
             'level': 'Level',
-            'basin': 'Basin',
-            'river': 'River',
             'station': 'Station',
+            'river': 'River',
+            'basin': 'Basin',
             'rising_rate': 'Rising Rate (mm/hr)',
             'level_m': 'Level (m)',
             'alert_level_m': 'Alert Level (m)',
