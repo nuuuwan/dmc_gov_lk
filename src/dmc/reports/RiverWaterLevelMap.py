@@ -6,6 +6,7 @@ from matplotlib import collections as mc
 from utils import Log, Time, TimeFormat
 
 from dmc.core import RiverWaterLevel, Station
+from utils_future import RunMode
 
 log = Log('RiverWaterLevelMap')
 
@@ -157,5 +158,5 @@ class RiverWaterLevelMap:
         plt.savefig(self.image_path, dpi=600)
         plt.close()
         log.info(f'Wrote {self.image_path}')
-        if os.name == 'nt':
+        if RunMode.is_test():
             os.startfile(self.image_path)
