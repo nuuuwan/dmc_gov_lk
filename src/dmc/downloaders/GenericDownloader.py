@@ -118,6 +118,22 @@ class GenericDownloader:
         )
         return file_path
 
+    def download_file(self, link_info, file_path):
+        try:
+            if not os.path.exists(file_path):
+                GenericDownloader.download_binary(
+                    link_info['href'], file_path
+                )
+
+                if self.doc_type == RiverWaterLevel.DOC_TYPE:
+                    RiverWaterLevel.list_from_pdf(file_path)
+
+                return True
+
+        except BaseException as e:
+            log.error(f"Failed to download {file_path}: {e}")
+        return False
+
     def download_all(self):
         link_info_list = self.get_link_info_list()
         n_downloaded = 0
@@ -129,21 +145,12 @@ class GenericDownloader:
                 self.dir_data, link_info
             )
 
-            try:
-                if not os.path.exists(file_path):
-                    GenericDownloader.download_binary(
-                        link_info['href'], file_path
-                    )
-                    n_downloaded += 1
-                    log.info(
-                        f"{i_link}/{n_total})"
-                        + f" Downloaded {file_path} ({n_downloaded})"
-                    )
+            if self.download_file(link_info, file_path):
+                n_downloaded += 1
+                log.debug(
+                    f"{i_link}/{n_total})"
+                    + f" Downloaded {file_path} ({n_downloaded})"
+                )
 
-                if self.doc_type == RiverWaterLevel.DOC_TYPE:
-                    RiverWaterLevel.list_from_pdf(file_path)
-
-                if n_downloaded >= GenericDownloader.N_MAX_DOWNLOADS:
-                    break
-            except BaseException as e:
-                log.error(f"Failed to download {file_path}: {e}")
+            if n_downloaded >= GenericDownloader.N_MAX_DOWNLOADS:
+                break
