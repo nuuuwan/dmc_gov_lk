@@ -65,12 +65,11 @@ class RiverWaterLevelParser:
         log.debug(f'{ut_rainfall_end=}')
         assert ut_rainfall_end <= ut
         return ut_rainfall_end, rainfall_duration
-    
 
     @staticmethod
     def parse_water_level_time_single(d_list, i_level, date_id, ut):
         water_level_time = d_list[0][i_level].split('\n')[-1]
-       
+
         log.debug(f'{water_level_time=}')
         ut_water_level = RiverWaterLevelParser.get_ut(
             date_id, water_level_time
@@ -82,11 +81,15 @@ class RiverWaterLevelParser:
 
     @staticmethod
     def parse_water_level_time(d_list, date_id, ut):
-        ut_water_level_1 = RiverWaterLevelParser.parse_water_level_time_single(
-            d_list, 7, date_id, ut
+        ut_water_level_1 = (
+            RiverWaterLevelParser.parse_water_level_time_single(
+                d_list, 7, date_id, ut
+            )
         )
-        ut_water_level_2 = RiverWaterLevelParser.parse_water_level_time_single(
-            d_list, 8, date_id, ut
+        ut_water_level_2 = (
+            RiverWaterLevelParser.parse_water_level_time_single(
+                d_list, 8, date_id, ut
+            )
         )
         log.debug(f'{ut_water_level_1=}, {ut_water_level_2=}')
         assert ut_water_level_1 <= ut_water_level_2
@@ -105,16 +108,12 @@ class RiverWaterLevelParser:
         ut_water_level_2,
     ):
         d = [clean(di) for di in d]
-        if d[0]:
-            river_basin = d[0]
-
+        river_basin = d[0] or river_basin
         if not d[1] and not d[2]:
             return None
 
         unit = d[3]
-        unit_k = 1
-        if unit == 'ft':
-            unit_k = 0.3048
+        unit_k = 0.3048 if unit == 'ft' else 1
 
         def to_height(s):
             return parse_float(s) * unit_k
@@ -169,7 +168,6 @@ class RiverWaterLevelParser:
     @classmethod
     def list_from_pdf_nocache(cls, pdf_path, date_id, ut, data_path):
         d_list = cls.get_d_list(pdf_path)
-
         ut_rainfall_end, rainfall_duration = cls.parse_rainfall_time(
             d_list, date_id, ut
         )
@@ -189,15 +187,13 @@ class RiverWaterLevelParser:
                 ut_water_level_1,
                 ut_water_level_2,
             )
-            rwl_list.append(rwl)
+            if rwl:
+                rwl_list.append(rwl)
 
-        log.debug(rwl_list[0])
         log.debug(rwl_list[-1])
         n = len(rwl_list)
-
         if not os.path.exists(cls.DIR_PARSED_DATA):
             os.makedirs(cls.DIR_PARSED_DATA)
-
         JSONFile(data_path).write([rwl.to_dict() for rwl in rwl_list])
         log.info(f'Wrote {n} records to {data_path}')
         return rwl_list
