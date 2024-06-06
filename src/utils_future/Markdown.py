@@ -55,7 +55,7 @@ class Markdown:
         self.lines.extend(
             [
                 '| ' + ' | '.join(labels) + ' |',
-                '| ' + ' | '.join(['---'] * len(labels)) + ' |',
+                '| ' + ' | '.join(['--:'] * len(labels)) + ' |',
             ]
         )
 

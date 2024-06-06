@@ -13,7 +13,7 @@ Last updated **2024-06-06 15:30:00**.
 ## Alerts (6)
 
 | Level | Station | River | Basin | Rising Rate (mm/hr) | Level (m) | Alert Level (m) | Minor Flood Level (m) | Major Flood Level (m) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --: | --: | --: | --: | --: | --: | --: | --: | --: |
 | 🔴 Major Flood | Kalawellawa (Millakanda) | Kuda Ganga | Kalu Ganga (RB 03) | -30 🡇 | 8.5 | 5.0 | 6.5 | 8.0 |
 | 🟠 Minor Flood | Baddegama | Gin Ganga | Gin Ganga (RB 09) | -30 🡇 | 4.8 | 3.5 | 4.0 | 5.0 |
 | 🟠 Minor Flood | Putupaula | Kalu Ganga | Kalu Ganga (RB 03) | -30 🡇 | 4.9 | 3.0 | 4.0 | 5.0 |
@@ -24,7 +24,7 @@ Last updated **2024-06-06 15:30:00**.
 ## Other Stations (33)
 
 | Level | Station | River | Basin | Rising Rate (mm/hr) | Level (m) | Alert Level (m) | Minor Flood Level (m) | Major Flood Level (m) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --: | --: | --: | --: | --: | --: | --: | --: | --: |
 | 🟢 Normal | Taldena | Badulu Oya | Mahaweli Ganga (RB 60) | 50 🡅 | 0.3 | 3.0 | 4.0 | 5.0 |
 | 🟢 Normal | Dunamale | Attanagalu Oya | Attanagalu Oya (RB 103) | -40 🡇 | 2.6 | 3.3 | 4.4 | 5.5 |
 | 🟢 Normal | Moragaswewa | Deduru Oya | Deduru Oya (RB 99) | 0  | 0.8 | 4.8 | 6.0 | 7.0 |
