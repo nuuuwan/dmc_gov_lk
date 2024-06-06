@@ -19,8 +19,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1618/1620** documents downloaded.
+**1619/1621** documents downloaded.
 
+* [2024-06-06 12:30 Water Level Report](data/river-water-level-and-flood-warnings/20240606.1230.water-level-report.pdf)
 * [2024-06-06 09:30 water level](data/river-water-level-and-flood-warnings/20240606.0930.water-level.lk/images/dmcreports/)
 * [2024-06-06 06:30 Water Level Report](data/river-water-level-and-flood-warnings/20240606.0630.water-level-report.pdf)
 * [2024-06-06 04:30 Water Level Report](data/river-water-level-and-flood-warnings/20240606.0430.water-level-report.pdf)
@@ -30,7 +31,6 @@
 * [2024-06-05 21:00 Water Leval Report](data/river-water-level-and-flood-warnings/20240605.2100.water-leval-report.pdf)
 * [2024-06-05 18:30 water level](data/river-water-level-and-flood-warnings/20240605.1830.water-level.pdf)
 * [2024-06-05 15:30 Water Level Report](data/river-water-level-and-flood-warnings/20240605.1530.water-level-report.pdf)
-* [2024-06-05 12:30 Water Level Report](data/river-water-level-and-flood-warnings/20240605.1230.water-level-report.pdf)
 
 ## Landslide Warnings
 
@@ -88,8 +88,9 @@
 
 ## Weather Reports
 
-**4329/8399** documents downloaded.
+**4339/8400** documents downloaded.
 
+* [2024-06-06 12:00 Weather Report](data/weather-reports/20240606.1200.weather-report.pdf)
 * [2024-06-06 05:30 Weather Reports](data/weather-reports/20240606.0530.weather-reports.pdf)
 * [2024-06-05 16:00 Weather Report](data/weather-reports/20240605.1600.weather-report.pdf)
 * [2024-06-05 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240605.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
@@ -99,4 +100,3 @@
 * [2024-06-04 12:00 Weather Forcast](data/weather-reports/20240604.1200.weather-forcast.pdf)
 * [2024-06-04 05:30 Weather Forcast](data/weather-reports/20240604.0530.weather-forcast.pdf)
 * [2024-06-03 22:30 water level](data/weather-reports/20240603.2230.water-level.pdf)
-* [2024-06-03 16:00 Weather Report](data/weather-reports/20240603.1600.weather-report.pdf)
