@@ -8,6 +8,22 @@
     "ext": "pdf"
   },
   {
+    "name": "Flood warning for Kalu River Basin  No 04",
+    "time_str": "2024-06-07 03:30",
+    "time_id": "20240607.0330",
+    "ut": 1717711200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/36_Flood_warning_for_Kalu_River_Basin_-_No_04_-_(Extended_warning)_2024__1717711693.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Water Level Report",
+    "time_str": "2024-06-07 03:30",
+    "time_id": "20240607.0330",
+    "ut": 1717711200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2024__1717711886.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Water Level",
     "time_str": "2024-06-06 21:00",
     "time_id": "20240606.2100",
