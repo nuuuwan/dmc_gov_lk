@@ -23,8 +23,7 @@ class AlertReport:
         ]
         rwl_list.sort(
             key=lambda rwl: (
-                -rwl.level,
-                rwl.time_to_alert,
+                -rwl.level/rwl.alert_level,
                 rwl.river_basin,
                 rwl.river,
                 rwl.station,

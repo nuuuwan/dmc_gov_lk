@@ -14,18 +14,17 @@ Last updated **2024-06-06 15:30:00**.
 
 | Level | Station | River | Basin | Rising Rate (mm/hr) | Level (m) | Alert Level (m) | Minor Flood Level (m) | Major Flood Level (m) |
 | --: | --: | --: | --: | --: | --: | --: | --: | --: |
+| 🟠 Minor Flood | Thalgahagoda | Nilwala Ganga | Nilwala Ganga (RB 12) | -20 🡇 | 2.2 | 1.4 | 1.7 | 2.8 |
+| 🟠 Minor Flood | Putupaula | Kalu Ganga | Kalu Ganga (RB 03) | -30 🡇 | 4.9 | 3.0 | 4.0 | 5.0 |
 | 🔴 Major Flood | Kalawellawa (Millakanda) | Kuda Ganga | Kalu Ganga (RB 03) | -30 🡇 | 8.5 | 5.0 | 6.5 | 8.0 |
 | 🟠 Minor Flood | Baddegama | Gin Ganga | Gin Ganga (RB 09) | -30 🡇 | 4.8 | 3.5 | 4.0 | 5.0 |
-| 🟠 Minor Flood | Putupaula | Kalu Ganga | Kalu Ganga (RB 03) | -30 🡇 | 4.9 | 3.0 | 4.0 | 5.0 |
-| 🟠 Minor Flood | Thalgahagoda | Nilwala Ganga | Nilwala Ganga (RB 12) | -20 🡇 | 2.2 | 1.4 | 1.7 | 2.8 |
-| 🟡 Alert | Ellagawa | Kalu Ganga | Kalu Ganga (RB 03) | -60 🡇 | 10.3 | 10.0 | 10.7 | 12.2 |
 | 🟡 Alert | Panadugama | Nilwala Ganga | Nilwala Ganga (RB 12) | -30 🡇 | 5.6 | 5.0 | 6.0 | 7.5 |
+| 🟡 Alert | Ellagawa | Kalu Ganga | Kalu Ganga (RB 03) | -60 🡇 | 10.3 | 10.0 | 10.7 | 12.2 |
 
 ## Other Stations (33)
 
 | Level | Station | River | Basin | Rising Rate (mm/hr) | Level (m) | Alert Level (m) | Minor Flood Level (m) | Major Flood Level (m) |
 | --: | --: | --: | --: | --: | --: | --: | --: | --: |
-| 🟢 Normal | Taldena | Badulu Oya | Mahaweli Ganga (RB 60) | 50 🡅 | 0.3 | 3.0 | 4.0 | 5.0 |
 | 🟢 Normal | Dunamale | Attanagalu Oya | Attanagalu Oya (RB 103) | -40 🡇 | 2.6 | 3.3 | 4.4 | 5.5 |
 | 🟢 Normal | Moragaswewa | Deduru Oya | Deduru Oya (RB 99) | 0  | 0.8 | 4.8 | 6.0 | 7.0 |
 | 🟢 Normal | Tawalama | Gin Ganga | Gin Ganga (RB 09) | 0  | 2.4 | 4.0 | 6.0 | 7.5 |
@@ -47,6 +46,7 @@ Last updated **2024-06-06 15:30:00**.
 | 🟢 Normal | Padiyatalawa | Maduru Oya | Maduru Oya (RB 54) | 0  | 0.3 | 4.0 | 4.5 | 6.0 |
 | 🟢 Normal | Badalgama | Maha Oya | Maha Oya (RB 102) | -10 🡇 | 2.8 | 5.0 | 6.2 | 9.6 |
 | 🟢 Normal | Giriulla | Maha Oya | Maha Oya (RB 102) | -10 🡇 | 1.5 | 5.5 | 6.5 | 7.5 |
+| 🟢 Normal | Taldena | Badulu Oya | Mahaweli Ganga (RB 60) | 50 🡅 | 0.3 | 3.0 | 4.0 | 5.0 |
 | 🟢 Normal | Manampitiya (HMIS) | Mahaweli Ganga | Mahaweli Ganga (RB 60) | 0  | 0.0 | 3.0 | 4.3 | 6.0 |
 | 🟢 Normal | Nawalapitiya | Mahaweli Ganga | Mahaweli Ganga (RB 60) | -10 🡇 | 1.3 | 3.5 | 5.0 | 6.0 |
 | 🟢 Normal | Peradeniya | Mahaweli Ganga | Mahaweli Ganga (RB 60) | 0  | 2.1 | 5.0 | 7.0 | 9.0 |
