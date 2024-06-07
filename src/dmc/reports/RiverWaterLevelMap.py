@@ -3,6 +3,7 @@ import os
 import matplotlib.pyplot as plt
 from gig import Ent, EntType
 from matplotlib import collections as mc
+from matplotlib.font_manager import FontProperties
 from utils import Log, Time, TimeFormat
 
 from dmc.core import RiverWaterLevel, Station
@@ -10,10 +11,12 @@ from utils_future import RunMode
 
 log = Log('RiverWaterLevelMap')
 
+FONT = FontProperties(fname=os.path.join('fonts', 'font.ttf'))
+
 
 class RiverWaterLevelMap:
     ENT_TYPE = EntType.DISTRICT
-    CIRCLE_RADIUS = 0.025
+    CIRCLE_RADIUS = 0.03
 
     @property
     def image_path(self):
@@ -24,10 +27,8 @@ class RiverWaterLevelMap:
             'river-water-level-map.png',
         )
 
-    def draw(self):
-        ents = Ent.list_from_type(self.ENT_TYPE)
-        rwl_list = RiverWaterLevel.list_from_latest()
-
+    @staticmethod
+    def draw_river_lines():
         lines = []
         for station_names in Station.RIVERS.values():
             line = []
@@ -53,26 +54,37 @@ class RiverWaterLevelMap:
                 prev_point = point
             lines.append(line)
 
-        lc = mc.LineCollection(lines, colors='#0488', linewidths=4)
+        lc = mc.LineCollection(lines, colors='#0888', linewidths=4)
         lc.set_zorder(2)
-        fig, ax = plt.subplots()
-        fig.set_size_inches(8, 8)
+        ax = plt.gca()
         ax.add_collection(lc)
 
+    @staticmethod
+    def draw_river_labels():
         for river in Station.RIVERS:
-            station = Station.from_name(Station.RIVERS[river][0])
-            if not station:
+            station0 = Station.from_name(Station.RIVERS[river][0])
+            station1 = Station.from_name(Station.RIVERS[river][1])
+            if not station0 or not station1:
                 continue
-            text = river.split(' ')[0]
+
+            k = 1
+            lng = station0.latLng.lng * k + station1.latLng.lng * (1 - k)
+            lat = station0.latLng.lat * k + station1.latLng.lat * (1 - k)
+            text = river.upper()
             plt.text(
-                station.latLng.lng,
-                station.latLng.lat,
+                lng,
+                lat,
                 text,
-                fontsize=4,
+                fontsize=3,
                 horizontalalignment='center',
                 fontstyle='italic',
+                fontproperties=FONT,
             )
 
+    @staticmethod
+    def draw_district_geos(rwl_list):
+        ax = plt.gca()
+        ents = Ent.list_from_type(RiverWaterLevelMap.ENT_TYPE)
         for ent in ents:
             max_level = 0
             no_stations = True
@@ -94,36 +106,42 @@ class RiverWaterLevelMap:
             geo = ent.geo()
             geo.plot(ax=ax, color=color, edgecolor='#fff')
 
-        for level in range(0, 4):
-            for rwl in rwl_list:
-                station = Station.from_name(rwl.station)
-                if not station:
-                    continue
-                if rwl.level != level:
-                    continue
-                color = ['#080', '#ff0', '#f80', '#f00'][rwl.level]
-                circle = plt.Circle(
-                    (station.latLng.lng, station.latLng.lat),
-                    self.CIRCLE_RADIUS,
-                    facecolor=color,
-                    edgecolor="black",
-                )
-                circle.set_zorder(2)
-                ax.add_patch(circle)
-                plt.text(
-                    station.latLng.lng + 0.05,
-                    station.latLng.lat - 0.015,
-                    station.name,
-                    fontsize=5,
-                )
+    @staticmethod
+    def draw_stations(rwl_list):
+        ax = plt.gca()
+        for rwl in rwl_list:
+            station = Station.from_name(rwl.station)
+            if not station:
+                continue
 
+            color = ['#080', '#ff0', '#f80', '#f00'][rwl.level]
+            circle = plt.Circle(
+                (station.latLng.lng, station.latLng.lat),
+                RiverWaterLevelMap.CIRCLE_RADIUS,
+                facecolor=color,
+                edgecolor="black",
+            )
+            circle.set_zorder(2)
+            ax.add_patch(circle)
+            label = station.name.split('(')[0]
+            plt.text(
+                station.latLng.lng + 0.05,
+                station.latLng.lat - 0.015,
+                label,
+                fontsize=5,
+                fontproperties=FONT,
+            )
+
+    @staticmethod
+    def draw_legend():
+        ax = plt.gca()
         for level in range(0, 4):
             lng = 81
             lat = 9.5 - 0.1 * level
             color = ['#080', '#ff0', '#f80', '#f00'][level]
             circle = plt.Circle(
                 (lng, lat),
-                self.CIRCLE_RADIUS,
+                RiverWaterLevelMap.CIRCLE_RADIUS,
                 facecolor=color,
                 edgecolor="black",
             )
@@ -134,27 +152,50 @@ class RiverWaterLevelMap:
                 lat - 0.015,
                 label,
                 fontsize=5,
+                fontproperties=FONT,
             )
-        PADDING = 0.01
-        plt.subplots_adjust(
-            left=PADDING,
-            right=1 - PADDING,
-            top=1 - PADDING,
-            bottom=PADDING,
-            wspace=PADDING * 2,
-            hspace=PADDING * 2,
-        )
+
+    def draw(self):
+        rwl_list = RiverWaterLevel.list_from_latest()
+
+        fig, ax = plt.subplots()
+        fig.set_size_inches(8, 8)
+
+        RiverWaterLevelMap.draw_river_lines()
+        RiverWaterLevelMap.draw_river_labels()
+        RiverWaterLevelMap.draw_district_geos(rwl_list)
+        RiverWaterLevelMap.draw_stations(rwl_list)
+        RiverWaterLevelMap.draw_legend()
+
         ax.set_xticks([])
         ax.set_yticks([])
         ax.grid(False)
-        for key, spine in ax.spines.items():
+        for spine in ax.spines.values():
             spine.set_visible(False)
+
+        plt.text(
+            0.5,
+            1.05,
+            'River Water Levels',
+            transform=ax.transAxes,
+            fontsize=10,
+            horizontalalignment='center',
+            fontproperties=FONT,
+        )
 
         ut = rwl_list[0].ut
         time_str = TimeFormat.TIME.format(Time(ut))
         log.debug(f'{time_str=}')
+        plt.text(
+            0.5,
+            0.99,
+            time_str,
+            transform=ax.transAxes,
+            fontsize=20,
+            horizontalalignment='center',
+            fontproperties=FONT,
+        )
 
-        plt.title(f'River Water Levels ({time_str})')
         plt.savefig(self.image_path, dpi=600)
         plt.close()
         log.info(f'Wrote {self.image_path}')
