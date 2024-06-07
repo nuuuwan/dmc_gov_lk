@@ -88,7 +88,7 @@
 
 ## Weather Reports
 
-**4580/8405** documents downloaded.
+**4590/8405** documents downloaded.
 
 * [2024-06-07 12:00 Weather Forcast](data/weather-reports/20240607.1200.weather-forcast.pdf)
 * [2024-06-07 07:00 Weather forecast for multi-day boats](data/weather-reports/20240607.0700.weather-forecast-for-multiday-boats.pdf)
