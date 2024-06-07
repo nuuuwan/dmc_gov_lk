@@ -16,7 +16,8 @@ FONT = FontProperties(fname=os.path.join('fonts', 'font.ttf'))
 
 class RiverWaterLevelMap:
     ENT_TYPE = EntType.DISTRICT
-    CIRCLE_RADIUS = 0.03
+    RIVER_LINE_WIDTH = 3
+    CIRCLE_RADIUS = 0.02
 
     @property
     def image_path(self):
@@ -54,7 +55,7 @@ class RiverWaterLevelMap:
                 prev_point = point
             lines.append(line)
 
-        lc = mc.LineCollection(lines, colors='#0888', linewidths=4)
+        lc = mc.LineCollection(lines, colors='#0888', linewidths=RiverWaterLevelMap.RIVER_LINE_WIDTH)
         lc.set_zorder(2)
         ax = plt.gca()
         ax.add_collection(lc)
@@ -67,7 +68,7 @@ class RiverWaterLevelMap:
             if not station0 or not station1:
                 continue
 
-            k = 1
+            k = 0.75
             lng = station0.latLng.lng * k + station1.latLng.lng * (1 - k)
             lat = station0.latLng.lat * k + station1.latLng.lat * (1 - k)
             text = river.upper()
@@ -79,6 +80,7 @@ class RiverWaterLevelMap:
                 horizontalalignment='center',
                 fontstyle='italic',
                 fontproperties=FONT,
+                color="#0008",
             )
 
     @staticmethod
