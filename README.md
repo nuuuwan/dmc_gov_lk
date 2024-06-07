@@ -19,8 +19,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1628/1630** documents downloaded.
+**1629/1631** documents downloaded.
 
+* [2024-06-07 15:30 Water Level Report](data/river-water-level-and-flood-warnings/20240607.1530.water-level-report.pdf)
 * [2024-06-07 12:30 Water Level Report](data/river-water-level-and-flood-warnings/20240607.1230.water-level-report.pdf)
 * [2024-06-07 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240607.0930.water-level-report.pdf)
 * [2024-06-07 06:30 water level](data/river-water-level-and-flood-warnings/20240607.0630.water-level.pdf)
@@ -30,7 +31,6 @@
 * [2024-06-06 21:00 Water Level](data/river-water-level-and-flood-warnings/20240606.2100.water-level.pdf)
 * [2024-06-06 18:30 water level](data/river-water-level-and-flood-warnings/20240606.1830.water-level.pdf)
 * [2024-06-06 15:30 Water Level Report](data/river-water-level-and-flood-warnings/20240606.1530.water-level-report.pdf)
-* [2024-06-06 12:30 Water Level Report](data/river-water-level-and-flood-warnings/20240606.1230.water-level-report.pdf)
 
 ## Landslide Warnings
 
@@ -88,8 +88,10 @@
 
 ## Weather Reports
 
-**4600/8405** documents downloaded.
+**4610/8407** documents downloaded.
 
+* [2024-06-07 16:00 Weather Report](data/weather-reports/20240607.1600.weather-report.pdf)
+* [2024-06-07 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240607.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
 * [2024-06-07 12:00 Weather Forcast](data/weather-reports/20240607.1200.weather-forcast.pdf)
 * [2024-06-07 07:00 Weather forecast for multi-day boats](data/weather-reports/20240607.0700.weather-forecast-for-multiday-boats.pdf)
 * [2024-06-07 05:30 Weather Forcast](data/weather-reports/20240607.0530.weather-forcast.pdf)
@@ -98,5 +100,3 @@
 * [2024-06-06 12:00 Weather Report](data/weather-reports/20240606.1200.weather-report.pdf)
 * [2024-06-06 05:30 Weather Reports](data/weather-reports/20240606.0530.weather-reports.pdf)
 * [2024-06-05 16:00 Weather Report](data/weather-reports/20240605.1600.weather-report.pdf)
-* [2024-06-05 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240605.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
-* [2024-06-05 12:00 Weather Report](data/weather-reports/20240605.1200.weather-report.pdf)
