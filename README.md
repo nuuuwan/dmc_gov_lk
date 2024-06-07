@@ -88,7 +88,7 @@
 
 ## Weather Reports
 
-**4700/8407** documents downloaded.
+**4710/8407** documents downloaded.
 
 * [2024-06-07 16:00 Weather Report](data/weather-reports/20240607.1600.weather-report.pdf)
 * [2024-06-07 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240607.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
