@@ -68,7 +68,7 @@ class StationLinks:
             'Padiyatalawa',
         ],
         'Kumbukkan Oya': [
-            'Arugam Bay',
+            'Kumana',
             'Nakkala',
         ],
         'Mahaweli Ganga': [
