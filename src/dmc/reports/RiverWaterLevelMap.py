@@ -55,7 +55,11 @@ class RiverWaterLevelMap:
                 prev_point = point
             lines.append(line)
 
-        lc = mc.LineCollection(lines, colors='#0888', linewidths=RiverWaterLevelMap.RIVER_LINE_WIDTH)
+        lc = mc.LineCollection(
+            lines,
+            colors='#0888',
+            linewidths=RiverWaterLevelMap.RIVER_LINE_WIDTH,
+        )
         lc.set_zorder(2)
         ax = plt.gca()
         ax.add_collection(lc)
