@@ -100,10 +100,13 @@ class RiverWaterLevelMap:
                 max_level = max(max_level, rwl.level)
 
             if no_stations:
-                color = '#8888'
+                color = '#8882'
             else:
                 color = ['#080', '#ff0', '#f80', '#f00'][max_level]
-                color = color + '8'
+                if max_level > 0:
+                    color = color + 'c'
+                else:
+                    color = color + '2'
 
             geo = ent.geo()
             geo.plot(ax=ax, color=color, edgecolor='#fff')
