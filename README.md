@@ -88,7 +88,7 @@
 
 ## Weather Reports
 
-**4830/8409** documents downloaded.
+**4840/8409** documents downloaded.
 
 * [2024-06-08 12:00 Weather Report](data/weather-reports/20240608.1200.weather-report.pdf)
 * [2024-06-08 05:30 Weather Forcast](data/weather-reports/20240608.0530.weather-forcast.pdf)
