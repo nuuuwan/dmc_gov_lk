@@ -34,8 +34,9 @@
 
 ## Landslide Warnings
 
-**557/563** documents downloaded.
+**558/564** documents downloaded.
 
+* [2024-06-08 16:00 Landslide Early Warning Report](data/landslide-warnings/20240608.1600.landslide-early-warning-report.pdf)
 * [2024-06-06 16:00 Landslide Early Warning Report](data/landslide-warnings/20240606.1600.landslide-early-warning-report.pdf)
 * [2024-06-05 16:00 Landslide Early Warning Report](data/landslide-warnings/20240605.1600.landslide-early-warning-report.pdf)
 * [2024-06-04 16:00 Landslide Early Warning Report](data/landslide-warnings/20240604.1600.landslide-early-warning-report.pdf)
@@ -45,7 +46,6 @@
 * [2024-06-02 04:00 Landslide Early Warning](data/landslide-warnings/20240602.0400.landslide-early-warning.pdf)
 * [2024-06-01 18:30 Landslide Warning](data/landslide-warnings/20240601.1830.landslide-warning.pdf)
 * [2024-06-01 16:00 Landslide Early Warning](data/landslide-warnings/20240601.1600.landslide-early-warning.pdf)
-* [2024-06-01 08:00 Landslide Early Warning](data/landslide-warnings/20240601.0800.landslide-early-warning.pdf)
 
 ## Earthquakes
 
@@ -88,8 +88,9 @@
 
 ## Weather Reports
 
-**4850/8410** documents downloaded.
+**4860/8411** documents downloaded.
 
+* [2024-06-08 16:00 Weather Report](data/weather-reports/20240608.1600.weather-report.pdf)
 * [2024-06-08 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240608.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
 * [2024-06-08 12:00 Weather Report](data/weather-reports/20240608.1200.weather-report.pdf)
 * [2024-06-08 05:30 Weather Forcast](data/weather-reports/20240608.0530.weather-forcast.pdf)
@@ -99,4 +100,3 @@
 * [2024-06-07 07:00 Weather forecast for multi-day boats](data/weather-reports/20240607.0700.weather-forecast-for-multiday-boats.pdf)
 * [2024-06-07 05:30 Weather Forcast](data/weather-reports/20240607.0530.weather-forcast.pdf)
 * [2024-06-06 16:00 Weather Report](data/weather-reports/20240606.1600.weather-report.pdf)
-* [2024-06-06 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240606.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
