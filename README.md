@@ -19,8 +19,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1636/1638** documents downloaded.
+**1637/1639** documents downloaded.
 
+* [2024-06-08 15:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20240608.1530.water-level-rainfall.pdf)
 * [2024-06-08 12:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20240608.1230.water-level-rainfall.pdf)
 * [2024-06-08 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240608.0930.water-level-report.pdf)
 * [2024-06-08 06:30 water level](data/river-water-level-and-flood-warnings/20240608.0630.water-level.pdf)
@@ -30,7 +31,6 @@
 * [2024-06-07 18:30 water level](data/river-water-level-and-flood-warnings/20240607.1830.water-level.pdf)
 * [2024-06-07 15:30 Water Level Report](data/river-water-level-and-flood-warnings/20240607.1530.water-level-report.pdf)
 * [2024-06-07 12:30 Water Level Report](data/river-water-level-and-flood-warnings/20240607.1230.water-level-report.pdf)
-* [2024-06-07 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240607.0930.water-level-report.pdf)
 
 ## Landslide Warnings
 
@@ -88,8 +88,9 @@
 
 ## Weather Reports
 
-**4840/8409** documents downloaded.
+**4850/8410** documents downloaded.
 
+* [2024-06-08 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240608.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
 * [2024-06-08 12:00 Weather Report](data/weather-reports/20240608.1200.weather-report.pdf)
 * [2024-06-08 05:30 Weather Forcast](data/weather-reports/20240608.0530.weather-forcast.pdf)
 * [2024-06-07 16:00 Weather Report](data/weather-reports/20240607.1600.weather-report.pdf)
@@ -99,4 +100,3 @@
 * [2024-06-07 05:30 Weather Forcast](data/weather-reports/20240607.0530.weather-forcast.pdf)
 * [2024-06-06 16:00 Weather Report](data/weather-reports/20240606.1600.weather-report.pdf)
 * [2024-06-06 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240606.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
-* [2024-06-06 12:00 Weather Report](data/weather-reports/20240606.1200.weather-report.pdf)
