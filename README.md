@@ -34,8 +34,9 @@
 
 ## Landslide Warnings
 
-**559/565** documents downloaded.
+**560/566** documents downloaded.
 
+* [2024-06-10 16:00 Landslide Early Warning Report](data/landslide-warnings/20240610.1600.landslide-early-warning-report.pdf)
 * [2024-06-09 16:00 Landslide Early Warning](data/landslide-warnings/20240609.1600.landslide-early-warning.pdf)
 * [2024-06-08 16:00 Landslide Early Warning Report](data/landslide-warnings/20240608.1600.landslide-early-warning-report.pdf)
 * [2024-06-06 16:00 Landslide Early Warning Report](data/landslide-warnings/20240606.1600.landslide-early-warning-report.pdf)
@@ -45,7 +46,6 @@
 * [2024-06-02 16:00 Landslide Early Warning Report](data/landslide-warnings/20240602.1600.landslide-early-warning-report.pdf)
 * [2024-06-02 07:00 Landslide Early Warning Report](data/landslide-warnings/20240602.0700.landslide-early-warning-report.pdf)
 * [2024-06-02 04:00 Landslide Early Warning](data/landslide-warnings/20240602.0400.landslide-early-warning.pdf)
-* [2024-06-01 18:30 Landslide Warning](data/landslide-warnings/20240601.1830.landslide-warning.pdf)
 
 ## Earthquakes
 
@@ -88,8 +88,9 @@
 
 ## Weather Reports
 
-**5320/8420** documents downloaded.
+**5330/8421** documents downloaded.
 
+* [2024-06-10 16:00 Weather Report](data/weather-reports/20240610.1600.weather-report.pdf)
 * [2024-06-10 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240610.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
 * [2024-06-10 12:00 Weather Report](data/weather-reports/20240610.1200.weather-report.pdf)
 * [2024-06-10 07:00 Weather forecast for multi-day boats](data/weather-reports/20240610.0700.weather-forecast-for-multiday-boats.pdf)
@@ -99,4 +100,3 @@
 * [2024-06-09 12:00 Weather Report](data/weather-reports/20240609.1200.weather-report.pdf)
 * [2024-06-09 07:00 Weather forecast for multi-day boats Report](data/weather-reports/20240609.0700.weather-forecast-for-multiday-boats-report.pdf)
 * [2024-06-09 05:30 Weather Reports](data/weather-reports/20240609.0530.weather-reports.pdf)
-* [2024-06-08 16:00 Weather Report](data/weather-reports/20240608.1600.weather-report.pdf)
