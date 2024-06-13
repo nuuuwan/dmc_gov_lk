@@ -53,6 +53,10 @@ class Markdown:
         )
 
     def table(self, data_list, key_to_label=None):
+        if not data_list or len(data_list) == 0:
+            log.warning('No data to display in table')
+            return []
+        
         keys = data_list[0].keys()
         if key_to_label:
             labels = [key_to_label[key] for key in keys]
