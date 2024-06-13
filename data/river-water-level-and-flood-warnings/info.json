@@ -1,6 +1,30 @@
 [
   {
     "name": "Water Level Report",
+    "time_str": "2024-06-13 09:30",
+    "time_id": "20240613.0930",
+    "ut": 1718251200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Water_Level_Report_at_0930hrs_on_2024__1718252534.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Water level  Rainfall",
+    "time_str": "2024-06-12 09:30",
+    "time_id": "20240612.0930",
+    "ut": 1718164800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2024__1718165459.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "water level",
+    "time_str": "2024-06-11 09:30",
+    "time_id": "20240611.0930",
+    "ut": 1718078400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2024__1718080626.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Water Level Report",
     "time_str": "2024-06-10 09:30",
     "time_id": "20240610.0930",
     "ut": 1717992000.0,
