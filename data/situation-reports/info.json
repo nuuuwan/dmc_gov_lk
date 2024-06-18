@@ -1,6 +1,14 @@
 [
   {
     "name": "Situation Report",
+    "time_str": "2024-06-18 09:00",
+    "time_id": "20240618.0900",
+    "ut": 1718681400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report_on_2024__1718681966.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Situation Report",
     "time_str": "2024-06-16 09:00",
     "time_id": "20240616.0900",
     "ut": 1718508600.0,
