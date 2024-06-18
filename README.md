@@ -88,8 +88,9 @@
 
 ## Weather Reports
 
-**6530/8453** documents downloaded.
+**6540/8454** documents downloaded.
 
+* [2024-06-18 07:00 Weather forecast for multi-day boats for the sea areas](data/weather-reports/20240618.0700.weather-forecast-for-multiday-boats-for-the-sea-areas.pdf)
 * [2024-06-18 05:30 Weather Forcast](data/weather-reports/20240618.0530.weather-forcast.pdf)
 * [2024-06-17 16:00 Weather Forcast](data/weather-reports/20240617.1600.weather-forcast.pdf)
 * [2024-06-17 12:00 Weather Forcast](data/weather-reports/20240617.1200.weather-forcast.pdf)
@@ -99,4 +100,3 @@
 * [2024-06-16 05:30 Weather Forcast](data/weather-reports/20240616.0530.weather-forcast.pdf)
 * [2024-06-15 16:00 Weather Forcast](data/weather-reports/20240615.1600.weather-forcast.pdf)
 * [2024-06-15 12:00 Weather Forcast](data/weather-reports/20240615.1200.weather-forcast.pdf)
-* [2024-06-15 09:30 Weather Forcast](data/weather-reports/20240615.0930.weather-forcast.pdf)
