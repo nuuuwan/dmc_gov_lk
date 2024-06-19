@@ -1,5 +1,13 @@
 [
   {
+    "name": "Weather Report ",
+    "time_str": "2024-06-19 12:00",
+    "time_id": "20240619.1200",
+    "ut": 1718778600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_report_at_1200hrs__1718779016.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Fishermen bulletin for strong winds and rough seas",
     "time_str": "2024-06-19 07:00",
     "time_id": "20240619.0700",
