@@ -4,8 +4,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1644/1646** documents downloaded.
+**1645/1647** documents downloaded.
 
+* [2024-06-20 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240620.0930.water-level-report.pdf)
 * [2024-06-19 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240619.0930.water-level-report.pdf)
 * [2024-06-14 09:30 Water Level](data/river-water-level-and-flood-warnings/20240614.0930.water-level.pdf)
 * [2024-06-13 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240613.0930.water-level-report.pdf)
@@ -15,11 +16,10 @@
 * [2024-06-09 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240609.0930.water-level-report.pdf)
 * [2024-06-08 15:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20240608.1530.water-level-rainfall.pdf)
 * [2024-06-08 12:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20240608.1230.water-level-rainfall.pdf)
-* [2024-06-08 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240608.0930.water-level-report.pdf)
 
 ## Weather Reports
 
-**7040/8463** documents downloaded.
+**7050/8463** documents downloaded.
 
 * [2024-06-20 07:00 Fisherman Bulleting](data/weather-reports/20240620.0700.fisherman-bulleting.pdf)
 * [2024-06-20 05:30 Weather Forcast](data/weather-reports/20240620.0530.weather-forcast.pdf)
