@@ -1,5 +1,13 @@
 [
   {
+    "name": "Fisherman Bulleting",
+    "time_str": "2024-06-20 07:00",
+    "time_id": "20240620.0700",
+    "ut": 1718847000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Fisherman_Bulletin__1718848331.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2024-06-20 05:30",
     "time_id": "20240620.0530",
