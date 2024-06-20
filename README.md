@@ -19,7 +19,7 @@
 
 ## Weather Reports
 
-**7070/8464** documents downloaded.
+**7080/8464** documents downloaded.
 
 * [2024-06-20 12:00 Weather Report](data/weather-reports/20240620.1200.weather-report.pdf)
 * [2024-06-20 07:00 Fisherman Bulleting](data/weather-reports/20240620.0700.fisherman-bulleting.pdf)
