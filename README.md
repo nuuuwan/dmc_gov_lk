@@ -19,7 +19,7 @@
 
 ## Weather Reports
 
-**7430/8471** documents downloaded.
+**7440/8471** documents downloaded.
 
 * [2024-06-21 22:30 Advisory for Heavy Rain](data/weather-reports/20240621.2230.advisory-for-heavy-rain.pdf)
 * [2024-06-21 16:00 Weather Report](data/weather-reports/20240621.1600.weather-report.pdf)
