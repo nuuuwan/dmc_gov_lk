@@ -1,5 +1,13 @@
 [
   {
+    "name": "Weather Forcast",
+    "time_str": "2024-06-21 12:00",
+    "time_id": "20240621.1200",
+    "ut": 1718951400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1200hrs_on_2024__1718952316.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": " Weather forecast for multi-day boats for the sea areas ",
     "time_str": "2024-06-21 07:00",
     "time_id": "20240621.0700",
