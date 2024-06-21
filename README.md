@@ -19,7 +19,7 @@
 
 ## Weather Reports
 
-**7250/8468** documents downloaded.
+**7260/8468** documents downloaded.
 
 * [2024-06-21 07:00 Weather forecast for multi-day boats for the sea areas](data/weather-reports/20240621.0700.weather-forecast-for-multiday-boats-for-the-sea-areas.pdf)
 * [2024-06-21 05:30 Weather Forcast](data/weather-reports/20240621.0530.weather-forcast.pdf)
@@ -43,8 +43,9 @@
 
 ## Situation Reports
 
-**3916/3990** documents downloaded.
+**3917/3991** documents downloaded.
 
+* [2024-06-21 09:00 Situation Report](data/situation-reports/20240621.0900.situation-report.pdf)
 * [2024-06-19 09:00 Situation Report](data/situation-reports/20240619.0900.situation-report.pdf)
 * [2024-06-18 09:00 Situation Report](data/situation-reports/20240618.0900.situation-report.pdf)
 * [2024-06-16 09:00 Situation Report](data/situation-reports/20240616.0900.situation-report.pdf)
@@ -54,7 +55,6 @@
 * [2024-06-12 09:00 Situation Report](data/situation-reports/20240612.0900.situation-report.pdf)
 * [2024-06-11 09:00 Situation Report](data/situation-reports/20240611.0900.situation-report.pdf)
 * [2024-06-10 09:00 Situation Report](data/situation-reports/20240610.0900.situation-report.pdf)
-* [2024-06-09 09:00 Situation Report](data/situation-reports/20240609.0900.situation-report.pdf)
 
 ## Earthquakes
 
