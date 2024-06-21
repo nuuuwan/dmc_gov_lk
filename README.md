@@ -19,7 +19,7 @@
 
 ## Weather Reports
 
-**7290/8469** documents downloaded.
+**7300/8469** documents downloaded.
 
 * [2024-06-21 12:00 Weather Forcast](data/weather-reports/20240621.1200.weather-forcast.pdf)
 * [2024-06-21 07:00 Weather forecast for multi-day boats for the sea areas](data/weather-reports/20240621.0700.weather-forecast-for-multiday-boats-for-the-sea-areas.pdf)
