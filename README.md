@@ -19,7 +19,7 @@
 
 ## Weather Reports
 
-**7350/8470** documents downloaded.
+**7360/8470** documents downloaded.
 
 * [2024-06-21 16:00 Weather Report](data/weather-reports/20240621.1600.weather-report.pdf)
 * [2024-06-21 12:00 Weather Forcast](data/weather-reports/20240621.1200.weather-forcast.pdf)
