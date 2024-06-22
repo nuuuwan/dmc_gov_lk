@@ -1,5 +1,21 @@
 [
   {
+    "name": "Advisory for Strong Winds and Rough Seas Report",
+    "time_str": "2024-06-22 06:30",
+    "time_id": "20240622.0630",
+    "ut": 1719018000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Advisory_for_sea_areas___1719018573.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2024-06-22 05:30",
+    "time_id": "20240622.0530",
+    "ut": 1719014400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_report_at_0530hrs__1719015224.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Advisory for Heavy Rain",
     "time_str": "2024-06-21 22:30",
     "time_id": "20240621.2230",
