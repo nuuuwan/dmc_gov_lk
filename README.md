@@ -19,8 +19,9 @@
 
 ## Weather Reports
 
-**7750/8478** documents downloaded.
+**7760/8479** documents downloaded.
 
+* [2024-06-23 12:00 Weather Forcast](data/weather-reports/20240623.1200.weather-forcast.pdf)
 * [2024-06-23 07:00 Advisory for Strong Winds and Rough Seas Report](data/weather-reports/20240623.0700.advisory-for-strong-winds-and-rough-seas-report.pdf)
 * [2024-06-23 07:00 Advisory for Strong Winds and Rough Seas Report](data/weather-reports/20240623.0700.advisory-for-strong-winds-and-rough-seas-report.pdf)
 * [2024-06-23 05:30 Weather Forcast](data/weather-reports/20240623.0530.weather-forcast.pdf)
@@ -30,7 +31,6 @@
 * [2024-06-22 05:30 Weather Forcast](data/weather-reports/20240622.0530.weather-forcast.pdf)
 * [2024-06-21 22:30 Advisory for Heavy Rain](data/weather-reports/20240621.2230.advisory-for-heavy-rain.pdf)
 * [2024-06-21 16:00 Weather Report](data/weather-reports/20240621.1600.weather-report.pdf)
-* [2024-06-21 12:00 Weather Forcast](data/weather-reports/20240621.1200.weather-forcast.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -43,8 +43,9 @@
 
 ## Situation Reports
 
-**3919/3992** documents downloaded.
+**3919/3993** documents downloaded.
 
+* [2024-06-23 09:00 Situation Report](data/situation-reports/20240623.0900.situation-report.pdf)
 * [2024-06-22 09:00 Situation Report](data/situation-reports/20240622.0900.situation-report.pdf)
 * [2024-06-21 09:00 Situation Report](data/situation-reports/20240621.0900.situation-report.pdf)
 * [2024-06-19 09:00 Situation Report](data/situation-reports/20240619.0900.situation-report.pdf)
@@ -54,7 +55,6 @@
 * [2024-06-14 09:00 Situation Report](data/situation-reports/20240614.0900.situation-report.pdf)
 * [2024-06-13 09:00 Situation Report](data/situation-reports/20240613.0900.situation-report.pdf)
 * [2024-06-12 09:00 Situation Report](data/situation-reports/20240612.0900.situation-report.pdf)
-* [2024-06-11 09:00 Situation Report](data/situation-reports/20240611.0900.situation-report.pdf)
 
 ## Earthquakes
 
