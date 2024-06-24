@@ -19,7 +19,7 @@
 
 ## Weather Reports
 
-**8120/8484** documents downloaded.
+**8130/8484** documents downloaded.
 
 * [2024-06-24 16:00 Weather Report](data/weather-reports/20240624.1600.weather-report.pdf)
 * [2024-06-24 12:00 Weather Report](data/weather-reports/20240624.1200.weather-report.pdf)
