@@ -19,7 +19,7 @@
 
 ## Weather Reports
 
-**8180/8487** documents downloaded.
+**8190/8487** documents downloaded.
 
 * [2024-06-25 07:00 Advisory for strong winds and rough seas](data/weather-reports/20240625.0700.advisory-for-strong-winds-and-rough-seas.pdf)
 * [2024-06-25 05:30 Weather Forcast](data/weather-reports/20240625.0530.weather-forcast.pdf)
@@ -43,8 +43,9 @@
 
 ## Situation Reports
 
-**3920/3994** documents downloaded.
+**3921/3995** documents downloaded.
 
+* [2024-06-25 09:00 Situation Report](data/situation-reports/20240625.0900.situation-report.pdf)
 * [2024-06-24 09:00 Situation Report](data/situation-reports/20240624.0900.situation-report.pdf)
 * [2024-06-23 09:00 Situation Report](data/situation-reports/20240623.0900.situation-report.pdf)
 * [2024-06-22 09:00 Situation Report](data/situation-reports/20240622.0900.situation-report.pdf)
@@ -54,7 +55,6 @@
 * [2024-06-16 09:00 Situation Report](data/situation-reports/20240616.0900.situation-report.pdf)
 * [2024-06-15 09:00 Situation Report](data/situation-reports/20240615.0900.situation-report.pdf)
 * [2024-06-14 09:00 Situation Report](data/situation-reports/20240614.0900.situation-report.pdf)
-* [2024-06-13 09:00 Situation Report](data/situation-reports/20240613.0900.situation-report.pdf)
 
 ## Earthquakes
 
