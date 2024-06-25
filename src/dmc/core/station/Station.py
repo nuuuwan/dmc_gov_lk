@@ -13,6 +13,21 @@ from utils_future import LatLng
 log = Log('Station')
 
 
+NAME_IDX = {
+    "Horowpothana": "Horowpatana",
+    "Kithulgala": "Kitulgala",
+    "Nagalagam Street": "N' Street",
+    "Padiyathalawa": "Padiyatalawa",
+    "Rathnapura": "Ratnapura",
+    "Thaldena": "Taldena",
+    "Thanamalwila": "Tanamalwila",
+    "Thanthirimale": "Tantirimale",
+    "Thawalama": "Tawalama",
+    "Weraganthota": "Weragantota",
+    "Yaka Wewa": "Yakawewa",
+}
+
+
 @dataclass
 class Station(
     StationLatLngData, StationDistrictData, StationLinks, StationDummy
@@ -68,6 +83,7 @@ class Station(
 
     @staticmethod
     def from_name(station_name: str) -> 'Station':
+        station_name = NAME_IDX.get(station_name, station_name)
         all = Station.list_all() + Station.list_all_dummy()
         for station in all:
             if station.name == station_name:
