@@ -19,7 +19,7 @@
 
 ## Weather Reports
 
-**8242/8488** documents downloaded.
+**8252/8488** documents downloaded.
 
 * [2024-06-25 12:00 Weather Report](data/weather-reports/20240625.1200.weather-report.pdf)
 * [2024-06-25 07:00 Advisory for strong winds and rough seas](data/weather-reports/20240625.0700.advisory-for-strong-winds-and-rough-seas.pdf)
