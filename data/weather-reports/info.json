@@ -1,6 +1,22 @@
 [
   {
     "name": "Weather Report",
+    "time_str": "2024-06-25 16:00",
+    "time_id": "20240625.1600",
+    "ut": 1719311400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_report_at_1600hrs_on_25__1719311901.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Fishermen bulletin for strong winds and rough seas",
+    "time_str": "2024-06-25 15:00",
+    "time_id": "20240625.1500",
+    "ut": 1719307800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Fishermen_bulletin_for_strong_winds_and_rough_seas_at_1500hrs_on_25__1719309072.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Report",
     "time_str": "2024-06-25 12:00",
     "time_id": "20240625.1200",
     "ut": 1719297000.0,
