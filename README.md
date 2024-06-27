@@ -19,18 +19,18 @@
 
 ## Weather Reports
 
-**8290/8500** documents downloaded.
+**8292/8502** documents downloaded.
 
+* [2024-06-27 16:00 Weather Report](data/weather-reports/20240627.1600.weather-report.pdf)
 * [2024-06-27 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240627.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
 * [2024-06-27 12:00 Weather Report](data/weather-reports/20240627.1200.weather-report.pdf)
+* [2024-06-27 07:00 Advisory for strong winds and rough seas](data/weather-reports/20240627.0700.advisory-for-strong-winds-and-rough-seas.pdf)
 * [2024-06-27 05:30 Weather Forcast](data/weather-reports/20240627.0530.weather-forcast.pdf)
 * [2024-06-27 03:30 Warning for strong winds and rough seas.](data/weather-reports/20240627.0330.warning-for-strong-winds-and-rough-seas.pdf)
 * [2024-06-26 16:00 Weather Report](data/weather-reports/20240626.1600.weather-report.pdf)
 * [2024-06-26 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240626.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
 * [2024-06-26 12:00 Weather Report](data/weather-reports/20240626.1200.weather-report.pdf)
 * [2024-06-26 07:00 Advisory for strong winds and rough seas](data/weather-reports/20240626.0700.advisory-for-strong-winds-and-rough-seas.pdf)
-* [2024-06-26 05:30 Weather Forcast](data/weather-reports/20240626.0530.weather-forcast.pdf)
-* [2024-06-26 03:30 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240626.0330.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
 
 ## Emergency Response Data Viewer
 
