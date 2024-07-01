@@ -1,5 +1,21 @@
 [
   {
+    "name": "Warning for strong winds and rough seas.",
+    "time_str": "2024-07-01 06:00",
+    "time_id": "20240701.0600",
+    "ut": 1719793800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_strong_winds_and_rough_seas__1719794565.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2024-07-01 05:30",
+    "time_id": "20240701.0530",
+    "ut": 1719792000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530_hrs_on_2024__1719793078.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2024-06-30 16:00",
     "time_id": "20240630.1600",
