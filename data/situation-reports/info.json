@@ -1,6 +1,14 @@
 [
   {
     "name": "Situation Report",
+    "time_str": "2024-07-02 09:00",
+    "time_id": "20240702.0900",
+    "ut": 1719891000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530_hrs_on_2024__1719878959.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Situation Report",
     "time_str": "2024-07-01 09:00",
     "time_id": "20240701.0900",
     "ut": 1719804600.0,
