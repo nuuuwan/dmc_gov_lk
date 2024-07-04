@@ -19,8 +19,9 @@
 
 ## Weather Reports
 
-**8318/8530** documents downloaded.
+**8319/8531** documents downloaded.
 
+* [2024-07-04 07:00 Weather forecast for multi-day boats for the sea areas](data/weather-reports/20240704.0700.weather-forecast-for-multiday-boats-for-the-sea-areas.pdf)
 * [2024-07-04 05:30 Weather Forcast](data/weather-reports/20240704.0530.weather-forcast.pdf)
 * [2024-07-03 16:00 Weather Forcast](data/weather-reports/20240703.1600.weather-forcast.pdf)
 * [2024-07-03 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240703.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
@@ -30,7 +31,6 @@
 * [2024-07-02 12:00 Weather Forecast](data/weather-reports/20240702.1200.weather-forecast.pdf)
 * [2024-07-01 16:00 Weather Forcast](data/weather-reports/20240701.1600.weather-forcast.pdf)
 * [2024-07-01 12:00 Weather Report](data/weather-reports/20240701.1200.weather-report.pdf)
-* [2024-07-01 06:00 Warning for strong winds and rough seas.](data/weather-reports/20240701.0600.warning-for-strong-winds-and-rough-seas.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -43,8 +43,9 @@
 
 ## Situation Reports
 
-**3930/4004** documents downloaded.
+**3931/4005** documents downloaded.
 
+* [2024-07-04 09:00 Situation Report](data/situation-reports/20240704.0900.situation-report.pdf)
 * [2024-07-03 09:00 Situation Report](data/situation-reports/20240703.0900.situation-report.pdf)
 * [2024-07-02 09:00 Situation Report](data/situation-reports/20240702.0900.situation-report.pdf)
 * [2024-07-02 09:00 Situation Reports](data/situation-reports/20240702.0900.situation-reports.pdf)
@@ -54,7 +55,6 @@
 * [2024-06-28 09:00 Situation Report](data/situation-reports/20240628.0900.situation-report.pdf)
 * [2024-06-27 09:00 Situation Report](data/situation-reports/20240627.0900.situation-report.pdf)
 * [2024-06-26 09:00 Situation Report](data/situation-reports/20240626.0900.situation-report.pdf)
-* [2024-06-25 09:00 Situation Report](data/situation-reports/20240625.0900.situation-report.pdf)
 
 ## Earthquakes
 
