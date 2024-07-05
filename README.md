@@ -19,8 +19,9 @@
 
 ## Weather Reports
 
-**8325/8537** documents downloaded.
+**8326/8538** documents downloaded.
 
+* [2024-07-05 16:00 Weather Report](data/weather-reports/20240705.1600.weather-report.pdf)
 * [2024-07-05 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240705.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
 * [2024-07-05 12:00 Weather Forcast](data/weather-reports/20240705.1200.weather-forcast.pdf)
 * [2024-07-05 05:30 Weather Forcast](data/weather-reports/20240705.0530.weather-forcast.pdf)
@@ -30,7 +31,6 @@
 * [2024-07-04 07:00 Weather forecast for multi-day boats for the sea areas](data/weather-reports/20240704.0700.weather-forecast-for-multiday-boats-for-the-sea-areas.pdf)
 * [2024-07-04 05:30 Weather Forcast](data/weather-reports/20240704.0530.weather-forcast.pdf)
 * [2024-07-03 16:00 Weather Forcast](data/weather-reports/20240703.1600.weather-forcast.pdf)
-* [2024-07-03 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240703.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
 
 ## Emergency Response Data Viewer
 
