@@ -4,8 +4,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1646/1648** documents downloaded.
+**1647/1649** documents downloaded.
 
+* [2024-07-07 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240707.0930.water-level-report.pdf)
 * [2024-07-06 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240706.0930.water-level-report.pdf)
 * [2024-06-20 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240620.0930.water-level-report.pdf)
 * [2024-06-19 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240619.0930.water-level-report.pdf)
@@ -15,7 +16,6 @@
 * [2024-06-11 09:30 water level](data/river-water-level-and-flood-warnings/20240611.0930.water-level.pdf)
 * [2024-06-10 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240610.0930.water-level-report.pdf)
 * [2024-06-09 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240609.0930.water-level-report.pdf)
-* [2024-06-08 15:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20240608.1530.water-level-rainfall.pdf)
 
 ## Weather Reports
 
@@ -43,8 +43,9 @@
 
 ## Situation Reports
 
-**3933/4007** documents downloaded.
+**3934/4008** documents downloaded.
 
+* [2024-07-07 09:00 Situation Report](data/situation-reports/20240707.0900.situation-report.pdf)
 * [2024-07-06 09:00 Situation Report](data/situation-reports/20240706.0900.situation-report.pdf)
 * [2024-07-05 09:00 Situation Report](data/situation-reports/20240705.0900.situation-report.pdf)
 * [2024-07-04 09:00 Situation Report](data/situation-reports/20240704.0900.situation-report.pdf)
@@ -54,7 +55,6 @@
 * [2024-07-01 09:00 Situation Report](data/situation-reports/20240701.0900.situation-report.pdf)
 * [2024-06-30 09:00 Situation Report](data/situation-reports/20240630.0900.situation-report.pdf)
 * [2024-06-29 09:00 Situation Report](data/situation-reports/20240629.0900.situation-report.pdf)
-* [2024-06-28 09:00 Situation Report](data/situation-reports/20240628.0900.situation-report.pdf)
 
 ## Earthquakes
 
