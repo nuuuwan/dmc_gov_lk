@@ -4,8 +4,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1647/1649** documents downloaded.
+**1648/1650** documents downloaded.
 
+* [2024-07-10 10:00 water level](data/river-water-level-and-flood-warnings/20240710.1000.water-level.pdf)
 * [2024-07-07 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240707.0930.water-level-report.pdf)
 * [2024-07-06 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240706.0930.water-level-report.pdf)
 * [2024-06-20 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240620.0930.water-level-report.pdf)
@@ -15,7 +16,6 @@
 * [2024-06-12 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20240612.0930.water-level-rainfall.pdf)
 * [2024-06-11 09:30 water level](data/river-water-level-and-flood-warnings/20240611.0930.water-level.pdf)
 * [2024-06-10 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240610.0930.water-level-report.pdf)
-* [2024-06-09 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240609.0930.water-level-report.pdf)
 
 ## Weather Reports
 
@@ -32,19 +32,11 @@
 * [2024-07-08 12:00 Weather Report](data/weather-reports/20240708.1200.weather-report.pdf)
 * [2024-07-08 05:30 Weather Forcast](data/weather-reports/20240708.0530.weather-forcast.pdf)
 
-## Emergency Response Data Viewer
-
-**4/4** documents downloaded.
-
-* [2023-03-27 09:30 Air Quality Report](data/emergency-response-data-viewer/20230327.0930.air-quality-report.pdf)
-* [2023-02-22 10:00 Air Quality Report](data/emergency-response-data-viewer/20230222.1000.air-quality-report.pdf)
-* [2023-01-27 12:00 Air Quality Report](data/emergency-response-data-viewer/20230127.1200.air-quality-report.pdf)
-* [2017-09-27 05:31 Weather forecast 27th September 2017](data/emergency-response-data-viewer/20170927.0531.weather-forecast-27th-september-2017.pdf)
-
 ## Situation Reports
 
-**3936/4010** documents downloaded.
+**3937/4011** documents downloaded.
 
+* [2024-07-10 09:00 Situation Report](data/situation-reports/20240710.0900.situation-report.pdf)
 * [2024-07-09 09:00 Situation Report](data/situation-reports/20240709.0900.situation-report.pdf)
 * [2024-07-08 09:00 Situation Report](data/situation-reports/20240708.0900.situation-report.pdf)
 * [2024-07-07 09:00 Situation Report](data/situation-reports/20240707.0900.situation-report.pdf)
@@ -54,22 +46,6 @@
 * [2024-07-03 09:00 Situation Report](data/situation-reports/20240703.0900.situation-report.pdf)
 * [2024-07-02 09:00 Situation Report](data/situation-reports/20240702.0900.situation-report.pdf)
 * [2024-07-02 09:00 Situation Reports](data/situation-reports/20240702.0900.situation-reports.pdf)
-* [2024-07-01 09:00 Situation Report](data/situation-reports/20240701.0900.situation-report.pdf)
-
-## Earthquakes
-
-**15/14** documents downloaded.
-
-* [2023-04-25 01:55 EARTHQUAKE INFORMATION BULLETIN](data/earthquakes/20230425.0155.earthquake-information-bulletin.pdf)
-* [2023-04-25 01:45 EARTHQUAKE INFORMATION BULLETIN](data/earthquakes/20230425.0145.earthquake-information-bulletin.pdf)
-* [2023-02-22 12:10 EARTHQUAKE INFORMATION BULLETIN](data/earthquakes/20230222.1210.earthquake-information-bulletin.pdf)
-* [2022-11-18 19:23 EARTHQUAKE INFORMATION BULLETIN](data/earthquakes/20221118.1923.earthquake-information-bulletin.pdf)
-* [2022-11-18 17:41 NO TSUNAMI THREAT BULLETIN](data/earthquakes/20221118.1741.no-tsunami-threat-bulletin.pdf)
-* [2021-08-03 10:50 EARTHQUAKE INFORMATION BULLETIN No Threat](data/earthquakes/20210803.1050.earthquake-information-bulletin-no-threat.pdf)
-* [2021-08-03 10:00 EARTHQUAKE INFORMATION BULLETIN](data/earthquakes/20210803.1000.earthquake-information-bulletin.pdf)
-* [2021-05-14 12:55 Earthquake Bulletin NoThreat](data/earthquakes/20210514.1255.earthquake-bulletin-nothreat.pdf)
-* [2021-05-14 12:40 Earthquake Information Bulletin](data/earthquakes/20210514.1240.earthquake-information-bulletin.pdf)
-* [2021-05-12 21:35 Earthquake Information Bulletin](data/earthquakes/20210512.2135.earthquake-information-bulletin.pdf)
 
 ## Flood Inundation Maps
 
@@ -100,3 +76,27 @@
 * [2024-06-09 16:00 Landslide Early Warning](data/landslide-warnings/20240609.1600.landslide-early-warning.pdf)
 * [2024-06-08 16:00 Landslide Early Warning Report](data/landslide-warnings/20240608.1600.landslide-early-warning-report.pdf)
 * [2024-06-06 16:00 Landslide Early Warning Report](data/landslide-warnings/20240606.1600.landslide-early-warning-report.pdf)
+
+## Emergency Response Data Viewer
+
+**4/4** documents downloaded.
+
+* [2023-03-27 09:30 Air Quality Report](data/emergency-response-data-viewer/20230327.0930.air-quality-report.pdf)
+* [2023-02-22 10:00 Air Quality Report](data/emergency-response-data-viewer/20230222.1000.air-quality-report.pdf)
+* [2023-01-27 12:00 Air Quality Report](data/emergency-response-data-viewer/20230127.1200.air-quality-report.pdf)
+* [2017-09-27 05:31 Weather forecast 27th September 2017](data/emergency-response-data-viewer/20170927.0531.weather-forecast-27th-september-2017.pdf)
+
+## Earthquakes
+
+**15/14** documents downloaded.
+
+* [2023-04-25 01:55 EARTHQUAKE INFORMATION BULLETIN](data/earthquakes/20230425.0155.earthquake-information-bulletin.pdf)
+* [2023-04-25 01:45 EARTHQUAKE INFORMATION BULLETIN](data/earthquakes/20230425.0145.earthquake-information-bulletin.pdf)
+* [2023-02-22 12:10 EARTHQUAKE INFORMATION BULLETIN](data/earthquakes/20230222.1210.earthquake-information-bulletin.pdf)
+* [2022-11-18 19:23 EARTHQUAKE INFORMATION BULLETIN](data/earthquakes/20221118.1923.earthquake-information-bulletin.pdf)
+* [2022-11-18 17:41 NO TSUNAMI THREAT BULLETIN](data/earthquakes/20221118.1741.no-tsunami-threat-bulletin.pdf)
+* [2021-08-03 10:50 EARTHQUAKE INFORMATION BULLETIN No Threat](data/earthquakes/20210803.1050.earthquake-information-bulletin-no-threat.pdf)
+* [2021-08-03 10:00 EARTHQUAKE INFORMATION BULLETIN](data/earthquakes/20210803.1000.earthquake-information-bulletin.pdf)
+* [2021-05-14 12:55 Earthquake Bulletin NoThreat](data/earthquakes/20210514.1255.earthquake-bulletin-nothreat.pdf)
+* [2021-05-14 12:40 Earthquake Information Bulletin](data/earthquakes/20210514.1240.earthquake-information-bulletin.pdf)
+* [2021-05-12 21:35 Earthquake Information Bulletin](data/earthquakes/20210512.2135.earthquake-information-bulletin.pdf)
