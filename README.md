@@ -4,8 +4,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1648/1650** documents downloaded.
+**1649/1651** documents downloaded.
 
+* [2024-07-14 09:30 Water Level](data/river-water-level-and-flood-warnings/20240714.0930.water-level.pdf)
 * [2024-07-10 10:00 water level](data/river-water-level-and-flood-warnings/20240710.1000.water-level.pdf)
 * [2024-07-07 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240707.0930.water-level-report.pdf)
 * [2024-07-06 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240706.0930.water-level-report.pdf)
@@ -15,7 +16,6 @@
 * [2024-06-13 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240613.0930.water-level-report.pdf)
 * [2024-06-12 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20240612.0930.water-level-rainfall.pdf)
 * [2024-06-11 09:30 water level](data/river-water-level-and-flood-warnings/20240611.0930.water-level.pdf)
-* [2024-06-10 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240610.0930.water-level-report.pdf)
 
 ## Weather Reports
 
@@ -34,8 +34,9 @@
 
 ## Situation Reports
 
-**3940/4014** documents downloaded.
+**3941/4015** documents downloaded.
 
+* [2024-07-14 09:00 Situation Report](data/situation-reports/20240714.0900.situation-report.pdf)
 * [2024-07-13 09:00 Situation Report](data/situation-reports/20240713.0900.situation-report.pdf)
 * [2024-07-12 09:00 Situation Report](data/situation-reports/20240712.0900.situation-report.pdf)
 * [2024-07-11 09:00 Situation Report](data/situation-reports/20240711.0900.situation-report.pdf)
@@ -45,7 +46,6 @@
 * [2024-07-07 09:00 Situation Report](data/situation-reports/20240707.0900.situation-report.pdf)
 * [2024-07-06 09:00 Situation Report](data/situation-reports/20240706.0900.situation-report.pdf)
 * [2024-07-05 09:00 Situation Report](data/situation-reports/20240705.0900.situation-report.pdf)
-* [2024-07-04 09:00 Situation Report](data/situation-reports/20240704.0900.situation-report.pdf)
 
 ## Flood Inundation Maps
 
