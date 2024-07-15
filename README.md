@@ -19,8 +19,11 @@
 
 ## Weather Reports
 
-**8370/8583** documents downloaded.
+**8373/8586** documents downloaded.
 
+* [2024-07-15 05:30 Weather Forcast](data/weather-reports/20240715.0530.weather-forcast.pdf)
+* [2024-07-15 05:30 Advisory for Strong winds](data/weather-reports/20240715.0530.advisory-for-strong-winds.pdf)
+* [2024-07-15 03:30 Warning for strong winds and rough seas.](data/weather-reports/20240715.0330.warning-for-strong-winds-and-rough-seas.pdf)
 * [2024-07-14 16:00 Weather Forcast](data/weather-reports/20240714.1600.weather-forcast.pdf)
 * [2024-07-14 13:00 Advisory for strong winds and rough seas](data/weather-reports/20240714.1300.advisory-for-strong-winds-and-rough-seas.pdf)
 * [2024-07-14 12:00 Weather Forcast](data/weather-reports/20240714.1200.weather-forcast.pdf)
@@ -28,9 +31,6 @@
 * [2024-07-14 05:30 Weather Forcast](data/weather-reports/20240714.0530.weather-forcast.pdf)
 * [2024-07-14 03:00 Warning for strong winds and rough seas](data/weather-reports/20240714.0300.warning-for-strong-winds-and-rough-seas.pdf)
 * [2024-07-13 16:00 Weather Report](data/weather-reports/20240713.1600.weather-report.pdf)
-* [2024-07-13 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240713.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
-* [2024-07-13 13:00 Advisory for Heavy Rain](data/weather-reports/20240713.1300.advisory-for-heavy-rain.pdf)
-* [2024-07-13 12:30 Advisory for strong winds and rough seas](data/weather-reports/20240713.1230.advisory-for-strong-winds-and-rough-seas.pdf)
 
 ## Situation Reports
 

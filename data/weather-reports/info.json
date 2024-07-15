@@ -1,6 +1,30 @@
 [
   {
     "name": "Weather Forcast",
+    "time_str": "2024-07-15 05:30",
+    "time_id": "20240715.0530",
+    "ut": 1721001600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_2024__1721002108.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Strong winds",
+    "time_str": "2024-07-15 05:30",
+    "time_id": "20240715.0530",
+    "ut": 1721001600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Strong_winds_Report_at_0530hrs_on_2024__1721002411.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Warning for strong winds and rough seas.",
+    "time_str": "2024-07-15 03:30",
+    "time_id": "20240715.0330",
+    "ut": 1720994400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_strong_winds_and_rough_seas_(Arabian_Sea_and_Bay_of_Bengal)_Report_at_0330hrs_on_2024__1721002087.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
     "time_str": "2024-07-14 16:00",
     "time_id": "20240714.1600",
     "ut": 1720953000.0,
