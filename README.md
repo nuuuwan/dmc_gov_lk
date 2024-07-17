@@ -19,8 +19,10 @@
 
 ## Weather Reports
 
-**8387/8600** documents downloaded.
+**8388/8602** documents downloaded.
 
+* [2024-07-17 13:00 Advisory for Strong Winds and Rough Seas Report](data/weather-reports/20240717.1300.advisory-for-strong-winds-and-rough-seas-report.pdf)
+* [2024-07-17 13:00 Advisory for Strong Winds and Rough Seas Report](data/weather-reports/20240717.1300.advisory-for-strong-winds-and-rough-seas-report.pdf)
 * [2024-07-17 12:00 Weather Forcast](data/weather-reports/20240717.1200.weather-forcast.pdf)
 * [2024-07-17 07:00 Weather forecast for multi-day boats for the sea areas](data/weather-reports/20240717.0700.weather-forecast-for-multiday-boats-for-the-sea-areas.pdf)
 * [2024-07-17 05:30 Weather Forcast](data/weather-reports/20240717.0530.weather-forcast.pdf)
@@ -29,8 +31,6 @@
 * [2024-07-16 13:00 Advisory for strong winds and rough seas](data/weather-reports/20240716.1300.advisory-for-strong-winds-and-rough-seas.pdf)
 * [2024-07-16 12:00 Weather Report](data/weather-reports/20240716.1200.weather-report.pdf)
 * [2024-07-16 07:00 Weather forecast for multi-day boats for the sea areas](data/weather-reports/20240716.0700.weather-forecast-for-multiday-boats-for-the-sea-areas.pdf)
-* [2024-07-16 05:30 Advisory for Strong winds](data/weather-reports/20240716.0530.advisory-for-strong-winds.pdf)
-* [2024-07-16 05:30 Weather Forcast](data/weather-reports/20240716.0530.weather-forcast.pdf)
 
 ## Situation Reports
 
