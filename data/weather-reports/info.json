@@ -1,5 +1,21 @@
 [
   {
+    "name": "Weather Forcast",
+    "time_str": "2024-07-17 05:30",
+    "time_id": "20240717.0530",
+    "ut": 1721174400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_2024__1721175091.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Strong winds",
+    "time_str": "2024-07-17 05:30",
+    "time_id": "20240717.0530",
+    "ut": 1721174400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Strong_winds_report_at_0530hrs_on_2024__1721175412.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Report",
     "time_str": "2024-07-16 16:00",
     "time_id": "20240716.1600",
