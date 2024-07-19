@@ -1,5 +1,29 @@
 [
   {
+    "name": "Weather forecast for multi-day boats for the sea areas ",
+    "time_str": "2024-07-19 07:00",
+    "time_id": "20240719.0700",
+    "ut": 1721352600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_forecast_for_multi-day_boats_for_the_sea_areas_at_0700hrs_on_19__1721354789.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2024-07-19 05:30",
+    "time_id": "20240719.0530",
+    "ut": 1721347200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_2024__1721347748.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Strong winds",
+    "time_str": "2024-07-19 05:30",
+    "time_id": "20240719.0530",
+    "ut": 1721347200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Strong_winds_for_land_area_report_at_0530hrs_on_2024__1721348027.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Warning for strong winds and rough seas ",
     "time_str": "2024-07-19 03:00",
     "time_id": "20240719.0300",
