@@ -1,5 +1,29 @@
 [
   {
+    "name": "Fishermen bulletin for strong winds and rough seas",
+    "time_str": "2024-07-19 16:00",
+    "time_id": "20240719.1600",
+    "ut": 1721385000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/FA20240719E__1721385504.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Fishermen bulletin for strong winds and rough seas",
+    "time_str": "2024-07-19 16:00",
+    "time_id": "20240719.1600",
+    "ut": 1721385000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/FA20240719S__1721385841.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2024-07-19 16:00",
+    "time_id": "20240719.1600",
+    "ut": 1721385000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/W20240719c__1721385855.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2024-07-19 12:00",
     "time_id": "20240719.1200",
