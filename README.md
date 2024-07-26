@@ -58,8 +58,9 @@
 
 ## Weather Reports
 
-**8440/8655** documents downloaded.
+**8441/8656** documents downloaded.
 
+* [2024-07-26 16:00 Weather Report](data/weather-reports/20240726.1600.weather-report.pdf)
 * [2024-07-26 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240726.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
 * [2024-07-26 12:00 Weather Report](data/weather-reports/20240726.1200.weather-report.pdf)
 * [2024-07-26 07:00 Weather forecast for multi-day boats for the sea areas](data/weather-reports/20240726.0700.weather-forecast-for-multiday-boats-for-the-sea-areas.pdf)
@@ -69,7 +70,6 @@
 * [2024-07-25 12:00 Weather Forcast](data/weather-reports/20240725.1200.weather-forcast.pdf)
 * [2024-07-25 07:00 Weather forecast for multi-day boats for the sea areas](data/weather-reports/20240725.0700.weather-forecast-for-multiday-boats-for-the-sea-areas.pdf)
 * [2024-07-25 05:30 Weather Forcast](data/weather-reports/20240725.0530.weather-forcast.pdf)
-* [2024-07-25 03:00 The Warning for strong winds and rough seas](data/weather-reports/20240725.0300.the-warning-for-strong-winds-and-rough-seas.pdf)
 
 ## Landslide Warnings
 
