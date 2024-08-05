@@ -73,8 +73,9 @@
 
 ## Weather Reports
 
-**8480/8696** documents downloaded.
+**8481/8697** documents downloaded.
 
+* [2024-08-05 14:30 Advisory for Severe Lightning](data/weather-reports/20240805.1430.advisory-for-severe-lightning.pdf)
 * [2024-08-05 12:00 Weather Forcast](data/weather-reports/20240805.1200.weather-forcast.pdf)
 * [2024-08-05 05:30 Weather Forcast](data/weather-reports/20240805.0530.weather-forcast.pdf)
 * [2024-08-04 16:00 Weather Forcast](data/weather-reports/20240804.1600.weather-forcast.pdf)
@@ -84,7 +85,6 @@
 * [2024-08-03 12:00 Weather Forecast](data/weather-reports/20240803.1200.weather-forecast.pdf)
 * [2024-08-03 05:30 Weather Forcast](data/weather-reports/20240803.0530.weather-forcast.pdf)
 * [2024-08-03 03:00 Warning for strong winds and rough seas.](data/weather-reports/20240803.0300.warning-for-strong-winds-and-rough-seas.pdf)
-* [2024-08-02 16:00 Weather Forcast](data/weather-reports/20240802.1600.weather-forcast.pdf)
 
 ## River Water Level And Flood Warnings
 
