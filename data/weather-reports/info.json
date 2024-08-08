@@ -1,6 +1,14 @@
 [
   {
     "name": "Weather Forcast",
+    "time_str": "2024-08-08 05:30",
+    "time_id": "20240808.0530",
+    "ut": 1723075200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530_hrs_on_2024__1723076017.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
     "time_str": "2024-08-07 12:00",
     "time_id": "20240807.1200",
     "ut": 1723012200.0,
