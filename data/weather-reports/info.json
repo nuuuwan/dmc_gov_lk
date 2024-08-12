@@ -1,5 +1,13 @@
 [
   {
+    "name": "Weather Report ",
+    "time_str": "2024-08-12 16:00",
+    "time_id": "20240812.1600",
+    "ut": 1723458600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600_hrs_on_2024__1723459149.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Advisory for Heavy Rain ",
     "time_str": "2024-08-12 13:30",
     "time_id": "20240812.1330",
