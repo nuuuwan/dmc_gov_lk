@@ -49,8 +49,9 @@
 
 ## Weather Reports
 
-**8525/8742** documents downloaded.
+**8526/8743** documents downloaded.
 
+* [2024-08-18 16:00 Weather Report](data/weather-reports/20240818.1600.weather-report.pdf)
 * [2024-08-18 12:00 Weather Report](data/weather-reports/20240818.1200.weather-report.pdf)
 * [2024-08-18 07:00 Weather forecast for multi-day boats for the sea areas](data/weather-reports/20240818.0700.weather-forecast-for-multiday-boats-for-the-sea-areas.pdf)
 * [2024-08-18 05:30 Weather Forcast](data/weather-reports/20240818.0530.weather-forcast.pdf)
@@ -60,7 +61,6 @@
 * [2024-08-17 05:30 Weather Forcast](data/weather-reports/20240817.0530.weather-forcast.pdf)
 * [2024-08-17 01:00 Warning for Heavy Rain,](data/weather-reports/20240817.0100.warning-for-heavy-rain.pdf)
 * [2024-08-17 01:00 Warning for Heavy Rain,](data/weather-reports/20240817.0100.warning-for-heavy-rain.pdf)
-* [2024-08-16 18:30 The Advisory for Heavy Rain,](data/weather-reports/20240816.1830.the-advisory-for-heavy-rain.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -88,8 +88,9 @@
 
 ## Landslide Warnings
 
-**575/581** documents downloaded.
+**576/582** documents downloaded.
 
+* [2024-08-18 16:00 Landslide Warning](data/landslide-warnings/20240818.1600.landslide-warning.pdf)
 * [2024-08-17 20:00 Landslide Early Warning](data/landslide-warnings/20240817.2000.landslide-early-warning.pdf)
 * [2024-08-17 16:00 Landslide early warning](data/landslide-warnings/20240817.1600.landslide-early-warning.pdf)
 * [2024-08-17 05:30 Landslide Early Warning](data/landslide-warnings/20240817.0530.landslide-early-warning.pdf)
@@ -99,4 +100,3 @@
 * [2024-07-15 16:00 Landslide Early Warning](data/landslide-warnings/20240715.1600.landslide-early-warning.pdf)
 * [2024-07-14 16:00 Landslide Early Warning](data/landslide-warnings/20240714.1600.landslide-early-warning.pdf)
 * [2024-07-13 16:30 Landslide Early Warning](data/landslide-warnings/20240713.1630.landslide-early-warning.pdf)
-* [2024-07-08 16:00 Landslide Warning](data/landslide-warnings/20240708.1600.landslide-warning.pdf)

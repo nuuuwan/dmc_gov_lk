@@ -1,5 +1,13 @@
 [
   {
+    "name": "Landslide Warning",
+    "time_str": "2024-08-18 16:00",
+    "time_id": "20240818.1600",
+    "ut": 1723977000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/LEWM_18-08-2024_16_00__1723979034.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Landslide Early Warning",
     "time_str": "2024-08-17 20:00",
     "time_id": "20240817.2000",
