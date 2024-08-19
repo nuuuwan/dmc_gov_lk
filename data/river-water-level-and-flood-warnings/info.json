@@ -1,5 +1,13 @@
 [
   {
+    "name": "Water Level Report",
+    "time_str": "2024-08-19 09:30",
+    "time_id": "20240819.0930",
+    "ut": 1724040000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2024__1724043160.jpg",
+    "ext": "jpg"
+  },
+  {
     "name": " Flood warning for Kuda Ganga Basin  No 02",
     "time_str": "2024-08-19 09:00",
     "time_id": "20240819.0900",
