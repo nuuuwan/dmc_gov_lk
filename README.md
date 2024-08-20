@@ -49,8 +49,10 @@
 
 ## Weather Reports
 
-**8535/8752** documents downloaded.
+**8536/8754** documents downloaded.
 
+* [2024-08-20 21:30 Warning for Heavy Rain,](data/weather-reports/20240820.2130.warning-for-heavy-rain.pdf)
+* [2024-08-20 21:30 Warning for Heavy Rain,](data/weather-reports/20240820.2130.warning-for-heavy-rain.pdf)
 * [2024-08-20 16:00 Weather Forcast](data/weather-reports/20240820.1600.weather-forcast.pdf)
 * [2024-08-20 12:00 Weather Report](data/weather-reports/20240820.1200.weather-report.pdf)
 * [2024-08-20 07:30 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240820.0730.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
@@ -59,8 +61,6 @@
 * [2024-08-19 16:00 Weather Forcast](data/weather-reports/20240819.1600.weather-forcast.pdf)
 * [2024-08-19 12:00 Weather Forcast](data/weather-reports/20240819.1200.weather-forcast.pdf)
 * [2024-08-19 07:00 Weather forecast for multi-day boats for the sea areas](data/weather-reports/20240819.0700.weather-forecast-for-multiday-boats-for-the-sea-areas.pdf)
-* [2024-08-19 05:30 Weather Forcast](data/weather-reports/20240819.0530.weather-forcast.pdf)
-* [2024-08-18 16:00 Weather Report](data/weather-reports/20240818.1600.weather-report.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -73,8 +73,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1658/1677** documents downloaded.
+**1658/1678** documents downloaded.
 
+* [2024-08-20 21:00 water level](data/river-water-level-and-flood-warnings/20240820.2100.water-level.jpg)
 * [2024-08-20 15:30 Water Level Report](data/river-water-level-and-flood-warnings/20240820.1530.water-level-report.jpg)
 * [2024-08-20 12:30 Water Level](data/river-water-level-and-flood-warnings/20240820.1230.water-level.jpg)
 * [2024-08-20 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240820.0930.water-level-report.jpg)
@@ -84,7 +85,6 @@
 * [2024-08-19 18:00 water level](data/river-water-level-and-flood-warnings/20240819.1800.water-level.jpg)
 * [2024-08-19 15:30 Water Level Report](data/river-water-level-and-flood-warnings/20240819.1530.water-level-report.jpg)
 * [2024-08-19 12:30 Water Level Report](data/river-water-level-and-flood-warnings/20240819.1230.water-level-report.jpg)
-* [2024-08-19 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240819.0930.water-level-report.jpg)
 
 ## Landslide Warnings
 
