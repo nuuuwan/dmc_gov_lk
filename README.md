@@ -49,8 +49,9 @@
 
 ## Weather Reports
 
-**8532/8749** documents downloaded.
+**8533/8750** documents downloaded.
 
+* [2024-08-20 07:30 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240820.0730.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
 * [2024-08-20 05:30 Weather Forcast](data/weather-reports/20240820.0530.weather-forcast.pdf)
 * [2024-08-19 21:30 Warning for Heavy Rain,](data/weather-reports/20240819.2130.warning-for-heavy-rain.pdf)
 * [2024-08-19 16:00 Weather Forcast](data/weather-reports/20240819.1600.weather-forcast.pdf)
@@ -60,7 +61,6 @@
 * [2024-08-18 16:00 Weather Report](data/weather-reports/20240818.1600.weather-report.pdf)
 * [2024-08-18 12:00 Weather Report](data/weather-reports/20240818.1200.weather-report.pdf)
 * [2024-08-18 07:00 Weather forecast for multi-day boats for the sea areas](data/weather-reports/20240818.0700.weather-forecast-for-multiday-boats-for-the-sea-areas.pdf)
-* [2024-08-18 05:30 Weather Forcast](data/weather-reports/20240818.0530.weather-forcast.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -73,8 +73,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1658/1674** documents downloaded.
+**1658/1675** documents downloaded.
 
+* [2024-08-20 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240820.0930.water-level-report.jpg)
 * [2024-08-20 09:00 Flood Warning for Kuda Ganga Sub Basin Of Kalu River  No 03](data/river-water-level-and-flood-warnings/20240820.0900.flood-warning-for-kuda-ganga-sub-basin-of-kalu-river-no-03.pdf)
 * [2024-08-20 06:30 Water Level](data/river-water-level-and-flood-warnings/20240820.0630.water-level.jpg)
 * [2024-08-20 03:00 water level](data/river-water-level-and-flood-warnings/20240820.0300.water-level.jpg)
@@ -84,7 +85,6 @@
 * [2024-08-19 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240819.0930.water-level-report.jpg)
 * [2024-08-19 09:00 Flood warning for Kuda Ganga Basin  No 02](data/river-water-level-and-flood-warnings/20240819.0900.flood-warning-for-kuda-ganga-basin-no-02.pdf)
 * [2024-08-19 06:00 water level](data/river-water-level-and-flood-warnings/20240819.0600.water-level.jpg)
-* [2024-08-18 18:00 Water Level](data/river-water-level-and-flood-warnings/20240818.1800.water-level.jpg)
 
 ## Landslide Warnings
 
