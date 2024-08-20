@@ -19,8 +19,9 @@
 
 ## Situation Reports
 
-**3977/4051** documents downloaded.
+**3978/4052** documents downloaded.
 
+* [2024-08-20 09:00 Situation Report](data/situation-reports/20240820.0900.situation-report.pdf)
 * [2024-08-19 09:00 Situation Report](data/situation-reports/20240819.0900.situation-report.pdf)
 * [2024-08-18 09:00 Situation Report](data/situation-reports/20240818.0900.situation-report.pdf)
 * [2024-08-17 09:00 Situation Report](data/situation-reports/20240817.0900.situation-report.pdf)
@@ -30,7 +31,6 @@
 * [2024-08-13 09:00 Situation Report](data/situation-reports/20240813.0900.situation-report.pdf)
 * [2024-08-12 09:00 Situation Report](data/situation-reports/20240812.0900.situation-report.pdf)
 * [2024-08-11 09:00 Situation Report](data/situation-reports/20240811.0900.situation-report.pdf)
-* [2024-08-10 09:00 Situation Report](data/situation-reports/20240810.0900.situation-report.pdf)
 
 ## Earthquakes
 
@@ -73,8 +73,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1657/1673** documents downloaded.
+**1658/1674** documents downloaded.
 
+* [2024-08-20 09:00 Flood Warning for Kuda Ganga Sub Basin Of Kalu River  No 03](data/river-water-level-and-flood-warnings/20240820.0900.flood-warning-for-kuda-ganga-sub-basin-of-kalu-river-no-03.pdf)
 * [2024-08-20 06:30 Water Level](data/river-water-level-and-flood-warnings/20240820.0630.water-level.jpg)
 * [2024-08-20 03:00 water level](data/river-water-level-and-flood-warnings/20240820.0300.water-level.jpg)
 * [2024-08-19 18:00 water level](data/river-water-level-and-flood-warnings/20240819.1800.water-level.jpg)
@@ -84,7 +85,6 @@
 * [2024-08-19 09:00 Flood warning for Kuda Ganga Basin  No 02](data/river-water-level-and-flood-warnings/20240819.0900.flood-warning-for-kuda-ganga-basin-no-02.pdf)
 * [2024-08-19 06:00 water level](data/river-water-level-and-flood-warnings/20240819.0600.water-level.jpg)
 * [2024-08-18 18:00 Water Level](data/river-water-level-and-flood-warnings/20240818.1800.water-level.jpg)
-* [2024-08-18 15:00 Water Level](data/river-water-level-and-flood-warnings/20240818.1500.water-level.jpg)
 
 ## Landslide Warnings
 
