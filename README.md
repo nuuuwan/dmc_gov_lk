@@ -19,8 +19,9 @@
 
 ## Situation Reports
 
-**3978/4052** documents downloaded.
+**3979/4053** documents downloaded.
 
+* [2024-08-21 09:00 Situation Report](data/situation-reports/20240821.0900.situation-report.pdf)
 * [2024-08-20 09:00 Situation Report](data/situation-reports/20240820.0900.situation-report.pdf)
 * [2024-08-19 09:00 Situation Report](data/situation-reports/20240819.0900.situation-report.pdf)
 * [2024-08-18 09:00 Situation Report](data/situation-reports/20240818.0900.situation-report.pdf)
@@ -30,7 +31,6 @@
 * [2024-08-14 09:00 Situation Report](data/situation-reports/20240814.0900.situation-report.pdf)
 * [2024-08-13 09:00 Situation Report](data/situation-reports/20240813.0900.situation-report.pdf)
 * [2024-08-12 09:00 Situation Report](data/situation-reports/20240812.0900.situation-report.pdf)
-* [2024-08-11 09:00 Situation Report](data/situation-reports/20240811.0900.situation-report.pdf)
 
 ## Earthquakes
 
@@ -49,8 +49,9 @@
 
 ## Weather Reports
 
-**8538/8756** documents downloaded.
+**8539/8757** documents downloaded.
 
+* [2024-08-21 09:30 Advisory for Heavy Rain](data/weather-reports/20240821.0930.advisory-for-heavy-rain.pdf)
 * [2024-08-21 07:30 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240821.0730.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
 * [2024-08-21 05:30 Weather Forcast](data/weather-reports/20240821.0530.weather-forcast.pdf)
 * [2024-08-20 21:30 Warning for Heavy Rain,](data/weather-reports/20240820.2130.warning-for-heavy-rain.pdf)
@@ -60,7 +61,6 @@
 * [2024-08-20 07:30 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240820.0730.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
 * [2024-08-20 05:30 Weather Forcast](data/weather-reports/20240820.0530.weather-forcast.pdf)
 * [2024-08-19 21:30 Warning for Heavy Rain,](data/weather-reports/20240819.2130.warning-for-heavy-rain.pdf)
-* [2024-08-19 16:00 Weather Forcast](data/weather-reports/20240819.1600.weather-forcast.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -73,8 +73,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1659/1682** documents downloaded.
+**1659/1683** documents downloaded.
 
+* [2024-08-21 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240821.0930.water-level-report.jpg)
 * [2024-08-21 09:00 Flood warning for Gin Ganga Basin  No 01](data/river-water-level-and-flood-warnings/20240821.0900.flood-warning-for-gin-ganga-basin-no-01.pdf)
 * [2024-08-21 06:30 water level](data/river-water-level-and-flood-warnings/20240821.0630.water-level.jpg)
 * [2024-08-21 03:30 water level](data/river-water-level-and-flood-warnings/20240821.0330.water-level.jpg)
@@ -84,7 +85,6 @@
 * [2024-08-20 12:30 Water Level](data/river-water-level-and-flood-warnings/20240820.1230.water-level.jpg)
 * [2024-08-20 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240820.0930.water-level-report.jpg)
 * [2024-08-20 09:00 Flood Warning for Kuda Ganga Sub Basin Of Kalu River  No 03](data/river-water-level-and-flood-warnings/20240820.0900.flood-warning-for-kuda-ganga-sub-basin-of-kalu-river-no-03.pdf)
-* [2024-08-20 06:30 Water Level](data/river-water-level-and-flood-warnings/20240820.0630.water-level.jpg)
 
 ## Landslide Warnings
 
