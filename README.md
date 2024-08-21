@@ -49,8 +49,9 @@
 
 ## Weather Reports
 
-**8540/8758** documents downloaded.
+**8541/8759** documents downloaded.
 
+* [2024-08-21 16:00 Weather Forcast](data/weather-reports/20240821.1600.weather-forcast.pdf)
 * [2024-08-21 12:00 Weather Report](data/weather-reports/20240821.1200.weather-report.pdf)
 * [2024-08-21 09:30 Advisory for Heavy Rain](data/weather-reports/20240821.0930.advisory-for-heavy-rain.pdf)
 * [2024-08-21 07:30 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240821.0730.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
@@ -60,7 +61,6 @@
 * [2024-08-20 16:00 Weather Forcast](data/weather-reports/20240820.1600.weather-forcast.pdf)
 * [2024-08-20 12:00 Weather Report](data/weather-reports/20240820.1200.weather-report.pdf)
 * [2024-08-20 07:30 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20240820.0730.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
-* [2024-08-20 05:30 Weather Forcast](data/weather-reports/20240820.0530.weather-forcast.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -73,8 +73,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1659/1684** documents downloaded.
+**1659/1685** documents downloaded.
 
+* [2024-08-21 15:30 Water Level Report](data/river-water-level-and-flood-warnings/20240821.1530.water-level-report.jpg)
 * [2024-08-21 12:30 Water Level Report](data/river-water-level-and-flood-warnings/20240821.1230.water-level-report.jpg)
 * [2024-08-21 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240821.0930.water-level-report.jpg)
 * [2024-08-21 09:00 Flood warning for Gin Ganga Basin  No 01](data/river-water-level-and-flood-warnings/20240821.0900.flood-warning-for-gin-ganga-basin-no-01.pdf)
@@ -84,12 +85,12 @@
 * [2024-08-20 21:00 water level](data/river-water-level-and-flood-warnings/20240820.2100.water-level.jpg)
 * [2024-08-20 15:30 Water Level Report](data/river-water-level-and-flood-warnings/20240820.1530.water-level-report.jpg)
 * [2024-08-20 12:30 Water Level](data/river-water-level-and-flood-warnings/20240820.1230.water-level.jpg)
-* [2024-08-20 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240820.0930.water-level-report.jpg)
 
 ## Landslide Warnings
 
-**578/584** documents downloaded.
+**579/585** documents downloaded.
 
+* [2024-08-21 16:00 Landslide Early Warning](data/landslide-warnings/20240821.1600.landslide-early-warning.pdf)
 * [2024-08-20 16:00 Landslide Warning](data/landslide-warnings/20240820.1600.landslide-warning.pdf)
 * [2024-08-19 16:00 Landslide Early Warning](data/landslide-warnings/20240819.1600.landslide-early-warning.pdf)
 * [2024-08-18 16:00 Landslide Warning](data/landslide-warnings/20240818.1600.landslide-warning.pdf)
@@ -99,4 +100,3 @@
 * [2024-08-16 19:30 Landslide Early Warning](data/landslide-warnings/20240816.1930.landslide-early-warning.pdf)
 * [2024-07-17 16:00 Landslide Early Warning](data/landslide-warnings/20240717.1600.landslide-early-warning.pdf)
 * [2024-07-16 16:00 Landslide Early Warning Report](data/landslide-warnings/20240716.1600.landslide-early-warning-report.pdf)
-* [2024-07-15 16:00 Landslide Early Warning](data/landslide-warnings/20240715.1600.landslide-early-warning.pdf)
