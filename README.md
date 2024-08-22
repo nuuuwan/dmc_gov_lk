@@ -49,8 +49,9 @@
 
 ## Weather Reports
 
-**8542/8760** documents downloaded.
+**8543/8761** documents downloaded.
 
+* [2024-08-22 07:00 Weather forecast for multi-day boats for the sea areas](data/weather-reports/20240822.0700.weather-forecast-for-multiday-boats-for-the-sea-areas.pdf)
 * [2024-08-22 05:30 Weather Forcast](data/weather-reports/20240822.0530.weather-forcast.pdf)
 * [2024-08-21 16:00 Weather Forcast](data/weather-reports/20240821.1600.weather-forcast.pdf)
 * [2024-08-21 12:00 Weather Report](data/weather-reports/20240821.1200.weather-report.pdf)
@@ -60,7 +61,6 @@
 * [2024-08-20 21:30 Warning for Heavy Rain,](data/weather-reports/20240820.2130.warning-for-heavy-rain.pdf)
 * [2024-08-20 21:30 Warning for Heavy Rain,](data/weather-reports/20240820.2130.warning-for-heavy-rain.pdf)
 * [2024-08-20 16:00 Weather Forcast](data/weather-reports/20240820.1600.weather-forcast.pdf)
-* [2024-08-20 12:00 Weather Report](data/weather-reports/20240820.1200.weather-report.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -73,8 +73,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1659/1687** documents downloaded.
+**1659/1688** documents downloaded.
 
+* [2024-08-22 06:30 Water Level Report](data/river-water-level-and-flood-warnings/20240822.0630.water-level-report.jpg)
 * [2024-08-22 03:00 water level](data/river-water-level-and-flood-warnings/20240822.0300.water-level.jpg)
 * [2024-08-21 15:30 Water Level Report](data/river-water-level-and-flood-warnings/20240821.1530.water-level-report.jpg)
 * [2024-08-21 12:30 Water Level Report](data/river-water-level-and-flood-warnings/20240821.1230.water-level-report.jpg)
@@ -84,7 +85,6 @@
 * [2024-08-21 06:30 water level](data/river-water-level-and-flood-warnings/20240821.0630.water-level.jpg)
 * [2024-08-21 03:30 water level](data/river-water-level-and-flood-warnings/20240821.0330.water-level.jpg)
 * [2024-08-21 00:30 water level](data/river-water-level-and-flood-warnings/20240821.0030.water-level.jpg)
-* [2024-08-20 21:00 water level](data/river-water-level-and-flood-warnings/20240820.2100.water-level.jpg)
 
 ## Landslide Warnings
 
