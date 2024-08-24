@@ -73,9 +73,10 @@
 
 ## River Water Level And Flood Warnings
 
-**1661/1698** documents downloaded.
+**1662/1699** documents downloaded.
 
 * [2024-08-24 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240824.0930.water-level-report.jpg)
+* [2024-08-24 09:00 Withdrawal of Flood warning for Kuda Ganga  Gin Ganga](data/river-water-level-and-flood-warnings/20240824.0900.withdrawal-of-flood-warning-for-kuda-ganga-gin-ganga.pdf)
 * [2024-08-23 15:30 Water Level Report](data/river-water-level-and-flood-warnings/20240823.1530.water-level-report.jpg)
 * [2024-08-23 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240823.0930.water-level-report.jpg)
 * [2024-08-23 09:00 Flood warning for Kuda Ganga Sub Basin of Kalu River  No 0  (Extended warning)](data/river-water-level-and-flood-warnings/20240823.0900.flood-warning-for-kuda-ganga-sub-basin-of-kalu-river-no-0-extended-warning.pdf)
@@ -84,7 +85,6 @@
 * [2024-08-22 21:00 water level](data/river-water-level-and-flood-warnings/20240822.2100.water-level.jpg)
 * [2024-08-22 15:30 Water Level Report](data/river-water-level-and-flood-warnings/20240822.1530.water-level-report.jpg)
 * [2024-08-22 12:30 Water Level Report](data/river-water-level-and-flood-warnings/20240822.1230.water-level-report.jpg)
-* [2024-08-22 09:00 Water Level Report](data/river-water-level-and-flood-warnings/20240822.0900.water-level-report.jpg)
 
 ## Landslide Warnings
 
