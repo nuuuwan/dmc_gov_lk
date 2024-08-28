@@ -17,6 +17,14 @@
   },
   {
     "name": "Weather Report",
+    "time_str": "2024-08-28 16:00",
+    "time_id": "20240828.1600",
+    "ut": 1724841000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2024__1724842936.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Report",
     "time_str": "2024-08-28 12:00",
     "time_id": "20240828.1200",
     "ut": 1724826600.0,
