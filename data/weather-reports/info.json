@@ -1,5 +1,13 @@
 [
   {
+    "name": "Weather Report",
+    "time_str": "2024-08-31 12:00",
+    "time_id": "20240831.1200",
+    "ut": 1725085800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Reportvat_1200_hrs_on_2024__1725087051.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2024-08-31 05:30",
     "time_id": "20240831.0530",
