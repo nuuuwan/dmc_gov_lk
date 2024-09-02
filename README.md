@@ -19,8 +19,9 @@
 
 ## Situation Reports
 
-**3992/4069** documents downloaded.
+**3993/4070** documents downloaded.
 
+* [2024-09-02 09:00 Situation Report](data/situation-reports/20240902.0900.situation-report.pdf)
 * [2024-08-31 09:00 Situation Report](data/situation-reports/20240831.0900.situation-report.pdf)
 * [2024-08-31 09:00 Situation Report (Drought](data/situation-reports/20240831.0900.situation-report-drought.pdf)
 * [2024-08-30 09:00 Situation Report](data/situation-reports/20240830.0900.situation-report.pdf)
@@ -30,7 +31,6 @@
 * [2024-08-28 09:00 Situation Report(Drought)](data/situation-reports/20240828.0900.situation-reportdrought.pdf)
 * [2024-08-27 09:00 Situation Report](data/situation-reports/20240827.0900.situation-report.pdf)
 * [2024-08-27 09:00 Situation Report](data/situation-reports/20240827.0900.situation-report.pdf)
-* [2024-08-26 09:00 Situation Report](data/situation-reports/20240826.0900.situation-report.pdf)
 
 ## Earthquakes
 
