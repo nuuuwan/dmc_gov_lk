@@ -62,8 +62,10 @@ jobs:
           git config --global user.name "${{ secrets.GIT_USER_NAME }}"
 
           git pull origin main
-
+          
+          echo "* $(date) pipeline"
           echo "* $(date) pipeline" >> update.log
+          
           git add .
           git commit -m "pipeline $(date)"
           git push origin main
