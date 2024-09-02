@@ -64,7 +64,7 @@ jobs:
           git pull origin main
           
           echo "* $(date) pipeline"
-          echo "* $(date) pipeline" >> update.log
+          echo "* $(date) pipeline" >> update.txt
           
           git add .
           git commit -m "pipeline $(date)"
