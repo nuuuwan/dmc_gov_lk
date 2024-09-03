@@ -1,5 +1,21 @@
 [
   {
+    "name": "Advisory for Heavy Rain",
+    "time_str": "2024-09-03 06:30",
+    "time_id": "20240903.0630",
+    "ut": 1725325200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_Rain_Issued_at_06__1725325777.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2024-09-03 05:30",
+    "time_id": "20240903.0530",
+    "ut": 1725321600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_2024__1725322058.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Report",
     "time_str": "2024-09-02 16:00",
     "time_id": "20240902.1600",
