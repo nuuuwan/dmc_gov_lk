@@ -1,5 +1,13 @@
 [
   {
+    "name": "Weather forecast for multi-day boats for the sea areas",
+    "time_str": "2024-09-03 07:00",
+    "time_id": "20240903.0700",
+    "ut": 1725327000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_forecast_for_multi-day_boats_for_the_sea_areas_at_0700hrs_on_03__1725329980.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Advisory for Heavy Rain",
     "time_str": "2024-09-03 06:30",
     "time_id": "20240903.0630",
