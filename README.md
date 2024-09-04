@@ -19,8 +19,10 @@
 
 ## Situation Reports
 
-**3995/4072** documents downloaded.
+**3997/4074** documents downloaded.
 
+* [2024-09-04 09:00 Situation Report (Drought)](data/situation-reports/20240904.0900.situation-report-drought.pdf)
+* [2024-09-04 09:00 Situation Report](data/situation-reports/20240904.0900.situation-report.pdf)
 * [2024-09-03 09:00 Situation Report(Drought)](data/situation-reports/20240903.0900.situation-reportdrought.pdf)
 * [2024-09-03 09:00 Situation Report](data/situation-reports/20240903.0900.situation-report.pdf)
 * [2024-09-02 09:00 Situation Report](data/situation-reports/20240902.0900.situation-report.pdf)
@@ -29,8 +31,6 @@
 * [2024-08-30 09:00 Situation Report](data/situation-reports/20240830.0900.situation-report.pdf)
 * [2024-08-29 09:00 Situation Report(Drought)](data/situation-reports/20240829.0900.situation-reportdrought.pdf)
 * [2024-08-29 09:00 Situation Report](data/situation-reports/20240829.0900.situation-report.pdf)
-* [2024-08-28 09:00 Situation Report](data/situation-reports/20240828.0900.situation-report.pdf)
-* [2024-08-28 09:00 Situation Report(Drought)](data/situation-reports/20240828.0900.situation-reportdrought.pdf)
 
 ## Earthquakes
 
@@ -73,8 +73,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1664/1707** documents downloaded.
+**1664/1708** documents downloaded.
 
+* [2024-09-04 09:00 Water Level Report](data/river-water-level-and-flood-warnings/20240904.0900.water-level-report.jpg)
 * [2024-09-03 18:30 water level](data/river-water-level-and-flood-warnings/20240903.1830.water-level.jpg)
 * [2024-09-03 15:30 Water Level Report](data/river-water-level-and-flood-warnings/20240903.1530.water-level-report.jpg)
 * [2024-09-03 12:30 Water Level Report](data/river-water-level-and-flood-warnings/20240903.1230.water-level-report.jpg)
@@ -84,7 +85,6 @@
 * [2024-09-02 09:00 Water Level Report](data/river-water-level-and-flood-warnings/20240902.0900.water-level-report.jpg)
 * [2024-08-31 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240831.0930.water-level-report.jpg)
 * [2024-08-24 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240824.0930.water-level-report.jpg)
-* [2024-08-24 09:00 Withdrawal of Flood warning for Kuda Ganga  Gin Ganga](data/river-water-level-and-flood-warnings/20240824.0900.withdrawal-of-flood-warning-for-kuda-ganga-gin-ganga.pdf)
 
 ## Landslide Warnings
 
