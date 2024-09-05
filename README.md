@@ -58,8 +58,10 @@
 
 ## Situation Reports
 
-**3997/4074** documents downloaded.
+**3999/4076** documents downloaded.
 
+* [2024-09-05 09:00 Situation Report (Drought)](data/situation-reports/20240905.0900.situation-report-drought.pdf)
+* [2024-09-05 09:00 Situation Report](data/situation-reports/20240905.0900.situation-report.pdf)
 * [2024-09-04 09:00 Situation Report (Drought)](data/situation-reports/20240904.0900.situation-report-drought.pdf)
 * [2024-09-04 09:00 Situation Report](data/situation-reports/20240904.0900.situation-report.pdf)
 * [2024-09-03 09:00 Situation Report(Drought)](data/situation-reports/20240903.0900.situation-reportdrought.pdf)
@@ -68,13 +70,12 @@
 * [2024-08-31 09:00 Situation Report](data/situation-reports/20240831.0900.situation-report.pdf)
 * [2024-08-31 09:00 Situation Report (Drought](data/situation-reports/20240831.0900.situation-report-drought.pdf)
 * [2024-08-30 09:00 Situation Report](data/situation-reports/20240830.0900.situation-report.pdf)
-* [2024-08-29 09:00 Situation Report(Drought)](data/situation-reports/20240829.0900.situation-reportdrought.pdf)
-* [2024-08-29 09:00 Situation Report](data/situation-reports/20240829.0900.situation-report.pdf)
 
 ## River Water Level And Flood Warnings
 
-**1665/1709** documents downloaded.
+**1665/1710** documents downloaded.
 
+* [2024-09-05 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240905.0930.water-level-report.jpg)
 * [2024-09-04 13:00 Flood Warning for Kuda Ganga Basin (Extended) 03](data/river-water-level-and-flood-warnings/20240904.1300.flood-warning-for-kuda-ganga-basin-extended-03.pdf)
 * [2024-09-04 09:00 Water Level Report](data/river-water-level-and-flood-warnings/20240904.0900.water-level-report.jpg)
 * [2024-09-03 18:30 water level](data/river-water-level-and-flood-warnings/20240903.1830.water-level.jpg)
@@ -84,7 +85,6 @@
 * [2024-09-03 10:00 Water Leval](data/river-water-level-and-flood-warnings/20240903.1000.water-leval.jpg)
 * [2024-09-02 13:00 Flood Warning for Kuda Ganga Basin  01](data/river-water-level-and-flood-warnings/20240902.1300.flood-warning-for-kuda-ganga-basin-01.pdf)
 * [2024-09-02 09:00 Water Level Report](data/river-water-level-and-flood-warnings/20240902.0900.water-level-report.jpg)
-* [2024-08-31 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240831.0930.water-level-report.jpg)
 
 ## Flood Inundation Maps
 
