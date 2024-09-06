@@ -73,8 +73,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1665/1710** documents downloaded.
+**1666/1711** documents downloaded.
 
+* [2024-09-06 09:30 Withdrawal of Flood warning for Kuda Ganga](data/river-water-level-and-flood-warnings/20240906.0930.withdrawal-of-flood-warning-for-kuda-ganga.pdf)
 * [2024-09-05 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240905.0930.water-level-report.jpg)
 * [2024-09-04 13:00 Flood Warning for Kuda Ganga Basin (Extended) 03](data/river-water-level-and-flood-warnings/20240904.1300.flood-warning-for-kuda-ganga-basin-extended-03.pdf)
 * [2024-09-04 09:00 Water Level Report](data/river-water-level-and-flood-warnings/20240904.0900.water-level-report.jpg)
@@ -84,7 +85,6 @@
 * [2024-09-03 12:30 Flood Warning for Kuda Ganga Basin (Extended) 02](data/river-water-level-and-flood-warnings/20240903.1230.flood-warning-for-kuda-ganga-basin-extended-02.pdf)
 * [2024-09-03 10:00 Water Leval](data/river-water-level-and-flood-warnings/20240903.1000.water-leval.jpg)
 * [2024-09-02 13:00 Flood Warning for Kuda Ganga Basin  01](data/river-water-level-and-flood-warnings/20240902.1300.flood-warning-for-kuda-ganga-basin-01.pdf)
-* [2024-09-02 09:00 Water Level Report](data/river-water-level-and-flood-warnings/20240902.0900.water-level-report.jpg)
 
 ## Flood Inundation Maps
 
