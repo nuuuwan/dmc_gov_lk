@@ -28,8 +28,9 @@
 
 ## Weather Reports
 
-**8606/8825** documents downloaded.
+**8607/8826** documents downloaded.
 
+* [2024-09-07 08:30 Advisory for Strong Winds and Rough Seas Report](data/weather-reports/20240907.0830.advisory-for-strong-winds-and-rough-seas-report.pdf)
 * [2024-09-07 05:30 Weather Forcast](data/weather-reports/20240907.0530.weather-forcast.pdf)
 * [2024-09-06 16:00 Weather Report](data/weather-reports/20240906.1600.weather-report.pdf)
 * [2024-09-06 12:00 Weather Report](data/weather-reports/20240906.1200.weather-report.pdf)
@@ -39,7 +40,6 @@
 * [2024-09-05 16:00 Weather Report](data/weather-reports/20240905.1600.weather-report.pdf)
 * [2024-09-05 12:00 Weather Report](data/weather-reports/20240905.1200.weather-report.pdf)
 * [2024-09-05 07:00 Weather forecast for multi-day boats for the sea areas](data/weather-reports/20240905.0700.weather-forecast-for-multiday-boats-for-the-sea-areas.pdf)
-* [2024-09-05 05:30 Weather Forcast](data/weather-reports/20240905.0530.weather-forcast.pdf)
 
 ## Landslide Warnings
 
@@ -58,8 +58,9 @@
 
 ## Situation Reports
 
-**4001/4078** documents downloaded.
+**4002/4079** documents downloaded.
 
+* [2024-09-07 09:00 Situation Report](data/situation-reports/20240907.0900.situation-report.pdf)
 * [2024-09-06 09:00 Situation Report(Drought)](data/situation-reports/20240906.0900.situation-reportdrought.pdf)
 * [2024-09-06 09:00 Situation Report](data/situation-reports/20240906.0900.situation-report.pdf)
 * [2024-09-05 09:00 Situation Report (Drought)](data/situation-reports/20240905.0900.situation-report-drought.pdf)
@@ -69,7 +70,6 @@
 * [2024-09-03 09:00 Situation Report(Drought)](data/situation-reports/20240903.0900.situation-reportdrought.pdf)
 * [2024-09-03 09:00 Situation Report](data/situation-reports/20240903.0900.situation-report.pdf)
 * [2024-09-02 09:00 Situation Report](data/situation-reports/20240902.0900.situation-report.pdf)
-* [2024-08-31 09:00 Situation Report](data/situation-reports/20240831.0900.situation-report.pdf)
 
 ## River Water Level And Flood Warnings
 
