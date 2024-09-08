@@ -28,8 +28,9 @@
 
 ## Weather Reports
 
-**8613/8832** documents downloaded.
+**8614/8833** documents downloaded.
 
+* [2024-09-08 16:00 Weather Forcast](data/weather-reports/20240908.1600.weather-forcast.pdf)
 * [2024-09-08 12:00 Weather Report](data/weather-reports/20240908.1200.weather-report.pdf)
 * [2024-09-08 08:30 Warning for strong winds and rough seas](data/weather-reports/20240908.0830.warning-for-strong-winds-and-rough-seas.pdf)
 * [2024-09-08 06:00 Advisory for Strong Winds and Rough Seas Report](data/weather-reports/20240908.0600.advisory-for-strong-winds-and-rough-seas-report.pdf)
@@ -39,7 +40,6 @@
 * [2024-09-07 08:30 Advisory for Strong Winds and Rough Seas Report](data/weather-reports/20240907.0830.advisory-for-strong-winds-and-rough-seas-report.pdf)
 * [2024-09-07 05:30 Weather Forcast](data/weather-reports/20240907.0530.weather-forcast.pdf)
 * [2024-09-06 16:00 Weather Report](data/weather-reports/20240906.1600.weather-report.pdf)
-* [2024-09-06 12:00 Weather Report](data/weather-reports/20240906.1200.weather-report.pdf)
 
 ## Landslide Warnings
 
