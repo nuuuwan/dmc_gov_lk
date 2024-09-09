@@ -28,11 +28,11 @@
 
 ## Weather Reports
 
-**8617/8836** documents downloaded.
+**8618/8836** documents downloaded.
 
 * [2024-09-09 08:30 Warning for strong winds and rough seas](data/weather-reports/20240909.0830.warning-for-strong-winds-and-rough-seas.pdf)
 * [2024-09-09 06:30 Advisory for Strong Winds and Rough Seas Report](data/weather-reports/20240909.0630.advisory-for-strong-winds-and-rough-seas-report.pdf)
-* [2024-09-09 05:30 Situation Report](data/weather-reports/20240909.0530.situation-report.pdf)
+* [2024-09-09 05:30 Weather Forcast](data/weather-reports/20240909.0530.weather-forcast.pdf)
 * [2024-09-08 16:00 Weather Forcast](data/weather-reports/20240908.1600.weather-forcast.pdf)
 * [2024-09-08 12:00 Weather Report](data/weather-reports/20240908.1200.weather-report.pdf)
 * [2024-09-08 08:30 Warning for strong winds and rough seas](data/weather-reports/20240908.0830.warning-for-strong-winds-and-rough-seas.pdf)
@@ -58,8 +58,9 @@
 
 ## Situation Reports
 
-**4002/4079** documents downloaded.
+**4003/4080** documents downloaded.
 
+* [2024-09-09 09:00 Situation Report](data/situation-reports/20240909.0900.situation-report.pdf)
 * [2024-09-07 09:00 Situation Report](data/situation-reports/20240907.0900.situation-report.pdf)
 * [2024-09-06 09:00 Situation Report(Drought)](data/situation-reports/20240906.0900.situation-reportdrought.pdf)
 * [2024-09-06 09:00 Situation Report](data/situation-reports/20240906.0900.situation-report.pdf)
@@ -69,7 +70,6 @@
 * [2024-09-04 09:00 Situation Report](data/situation-reports/20240904.0900.situation-report.pdf)
 * [2024-09-03 09:00 Situation Report(Drought)](data/situation-reports/20240903.0900.situation-reportdrought.pdf)
 * [2024-09-03 09:00 Situation Report](data/situation-reports/20240903.0900.situation-report.pdf)
-* [2024-09-02 09:00 Situation Report](data/situation-reports/20240902.0900.situation-report.pdf)
 
 ## River Water Level And Flood Warnings
 
