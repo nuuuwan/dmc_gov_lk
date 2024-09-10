@@ -1,5 +1,21 @@
 [
   {
+    "name": "Advisory for Strong Winds and Rough Seas Report",
+    "time_str": "2024-09-10 06:00",
+    "time_id": "20240910.0600",
+    "ut": 1725928200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_strong_winds_and_rough_seas_at_0600_hrs_on_2024__1725929289.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2024-09-10 05:30",
+    "time_id": "20240910.0530",
+    "ut": 1725926400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530_hrs_on_2024__1725927491.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Report ",
     "time_str": "2024-09-09 16:00",
     "time_id": "20240909.1600",
