@@ -28,8 +28,9 @@
 
 ## Weather Reports
 
-**8634/8852** documents downloaded.
+**8635/8853** documents downloaded.
 
+* [2024-09-13 05:30 Weather Forcast](data/weather-reports/20240913.0530.weather-forcast.pdf)
 * [2024-09-12 16:00 Weather Forecast](data/weather-reports/20240912.1600.weather-forecast.pdf)
 * [2024-09-12 12:00 Weather Forecast](data/weather-reports/20240912.1200.weather-forecast.pdf)
 * [2024-09-12 05:30 Weather Forcast](data/weather-reports/20240912.0530.weather-forcast.pdf)
@@ -39,7 +40,6 @@
 * [2024-09-11 05:30 Weather Forcast](data/weather-reports/20240911.0530.weather-forcast.pdf)
 * [2024-09-11  Weather Forecast](data/weather-reports/20240911.0000.weather-forecast.pdf)
 * [2024-09-10 16:00 Weather Forecast](data/weather-reports/20240910.1600.weather-forecast.pdf)
-* [2024-09-10 12:00 Weather Report](data/weather-reports/20240910.1200.weather-report.pdf)
 
 ## Landslide Warnings
 
