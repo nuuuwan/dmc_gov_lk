@@ -58,8 +58,10 @@
 
 ## Situation Reports
 
-**4007/4084** documents downloaded.
+**4009/4086** documents downloaded.
 
+* [2024-09-13 09:00 Situation Report](data/situation-reports/20240913.0900.situation-report.pdf)
+* [2024-09-13 09:00 Situation Report (Drought)](data/situation-reports/20240913.0900.situation-report-drought.pdf)
 * [2024-09-12 09:00 Situation Report](data/situation-reports/20240912.0900.situation-report.pdf)
 * [2024-09-12 09:00 Situation Report (Drought)](data/situation-reports/20240912.0900.situation-report-drought.pdf)
 * [2024-09-10 09:00 Situation Report](data/situation-reports/20240910.0900.situation-report.pdf)
@@ -68,8 +70,6 @@
 * [2024-09-07 09:00 Situation Report](data/situation-reports/20240907.0900.situation-report.pdf)
 * [2024-09-06 09:00 Situation Report(Drought)](data/situation-reports/20240906.0900.situation-reportdrought.pdf)
 * [2024-09-06 09:00 Situation Report](data/situation-reports/20240906.0900.situation-report.pdf)
-* [2024-09-05 09:00 Situation Report (Drought)](data/situation-reports/20240905.0900.situation-report-drought.pdf)
-* [2024-09-05 09:00 Situation Report](data/situation-reports/20240905.0900.situation-report.pdf)
 
 ## River Water Level And Flood Warnings
 
