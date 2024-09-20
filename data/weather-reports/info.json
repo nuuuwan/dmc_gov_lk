@@ -1,5 +1,13 @@
 [
   {
+    "name": "Weather forecast for Multiday boats",
+    "time_str": "2024-09-20 07:00",
+    "time_id": "20240920.0700",
+    "ut": 1726795800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Fisherma_Bulletin__1726797690.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2024-09-20 05:30",
     "time_id": "20240920.0530",
