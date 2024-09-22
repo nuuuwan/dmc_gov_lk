@@ -73,8 +73,9 @@
 
 ## Weather Reports
 
-**8664/8882** documents downloaded.
+**8665/8883** documents downloaded.
 
+* [2024-09-22 12:00 Weather Forcast](data/weather-reports/20240922.1200.weather-forcast.pdf)
 * [2024-09-22 05:30 Weather Forcast](data/weather-reports/20240922.0530.weather-forcast.pdf)
 * [2024-09-21 16:00 Weather Forcast](data/weather-reports/20240921.1600.weather-forcast.pdf)
 * [2024-09-21 12:00 Weather Forcast](data/weather-reports/20240921.1200.weather-forcast.pdf)
@@ -84,13 +85,12 @@
 * [2024-09-20 07:00 Weather forecast for Multiday boats](data/weather-reports/20240920.0700.weather-forecast-for-multiday-boats.pdf)
 * [2024-09-20 05:30 Weather Forcast](data/weather-reports/20240920.0530.weather-forcast.pdf)
 * [2024-09-19 16:00 Weather Forcast](data/weather-reports/20240919.1600.weather-forcast.pdf)
-* [2024-09-19 12:00 Weather Forecast](data/weather-reports/20240919.1200.weather-forecast.pdf)
 
 ## Situation Reports
 
-**4025/4104** documents downloaded.
+**4026/4104** documents downloaded.
 
-* [2024-09-22 09:00 Situation Report](data/situation-reports/20240922.0900.situation-report.pdf)
+* [2024-09-22 09:00 Situation Report (Drought)](data/situation-reports/20240922.0900.situation-report-drought.pdf)
 * [2024-09-22 09:00 Situation Report](data/situation-reports/20240922.0900.situation-report.pdf)
 * [2024-09-21 09:00 Situation Report](data/situation-reports/20240921.0900.situation-report.pdf)
 * [2024-09-21 09:00 Situation Report (Drought)](data/situation-reports/20240921.0900.situation-report-drought.pdf)
