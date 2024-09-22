@@ -73,8 +73,9 @@
 
 ## Weather Reports
 
-**8665/8883** documents downloaded.
+**8666/8884** documents downloaded.
 
+* [2024-09-22 16:00 Weather Forcast](data/weather-reports/20240922.1600.weather-forcast.pdf)
 * [2024-09-22 12:00 Weather Forcast](data/weather-reports/20240922.1200.weather-forcast.pdf)
 * [2024-09-22 05:30 Weather Forcast](data/weather-reports/20240922.0530.weather-forcast.pdf)
 * [2024-09-21 16:00 Weather Forcast](data/weather-reports/20240921.1600.weather-forcast.pdf)
@@ -84,7 +85,6 @@
 * [2024-09-20 12:00 Weather Forcast](data/weather-reports/20240920.1200.weather-forcast.pdf)
 * [2024-09-20 07:00 Weather forecast for Multiday boats](data/weather-reports/20240920.0700.weather-forecast-for-multiday-boats.pdf)
 * [2024-09-20 05:30 Weather Forcast](data/weather-reports/20240920.0530.weather-forcast.pdf)
-* [2024-09-19 16:00 Weather Forcast](data/weather-reports/20240919.1600.weather-forcast.pdf)
 
 ## Situation Reports
 
