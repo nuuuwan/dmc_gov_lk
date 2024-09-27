@@ -34,8 +34,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1666/1711** documents downloaded.
+**1666/1712** documents downloaded.
 
+* [2024-09-27 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20240927.0930.water-level-rainfall.jpg)
 * [2024-09-06 09:30 Withdrawal of Flood warning for Kuda Ganga](data/river-water-level-and-flood-warnings/20240906.0930.withdrawal-of-flood-warning-for-kuda-ganga.pdf)
 * [2024-09-05 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240905.0930.water-level-report.jpg)
 * [2024-09-04 13:00 Flood Warning for Kuda Ganga Basin (Extended) 03](data/river-water-level-and-flood-warnings/20240904.1300.flood-warning-for-kuda-ganga-basin-extended-03.pdf)
@@ -45,7 +46,6 @@
 * [2024-09-03 12:30 Water Level Report](data/river-water-level-and-flood-warnings/20240903.1230.water-level-report.jpg)
 * [2024-09-03 12:30 Flood Warning for Kuda Ganga Basin (Extended) 02](data/river-water-level-and-flood-warnings/20240903.1230.flood-warning-for-kuda-ganga-basin-extended-02.pdf)
 * [2024-09-03 10:00 Water Leval](data/river-water-level-and-flood-warnings/20240903.1000.water-leval.jpg)
-* [2024-09-02 13:00 Flood Warning for Kuda Ganga Basin  01](data/river-water-level-and-flood-warnings/20240902.1300.flood-warning-for-kuda-ganga-basin-01.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -88,8 +88,10 @@
 
 ## Situation Reports
 
-**4035/4112** documents downloaded.
+**4037/4114** documents downloaded.
 
+* [2024-09-27 09:00 Drought Situation Report](data/situation-reports/20240927.0900.drought-situation-report.pdf)
+* [2024-09-27 09:00 Situation Report](data/situation-reports/20240927.0900.situation-report.pdf)
 * [2024-09-26 09:00 Drought Situation Report](data/situation-reports/20240926.0900.drought-situation-report.pdf)
 * [2024-09-26 09:00 Situation Report](data/situation-reports/20240926.0900.situation-report.pdf)
 * [2024-09-25 09:00 Drought Situation Report](data/situation-reports/20240925.0900.drought-situation-report.pdf)
@@ -98,5 +100,3 @@
 * [2024-09-24 09:00 Situation Report](data/situation-reports/20240924.0900.situation-report.pdf)
 * [2024-09-23 09:00 Situation Report](data/situation-reports/20240923.0900.situation-report.pdf)
 * [2024-09-23 09:00 Situation Report (Drought)](data/situation-reports/20240923.0900.situation-report-drought.pdf)
-* [2024-09-22 09:00 Situation Report (Drought)](data/situation-reports/20240922.0900.situation-report-drought.pdf)
-* [2024-09-22 09:00 Situation Report](data/situation-reports/20240922.0900.situation-report.pdf)
