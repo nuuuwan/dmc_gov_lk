@@ -1,5 +1,29 @@
 [
   {
+    "name": "Advisory for Severe Lightning",
+    "time_str": "2024-09-30 13:00",
+    "time_id": "20240930.1300",
+    "ut": 1727681400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/WW_T_20240930EN__1727682045.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Severe Lightning",
+    "time_str": "2024-09-30 13:00",
+    "time_id": "20240930.1300",
+    "ut": 1727681400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/WW_T_20240930SN__1727682117.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forecast",
+    "time_str": "2024-09-30 12:00",
+    "time_id": "20240930.1200",
+    "ut": 1727677800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1200hrs_on_2024__1727679334.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2024-09-30 05:30",
     "time_id": "20240930.0530",
