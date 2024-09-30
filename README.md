@@ -73,8 +73,9 @@
 
 ## Weather Reports
 
-**8697/8916** documents downloaded.
+**8698/8917** documents downloaded.
 
+* [2024-09-30 16:00 Weather Forecast](data/weather-reports/20240930.1600.weather-forecast.pdf)
 * [2024-09-30 13:00 Advisory for Severe Lightning](data/weather-reports/20240930.1300.advisory-for-severe-lightning.pdf)
 * [2024-09-30 13:00 Advisory for Severe Lightning](data/weather-reports/20240930.1300.advisory-for-severe-lightning.pdf)
 * [2024-09-30 12:00 Weather Forecast](data/weather-reports/20240930.1200.weather-forecast.pdf)
@@ -84,7 +85,6 @@
 * [2024-09-29 13:00 Advisory for Severe Lightning](data/weather-reports/20240929.1300.advisory-for-severe-lightning.pdf)
 * [2024-09-29 12:00 Weather Forecast](data/weather-reports/20240929.1200.weather-forecast.pdf)
 * [2024-09-29 05:30 Weather Forcast](data/weather-reports/20240929.0530.weather-forcast.pdf)
-* [2024-09-28 16:00 Weather Forecast](data/weather-reports/20240928.1600.weather-forecast.pdf)
 
 ## Situation Reports
 
