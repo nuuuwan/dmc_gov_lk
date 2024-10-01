@@ -1,6 +1,14 @@
 [
   {
     "name": "Weather Forecast",
+    "time_str": "2024-10-01 16:00",
+    "time_id": "20241001.1600",
+    "ut": 1727778600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2024__1727779899.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forecast",
     "time_str": "2024-10-01 12:00",
     "time_id": "20241001.1200",
     "ut": 1727764200.0,
