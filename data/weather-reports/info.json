@@ -1,5 +1,13 @@
 [
   {
+    "name": "Advisory for Severe Lightning",
+    "time_str": "2024-10-02 15:00",
+    "time_id": "20241002.1500",
+    "ut": 1727861400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_at1500hrs_on_2024__1727863575.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forecast",
     "time_str": "2024-10-02 12:00",
     "time_id": "20241002.1200",
