@@ -88,8 +88,10 @@
 
 ## Situation Reports
 
-**4042/4119** documents downloaded.
+**4044/4121** documents downloaded.
 
+* [2024-10-02 09:00 Situation Report (Drought)](data/situation-reports/20241002.0900.situation-report-drought.pdf)
+* [2024-10-02 09:00 Situation Report](data/situation-reports/20241002.0900.situation-report.pdf)
 * [2024-10-01 09:00 Situation Report (Drought)](data/situation-reports/20241001.0900.situation-report-drought.pdf)
 * [2024-10-01 09:00 Situation Report](data/situation-reports/20241001.0900.situation-report.pdf)
 * [2024-09-29 09:00 Situation Report (Drought)](data/situation-reports/20240929.0900.situation-report-drought.pdf)
@@ -98,5 +100,3 @@
 * [2024-09-27 09:00 Drought Situation Report](data/situation-reports/20240927.0900.drought-situation-report.pdf)
 * [2024-09-27 09:00 Situation Report](data/situation-reports/20240927.0900.situation-report.pdf)
 * [2024-09-26 09:00 Drought Situation Report](data/situation-reports/20240926.0900.drought-situation-report.pdf)
-* [2024-09-26 09:00 Situation Report](data/situation-reports/20240926.0900.situation-report.pdf)
-* [2024-09-25 09:00 Drought Situation Report](data/situation-reports/20240925.0900.drought-situation-report.pdf)
