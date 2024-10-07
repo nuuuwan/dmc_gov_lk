@@ -73,9 +73,10 @@
 
 ## Weather Reports
 
-**8722/8941** documents downloaded.
+**8723/8942** documents downloaded.
 
 * [2024-10-07 16:00 Weather Forecast](data/weather-reports/20241007.1600.weather-forecast.pdf)
+* [2024-10-07 16:00 Advisory for Severe Lightning](data/weather-reports/20241007.1600.advisory-for-severe-lightning.pdf)
 * [2024-10-07 12:00 Weather Forecast](data/weather-reports/20241007.1200.weather-forecast.pdf)
 * [2024-10-07 07:30 Advisory for Heavy Rain](data/weather-reports/20241007.0730.advisory-for-heavy-rain.pdf)
 * [2024-10-07 05:30 Weather Forcast](data/weather-reports/20241007.0530.weather-forcast.pdf)
@@ -84,7 +85,6 @@
 * [2024-10-06 12:00 Weather Forecast](data/weather-reports/20241006.1200.weather-forecast.pdf)
 * [2024-10-06 05:30 Weather Forcast](data/weather-reports/20241006.0530.weather-forcast.pdf)
 * [2024-10-05 16:00 Weather Forecast](data/weather-reports/20241005.1600.weather-forecast.pdf)
-* [2024-10-05 12:00 Weather Forecast](data/weather-reports/20241005.1200.weather-forecast.pdf)
 
 ## Situation Reports
 
