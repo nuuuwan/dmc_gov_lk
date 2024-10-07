@@ -58,8 +58,9 @@
 
 ## Landslide Warnings
 
-**580/586** documents downloaded.
+**581/587** documents downloaded.
 
+* [2024-10-07 09:30 Landslide Warning](data/landslide-warnings/20241007.0930.landslide-warning.pdf)
 * [2024-08-22 16:00 Landslide Early Warning](data/landslide-warnings/20240822.1600.landslide-early-warning.pdf)
 * [2024-08-21 16:00 Landslide Early Warning](data/landslide-warnings/20240821.1600.landslide-early-warning.pdf)
 * [2024-08-20 16:00 Landslide Warning](data/landslide-warnings/20240820.1600.landslide-warning.pdf)
@@ -69,7 +70,6 @@
 * [2024-08-17 16:00 Landslide early warning](data/landslide-warnings/20240817.1600.landslide-early-warning.pdf)
 * [2024-08-17 05:30 Landslide Early Warning](data/landslide-warnings/20240817.0530.landslide-early-warning.pdf)
 * [2024-08-16 19:30 Landslide Early Warning](data/landslide-warnings/20240816.1930.landslide-early-warning.pdf)
-* [2024-07-17 16:00 Landslide Early Warning](data/landslide-warnings/20240717.1600.landslide-early-warning.pdf)
 
 ## Weather Reports
 
@@ -88,8 +88,10 @@
 
 ## Situation Reports
 
-**4051/4129** documents downloaded.
+**4053/4131** documents downloaded.
 
+* [2024-10-07 09:00 Situation Report](data/situation-reports/20241007.0900.situation-report.pdf)
+* [2024-10-07 09:00 Drought Situation Report](data/situation-reports/20241007.0900.drought-situation-report.pdf)
 * [2024-10-06 09:00 Drought Situation Report](data/situation-reports/20241006.0900.drought-situation-report.pdf)
 * [2024-10-06 09:00 Situation Report](data/situation-reports/20241006.0900.situation-report.pdf)
 * [2024-10-05 09:00 Situation Report (Drought)](data/situation-reports/20241005.0900.situation-report-drought.pdf)
@@ -98,5 +100,3 @@
 * [2024-10-04 09:00 Situation Report](data/situation-reports/20241004.0900.situation-report.pdf)
 * [2024-10-03 09:00 Situation Report](data/situation-reports/20241003.0900.situation-report.pdf)
 * [2024-10-03 09:00 Situation Report](data/situation-reports/20241003.0900.situation-report.pdf)
-* [2024-10-02 09:00 Situation Report (Drought)](data/situation-reports/20241002.0900.situation-report-drought.pdf)
-* [2024-10-02 09:00 Situation Report](data/situation-reports/20241002.0900.situation-report.pdf)
