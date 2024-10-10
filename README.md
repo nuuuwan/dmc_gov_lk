@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**8733/8952** documents downloaded.
+**8734/8953** documents downloaded.
 
+* [2024-10-10 12:00 Weather Forecast](data/weather-reports/20241010.1200.weather-forecast.pdf)
 * [2024-10-10 07:00 Advisory for Heavy Rain](data/weather-reports/20241010.0700.advisory-for-heavy-rain.pdf)
 * [2024-10-10 05:30 Weather Forcast](data/weather-reports/20241010.0530.weather-forcast.pdf)
 * [2024-10-09 16:00 Weather Forcast](data/weather-reports/20241009.1600.weather-forcast.pdf)
@@ -15,7 +16,6 @@
 * [2024-10-08 16:00 Weather Forecast](data/weather-reports/20241008.1600.weather-forecast.pdf)
 * [2024-10-08 12:00 Weather Forcast](data/weather-reports/20241008.1200.weather-forcast.pdf)
 * [2024-10-08 05:30 Weather Forcast](data/weather-reports/20241008.0530.weather-forcast.pdf)
-* [2024-10-07 20:30 Advisory for Heavy Rain](data/weather-reports/20241007.2030.advisory-for-heavy-rain.pdf)
 
 ## Emergency Response Data Viewer
 
