@@ -1,5 +1,13 @@
 [
   {
+    "name": "Weather Forecast",
+    "time_str": "2024-10-10 16:00",
+    "time_id": "20241010.1600",
+    "ut": 1728556200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600_hrs_on_2024__1728556775.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Advisory for strong winds and rough seas",
     "time_str": "2024-10-10 14:00",
     "time_id": "20241010.1400",
