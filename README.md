@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**8739/8958** documents downloaded.
+**8740/8959** documents downloaded.
 
+* [2024-10-11 07:00 Warning for strong winds and rough seas](data/weather-reports/20241011.0700.warning-for-strong-winds-and-rough-seas.pdf)
 * [2024-10-11 05:30 Weather Forcast](data/weather-reports/20241011.0530.weather-forcast.pdf)
 * [2024-10-11 02:45 Advisory for Heavy Rain](data/weather-reports/20241011.0245.advisory-for-heavy-rain.pdf)
 * [2024-10-10 20:00 Advisory for Heavy Rain](data/weather-reports/20241010.2000.advisory-for-heavy-rain.pdf)
@@ -15,7 +16,6 @@
 * [2024-10-10 07:00 Advisory for Heavy Rain](data/weather-reports/20241010.0700.advisory-for-heavy-rain.pdf)
 * [2024-10-10 05:30 Weather Forcast](data/weather-reports/20241010.0530.weather-forcast.pdf)
 * [2024-10-09 16:00 Weather Forcast](data/weather-reports/20241009.1600.weather-forcast.pdf)
-* [2024-10-09 12:00 Weather Forecast](data/weather-reports/20241009.1200.weather-forecast.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -43,8 +43,9 @@
 
 ## Landslide Warnings
 
-**587/593** documents downloaded.
+**588/594** documents downloaded.
 
+* [2024-10-11 06:00 landslide Warning](data/landslide-warnings/20241011.0600.landslide-warning.pdf)
 * [2024-10-11 01:30 Landslide Early Warning](data/landslide-warnings/20241011.0130.landslide-early-warning.pdf)
 * [2024-10-10 20:00 Landslide Early Warning](data/landslide-warnings/20241010.2000.landslide-early-warning.pdf)
 * [2024-10-10 16:00 Landslide Warning](data/landslide-warnings/20241010.1600.landslide-warning.pdf)
@@ -54,7 +55,6 @@
 * [2024-10-07 09:30 Landslide Warning](data/landslide-warnings/20241007.0930.landslide-warning.pdf)
 * [2024-08-22 16:00 Landslide Early Warning](data/landslide-warnings/20240822.1600.landslide-early-warning.pdf)
 * [2024-08-21 16:00 Landslide Early Warning](data/landslide-warnings/20240821.1600.landslide-early-warning.pdf)
-* [2024-08-20 16:00 Landslide Warning](data/landslide-warnings/20240820.1600.landslide-warning.pdf)
 
 ## Earthquakes
 
