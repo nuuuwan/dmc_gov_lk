@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**8740/8959** documents downloaded.
+**8741/8960** documents downloaded.
 
+* [2024-10-11 12:00 Weather Forecast](data/weather-reports/20241011.1200.weather-forecast.pdf)
 * [2024-10-11 07:00 Warning for strong winds and rough seas](data/weather-reports/20241011.0700.warning-for-strong-winds-and-rough-seas.pdf)
 * [2024-10-11 05:30 Weather Forcast](data/weather-reports/20241011.0530.weather-forcast.pdf)
 * [2024-10-11 02:45 Advisory for Heavy Rain](data/weather-reports/20241011.0245.advisory-for-heavy-rain.pdf)
@@ -15,7 +16,6 @@
 * [2024-10-10 12:00 Weather Forecast](data/weather-reports/20241010.1200.weather-forecast.pdf)
 * [2024-10-10 07:00 Advisory for Heavy Rain](data/weather-reports/20241010.0700.advisory-for-heavy-rain.pdf)
 * [2024-10-10 05:30 Weather Forcast](data/weather-reports/20241010.0530.weather-forcast.pdf)
-* [2024-10-09 16:00 Weather Forcast](data/weather-reports/20241009.1600.weather-forcast.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -88,8 +88,10 @@
 
 ## River Water Level And Flood Warnings
 
-**1667/1717** documents downloaded.
+**1668/1719** documents downloaded.
 
+* [2024-10-11 12:00 Flood warning for Kelani Oya Basin](data/river-water-level-and-flood-warnings/20241011.1200.flood-warning-for-kelani-oya-basin.pdf)
+* [2024-10-11 12:00 Water Level](data/river-water-level-and-flood-warnings/20241011.1200.water-level.jpg)
 * [2024-10-11 09:45 Flood warning for Aththanagalu Oya Basin](data/river-water-level-and-flood-warnings/20241011.0945.flood-warning-for-aththanagalu-oya-basin.pdf)
 * [2024-10-11 09:30 Water Level and Rainfall](data/river-water-level-and-flood-warnings/20241011.0930.water-level-and-rainfall.jpg)
 * [2024-10-08 09:30 water level](data/river-water-level-and-flood-warnings/20241008.0930.water-level.jpg)
@@ -98,5 +100,3 @@
 * [2024-09-27 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20240927.0930.water-level-rainfall.jpg)
 * [2024-09-06 09:30 Withdrawal of Flood warning for Kuda Ganga](data/river-water-level-and-flood-warnings/20240906.0930.withdrawal-of-flood-warning-for-kuda-ganga.pdf)
 * [2024-09-05 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240905.0930.water-level-report.jpg)
-* [2024-09-04 13:00 Flood Warning for Kuda Ganga Basin (Extended) 03](data/river-water-level-and-flood-warnings/20240904.1300.flood-warning-for-kuda-ganga-basin-extended-03.pdf)
-* [2024-09-04 09:00 Water Level Report](data/river-water-level-and-flood-warnings/20240904.0900.water-level-report.jpg)
