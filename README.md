@@ -88,8 +88,10 @@
 
 ## River Water Level And Flood Warnings
 
-**1668/1722** documents downloaded.
+**1669/1724** documents downloaded.
 
+* [2024-10-12 01:00 03_Major Flood warning for Aththanagalu Oya Basin](data/river-water-level-and-flood-warnings/20241012.0100.03_major-flood-warning-for-aththanagalu-oya-basin.pdf)
+* [2024-10-12 00:00 water level](data/river-water-level-and-flood-warnings/20241012.0000.water-level.jpg)
 * [2024-10-11 22:00 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241011.2200.water-level-rainfall.jpg)
 * [2024-10-11 18:00 water level](data/river-water-level-and-flood-warnings/20241011.1800.water-level.jpg)
 * [2024-10-11 15:30 Water Level Report](data/river-water-level-and-flood-warnings/20241011.1530.water-level-report.jpg)
@@ -98,5 +100,3 @@
 * [2024-10-11 09:45 Flood warning for Aththanagalu Oya Basin](data/river-water-level-and-flood-warnings/20241011.0945.flood-warning-for-aththanagalu-oya-basin.pdf)
 * [2024-10-11 09:30 Water Level and Rainfall](data/river-water-level-and-flood-warnings/20241011.0930.water-level-and-rainfall.jpg)
 * [2024-10-08 09:30 water level](data/river-water-level-and-flood-warnings/20241008.0930.water-level.jpg)
-* [2024-09-29 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240929.0930.water-level-report.jpg)
-* [2024-09-28 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20240928.0930.water-level-report.jpg)
