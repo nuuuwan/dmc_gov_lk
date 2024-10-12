@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**8746/8965** documents downloaded.
+**8747/8966** documents downloaded.
 
+* [2024-10-12 12:00 Weather Forecast](data/weather-reports/20241012.1200.weather-forecast.pdf)
 * [2024-10-12 08:30 Warning for strong winds and rough seas](data/weather-reports/20241012.0830.warning-for-strong-winds-and-rough-seas.pdf)
 * [2024-10-12 05:30 Weather Reports](data/weather-reports/20241012.0530.weather-reports.pdf)
 * [2024-10-12 03:00 Weather Forcast](data/weather-reports/20241012.0300.weather-forcast.pdf)
@@ -15,7 +16,6 @@
 * [2024-10-11 07:00 Warning for strong winds and rough seas](data/weather-reports/20241011.0700.warning-for-strong-winds-and-rough-seas.pdf)
 * [2024-10-11 05:30 Weather Forcast](data/weather-reports/20241011.0530.weather-forcast.pdf)
 * [2024-10-11 02:45 Advisory for Heavy Rain](data/weather-reports/20241011.0245.advisory-for-heavy-rain.pdf)
-* [2024-10-10 20:00 Advisory for Heavy Rain](data/weather-reports/20241010.2000.advisory-for-heavy-rain.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -88,8 +88,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1669/1727** documents downloaded.
+**1669/1728** documents downloaded.
 
+* [2024-10-12 12:30 Water Level  Rainfall](data/river-water-level-and-flood-warnings/20241012.1230.water-level-rainfall.jpg)
 * [2024-10-12 09:30 water level](data/river-water-level-and-flood-warnings/20241012.0930.water-level.jpg)
 * [2024-10-12 06:00 Water Level](data/river-water-level-and-flood-warnings/20241012.0600.water-level.jpg)
 * [2024-10-12 03:30 water level](data/river-water-level-and-flood-warnings/20241012.0330.water-level.jpg)
@@ -99,4 +100,3 @@
 * [2024-10-11 18:00 water level](data/river-water-level-and-flood-warnings/20241011.1800.water-level.jpg)
 * [2024-10-11 15:30 Water Level Report](data/river-water-level-and-flood-warnings/20241011.1530.water-level-report.jpg)
 * [2024-10-11 12:00 Flood warning for Kelani Oya Basin](data/river-water-level-and-flood-warnings/20241011.1200.flood-warning-for-kelani-oya-basin.pdf)
-* [2024-10-11 12:00 Water Level](data/river-water-level-and-flood-warnings/20241011.1200.water-level.jpg)
