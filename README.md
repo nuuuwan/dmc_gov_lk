@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**8747/8966** documents downloaded.
+**8748/8967** documents downloaded.
 
+* [2024-10-12 16:00 Weather Forecast](data/weather-reports/20241012.1600.weather-forecast.pdf)
 * [2024-10-12 12:00 Weather Forecast](data/weather-reports/20241012.1200.weather-forecast.pdf)
 * [2024-10-12 08:30 Warning for strong winds and rough seas](data/weather-reports/20241012.0830.warning-for-strong-winds-and-rough-seas.pdf)
 * [2024-10-12 05:30 Weather Reports](data/weather-reports/20241012.0530.weather-reports.pdf)
@@ -15,7 +16,6 @@
 * [2024-10-11 12:00 Weather Forecast](data/weather-reports/20241011.1200.weather-forecast.pdf)
 * [2024-10-11 07:00 Warning for strong winds and rough seas](data/weather-reports/20241011.0700.warning-for-strong-winds-and-rough-seas.pdf)
 * [2024-10-11 05:30 Weather Forcast](data/weather-reports/20241011.0530.weather-forcast.pdf)
-* [2024-10-11 02:45 Advisory for Heavy Rain](data/weather-reports/20241011.0245.advisory-for-heavy-rain.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -43,8 +43,9 @@
 
 ## Landslide Warnings
 
-**589/595** documents downloaded.
+**590/596** documents downloaded.
 
+* [2024-10-12 16:00 Landslide Warning](data/landslide-warnings/20241012.1600.landslide-warning.pdf)
 * [2024-10-11 16:00 Landslide Early Warning](data/landslide-warnings/20241011.1600.landslide-early-warning.pdf)
 * [2024-10-11 06:00 landslide Warning](data/landslide-warnings/20241011.0600.landslide-warning.pdf)
 * [2024-10-11 01:30 Landslide Early Warning](data/landslide-warnings/20241011.0130.landslide-early-warning.pdf)
@@ -54,7 +55,6 @@
 * [2024-10-08 16:00 Landslide Warning](data/landslide-warnings/20241008.1600.landslide-warning.pdf)
 * [2024-10-07 19:30 Landslide Warning](data/landslide-warnings/20241007.1930.landslide-warning.pdf)
 * [2024-10-07 09:30 Landslide Warning](data/landslide-warnings/20241007.0930.landslide-warning.pdf)
-* [2024-08-22 16:00 Landslide Early Warning](data/landslide-warnings/20240822.1600.landslide-early-warning.pdf)
 
 ## Earthquakes
 
@@ -88,8 +88,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1669/1728** documents downloaded.
+**1669/1729** documents downloaded.
 
+* [2024-10-12 15:30 Water Level and Rainfall](data/river-water-level-and-flood-warnings/20241012.1530.water-level-and-rainfall.jpg)
 * [2024-10-12 12:30 Water Level  Rainfall](data/river-water-level-and-flood-warnings/20241012.1230.water-level-rainfall.jpg)
 * [2024-10-12 09:30 water level](data/river-water-level-and-flood-warnings/20241012.0930.water-level.jpg)
 * [2024-10-12 06:00 Water Level](data/river-water-level-and-flood-warnings/20241012.0600.water-level.jpg)
@@ -99,4 +100,3 @@
 * [2024-10-11 22:00 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241011.2200.water-level-rainfall.jpg)
 * [2024-10-11 18:00 water level](data/river-water-level-and-flood-warnings/20241011.1800.water-level.jpg)
 * [2024-10-11 15:30 Water Level Report](data/river-water-level-and-flood-warnings/20241011.1530.water-level-report.jpg)
-* [2024-10-11 12:00 Flood warning for Kelani Oya Basin](data/river-water-level-and-flood-warnings/20241011.1200.flood-warning-for-kelani-oya-basin.pdf)
