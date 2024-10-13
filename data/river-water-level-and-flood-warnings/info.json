@@ -1,6 +1,14 @@
 [
   {
     "name": "Water Level",
+    "time_str": "2024-10-13 18:30",
+    "time_id": "20241013.1830",
+    "ut": 1728824400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2024__1728826165.jpg",
+    "ext": "jpg"
+  },
+  {
+    "name": "Water Level",
     "time_str": "2024-10-13 15:30",
     "time_id": "20241013.1530",
     "ut": 1728813600.0,
