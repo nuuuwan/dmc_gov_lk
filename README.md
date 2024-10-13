@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**8749/8968** documents downloaded.
+**8750/8969** documents downloaded.
 
+* [2024-10-13 12:00 Weather forecast](data/weather-reports/20241013.1200.weather-forecast.pdf)
 * [2024-10-13 05:30 Weather Forcast](data/weather-reports/20241013.0530.weather-forcast.pdf)
 * [2024-10-12 16:00 Weather Forecast](data/weather-reports/20241012.1600.weather-forecast.pdf)
 * [2024-10-12 12:00 Weather Forecast](data/weather-reports/20241012.1200.weather-forecast.pdf)
@@ -15,7 +16,6 @@
 * [2024-10-11 16:00 Weather Forecast](data/weather-reports/20241011.1600.weather-forecast.pdf)
 * [2024-10-11 14:30 Advisory for Severe Lightning](data/weather-reports/20241011.1430.advisory-for-severe-lightning.pdf)
 * [2024-10-11 12:00 Weather Forecast](data/weather-reports/20241011.1200.weather-forecast.pdf)
-* [2024-10-11 07:00 Warning for strong winds and rough seas](data/weather-reports/20241011.0700.warning-for-strong-winds-and-rough-seas.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -88,8 +88,10 @@
 
 ## River Water Level And Flood Warnings
 
-**1670/1736** documents downloaded.
+**1671/1738** documents downloaded.
 
+* [2024-10-13 12:30 Water Level and Rainfall](data/river-water-level-and-flood-warnings/20241013.1230.water-level-and-rainfall.jpg)
+* [2024-10-13 12:30 Flood warning for Kelani River Basin  No 0  (Extended Warning)](data/river-water-level-and-flood-warnings/20241013.1230.flood-warning-for-kelani-river-basin-no-0-extended-warning.pdf)
 * [2024-10-13 09:45 Flood warning for Aththanagalu Oya Basin  No 0  (Extended Warning)](data/river-water-level-and-flood-warnings/20241013.0945.flood-warning-for-aththanagalu-oya-basin-no-0-extended-warning.pdf)
 * [2024-10-13 09:30 Water Level and Rainfall](data/river-water-level-and-flood-warnings/20241013.0930.water-level-and-rainfall.jpg)
 * [2024-10-13 06:30 water level](data/river-water-level-and-flood-warnings/20241013.0630.water-level.jpg)
@@ -98,5 +100,3 @@
 * [2024-10-12 21:30 Water Level  Rainfall](data/river-water-level-and-flood-warnings/20241012.2130.water-level-rainfall.jpg)
 * [2024-10-12 18:00 Water Level  Rainfall](data/river-water-level-and-flood-warnings/20241012.1800.water-level-rainfall.jpg)
 * [2024-10-12 15:30 Water Level and Rainfall](data/river-water-level-and-flood-warnings/20241012.1530.water-level-and-rainfall.jpg)
-* [2024-10-12 12:30 Water Level  Rainfall](data/river-water-level-and-flood-warnings/20241012.1230.water-level-rainfall.jpg)
-* [2024-10-12 09:30 water level](data/river-water-level-and-flood-warnings/20241012.0930.water-level.jpg)
