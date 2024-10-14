@@ -4,9 +4,9 @@
 
 ## Weather Reports
 
-**8753/8972** documents downloaded.
+**8754/8972** documents downloaded.
 
-* [2024-10-14 06:00 Weather Forcast](data/weather-reports/20241014.0600.weather-forcast.pdf)
+* [2024-10-14 06:00 Advisory for Heavy Rain](data/weather-reports/20241014.0600.advisory-for-heavy-rain.pdf)
 * [2024-10-14 05:30 Weather Forcast](data/weather-reports/20241014.0530.weather-forcast.pdf)
 * [2024-10-13 16:00 Weather Forest](data/weather-reports/20241013.1600.weather-forest.pdf)
 * [2024-10-13 12:00 Weather forecast](data/weather-reports/20241013.1200.weather-forecast.pdf)
