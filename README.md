@@ -28,8 +28,9 @@
 
 ## Situation Reports
 
-**4063/4141** documents downloaded.
+**4064/4142** documents downloaded.
 
+* [2024-10-14 09:00 Situation Report](data/situation-reports/20241014.0900.situation-report.pdf)
 * [2024-10-13 09:00 Situation Report](data/situation-reports/20241013.0900.situation-report.pdf)
 * [2024-10-12 09:00 Situation Report](data/situation-reports/20241012.0900.situation-report.pdf)
 * [2024-10-11 09:00 Drought Situation Report](data/situation-reports/20241011.0900.drought-situation-report.pdf)
@@ -39,7 +40,6 @@
 * [2024-10-09 09:00 Situation Report (Drought)](data/situation-reports/20241009.0900.situation-report-drought.pdf)
 * [2024-10-09 09:00 Situation Report](data/situation-reports/20241009.0900.situation-report.pdf)
 * [2024-10-08 09:00 Situation Report](data/situation-reports/20241008.0900.situation-report.pdf)
-* [2024-10-08 09:00 Situation Report (Drought)](data/situation-reports/20241008.0900.situation-report-drought.pdf)
 
 ## Landslide Warnings
 
@@ -88,8 +88,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1671/1744** documents downloaded.
+**1671/1745** documents downloaded.
 
+* [2024-10-14 09:30 Water Level and Rainfall](data/river-water-level-and-flood-warnings/20241014.0930.water-level-and-rainfall.jpg)
 * [2024-10-14 06:30 water level](data/river-water-level-and-flood-warnings/20241014.0630.water-level.jpg)
 * [2024-10-14 03:00 water level](data/river-water-level-and-flood-warnings/20241014.0300.water-level.jpg)
 * [2024-10-14 00:30 water level](data/river-water-level-and-flood-warnings/20241014.0030.water-level.jpg)
@@ -99,4 +100,3 @@
 * [2024-10-13 12:30 Water Level and Rainfall](data/river-water-level-and-flood-warnings/20241013.1230.water-level-and-rainfall.jpg)
 * [2024-10-13 12:30 Flood warning for Kelani River Basin  No 0  (Extended Warning)](data/river-water-level-and-flood-warnings/20241013.1230.flood-warning-for-kelani-river-basin-no-0-extended-warning.pdf)
 * [2024-10-13 09:45 Flood warning for Aththanagalu Oya Basin  No 0  (Extended Warning)](data/river-water-level-and-flood-warnings/20241013.0945.flood-warning-for-aththanagalu-oya-basin-no-0-extended-warning.pdf)
-* [2024-10-13 09:30 Water Level and Rainfall](data/river-water-level-and-flood-warnings/20241013.0930.water-level-and-rainfall.jpg)
