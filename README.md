@@ -28,8 +28,9 @@
 
 ## Situation Reports
 
-**4064/4142** documents downloaded.
+**4065/4143** documents downloaded.
 
+* [2024-10-15 09:00 Situation Report](data/situation-reports/20241015.0900.situation-report.pdf)
 * [2024-10-14 09:00 Situation Report](data/situation-reports/20241014.0900.situation-report.pdf)
 * [2024-10-13 09:00 Situation Report](data/situation-reports/20241013.0900.situation-report.pdf)
 * [2024-10-12 09:00 Situation Report](data/situation-reports/20241012.0900.situation-report.pdf)
@@ -39,7 +40,6 @@
 * [2024-10-10 09:00 Drought Situation Report](data/situation-reports/20241010.0900.drought-situation-report.pdf)
 * [2024-10-09 09:00 Situation Report (Drought)](data/situation-reports/20241009.0900.situation-report-drought.pdf)
 * [2024-10-09 09:00 Situation Report](data/situation-reports/20241009.0900.situation-report.pdf)
-* [2024-10-08 09:00 Situation Report](data/situation-reports/20241008.0900.situation-report.pdf)
 
 ## Landslide Warnings
 
@@ -88,8 +88,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1671/1752** documents downloaded.
+**1671/1753** documents downloaded.
 
+* [2024-10-15 09:30 Water Level and Rainfall](data/river-water-level-and-flood-warnings/20241015.0930.water-level-and-rainfall.jpg)
 * [2024-10-15 06:30 water level](data/river-water-level-and-flood-warnings/20241015.0630.water-level.jpg)
 * [2024-10-15 03:30 Water Level  Rainfall](data/river-water-level-and-flood-warnings/20241015.0330.water-level-rainfall.jpg)
 * [2024-10-15 00:30 water level](data/river-water-level-and-flood-warnings/20241015.0030.water-level.jpg)
@@ -99,4 +100,3 @@
 * [2024-10-14 12:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241014.1230.water-level-rainfall.jpg)
 * [2024-10-14 09:30 Water Level and Rainfall](data/river-water-level-and-flood-warnings/20241014.0930.water-level-and-rainfall.jpg)
 * [2024-10-14 06:30 water level](data/river-water-level-and-flood-warnings/20241014.0630.water-level.jpg)
-* [2024-10-14 03:00 water level](data/river-water-level-and-flood-warnings/20241014.0300.water-level.jpg)
