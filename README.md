@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**8762/8980** documents downloaded.
+**8763/8981** documents downloaded.
 
+* [2024-10-16 08:00 Warning for heavy rain strong winds and rough seas](data/weather-reports/20241016.0800.warning-for-heavy-rain-strong-winds-and-rough-seas.pdf)
 * [2024-10-16 05:30 Weather Forcast](data/weather-reports/20241016.0530.weather-forcast.pdf)
 * [2024-10-15 16:00 Weather Forecast](data/weather-reports/20241015.1600.weather-forecast.pdf)
 * [2024-10-15 13:00 Warning for heavy rain strong winds and rough seas](data/weather-reports/20241015.1300.warning-for-heavy-rain-strong-winds-and-rough-seas.pdf)
@@ -15,7 +16,6 @@
 * [2024-10-14 13:00 Advisory for heavy rain strong winds and rough seas](data/weather-reports/20241014.1300.advisory-for-heavy-rain-strong-winds-and-rough-seas.pdf)
 * [2024-10-14 12:00 Weather Forecast](data/weather-reports/20241014.1200.weather-forecast.pdf)
 * [2024-10-14 06:00 Advisory for Heavy Rain](data/weather-reports/20241014.0600.advisory-for-heavy-rain.pdf)
-* [2024-10-14 05:30 Weather Forcast](data/weather-reports/20241014.0530.weather-forcast.pdf)
 
 ## Emergency Response Data Viewer
 
