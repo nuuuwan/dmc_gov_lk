@@ -28,8 +28,9 @@
 
 ## Situation Reports
 
-**4070/4148** documents downloaded.
+**4071/4149** documents downloaded.
 
+* [2024-10-21 09:00 Situation Report](data/situation-reports/20241021.0900.situation-report.pdf)
 * [2024-10-20 09:00 Situation Report](data/situation-reports/20241020.0900.situation-report.pdf)
 * [2024-10-19 09:00 Situation Report](data/situation-reports/20241019.0900.situation-report.pdf)
 * [2024-10-18 09:00 Situation Report](data/situation-reports/20241018.0900.situation-report.pdf)
@@ -39,7 +40,6 @@
 * [2024-10-14 09:00 Situation Report](data/situation-reports/20241014.0900.situation-report.pdf)
 * [2024-10-13 09:00 Situation Report](data/situation-reports/20241013.0900.situation-report.pdf)
 * [2024-10-12 09:00 Situation Report](data/situation-reports/20241012.0900.situation-report.pdf)
-* [2024-10-11 09:00 Drought Situation Report](data/situation-reports/20241011.0900.drought-situation-report.pdf)
 
 ## Landslide Warnings
 
@@ -88,8 +88,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1672/1764** documents downloaded.
+**1672/1765** documents downloaded.
 
+* [2024-10-21 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241021.0930.water-level-rainfall.jpg)
 * [2024-10-20 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241020.0930.water-level-rainfall.jpg)
 * [2024-10-19 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241019.0930.water-level-rainfall.jpg)
 * [2024-10-18 10:30 Withdrawal of Flood warning](data/river-water-level-and-flood-warnings/20241018.1030.withdrawal-of-flood-warning.pdf)
@@ -99,4 +100,3 @@
 * [2024-10-16 12:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241016.1230.water-level-rainfall.jpg)
 * [2024-10-16 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241016.0930.water-level-rainfall.jpg)
 * [2024-10-15 18:30 water level](data/river-water-level-and-flood-warnings/20241015.1830.water-level.jpg)
-* [2024-10-15 15:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241015.1530.water-level-rainfall.jpg)
