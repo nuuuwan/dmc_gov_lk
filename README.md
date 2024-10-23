@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**8791/9009** documents downloaded.
+**8792/9010** documents downloaded.
 
+* [2024-10-23 09:15 Advisory for Heavy Rain](data/weather-reports/20241023.0915.advisory-for-heavy-rain.pdf)
 * [2024-10-23 05:30 Weather Forcast](data/weather-reports/20241023.0530.weather-forcast.pdf)
 * [2024-10-22 16:00 Weather Forecast](data/weather-reports/20241022.1600.weather-forecast.pdf)
 * [2024-10-22 13:00 Warning for heavy rain strong winds and rough seas](data/weather-reports/20241022.1300.warning-for-heavy-rain-strong-winds-and-rough-seas.pdf)
@@ -15,7 +16,6 @@
 * [2024-10-21 13:00 Weather Forcast](data/weather-reports/20241021.1300.weather-forcast.pdf)
 * [2024-10-21 12:00 Weather Forecast](data/weather-reports/20241021.1200.weather-forecast.pdf)
 * [2024-10-21 07:00 The Advisory for heavy rain strong winds and rough seas](data/weather-reports/20241021.0700.the-advisory-for-heavy-rain-strong-winds-and-rough-seas.pdf)
-* [2024-10-21 05:30 Advisory for Heavy Rain](data/weather-reports/20241021.0530.advisory-for-heavy-rain.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -88,8 +88,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1672/1766** documents downloaded.
+**1672/1767** documents downloaded.
 
+* [2024-10-23 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241023.0930.water-level-rainfall.jpg)
 * [2024-10-22 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241022.0930.water-level-rainfall.jpg)
 * [2024-10-21 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241021.0930.water-level-rainfall.jpg)
 * [2024-10-20 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241020.0930.water-level-rainfall.jpg)
@@ -99,4 +100,3 @@
 * [2024-10-17 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241017.0930.water-level-rainfall.jpg)
 * [2024-10-16 15:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241016.1530.water-level-rainfall.jpg)
 * [2024-10-16 12:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241016.1230.water-level-rainfall.jpg)
-* [2024-10-16 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241016.0930.water-level-rainfall.jpg)
