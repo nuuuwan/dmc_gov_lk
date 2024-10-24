@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**8799/9017** documents downloaded.
+**8800/9018** documents downloaded.
 
+* [2024-10-24 16:00 Weather Forcast](data/weather-reports/20241024.1600.weather-forcast.pdf)
 * [2024-10-24 12:00 Weather Forecast](data/weather-reports/20241024.1200.weather-forecast.pdf)
 * [2024-10-24 11:30 Warning for heavy rain strong winds and rough seas Issued](data/weather-reports/20241024.1130.warning-for-heavy-rain-strong-winds-and-rough-seas-issued.pdf)
 * [2024-10-24 05:30 Weather Forcast](data/weather-reports/20241024.0530.weather-forcast.pdf)
@@ -15,7 +16,6 @@
 * [2024-10-23 11:00 Warning for heavy rain strong winds and rough seas](data/weather-reports/20241023.1100.warning-for-heavy-rain-strong-winds-and-rough-seas.pdf)
 * [2024-10-23 09:15 Advisory for Heavy Rain](data/weather-reports/20241023.0915.advisory-for-heavy-rain.pdf)
 * [2024-10-23 05:30 Weather Forcast](data/weather-reports/20241023.0530.weather-forcast.pdf)
-* [2024-10-22 16:00 Weather Forecast](data/weather-reports/20241022.1600.weather-forecast.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -88,8 +88,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1673/1770** documents downloaded.
+**1673/1771** documents downloaded.
 
+* [2024-10-24 15:30 water level](data/river-water-level-and-flood-warnings/20241024.1530.water-level.jpg)
 * [2024-10-24 12:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241024.1230.water-level-rainfall.jpg)
 * [2024-10-24 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241024.0930.water-level-rainfall.jpg)
 * [2024-10-24 04:00 Flood warning for Nilwala River Basin](data/river-water-level-and-flood-warnings/20241024.0400.flood-warning-for-nilwala-river-basin.pdf)
@@ -99,4 +100,3 @@
 * [2024-10-20 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241020.0930.water-level-rainfall.jpg)
 * [2024-10-19 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241019.0930.water-level-rainfall.jpg)
 * [2024-10-18 10:30 Withdrawal of Flood warning](data/river-water-level-and-flood-warnings/20241018.1030.withdrawal-of-flood-warning.pdf)
-* [2024-10-18 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241018.0930.water-level-rainfall.jpg)
