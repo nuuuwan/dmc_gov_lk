@@ -88,8 +88,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1673/1773** documents downloaded.
+**1673/1774** documents downloaded.
 
+* [2024-10-25 03:30 water level](data/river-water-level-and-flood-warnings/20241025.0330.water-level.jpg)
 * [2024-10-24 21:00 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241024.2100.water-level-rainfall.jpg)
 * [2024-10-24 18:30 water level](data/river-water-level-and-flood-warnings/20241024.1830.water-level.jpg)
 * [2024-10-24 15:30 water level](data/river-water-level-and-flood-warnings/20241024.1530.water-level.jpg)
@@ -99,4 +100,3 @@
 * [2024-10-23 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241023.0930.water-level-rainfall.jpg)
 * [2024-10-22 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241022.0930.water-level-rainfall.jpg)
 * [2024-10-21 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241021.0930.water-level-rainfall.jpg)
-* [2024-10-20 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241020.0930.water-level-rainfall.jpg)
