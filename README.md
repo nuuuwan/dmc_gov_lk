@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**8802/9020** documents downloaded.
+**8803/9021** documents downloaded.
 
+* [2024-10-25 11:30 Warning for strong winds and rough seas.](data/weather-reports/20241025.1130.warning-for-strong-winds-and-rough-seas.pdf)
 * [2024-10-25 08:30 Advisory for Heavy Rain](data/weather-reports/20241025.0830.advisory-for-heavy-rain.pdf)
 * [2024-10-25 05:30 Weather Forcast](data/weather-reports/20241025.0530.weather-forcast.pdf)
 * [2024-10-24 16:00 Weather Forcast](data/weather-reports/20241024.1600.weather-forcast.pdf)
@@ -15,7 +16,6 @@
 * [2024-10-23 16:00 Weather Forecast](data/weather-reports/20241023.1600.weather-forecast.pdf)
 * [2024-10-23 15:00 Advisory for Severe Lightning Issued](data/weather-reports/20241023.1500.advisory-for-severe-lightning-issued.pdf)
 * [2024-10-23 12:00 Weather Forecast](data/weather-reports/20241023.1200.weather-forecast.pdf)
-* [2024-10-23 11:00 Warning for heavy rain strong winds and rough seas](data/weather-reports/20241023.1100.warning-for-heavy-rain-strong-winds-and-rough-seas.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -28,8 +28,9 @@
 
 ## Situation Reports
 
-**4074/4152** documents downloaded.
+**4075/4153** documents downloaded.
 
+* [2024-10-25 09:00 Situation Report](data/situation-reports/20241025.0900.situation-report.pdf)
 * [2024-10-24 09:00 Situation Report](data/situation-reports/20241024.0900.situation-report.pdf)
 * [2024-10-23 09:00 Situation Report](data/situation-reports/20241023.0900.situation-report.pdf)
 * [2024-10-22 09:00 Situation Report](data/situation-reports/20241022.0900.situation-report.pdf)
@@ -39,7 +40,6 @@
 * [2024-10-18 09:00 Situation Report](data/situation-reports/20241018.0900.situation-report.pdf)
 * [2024-10-17 09:00 Situation Report](data/situation-reports/20241017.0900.situation-report.pdf)
 * [2024-10-16 09:00 Situation Report](data/situation-reports/20241016.0900.situation-report.pdf)
-* [2024-10-15 09:00 Situation Report](data/situation-reports/20241015.0900.situation-report.pdf)
 
 ## Landslide Warnings
 
