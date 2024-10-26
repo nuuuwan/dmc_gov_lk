@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**8807/9025** documents downloaded.
+**8808/9026** documents downloaded.
 
+* [2024-10-26 12:00 Weather Forcast](data/weather-reports/20241026.1200.weather-forcast.pdf)
 * [2024-10-26 05:30 Weather Forcast](data/weather-reports/20241026.0530.weather-forcast.pdf)
 * [2024-10-25 16:00 Weather Forcast](data/weather-reports/20241025.1600.weather-forcast.pdf)
 * [2024-10-25 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20241025.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
@@ -15,7 +16,6 @@
 * [2024-10-25 05:30 Weather Forcast](data/weather-reports/20241025.0530.weather-forcast.pdf)
 * [2024-10-24 16:00 Weather Forcast](data/weather-reports/20241024.1600.weather-forcast.pdf)
 * [2024-10-24 12:00 Weather Forecast](data/weather-reports/20241024.1200.weather-forecast.pdf)
-* [2024-10-24 11:30 Warning for heavy rain strong winds and rough seas Issued](data/weather-reports/20241024.1130.warning-for-heavy-rain-strong-winds-and-rough-seas-issued.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -88,8 +88,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1673/1776** documents downloaded.
+**1674/1777** documents downloaded.
 
+* [2024-10-26 10:00 Withdrawal of Flood warning 2024.10.26](data/river-water-level-and-flood-warnings/20241026.1000.withdrawal-of-flood-warning-20241026.pdf)
 * [2024-10-25 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241025.0930.water-level-rainfall.jpg)
 * [2024-10-25 06:30 water level](data/river-water-level-and-flood-warnings/20241025.0630.water-level.jpg)
 * [2024-10-25 03:30 water level](data/river-water-level-and-flood-warnings/20241025.0330.water-level.jpg)
@@ -99,4 +100,3 @@
 * [2024-10-24 12:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241024.1230.water-level-rainfall.jpg)
 * [2024-10-24 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241024.0930.water-level-rainfall.jpg)
 * [2024-10-24 04:00 Flood warning for Nilwala River Basin](data/river-water-level-and-flood-warnings/20241024.0400.flood-warning-for-nilwala-river-basin.pdf)
-* [2024-10-23 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241023.0930.water-level-rainfall.jpg)
