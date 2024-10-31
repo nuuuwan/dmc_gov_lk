@@ -1,5 +1,13 @@
 [
   {
+    "name": "Weather Report",
+    "time_str": "2024-10-31 16:00",
+    "time_id": "20241031.1600",
+    "ut": 1730370600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2024__1730371520.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Advisory for Severe Lightning",
     "time_str": "2024-10-31 13:00",
     "time_id": "20241031.1300",
