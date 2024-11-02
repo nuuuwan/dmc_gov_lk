@@ -28,8 +28,9 @@
 
 ## Situation Reports
 
-**4081/4159** documents downloaded.
+**4082/4160** documents downloaded.
 
+* [2024-11-02 09:00 Situation Report](data/situation-reports/20241102.0900.situation-report.pdf)
 * [2024-11-01 09:00 Situation Report](data/situation-reports/20241101.0900.situation-report.pdf)
 * [2024-10-31 09:00 Situation Report](data/situation-reports/20241031.0900.situation-report.pdf)
 * [2024-10-30 09:00 Situation Report](data/situation-reports/20241030.0900.situation-report.pdf)
@@ -39,7 +40,6 @@
 * [2024-10-25 09:00 Situation Report](data/situation-reports/20241025.0900.situation-report.pdf)
 * [2024-10-24 09:00 Situation Report](data/situation-reports/20241024.0900.situation-report.pdf)
 * [2024-10-23 09:00 Situation Report](data/situation-reports/20241023.0900.situation-report.pdf)
-* [2024-10-22 09:00 Situation Report](data/situation-reports/20241022.0900.situation-report.pdf)
 
 ## Landslide Warnings
 
@@ -88,8 +88,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1674/1783** documents downloaded.
+**1674/1784** documents downloaded.
 
+* [2024-11-02 09:30 water level](data/river-water-level-and-flood-warnings/20241102.0930.water-level.jpg)
 * [2024-11-01 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241101.0930.water-level-rainfall.jpg)
 * [2024-10-31 09:00 Water Level](data/river-water-level-and-flood-warnings/20241031.0900.water-level.jpg)
 * [2024-10-30 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241030.0930.water-level-rainfall.jpg)
@@ -99,4 +100,3 @@
 * [2024-10-26 10:00 Withdrawal of Flood warning 2024.10.26](data/river-water-level-and-flood-warnings/20241026.1000.withdrawal-of-flood-warning-20241026.pdf)
 * [2024-10-25 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241025.0930.water-level-rainfall.jpg)
 * [2024-10-25 06:30 water level](data/river-water-level-and-flood-warnings/20241025.0630.water-level.jpg)
-* [2024-10-25 03:30 water level](data/river-water-level-and-flood-warnings/20241025.0330.water-level.jpg)
