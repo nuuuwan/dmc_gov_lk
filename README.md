@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**8855/9073** documents downloaded.
+**8856/9074** documents downloaded.
 
+* [2024-11-08 15:00 Advisory for Severe Lightning](data/weather-reports/20241108.1500.advisory-for-severe-lightning.pdf)
 * [2024-11-08 12:00 Weather Forcast](data/weather-reports/20241108.1200.weather-forcast.pdf)
 * [2024-11-08 05:30 Weather Forcast](data/weather-reports/20241108.0530.weather-forcast.pdf)
 * [2024-11-07 16:00 Weather Forcast](data/weather-reports/20241107.1600.weather-forcast.pdf)
@@ -15,7 +16,6 @@
 * [2024-11-06 16:00 Weather Forcast](data/weather-reports/20241106.1600.weather-forcast.pdf)
 * [2024-11-06 12:00 Weather Forcast](data/weather-reports/20241106.1200.weather-forcast.pdf)
 * [2024-11-06 05:30 Weather Forcast](data/weather-reports/20241106.0530.weather-forcast.pdf)
-* [2024-11-05 16:00 Weather Forcast](data/weather-reports/20241105.1600.weather-forcast.pdf)
 
 ## Emergency Response Data Viewer
 
