@@ -1,5 +1,13 @@
 [
   {
+    "name": "The Weather Report at 1200hrs on 2024.11.11",
+    "time_str": "2024-11-11 12:00",
+    "time_id": "20241111.1200",
+    "ut": 1731306600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/",
+    "ext": "lk/images/dmcreports/"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2024-11-11 05:30",
     "time_id": "20241111.0530",
