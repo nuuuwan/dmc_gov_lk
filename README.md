@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**8879/9097** documents downloaded.
+**8880/9098** documents downloaded.
 
+* [2024-11-15 12:00 Weather Forcast](data/weather-reports/20241115.1200.weather-forcast.pdf)
 * [2024-11-15 05:30 Weather Forcast](data/weather-reports/20241115.0530.weather-forcast.pdf)
 * [2024-11-14 16:00 Weather Forecast](data/weather-reports/20241114.1600.weather-forecast.pdf)
 * [2024-11-14 12:00 Advisory for Severe Lightning](data/weather-reports/20241114.1200.advisory-for-severe-lightning.pdf)
@@ -15,7 +16,6 @@
 * [2024-11-13 13:30 Advisory for Severe Lightning](data/weather-reports/20241113.1330.advisory-for-severe-lightning.pdf)
 * [2024-11-13 12:00 Weather Forcast](data/weather-reports/20241113.1200.weather-forcast.pdf)
 * [2024-11-13 05:30 Weather Forcast](data/weather-reports/20241113.0530.weather-forcast.pdf)
-* [2024-11-12 16:00 Weather Forecast](data/weather-reports/20241112.1600.weather-forecast.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -88,8 +88,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1677/1806** documents downloaded.
+**1677/1807** documents downloaded.
 
+* [2024-11-15 12:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241115.1230.water-level-rainfall.jpg)
 * [2024-11-15 12:00 water level](data/river-water-level-and-flood-warnings/20241115.1200.water-level.pdf)
 * [2024-11-15 09:30 water level](data/river-water-level-and-flood-warnings/20241115.0930.water-level.jpg)
 * [2024-11-15 06:00 water level](data/river-water-level-and-flood-warnings/20241115.0600.water-level.jpg)
@@ -99,4 +100,3 @@
 * [2024-11-14 12:00 Water level](data/river-water-level-and-flood-warnings/20241114.1200.water-level.pdf)
 * [2024-11-14 09:00 Water level](data/river-water-level-and-flood-warnings/20241114.0900.water-level.jpg)
 * [2024-11-14 03:00 Water Level](data/river-water-level-and-flood-warnings/20241114.0300.water-level.jpg)
-* [2024-11-14 00:30 Water Level](data/river-water-level-and-flood-warnings/20241114.0030.water-level.jpg)
