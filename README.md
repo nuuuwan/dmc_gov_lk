@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**8887/9105** documents downloaded.
+**8888/9106** documents downloaded.
 
+* [2024-11-17 16:00 Weather Forcast](data/weather-reports/20241117.1600.weather-forcast.pdf)
 * [2024-11-17 12:00 Weather Forecast](data/weather-reports/20241117.1200.weather-forecast.pdf)
 * [2024-11-17 05:30 Weather Forcast](data/weather-reports/20241117.0530.weather-forcast.pdf)
 * [2024-11-16 16:00 Weather Forecast](data/weather-reports/20241116.1600.weather-forecast.pdf)
@@ -15,7 +16,6 @@
 * [2024-11-15 13:30 Advisory for Severe Lightning](data/weather-reports/20241115.1330.advisory-for-severe-lightning.pdf)
 * [2024-11-15 12:00 Weather Forcast](data/weather-reports/20241115.1200.weather-forcast.pdf)
 * [2024-11-15 05:30 Weather Forcast](data/weather-reports/20241115.0530.weather-forcast.pdf)
-* [2024-11-14 16:00 Weather Forecast](data/weather-reports/20241114.1600.weather-forecast.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -43,8 +43,9 @@
 
 ## Landslide Warnings
 
-**607/613** documents downloaded.
+**608/614** documents downloaded.
 
+* [2024-11-17 16:00 Landslide Early Warning](data/landslide-warnings/20241117.1600.landslide-early-warning.pdf)
 * [2024-11-16 16:00 Landslide early warning Report](data/landslide-warnings/20241116.1600.landslide-early-warning-report.pdf)
 * [2024-11-15 20:00 Landslide Early Warning](data/landslide-warnings/20241115.2000.landslide-early-warning.pdf)
 * [2024-11-10 16:00 Landslide early warning Report](data/landslide-warnings/20241110.1600.landslide-early-warning-report.pdf)
@@ -54,7 +55,6 @@
 * [2024-11-07 16:00 Landslide Early Warning](data/landslide-warnings/20241107.1600.landslide-early-warning.pdf)
 * [2024-11-06 16:00 Landslide Early Warning](data/landslide-warnings/20241106.1600.landslide-early-warning.pdf)
 * [2024-11-05 16:00 Landslide early warning Report](data/landslide-warnings/20241105.1600.landslide-early-warning-report.pdf)
-* [2024-11-04 16:00 Landslide early warning Report](data/landslide-warnings/20241104.1600.landslide-early-warning-report.pdf)
 
 ## Earthquakes
 
