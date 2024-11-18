@@ -1,6 +1,22 @@
 [
   {
     "name": "Weather Forecast",
+    "time_str": "2024-11-18 16:00",
+    "time_id": "20241118.1600",
+    "ut": 1731925800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2024__1731926590.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Severe Lightning and heavy rain",
+    "time_str": "2024-11-18 15:30",
+    "time_id": "20241118.1530",
+    "ut": 1731924000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_and_heavy_rain_at_1530hrs_on_2024__1731925422.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forecast",
     "time_str": "2024-11-18 12:00",
     "time_id": "20241118.1200",
     "ut": 1731911400.0,
