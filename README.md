@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**8904/9122** documents downloaded.
+**8905/9123** documents downloaded.
 
+* [2024-11-21 16:00 Weather Forecast](data/weather-reports/20241121.1600.weather-forecast.pdf)
 * [2024-11-21 14:00 Advisory for Severe Lightning and heavy rain](data/weather-reports/20241121.1400.advisory-for-severe-lightning-and-heavy-rain.pdf)
 * [2024-11-21 12:00 Weather Forcast](data/weather-reports/20241121.1200.weather-forcast.pdf)
 * [2024-11-21 05:30 Weather Forcast](data/weather-reports/20241121.0530.weather-forcast.pdf)
@@ -15,7 +16,6 @@
 * [2024-11-20 05:30 Weather Forcast](data/weather-reports/20241120.0530.weather-forcast.pdf)
 * [2024-11-19 18:00 Weather forecast for Multiday boats](data/weather-reports/20241119.1800.weather-forecast-for-multiday-boats.pdf)
 * [2024-11-19 16:00 Weather Forecast](data/weather-reports/20241119.1600.weather-forecast.pdf)
-* [2024-11-19 13:15 Advisory for Severe Lightning and heavy rain](data/weather-reports/20241119.1315.advisory-for-severe-lightning-and-heavy-rain.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -43,8 +43,9 @@
 
 ## Landslide Warnings
 
-**611/617** documents downloaded.
+**612/618** documents downloaded.
 
+* [2024-11-21 16:00 Landslide early warning Report](data/landslide-warnings/20241121.1600.landslide-early-warning-report.pdf)
 * [2024-11-20 16:00 Landslide early warning Report](data/landslide-warnings/20241120.1600.landslide-early-warning-report.pdf)
 * [2024-11-19 16:00 Landslide Early Warning](data/landslide-warnings/20241119.1600.landslide-early-warning.pdf)
 * [2024-11-18 22:00 Landslide Warning](data/landslide-warnings/20241118.2200.landslide-warning.pdf)
@@ -54,7 +55,6 @@
 * [2024-11-10 16:00 Landslide early warning Report](data/landslide-warnings/20241110.1600.landslide-early-warning-report.pdf)
 * [2024-11-09 23:00 Landslide Early Warning](data/landslide-warnings/20241109.2300.landslide-early-warning.pdf)
 * [2024-11-09 16:00 Landslide Early Warning](data/landslide-warnings/20241109.1600.landslide-early-warning.pdf)
-* [2024-11-08 16:00 Landslide Early Warning](data/landslide-warnings/20241108.1600.landslide-early-warning.pdf)
 
 ## Earthquakes
 
