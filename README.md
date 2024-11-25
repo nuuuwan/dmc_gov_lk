@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**8919/9137** documents downloaded.
+**8920/9138** documents downloaded.
 
+* [2024-11-25 16:00 Weather Forecast](data/weather-reports/20241125.1600.weather-forecast.pdf)
 * [2024-11-25 12:00 Weather Forecast](data/weather-reports/20241125.1200.weather-forecast.pdf)
 * [2024-11-25 05:30 Weather Forcast](data/weather-reports/20241125.0530.weather-forcast.pdf)
 * [2024-11-24 16:00 Weather Warning  RED](data/weather-reports/20241124.1600.weather-warning-red.pdf)
@@ -15,7 +16,6 @@
 * [2024-11-23 16:00 Weather Forecast](data/weather-reports/20241123.1600.weather-forecast.pdf)
 * [2024-11-23 16:00 Weather Warning  RED](data/weather-reports/20241123.1600.weather-warning-red.pdf)
 * [2024-11-23 12:00 Weather Forecast](data/weather-reports/20241123.1200.weather-forecast.pdf)
-* [2024-11-23 05:30 Weather Forcast](data/weather-reports/20241123.0530.weather-forcast.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -43,8 +43,9 @@
 
 ## Landslide Warnings
 
-**615/621** documents downloaded.
+**616/622** documents downloaded.
 
+* [2024-11-25 16:00 Landslide early warning Report](data/landslide-warnings/20241125.1600.landslide-early-warning-report.pdf)
 * [2024-11-24 16:00 Landslide Early Warning](data/landslide-warnings/20241124.1600.landslide-early-warning.pdf)
 * [2024-11-23 16:00 Landslide early warning Report](data/landslide-warnings/20241123.1600.landslide-early-warning-report.pdf)
 * [2024-11-22 16:00 Landslide early warning Report](data/landslide-warnings/20241122.1600.landslide-early-warning-report.pdf)
@@ -54,7 +55,6 @@
 * [2024-11-18 22:00 Landslide Warning](data/landslide-warnings/20241118.2200.landslide-warning.pdf)
 * [2024-11-17 16:00 Landslide Early Warning](data/landslide-warnings/20241117.1600.landslide-early-warning.pdf)
 * [2024-11-16 16:00 Landslide early warning Report](data/landslide-warnings/20241116.1600.landslide-early-warning-report.pdf)
-* [2024-11-15 20:00 Landslide Early Warning](data/landslide-warnings/20241115.2000.landslide-early-warning.pdf)
 
 ## Earthquakes
 
