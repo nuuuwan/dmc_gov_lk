@@ -4,9 +4,10 @@
 
 ## Weather Reports
 
-**8920/9138** documents downloaded.
+**8921/9139** documents downloaded.
 
 * [2024-11-25 16:00 Weather Forecast](data/weather-reports/20241125.1600.weather-forecast.pdf)
+* [2024-11-25 16:00 Warning for low pressure area over South-East Bay of Bengal](data/weather-reports/20241125.1600.warning-for-low-pressure-area-over-southeast-bay-of-bengal.pdf)
 * [2024-11-25 12:00 Weather Forecast](data/weather-reports/20241125.1200.weather-forecast.pdf)
 * [2024-11-25 05:30 Weather Forcast](data/weather-reports/20241125.0530.weather-forcast.pdf)
 * [2024-11-24 16:00 Weather Warning  RED](data/weather-reports/20241124.1600.weather-warning-red.pdf)
@@ -15,7 +16,6 @@
 * [2024-11-24 06:16 Weather Forcast](data/weather-reports/20241124.0616.weather-forcast.pdf)
 * [2024-11-23 16:00 Weather Forecast](data/weather-reports/20241123.1600.weather-forecast.pdf)
 * [2024-11-23 16:00 Weather Warning  RED](data/weather-reports/20241123.1600.weather-warning-red.pdf)
-* [2024-11-23 12:00 Weather Forecast](data/weather-reports/20241123.1200.weather-forecast.pdf)
 
 ## Emergency Response Data Viewer
 
