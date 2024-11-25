@@ -43,8 +43,9 @@
 
 ## Landslide Warnings
 
-**617/623** documents downloaded.
+**618/624** documents downloaded.
 
+* [2024-11-26 00:00 Landslide Early Warning](data/landslide-warnings/20241126.0000.landslide-early-warning.pdf)
 * [2024-11-25 21:00 Landslide Early Warning](data/landslide-warnings/20241125.2100.landslide-early-warning.pdf)
 * [2024-11-25 16:00 Landslide early warning Report](data/landslide-warnings/20241125.1600.landslide-early-warning-report.pdf)
 * [2024-11-24 16:00 Landslide Early Warning](data/landslide-warnings/20241124.1600.landslide-early-warning.pdf)
@@ -54,7 +55,6 @@
 * [2024-11-20 16:00 Landslide early warning Report](data/landslide-warnings/20241120.1600.landslide-early-warning-report.pdf)
 * [2024-11-19 16:00 Landslide Early Warning](data/landslide-warnings/20241119.1600.landslide-early-warning.pdf)
 * [2024-11-18 22:00 Landslide Warning](data/landslide-warnings/20241118.2200.landslide-warning.pdf)
-* [2024-11-17 16:00 Landslide Early Warning](data/landslide-warnings/20241117.1600.landslide-early-warning.pdf)
 
 ## Earthquakes
 
@@ -88,8 +88,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1678/1822** documents downloaded.
+**1678/1823** documents downloaded.
 
+* [2024-11-26 00:30 water level](data/river-water-level-and-flood-warnings/20241126.0030.water-level.jpg)
 * [2024-11-25 18:00 water level](data/river-water-level-and-flood-warnings/20241125.1800.water-level.jpg)
 * [2024-11-25 06:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241125.0630.water-level-rainfall.jpg)
 * [2024-11-25 00:30 water level](data/river-water-level-and-flood-warnings/20241125.0030.water-level.jpg)
@@ -99,4 +100,3 @@
 * [2024-11-23 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241123.0930.water-level-rainfall.jpg)
 * [2024-11-22 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241122.0930.water-level-rainfall.jpg)
 * [2024-11-21 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241121.0930.water-level-rainfall.jpg)
-* [2024-11-20 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241120.0930.water-level-rainfall.jpg)
