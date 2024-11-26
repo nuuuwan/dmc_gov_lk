@@ -90,7 +90,7 @@
 
 **1681/1828** documents downloaded.
 
-* [2024-11-26 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241126.0930.water-level-rainfall.jpg)
+* [2024-11-26 09:30 Water level](data/river-water-level-and-flood-warnings/20241126.0930.water-level.jpg)
 * [2024-11-26 06:00 Flood Warning for Heda Oya](data/river-water-level-and-flood-warnings/20241126.0600.flood-warning-for-heda-oya.pdf)
 * [2024-11-26 06:00 Flood Warning for Mahaweli River](data/river-water-level-and-flood-warnings/20241126.0600.flood-warning-for-mahaweli-river.pdf)
 * [2024-11-26 06:00 water level](data/river-water-level-and-flood-warnings/20241126.0600.water-level.jpg)
