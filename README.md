@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**8924/9142** documents downloaded.
+**8925/9143** documents downloaded.
 
+* [2024-11-26 08:00 Warning for Depression over Southwest Bay of Bengal](data/weather-reports/20241126.0800.warning-for-depression-over-southwest-bay-of-bengal.pdf)
 * [2024-11-26 07:00 Weather forecast for multi-day boats](data/weather-reports/20241126.0700.weather-forecast-for-multiday-boats.pdf)
 * [2024-11-26 05:30 Weather Forcast](data/weather-reports/20241126.0530.weather-forcast.pdf)
 * [2024-11-26 04:30 The Advisory for Heavy Rain](data/weather-reports/20241126.0430.the-advisory-for-heavy-rain.pdf)
@@ -15,7 +16,6 @@
 * [2024-11-25 05:30 Weather Forcast](data/weather-reports/20241125.0530.weather-forcast.pdf)
 * [2024-11-24 16:00 Weather Warning  RED](data/weather-reports/20241124.1600.weather-warning-red.pdf)
 * [2024-11-24 16:00 Weather Forcast](data/weather-reports/20241124.1600.weather-forcast.pdf)
-* [2024-11-24 12:00 Weather Forecast](data/weather-reports/20241124.1200.weather-forecast.pdf)
 
 ## Emergency Response Data Viewer
 
