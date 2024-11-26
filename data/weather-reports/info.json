@@ -1,10 +1,10 @@
 [
   {
-    "name": "Weather Forcast",
+    "name": "Weather Forcast 12",
     "time_str": "2024-11-26 12:00",
     "time_id": "20241126.1200",
     "ut": 1732602600.0,
-    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1200hrs_on_2024__1732604533.pdf",
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1200hrs_on_2024__1732610596.pdf",
     "ext": "pdf"
   },
   {
@@ -12,7 +12,7 @@
     "time_str": "2024-11-26 08:00",
     "time_id": "20241126.0800",
     "ut": 1732588200.0,
-    "href": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_Dpression_over_Southwest_Bay_of_Bengal_at_0800hrs_on_2024__1732593472.pdf",
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_Dpression_Bengal_at_0800hrs_on_2024__1732610368.pdf",
     "ext": "pdf"
   },
   {
@@ -20,7 +20,7 @@
     "time_str": "2024-11-26 07:00",
     "time_id": "20241126.0700",
     "ut": 1732584600.0,
-    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_forecast_for_multi-day_boats_For_the_sea_areas,_26_November_2024__1732587212.pdf",
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_forecast_for_multi-day_boats_For_the_sea_areas_26_November_2024__1732609998.pdf",
     "ext": "pdf"
   },
   {
@@ -720,14 +720,6 @@
     "ext": "pdf"
   },
   {
-    "name": "The Advisory for Severe Lightning",
-    "time_str": "2024-11-03 13:30",
-    "time_id": "20241103.1330",
-    "ut": 1730620800.0,
-    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_at_1330_hrs_on_2024__1730621962.pdf",
-    "ext": "pdf"
-  },
-  {
     "name": "Advisory for Heavy Rain ",
     "time_str": "2024-11-03 13:15",
     "time_id": "20241103.1315",
@@ -757,14 +749,6 @@
     "time_id": "20241102.1600",
     "ut": 1730543400.0,
     "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600_hrs_on_2024__1730544155.pdf",
-    "ext": "pdf"
-  },
-  {
-    "name": "Weather Forecast",
-    "time_str": "2024-11-02 12:00",
-    "time_id": "20241102.1200",
-    "ut": 1730529000.0,
-    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1200_hrs_on_2024__1730529766.pdf",
     "ext": "pdf"
   },
   {

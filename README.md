@@ -4,9 +4,9 @@
 
 ## Weather Reports
 
-**8926/9144** documents downloaded.
+**8927/9142** documents downloaded.
 
-* [2024-11-26 12:00 Weather Forcast](data/weather-reports/20241126.1200.weather-forcast.pdf)
+* [2024-11-26 12:00 Weather Forcast 12](data/weather-reports/20241126.1200.weather-forcast-12.pdf)
 * [2024-11-26 08:00 Warning for Depression over Southwest Bay of Bengal](data/weather-reports/20241126.0800.warning-for-depression-over-southwest-bay-of-bengal.pdf)
 * [2024-11-26 07:00 Weather forecast for multi-day boats](data/weather-reports/20241126.0700.weather-forecast-for-multiday-boats.pdf)
 * [2024-11-26 05:30 Weather Forcast](data/weather-reports/20241126.0530.weather-forcast.pdf)
@@ -19,16 +19,15 @@
 
 ## Emergency Response Data Viewer
 
-**4/4** documents downloaded.
+**4/3** documents downloaded.
 
 * [2023-03-27 09:30 Air Quality Report](data/emergency-response-data-viewer/20230327.0930.air-quality-report.pdf)
 * [2023-02-22 10:00 Air Quality Report](data/emergency-response-data-viewer/20230222.1000.air-quality-report.pdf)
 * [2023-01-27 12:00 Air Quality Report](data/emergency-response-data-viewer/20230127.1200.air-quality-report.pdf)
-* [2017-09-27 05:31 Weather forecast 27th September 2017](data/emergency-response-data-viewer/20170927.0531.weather-forecast-27th-september-2017.pdf)
 
 ## Situation Reports
 
-**4105/4183** documents downloaded.
+**4105/4170** documents downloaded.
 
 * [2024-11-26 09:00 Situation Report](data/situation-reports/20241126.0900.situation-report.pdf)
 * [2024-11-25 09:00 Situation Report](data/situation-reports/20241125.0900.situation-report.pdf)
@@ -88,7 +87,7 @@
 
 ## River Water Level And Flood Warnings
 
-**1681/1829** documents downloaded.
+**1681/1828** documents downloaded.
 
 * [2024-11-26 12:00 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241126.1200.water-level-rainfall.jpg)
 * [2024-11-26 09:30 Water level](data/river-water-level-and-flood-warnings/20241126.0930.water-level.jpg)

@@ -4,7 +4,7 @@
     "time_str": "2024-11-26 09:00",
     "time_id": "20241126.0900",
     "ut": 1732591800.0,
-    "href": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report_on_2024__1732606593.pdf",
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report_on_2024__1732610803.pdf",
     "ext": "pdf"
   },
   {
@@ -32848,14 +32848,6 @@
     "ext": "xlsx"
   },
   {
-    "name": "Situation Report  [PDF]",
-    "time_str": "2018-01-09 18:00",
-    "time_id": "20180109.1800",
-    "ut": 1515501000.0,
-    "href": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report__on_2018__1520488839.pdf",
-    "ext": "pdf"
-  },
-  {
     "name": "Situation Report  [Excel]",
     "time_str": "2018-01-09 18:00",
     "time_id": "20180109.1800",
@@ -33365,102 +33357,6 @@
     "time_id": "20180102.1200",
     "ut": 1514874600.0,
     "href": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report__on_2018__1520486381.xlsx",
-    "ext": "xlsx"
-  },
-  {
-    "name": "Drought Situation Report Summary  [PDF]",
-    "time_str": "2018-01-02 09:00",
-    "time_id": "20180102.0900",
-    "ut": 1514863800.0,
-    "href": "https://www.dmc.gov.lk/images/dmcreports/Drought_Situation_Summery_Report_on_2018__1520486191.pdf",
-    "ext": "pdf"
-  },
-  {
-    "name": "Situation Report  [PDF]",
-    "time_str": "2018-01-02 09:00",
-    "time_id": "20180102.0900",
-    "ut": 1514863800.0,
-    "href": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report__on_2018__1520486219.pdf",
-    "ext": "pdf"
-  },
-  {
-    "name": "Situation Report  [Excel]",
-    "time_str": "2018-01-02 09:00",
-    "time_id": "20180102.0900",
-    "ut": 1514863800.0,
-    "href": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report_on_2018__1520486252.xlsx",
-    "ext": "xlsx"
-  },
-  {
-    "name": "Drought Situation Report Summary  [PDF]",
-    "time_str": "2018-01-01 18:00",
-    "time_id": "20180101.1800",
-    "ut": 1514809800.0,
-    "href": "https://www.dmc.gov.lk/images/dmcreports/Drought_Situation_Report__Summary_on_2018__1520486011.pdf",
-    "ext": "pdf"
-  },
-  {
-    "name": "Situation Report  [PDF]",
-    "time_str": "2018-01-01 18:00",
-    "time_id": "20180101.1800",
-    "ut": 1514809800.0,
-    "href": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report__on_2018__1520486044.pdf",
-    "ext": "pdf"
-  },
-  {
-    "name": "Situation Report  [Excel]",
-    "time_str": "2018-01-01 18:00",
-    "time_id": "20180101.1800",
-    "ut": 1514809800.0,
-    "href": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report__on_2018__1520486070.xlsx",
-    "ext": "xlsx"
-  },
-  {
-    "name": "Drought Situation Report Summary  [PDF]",
-    "time_str": "2018-01-01 12:00",
-    "time_id": "20180101.1200",
-    "ut": 1514788200.0,
-    "href": "https://www.dmc.gov.lk/images/dmcreports/Dought_Situation_Summery___Report_on_2018__1520485737.pdf",
-    "ext": "pdf"
-  },
-  {
-    "name": "Situation Report  [PDF]",
-    "time_str": "2018-01-01 12:00",
-    "time_id": "20180101.1200",
-    "ut": 1514788200.0,
-    "href": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report__on_2018__1520485775.pdf",
-    "ext": "pdf"
-  },
-  {
-    "name": "Situation Report  [Excel]",
-    "time_str": "2018-01-01 12:00",
-    "time_id": "20180101.1200",
-    "ut": 1514788200.0,
-    "href": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report__on_2018__1520485837.xlsx",
-    "ext": "xlsx"
-  },
-  {
-    "name": "Drought Situation Report Summary  [PDF]",
-    "time_str": "2018-01-01 09:00",
-    "time_id": "20180101.0900",
-    "ut": 1514777400.0,
-    "href": "https://www.dmc.gov.lk/images/dmcreports/Drought_Situation_Report__on_2018__1520484793.pdf",
-    "ext": "pdf"
-  },
-  {
-    "name": "Situation Report  [PDF]",
-    "time_str": "2018-01-01 09:00",
-    "time_id": "20180101.0900",
-    "ut": 1514777400.0,
-    "href": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report__on_2018__1520485379.pdf",
-    "ext": "pdf"
-  },
-  {
-    "name": "Situation Report  [Excel]",
-    "time_str": "2018-01-01 09:00",
-    "time_id": "20180101.0900",
-    "ut": 1514777400.0,
-    "href": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report__on_2018__1520485479.xlsx",
     "ext": "xlsx"
   }
 ]
