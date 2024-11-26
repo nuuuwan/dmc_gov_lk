@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**8931/9146** documents downloaded.
+**8932/9147** documents downloaded.
 
+* [2024-11-26 21:00 Warning for Deep Depression over Southwest Bay of Bengal](data/weather-reports/20241126.2100.warning-for-deep-depression-over-southwest-bay-of-bengal.pdf)
 * [2024-11-26 16:00 Weather Forecast](data/weather-reports/20241126.1600.weather-forecast.pdf)
 * [2024-11-26 16:00 Weather Forecast -Tamil](data/weather-reports/20241126.1600.weather-forecast-tamil.pdf)
 * [2024-11-26 15:00 Warning for Deep Depression over Southwest Bay of Bengal Tamil](data/weather-reports/20241126.1500.warning-for-deep-depression-over-southwest-bay-of-bengal-tamil.pdf)
@@ -15,7 +16,6 @@
 * [2024-11-26 07:00 Weather forecast for multi-day boats](data/weather-reports/20241126.0700.weather-forecast-for-multiday-boats.pdf)
 * [2024-11-26 05:30 Weather Forcast](data/weather-reports/20241126.0530.weather-forcast.pdf)
 * [2024-11-26 04:30 The Advisory for Heavy Rain](data/weather-reports/20241126.0430.the-advisory-for-heavy-rain.pdf)
-* [2024-11-25 16:00 Weather Forecast](data/weather-reports/20241125.1600.weather-forecast.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -87,8 +87,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1684/1833** documents downloaded.
+**1684/1834** documents downloaded.
 
+* [2024-11-26 21:00 Water Level](data/river-water-level-and-flood-warnings/20241126.2100.water-level.jpg)
 * [2024-11-26 18:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241126.1830.water-level-rainfall.jpg)
 * [2024-11-26 15:30 Flood Warning for Deduru Oya -No 01](data/river-water-level-and-flood-warnings/20241126.1530.flood-warning-for-deduru-oya-no-01.pdf)
 * [2024-11-26 15:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241126.1530.water-level-rainfall.jpg)
@@ -98,4 +99,3 @@
 * [2024-11-26 12:00 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241126.1200.water-level-rainfall.jpg)
 * [2024-11-26 06:00 Flood Warning for Heda Oya](data/river-water-level-and-flood-warnings/20241126.0600.flood-warning-for-heda-oya.pdf)
 * [2024-11-26 06:00 Flood Warning for Mahaweli River](data/river-water-level-and-flood-warnings/20241126.0600.flood-warning-for-mahaweli-river.pdf)
-* [2024-11-26 06:00 water level](data/river-water-level-and-flood-warnings/20241126.0600.water-level.jpg)
