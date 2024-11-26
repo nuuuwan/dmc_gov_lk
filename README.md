@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**8923/9141** documents downloaded.
+**8924/9142** documents downloaded.
 
+* [2024-11-26 07:00 Weather forecast for multi-day boats](data/weather-reports/20241126.0700.weather-forecast-for-multiday-boats.pdf)
 * [2024-11-26 05:30 Weather Forcast](data/weather-reports/20241126.0530.weather-forcast.pdf)
 * [2024-11-26 04:30 The Advisory for Heavy Rain](data/weather-reports/20241126.0430.the-advisory-for-heavy-rain.pdf)
 * [2024-11-25 16:00 Weather Forecast](data/weather-reports/20241125.1600.weather-forecast.pdf)
@@ -15,7 +16,6 @@
 * [2024-11-24 16:00 Weather Warning  RED](data/weather-reports/20241124.1600.weather-warning-red.pdf)
 * [2024-11-24 16:00 Weather Forcast](data/weather-reports/20241124.1600.weather-forcast.pdf)
 * [2024-11-24 12:00 Weather Forecast](data/weather-reports/20241124.1200.weather-forecast.pdf)
-* [2024-11-24 06:16 Weather Forcast](data/weather-reports/20241124.0616.weather-forcast.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -88,9 +88,11 @@
 
 ## River Water Level And Flood Warnings
 
-**1679/1824** documents downloaded.
+**1680/1826** documents downloaded.
 
 * [2024-11-26 06:00 Flood Warning for Heda Oya](data/river-water-level-and-flood-warnings/20241126.0600.flood-warning-for-heda-oya.pdf)
+* [2024-11-26 06:00 Flood Warning for Mahaweli River](data/river-water-level-and-flood-warnings/20241126.0600.flood-warning-for-mahaweli-river.pdf)
+* [2024-11-26 06:00 water level](data/river-water-level-and-flood-warnings/20241126.0600.water-level.jpg)
 * [2024-11-26 00:30 water level](data/river-water-level-and-flood-warnings/20241126.0030.water-level.jpg)
 * [2024-11-25 18:00 water level](data/river-water-level-and-flood-warnings/20241125.1800.water-level.jpg)
 * [2024-11-25 06:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241125.0630.water-level-rainfall.jpg)
@@ -98,5 +100,3 @@
 * [2024-11-24 19:00 water level](data/river-water-level-and-flood-warnings/20241124.1900.water-level.jpg)
 * [2024-11-24 12:00 Prior Flood Warning Bulletin No 0](data/river-water-level-and-flood-warnings/20241124.1200.prior-flood-warning-bulletin-no-0.pdf)
 * [2024-11-24 09:30 water level](data/river-water-level-and-flood-warnings/20241124.0930.water-level.jpg)
-* [2024-11-23 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241123.0930.water-level-rainfall.jpg)
-* [2024-11-22 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241122.0930.water-level-rainfall.jpg)
