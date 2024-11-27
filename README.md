@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**8934/9149** documents downloaded.
+**8935/9150** documents downloaded.
 
+* [2024-11-27 07:00 Weather forecast for multi-day boats for the sea areas](data/weather-reports/20241127.0700.weather-forecast-for-multiday-boats-for-the-sea-areas.pdf)
 * [2024-11-27 05:30 Weather Forcast](data/weather-reports/20241127.0530.weather-forcast.pdf)
 * [2024-11-27 05:00 Weather Forcast](data/weather-reports/20241127.0500.weather-forcast.pdf)
 * [2024-11-26 21:00 Warning for Deep Depression over Southwest Bay of Bengal](data/weather-reports/20241126.2100.warning-for-deep-depression-over-southwest-bay-of-bengal.pdf)
@@ -15,7 +16,6 @@
 * [2024-11-26 15:00 Warning for Deep Depression over Southwest Bay of Bengal](data/weather-reports/20241126.1500.warning-for-deep-depression-over-southwest-bay-of-bengal.pdf)
 * [2024-11-26 12:00 Weather Forcast 12](data/weather-reports/20241126.1200.weather-forcast-12.pdf)
 * [2024-11-26 08:00 Warning for Depression over Southwest Bay of Bengal](data/weather-reports/20241126.0800.warning-for-depression-over-southwest-bay-of-bengal.pdf)
-* [2024-11-26 07:00 Weather forecast for multi-day boats](data/weather-reports/20241126.0700.weather-forecast-for-multiday-boats.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -87,8 +87,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1684/1835** documents downloaded.
+**1684/1836** documents downloaded.
 
+* [2024-11-27 06:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241127.0630.water-level-rainfall.jpg)
 * [2024-11-27 03:00 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241127.0300.water-level-rainfall.jpg)
 * [2024-11-26 21:00 Water Level](data/river-water-level-and-flood-warnings/20241126.2100.water-level.jpg)
 * [2024-11-26 18:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241126.1830.water-level-rainfall.jpg)
@@ -98,4 +99,3 @@
 * [2024-11-26 14:30 Flood Warning for Mundeni Aru-No 01](data/river-water-level-and-flood-warnings/20241126.1430.flood-warning-for-mundeni-aruno-01.pdf)
 * [2024-11-26 12:30 Water level](data/river-water-level-and-flood-warnings/20241126.1230.water-level.jpg)
 * [2024-11-26 12:00 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241126.1200.water-level-rainfall.jpg)
-* [2024-11-26 06:00 Flood Warning for Heda Oya](data/river-water-level-and-flood-warnings/20241126.0600.flood-warning-for-heda-oya.pdf)
