@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**8936/9151** documents downloaded.
+**8937/9152** documents downloaded.
 
+* [2024-11-27 11:00 Warning for Deep Depression over Southwest Bay of Bengal](data/weather-reports/20241127.1100.warning-for-deep-depression-over-southwest-bay-of-bengal.pdf)
 * [2024-11-27 07:00 Weather forecast for multi-day boats for the sea areas](data/weather-reports/20241127.0700.weather-forecast-for-multiday-boats-for-the-sea-areas.pdf)
 * [2024-11-27 07:00 Probability Rainfall Forecast for Major Reservoirs](data/weather-reports/20241127.0700.probability-rainfall-forecast-for-major-reservoirs.pdf)
 * [2024-11-27 05:30 Weather Forcast](data/weather-reports/20241127.0530.weather-forcast.pdf)
@@ -15,7 +16,6 @@
 * [2024-11-26 16:00 Weather Forecast -Tamil](data/weather-reports/20241126.1600.weather-forecast-tamil.pdf)
 * [2024-11-26 15:00 Warning for Deep Depression over Southwest Bay of Bengal Tamil](data/weather-reports/20241126.1500.warning-for-deep-depression-over-southwest-bay-of-bengal-tamil.pdf)
 * [2024-11-26 15:00 Warning for Deep Depression over Southwest Bay of Bengal](data/weather-reports/20241126.1500.warning-for-deep-depression-over-southwest-bay-of-bengal.pdf)
-* [2024-11-26 12:00 Weather Forcast 12](data/weather-reports/20241126.1200.weather-forcast-12.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -27,8 +27,9 @@
 
 ## Situation Reports
 
-**4105/4170** documents downloaded.
+**4106/4171** documents downloaded.
 
+* [2024-11-27 09:00 Situation Report](data/situation-reports/20241127.0900.situation-report.pdf)
 * [2024-11-26 09:00 Situation Report](data/situation-reports/20241126.0900.situation-report.pdf)
 * [2024-11-25 09:00 Situation Report](data/situation-reports/20241125.0900.situation-report.pdf)
 * [2024-11-24 09:00 Situation Report](data/situation-reports/20241124.0900.situation-report.pdf)
@@ -38,7 +39,6 @@
 * [2024-11-20 09:00 Situation Report](data/situation-reports/20241120.0900.situation-report.pdf)
 * [2024-11-19 09:00 Situation Report](data/situation-reports/20241119.0900.situation-report.pdf)
 * [2024-11-18 09:00 Situation Report](data/situation-reports/20241118.0900.situation-report.pdf)
-* [2024-11-17 09:00 Situation Report](data/situation-reports/20241117.0900.situation-report.pdf)
 
 ## Landslide Warnings
 
@@ -87,15 +87,15 @@
 
 ## River Water Level And Flood Warnings
 
-**1688/1841** documents downloaded.
+**1689/1842** documents downloaded.
 
 * [2024-11-27 10:30 Flood Warning for Kelani Basin No 0](data/river-water-level-and-flood-warnings/20241127.1030.flood-warning-for-kelani-basin-no-0.pdf)
 * [2024-11-27 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241127.0930.water-level-rainfall.jpg)
 * [2024-11-27 09:30 Flood Warning for Kala Oya Basin No 0](data/river-water-level-and-flood-warnings/20241127.0930.flood-warning-for-kala-oya-basin-no-0.pdf)
+* [2024-11-27 09:30 Flood warning for Kala Oya Basin  No 0 Tamil](data/river-water-level-and-flood-warnings/20241127.0930.flood-warning-for-kala-oya-basin-no-0-tamil.pdf)
 * [2024-11-27 06:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241127.0630.water-level-rainfall.jpg)
 * [2024-11-27 05:30 Flood Warning for Malwathu Oya No 0  Tamil](data/river-water-level-and-flood-warnings/20241127.0530.flood-warning-for-malwathu-oya-no-0-tamil.pdf)
 * [2024-11-27 03:30 Flood Warning for Deduru Oya Basin  No 0 Tamil](data/river-water-level-and-flood-warnings/20241127.0330.flood-warning-for-deduru-oya-basin-no-0-tamil.pdf)
 * [2024-11-27 03:00 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241127.0300.water-level-rainfall.jpg)
 * [2024-11-26 21:00 Water Level](data/river-water-level-and-flood-warnings/20241126.2100.water-level.jpg)
 * [2024-11-26 18:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241126.1830.water-level-rainfall.jpg)
-* [2024-11-26 15:30 Flood Warning for Deduru Oya -No 01](data/river-water-level-and-flood-warnings/20241126.1530.flood-warning-for-deduru-oya-no-01.pdf)
