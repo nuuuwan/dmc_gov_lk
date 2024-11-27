@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**8937/9152** documents downloaded.
+**8938/9153** documents downloaded.
 
+* [2024-11-27 12:00 Weather Forecast](data/weather-reports/20241127.1200.weather-forecast.pdf)
 * [2024-11-27 11:00 Warning for Deep Depression over Southwest Bay of Bengal](data/weather-reports/20241127.1100.warning-for-deep-depression-over-southwest-bay-of-bengal.pdf)
 * [2024-11-27 07:00 Weather forecast for multi-day boats for the sea areas](data/weather-reports/20241127.0700.weather-forecast-for-multiday-boats-for-the-sea-areas.pdf)
 * [2024-11-27 07:00 Probability Rainfall Forecast for Major Reservoirs](data/weather-reports/20241127.0700.probability-rainfall-forecast-for-major-reservoirs.pdf)
@@ -15,7 +16,6 @@
 * [2024-11-26 16:00 Weather Forecast](data/weather-reports/20241126.1600.weather-forecast.pdf)
 * [2024-11-26 16:00 Weather Forecast -Tamil](data/weather-reports/20241126.1600.weather-forecast-tamil.pdf)
 * [2024-11-26 15:00 Warning for Deep Depression over Southwest Bay of Bengal Tamil](data/weather-reports/20241126.1500.warning-for-deep-depression-over-southwest-bay-of-bengal-tamil.pdf)
-* [2024-11-26 15:00 Warning for Deep Depression over Southwest Bay of Bengal](data/weather-reports/20241126.1500.warning-for-deep-depression-over-southwest-bay-of-bengal.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -87,8 +87,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1689/1842** documents downloaded.
+**1689/1843** documents downloaded.
 
+* [2024-11-27 12:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241127.1230.water-level-rainfall.jpg)
 * [2024-11-27 10:30 Flood Warning for Kelani Basin No 0](data/river-water-level-and-flood-warnings/20241127.1030.flood-warning-for-kelani-basin-no-0.pdf)
 * [2024-11-27 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241127.0930.water-level-rainfall.jpg)
 * [2024-11-27 09:30 Flood Warning for Kala Oya Basin No 0](data/river-water-level-and-flood-warnings/20241127.0930.flood-warning-for-kala-oya-basin-no-0.pdf)
@@ -98,4 +99,3 @@
 * [2024-11-27 03:30 Flood Warning for Deduru Oya Basin  No 0 Tamil](data/river-water-level-and-flood-warnings/20241127.0330.flood-warning-for-deduru-oya-basin-no-0-tamil.pdf)
 * [2024-11-27 03:00 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241127.0300.water-level-rainfall.jpg)
 * [2024-11-26 21:00 Water Level](data/river-water-level-and-flood-warnings/20241126.2100.water-level.jpg)
-* [2024-11-26 18:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241126.1830.water-level-rainfall.jpg)
