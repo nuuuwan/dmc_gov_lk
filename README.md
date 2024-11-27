@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**8938/9153** documents downloaded.
+**8939/9154** documents downloaded.
 
+* [2024-11-27 16:00 Weather Forcast](data/weather-reports/20241127.1600.weather-forcast.pdf)
 * [2024-11-27 12:00 Weather Forecast](data/weather-reports/20241127.1200.weather-forecast.pdf)
 * [2024-11-27 11:00 Warning for Deep Depression over Southwest Bay of Bengal](data/weather-reports/20241127.1100.warning-for-deep-depression-over-southwest-bay-of-bengal.pdf)
 * [2024-11-27 07:00 Weather forecast for multi-day boats for the sea areas](data/weather-reports/20241127.0700.weather-forecast-for-multiday-boats-for-the-sea-areas.pdf)
@@ -15,7 +16,6 @@
 * [2024-11-26 21:00 Warning for Deep Depression over Southwest Bay of Bengal](data/weather-reports/20241126.2100.warning-for-deep-depression-over-southwest-bay-of-bengal.pdf)
 * [2024-11-26 16:00 Weather Forecast](data/weather-reports/20241126.1600.weather-forecast.pdf)
 * [2024-11-26 16:00 Weather Forecast -Tamil](data/weather-reports/20241126.1600.weather-forecast-tamil.pdf)
-* [2024-11-26 15:00 Warning for Deep Depression over Southwest Bay of Bengal Tamil](data/weather-reports/20241126.1500.warning-for-deep-depression-over-southwest-bay-of-bengal-tamil.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -42,8 +42,9 @@
 
 ## Landslide Warnings
 
-**620/626** documents downloaded.
+**621/627** documents downloaded.
 
+* [2024-11-27 16:00 Landslide Early Warning](data/landslide-warnings/20241127.1600.landslide-early-warning.pdf)
 * [2024-11-26 21:00 Landslide early warning Report](data/landslide-warnings/20241126.2100.landslide-early-warning-report.pdf)
 * [2024-11-26 12:00 Landslide early warning Report](data/landslide-warnings/20241126.1200.landslide-early-warning-report.pdf)
 * [2024-11-26 00:00 Landslide Early Warning](data/landslide-warnings/20241126.0000.landslide-early-warning.pdf)
@@ -53,7 +54,6 @@
 * [2024-11-23 16:00 Landslide early warning Report](data/landslide-warnings/20241123.1600.landslide-early-warning-report.pdf)
 * [2024-11-22 16:00 Landslide early warning Report](data/landslide-warnings/20241122.1600.landslide-early-warning-report.pdf)
 * [2024-11-21 16:00 Landslide early warning Report](data/landslide-warnings/20241121.1600.landslide-early-warning-report.pdf)
-* [2024-11-20 16:00 Landslide early warning Report](data/landslide-warnings/20241120.1600.landslide-early-warning-report.pdf)
 
 ## Earthquakes
 
