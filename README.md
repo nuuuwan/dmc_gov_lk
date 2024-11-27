@@ -42,8 +42,9 @@
 
 ## Landslide Warnings
 
-**621/627** documents downloaded.
+**622/628** documents downloaded.
 
+* [2024-11-27 19:00 Landslide Ew Report](data/landslide-warnings/20241127.1900.landslide-ew-report.pdf)
 * [2024-11-27 16:00 Landslide Early Warning](data/landslide-warnings/20241127.1600.landslide-early-warning.pdf)
 * [2024-11-26 21:00 Landslide early warning Report](data/landslide-warnings/20241126.2100.landslide-early-warning-report.pdf)
 * [2024-11-26 12:00 Landslide early warning Report](data/landslide-warnings/20241126.1200.landslide-early-warning-report.pdf)
@@ -53,7 +54,6 @@
 * [2024-11-24 16:00 Landslide Early Warning](data/landslide-warnings/20241124.1600.landslide-early-warning.pdf)
 * [2024-11-23 16:00 Landslide early warning Report](data/landslide-warnings/20241123.1600.landslide-early-warning-report.pdf)
 * [2024-11-22 16:00 Landslide early warning Report](data/landslide-warnings/20241122.1600.landslide-early-warning-report.pdf)
-* [2024-11-21 16:00 Landslide early warning Report](data/landslide-warnings/20241121.1600.landslide-early-warning-report.pdf)
 
 ## Earthquakes
 
