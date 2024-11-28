@@ -8,6 +8,22 @@
     "ext": "pdf"
   },
   {
+    "name": "Weather Report",
+    "time_str": "2024-11-28 05:30",
+    "time_id": "20241128.0530",
+    "ut": 1732752000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_2024__1732754878.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Warning for Deep Depression over Southwest Bay of Bengal",
+    "time_str": "2024-11-28 05:00",
+    "time_id": "20241128.0500",
+    "ut": 1732750200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_Deep_Depression_over_Southwest_Bay_of_Bengal_at_0500hrs_on_2024__1732755201.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2024-11-27 17:00",
     "time_id": "20241127.1700",
