@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**8969/9187** documents downloaded.
+**8970/9188** documents downloaded.
 
+* [2024-12-01 16:00 Weather Forcast](data/weather-reports/20241201.1600.weather-forcast.pdf)
 * [2024-12-01 12:00 Weather Forecast](data/weather-reports/20241201.1200.weather-forecast.pdf)
 * [2024-12-01 05:30 Weather Forcast](data/weather-reports/20241201.0530.weather-forcast.pdf)
 * [2024-12-01 05:00 Advisory for the Cyclone “FENGAL at 0500hrs on 2024.12.01](data/weather-reports/20241201.0500.advisory-for-the-cyclone-fengal-at-0500hrs-on-20241201.pdf)
@@ -15,7 +16,6 @@
 * [2024-11-30 16:00 Weather Forecast](data/weather-reports/20241130.1600.weather-forecast.pdf)
 * [2024-11-30 12:00 Weather Forecast](data/weather-reports/20241130.1200.weather-forecast.pdf)
 * [2024-11-30 05:30 Weather Forcast](data/weather-reports/20241130.0530.weather-forcast.pdf)
-* [2024-11-30 05:00 Warning for the Cyclone “FENGAL over Southwest Bay of Bengal (Issued date of Tamil version)](data/weather-reports/20241130.0500.warning-for-the-cyclone-fengal-over-southwest-bay-of-bengal-issued-date-of-tamil-version.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -42,8 +42,9 @@
 
 ## Landslide Warnings
 
-**625/631** documents downloaded.
+**626/632** documents downloaded.
 
+* [2024-12-01 16:00 Landslide Early Warning](data/landslide-warnings/20241201.1600.landslide-early-warning.pdf)
 * [2024-11-30 16:00 Landslide Early Warning](data/landslide-warnings/20241130.1600.landslide-early-warning.pdf)
 * [2024-11-29 16:00 Landslide Early Warning](data/landslide-warnings/20241129.1600.landslide-early-warning.pdf)
 * [2024-11-28 16:00 Landslide Early Warning](data/landslide-warnings/20241128.1600.landslide-early-warning.pdf)
@@ -53,7 +54,6 @@
 * [2024-11-26 12:00 Landslide early warning Report](data/landslide-warnings/20241126.1200.landslide-early-warning-report.pdf)
 * [2024-11-26 00:00 Landslide Early Warning](data/landslide-warnings/20241126.0000.landslide-early-warning.pdf)
 * [2024-11-25 21:00 Landslide Early Warning](data/landslide-warnings/20241125.2100.landslide-early-warning.pdf)
-* [2024-11-25 16:00 Landslide early warning Report](data/landslide-warnings/20241125.1600.landslide-early-warning-report.pdf)
 
 ## Earthquakes
 
