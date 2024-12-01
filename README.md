@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**8968/9186** documents downloaded.
+**8969/9187** documents downloaded.
 
+* [2024-12-01 12:00 Weather Forecast](data/weather-reports/20241201.1200.weather-forecast.pdf)
 * [2024-12-01 05:30 Weather Forcast](data/weather-reports/20241201.0530.weather-forcast.pdf)
 * [2024-12-01 05:00 Advisory for the Cyclone “FENGAL at 0500hrs on 2024.12.01](data/weather-reports/20241201.0500.advisory-for-the-cyclone-fengal-at-0500hrs-on-20241201.pdf)
 * [2024-12-01 05:00 TAMIL  Advisory for the Cyclone “FENGAL” (Advisory for the Cyclone “FENGAL”.)](data/weather-reports/20241201.0500.tamil-advisory-for-the-cyclone-fengal-advisory-for-the-cyclone-fengal.pdf)
@@ -15,7 +16,6 @@
 * [2024-11-30 12:00 Weather Forecast](data/weather-reports/20241130.1200.weather-forecast.pdf)
 * [2024-11-30 05:30 Weather Forcast](data/weather-reports/20241130.0530.weather-forcast.pdf)
 * [2024-11-30 05:00 Warning for the Cyclone “FENGAL over Southwest Bay of Bengal (Issued date of Tamil version)](data/weather-reports/20241130.0500.warning-for-the-cyclone-fengal-over-southwest-bay-of-bengal-issued-date-of-tamil-version.pdf)
-* [2024-11-29 23:00 Warning for the Cyclone FENGAL](data/weather-reports/20241129.2300.warning-for-the-cyclone-fengal.pdf)
 
 ## Emergency Response Data Viewer
 
