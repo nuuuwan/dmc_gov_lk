@@ -8,6 +8,14 @@
     "ext": "pdf"
   },
   {
+    "name": "Weather Forcast at 1600hrs on 2024.12.0 (Tamil)",
+    "time_str": "2024-12-02 16:00",
+    "time_id": "20241202.1600",
+    "ut": 1733135400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Tamil_W20241202c__1733144783.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Withdrawal of Flood warning (Mahaweli  Deduru rivers)",
     "time_str": "2024-12-02 12:30",
     "time_id": "20241202.1230",
