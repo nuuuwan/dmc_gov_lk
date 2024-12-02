@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**8972/9190** documents downloaded.
+**8973/9191** documents downloaded.
 
+* [2024-12-02 12:30 Withdrawal of Flood warning (Mahaweli  Deduru rivers)](data/weather-reports/20241202.1230.withdrawal-of-flood-warning-mahaweli-deduru-rivers.pdf)
 * [2024-12-02 12:00 Weather Forecast](data/weather-reports/20241202.1200.weather-forecast.pdf)
 * [2024-12-02 05:30 Weather Forcast](data/weather-reports/20241202.0530.weather-forcast.pdf)
 * [2024-12-01 16:00 Weather Forcast](data/weather-reports/20241201.1600.weather-forcast.pdf)
@@ -15,7 +16,6 @@
 * [2024-12-01 05:00 TAMIL  Advisory for the Cyclone “FENGAL” (Advisory for the Cyclone “FENGAL”.)](data/weather-reports/20241201.0500.tamil-advisory-for-the-cyclone-fengal-advisory-for-the-cyclone-fengal.pdf)
 * [2024-11-30 17:00 Weather Forcast](data/weather-reports/20241130.1700.weather-forcast.pdf)
 * [2024-11-30 17:00 Weather Forcast](data/weather-reports/20241130.1700.weather-forcast.pdf)
-* [2024-11-30 16:00 Weather Forecast](data/weather-reports/20241130.1600.weather-forecast.pdf)
 
 ## Emergency Response Data Viewer
 
