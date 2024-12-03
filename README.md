@@ -4,12 +4,12 @@
 
 ## Weather Reports
 
-**8976/9194** documents downloaded.
+**8977/9194** documents downloaded.
 
 * [2024-12-03 05:30 Weather Forcast](data/weather-reports/20241203.0530.weather-forcast.pdf)
+* [2024-12-03 05:30 Weather Forcast at 053 hrs (Tamil)](data/weather-reports/20241203.0530.weather-forcast-at-053-hrs-tamil.pdf)
 * [2024-12-02 16:00 Weather Forecast](data/weather-reports/20241202.1600.weather-forecast.pdf)
 * [2024-12-02 16:00 Weather Forcast at 1600hrs on 2024.12.0 (Tamil)](data/weather-reports/20241202.1600.weather-forcast-at-1600hrs-on-2024120-tamil.pdf)
-* [2024-12-02 12:30 Withdrawal of Flood warning (Mahaweli  Deduru rivers)](data/weather-reports/20241202.1230.withdrawal-of-flood-warning-mahaweli-deduru-rivers.pdf)
 * [2024-12-02 12:00 Weather Forecast](data/weather-reports/20241202.1200.weather-forecast.pdf)
 * [2024-12-02 05:30 Weather Forcast](data/weather-reports/20241202.0530.weather-forcast.pdf)
 * [2024-12-01 16:00 Weather Forcast](data/weather-reports/20241201.1600.weather-forcast.pdf)
@@ -87,8 +87,10 @@
 
 ## River Water Level And Flood Warnings
 
-**1710/1892** documents downloaded.
+**1712/1894** documents downloaded.
 
+* [2024-12-02 12:30 Withdrawal of Flood warning (Mahaweli  Deduru rivers)](data/river-water-level-and-flood-warnings/20241202.1230.withdrawal-of-flood-warning-mahaweli-deduru-rivers.pdf)
+* [2024-12-02 12:30 Withdrawal of Flood warning (Mahaweli.Deduru)-Tamil](data/river-water-level-and-flood-warnings/20241202.1230.withdrawal-of-flood-warning-mahawelidedurutamil.pdf)
 * [2024-12-02 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241202.0930.water-level-rainfall.jpg)
 * [2024-12-01 18:00 water level](data/river-water-level-and-flood-warnings/20241201.1800.water-level.jpg)
 * [2024-12-01 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241201.0930.water-level-rainfall.jpg)
@@ -97,5 +99,3 @@
 * [2024-12-01 06:00 water level](data/river-water-level-and-flood-warnings/20241201.0600.water-level.jpg)
 * [2024-11-30 21:30 water level](data/river-water-level-and-flood-warnings/20241130.2130.water-level.jpg)
 * [2024-11-30 19:00 Withdrawal of Flood warning (Mundeni Aru)](data/river-water-level-and-flood-warnings/20241130.1900.withdrawal-of-flood-warning-mundeni-aru.pdf)
-* [2024-11-30 18:30 water level](data/river-water-level-and-flood-warnings/20241130.1830.water-level.jpg)
-* [2024-11-30 17:30 The Withdrawal of Flood warning (Heda Oya)](data/river-water-level-and-flood-warnings/20241130.1730.the-withdrawal-of-flood-warning-heda-oya.pdf)

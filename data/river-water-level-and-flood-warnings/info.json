@@ -1,5 +1,21 @@
 [
   {
+    "name": "Withdrawal of Flood warning (Mahaweli  Deduru rivers)",
+    "time_str": "2024-12-02 12:30",
+    "time_id": "20241202.1230",
+    "ut": 1733122800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Withdrawal_of_Flood_warning_(Mahaweli_&_Deduru_rivers)_at_1230hrs_on_2024__1733124034.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Withdrawal of Flood warning (Mahaweli.Deduru)-Tamil",
+    "time_str": "2024-12-02 12:30",
+    "time_id": "20241202.1230",
+    "ut": 1733122800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Withdrawal_of_Flood_warning_(Mahaweli__1733127565.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Water level  Rainfall",
     "time_str": "2024-12-02 09:30",
     "time_id": "20241202.0930",
