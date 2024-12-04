@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**8980/9197** documents downloaded.
+**8981/9198** documents downloaded.
 
+* [2024-12-04 05:30 Weather Forcast](data/weather-reports/20241204.0530.weather-forcast.pdf)
 * [2024-12-03 16:00 Weather Forecast](data/weather-reports/20241203.1600.weather-forecast.pdf)
 * [2024-12-03 16:00 Weather Forcast at 160 hrs (Tamil)](data/weather-reports/20241203.1600.weather-forcast-at-160-hrs-tamil.pdf)
 * [2024-12-03 12:00 Weather Report](data/weather-reports/20241203.1200.weather-report.pdf)
@@ -15,7 +16,6 @@
 * [2024-12-02 16:00 Weather Forcast at 1600hrs on 2024.12.0 (Tamil)](data/weather-reports/20241202.1600.weather-forcast-at-1600hrs-on-2024120-tamil.pdf)
 * [2024-12-02 12:00 Weather Forecast](data/weather-reports/20241202.1200.weather-forecast.pdf)
 * [2024-12-02 05:30 Weather Forcast](data/weather-reports/20241202.0530.weather-forcast.pdf)
-* [2024-12-01 16:00 Weather Forcast](data/weather-reports/20241201.1600.weather-forcast.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -87,8 +87,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1712/1895** documents downloaded.
+**1712/1896** documents downloaded.
 
+* [2024-12-04 00:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241204.0030.water-level-rainfall.jpg)
 * [2024-12-03 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241203.0930.water-level-rainfall.jpg)
 * [2024-12-02 12:30 Withdrawal of Flood warning (Mahaweli  Deduru rivers)](data/river-water-level-and-flood-warnings/20241202.1230.withdrawal-of-flood-warning-mahaweli-deduru-rivers.pdf)
 * [2024-12-02 12:30 Withdrawal of Flood warning (Mahaweli.Deduru)-Tamil](data/river-water-level-and-flood-warnings/20241202.1230.withdrawal-of-flood-warning-mahawelidedurutamil.pdf)
@@ -98,4 +99,3 @@
 * [2024-12-01 09:00 The Withdrawal of Flood warning (Malwathu Oya 2024.12.01](data/river-water-level-and-flood-warnings/20241201.0900.the-withdrawal-of-flood-warning-malwathu-oya-20241201.pdf)
 * [2024-12-01 08:30 Withdrawal of Flood warning (Malwathu Oya)](data/river-water-level-and-flood-warnings/20241201.0830.withdrawal-of-flood-warning-malwathu-oya.pdf)
 * [2024-12-01 06:00 water level](data/river-water-level-and-flood-warnings/20241201.0600.water-level.jpg)
-* [2024-11-30 21:30 water level](data/river-water-level-and-flood-warnings/20241130.2130.water-level.jpg)
