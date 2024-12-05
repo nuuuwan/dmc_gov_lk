@@ -27,8 +27,9 @@
 
 ## Situation Reports
 
-**4113/4177** documents downloaded.
+**4114/4178** documents downloaded.
 
+* [2024-12-05 10:00 Situation Report](data/situation-reports/20241205.1000.situation-report.pdf)
 * [2024-12-03 10:00 Situation Report](data/situation-reports/20241203.1000.situation-report.pdf)
 * [2024-12-02 10:00 Situation Report](data/situation-reports/20241202.1000.situation-report.pdf)
 * [2024-12-01 12:00 Situation Report](data/situation-reports/20241201.1200.situation-report.pdf)
@@ -38,7 +39,6 @@
 * [2024-11-27 09:00 Situation Report](data/situation-reports/20241127.0900.situation-report.pdf)
 * [2024-11-26 09:00 Situation Report](data/situation-reports/20241126.0900.situation-report.pdf)
 * [2024-11-25 09:00 Situation Report](data/situation-reports/20241125.0900.situation-report.pdf)
-* [2024-11-24 09:00 Situation Report](data/situation-reports/20241124.0900.situation-report.pdf)
 
 ## Landslide Warnings
 
@@ -87,8 +87,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1712/1898** documents downloaded.
+**1712/1899** documents downloaded.
 
+* [2024-12-05 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241205.0930.water-level-rainfall.jpg)
 * [2024-12-05 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241205.0930.water-level-rainfall.jpg)
 * [2024-12-05 00:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241205.0030.water-level-rainfall.jpg)
 * [2024-12-04 00:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241204.0030.water-level-rainfall.jpg)
@@ -98,4 +99,3 @@
 * [2024-12-02 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241202.0930.water-level-rainfall.jpg)
 * [2024-12-01 18:00 water level](data/river-water-level-and-flood-warnings/20241201.1800.water-level.jpg)
 * [2024-12-01 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241201.0930.water-level-rainfall.jpg)
-* [2024-12-01 09:00 The Withdrawal of Flood warning (Malwathu Oya 2024.12.01](data/river-water-level-and-flood-warnings/20241201.0900.the-withdrawal-of-flood-warning-malwathu-oya-20241201.pdf)
