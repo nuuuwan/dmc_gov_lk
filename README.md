@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**8986/9203** documents downloaded.
+**8987/9204** documents downloaded.
 
+* [2024-12-06 05:30 Weather Forcast](data/weather-reports/20241206.0530.weather-forcast.pdf)
 * [2024-12-05 16:00 Weather Forecast](data/weather-reports/20241205.1600.weather-forecast.pdf)
 * [2024-12-05 12:00 Weather Forecast](data/weather-reports/20241205.1200.weather-forecast.pdf)
 * [2024-12-05 05:30 Weather Forcast](data/weather-reports/20241205.0530.weather-forcast.pdf)
@@ -15,7 +16,6 @@
 * [2024-12-03 16:00 Weather Forecast](data/weather-reports/20241203.1600.weather-forecast.pdf)
 * [2024-12-03 16:00 Weather Forcast at 160 hrs (Tamil)](data/weather-reports/20241203.1600.weather-forcast-at-160-hrs-tamil.pdf)
 * [2024-12-03 12:00 Weather Report](data/weather-reports/20241203.1200.weather-report.pdf)
-* [2024-12-03 05:30 Weather Forcast](data/weather-reports/20241203.0530.weather-forcast.pdf)
 
 ## Emergency Response Data Viewer
 
