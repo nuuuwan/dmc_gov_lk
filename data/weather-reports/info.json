@@ -8,6 +8,14 @@
     "ext": "pdf"
   },
   {
+    "name": "Weather Forcast at 120 hrs (Tamil)",
+    "time_str": "2024-12-08 12:00",
+    "time_id": "20241208.1200",
+    "ut": 1733639400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Tamil_W20241208b__1733646768.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2024-12-08 05:30",
     "time_id": "20241208.0530",
