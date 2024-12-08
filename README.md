@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**8994/9211** documents downloaded.
+**8995/9212** documents downloaded.
 
+* [2024-12-08 05:30 Weather Forcast](data/weather-reports/20241208.0530.weather-forcast.pdf)
 * [2024-12-07 16:00 Weather Forecast](data/weather-reports/20241207.1600.weather-forecast.pdf)
 * [2024-12-07 14:00 Advisory for heavy rain strong winds and rough seas](data/weather-reports/20241207.1400.advisory-for-heavy-rain-strong-winds-and-rough-seas.pdf)
 * [2024-12-07 12:00 Weather Forecast](data/weather-reports/20241207.1200.weather-forecast.pdf)
@@ -15,7 +16,6 @@
 * [2024-12-06 11:30 Weather Information Bulletin Issued](data/weather-reports/20241206.1130.weather-information-bulletin-issued.pdf)
 * [2024-12-06 05:30 Weather Forcast](data/weather-reports/20241206.0530.weather-forcast.pdf)
 * [2024-12-05 16:00 Weather Forecast](data/weather-reports/20241205.1600.weather-forecast.pdf)
-* [2024-12-05 12:00 Weather Forecast](data/weather-reports/20241205.1200.weather-forecast.pdf)
 
 ## Emergency Response Data Viewer
 
