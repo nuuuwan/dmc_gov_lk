@@ -27,8 +27,9 @@
 
 ## Situation Reports
 
-**4116/4180** documents downloaded.
+**4117/4181** documents downloaded.
 
+* [2024-12-08 09:00 Situation Report](data/situation-reports/20241208.0900.situation-report.pdf)
 * [2024-12-07 09:00 Situation Report](data/situation-reports/20241207.0900.situation-report.pdf)
 * [2024-12-06 12:00 Situation Report](data/situation-reports/20241206.1200.situation-report.pdf)
 * [2024-12-05 10:00 Situation Report](data/situation-reports/20241205.1000.situation-report.pdf)
@@ -38,7 +39,6 @@
 * [2024-11-30 12:00 Situation Report](data/situation-reports/20241130.1200.situation-report.pdf)
 * [2024-11-29 14:00 Situation Report](data/situation-reports/20241129.1400.situation-report.pdf)
 * [2024-11-28 16:00 Situation Report](data/situation-reports/20241128.1600.situation-report.pdf)
-* [2024-11-27 09:00 Situation Report](data/situation-reports/20241127.0900.situation-report.pdf)
 
 ## Landslide Warnings
 
@@ -87,8 +87,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1712/1899** documents downloaded.
+**1712/1900** documents downloaded.
 
+* [2024-12-08 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241208.0930.water-level-rainfall.jpg)
 * [2024-12-05 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241205.0930.water-level-rainfall.jpg)
 * [2024-12-05 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241205.0930.water-level-rainfall.jpg)
 * [2024-12-05 00:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241205.0030.water-level-rainfall.jpg)
@@ -98,4 +99,3 @@
 * [2024-12-02 12:30 Withdrawal of Flood warning (Mahaweli.Deduru)-Tamil](data/river-water-level-and-flood-warnings/20241202.1230.withdrawal-of-flood-warning-mahawelidedurutamil.pdf)
 * [2024-12-02 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241202.0930.water-level-rainfall.jpg)
 * [2024-12-01 18:00 water level](data/river-water-level-and-flood-warnings/20241201.1800.water-level.jpg)
-* [2024-12-01 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241201.0930.water-level-rainfall.jpg)
