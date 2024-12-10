@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**9006/9223** documents downloaded.
+**9007/9224** documents downloaded.
 
+* [2024-12-10 07:00 Weather forecast for multi-day boats for the sea areas](data/weather-reports/20241210.0700.weather-forecast-for-multiday-boats-for-the-sea-areas.pdf)
 * [2024-12-10 05:30 Weather Forcast](data/weather-reports/20241210.0530.weather-forcast.pdf)
 * [2024-12-09 16:00 Weather Forecast](data/weather-reports/20241209.1600.weather-forecast.pdf)
 * [2024-12-09 14:00 Advisory for heavy rain strong winds and rough seas](data/weather-reports/20241209.1400.advisory-for-heavy-rain-strong-winds-and-rough-seas.pdf)
@@ -15,7 +16,6 @@
 * [2024-12-09 05:30 Weather Forcast](data/weather-reports/20241209.0530.weather-forcast.pdf)
 * [2024-12-08 16:00 Weather Forecast](data/weather-reports/20241208.1600.weather-forecast.pdf)
 * [2024-12-08 14:30 Advisory for heavy rain strong winds and rough seas](data/weather-reports/20241208.1430.advisory-for-heavy-rain-strong-winds-and-rough-seas.pdf)
-* [2024-12-08 12:00 Weather Forcast](data/weather-reports/20241208.1200.weather-forcast.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -87,9 +87,10 @@
 
 ## River Water Level And Flood Warnings
 
-**1712/1903** documents downloaded.
+**1712/1904** documents downloaded.
 
 * [2024-12-10 12:30 water level](data/river-water-level-and-flood-warnings/20241210.1230.water-level.jpg)
+* [2024-12-10 06:30 water level](data/river-water-level-and-flood-warnings/20241210.0630.water-level.jpg)
 * [2024-12-09 18:00 water level](data/river-water-level-and-flood-warnings/20241209.1800.water-level.jpg)
 * [2024-12-09 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241209.0930.water-level-rainfall.jpg)
 * [2024-12-08 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241208.0930.water-level-rainfall.jpg)
@@ -98,4 +99,3 @@
 * [2024-12-05 00:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241205.0030.water-level-rainfall.jpg)
 * [2024-12-04 00:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241204.0030.water-level-rainfall.jpg)
 * [2024-12-03 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241203.0930.water-level-rainfall.jpg)
-* [2024-12-02 12:30 Withdrawal of Flood warning (Mahaweli  Deduru rivers)](data/river-water-level-and-flood-warnings/20241202.1230.withdrawal-of-flood-warning-mahaweli-deduru-rivers.pdf)
