@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**9017/9235** documents downloaded.
+**9018/9236** documents downloaded.
 
+* [2024-12-12 12:00 Weather Forecast](data/weather-reports/20241212.1200.weather-forecast.pdf)
 * [2024-12-12 05:30 Weather Forcast](data/weather-reports/20241212.0530.weather-forcast.pdf)
 * [2024-12-11 14:00 Advisory for heavy rain strong winds and rough seas](data/weather-reports/20241211.1400.advisory-for-heavy-rain-strong-winds-and-rough-seas.pdf)
 * [2024-12-11 14:00 Advisory for heavy rain strong winds and rough seas  Tamil](data/weather-reports/20241211.1400.advisory-for-heavy-rain-strong-winds-and-rough-seas-tamil.pdf)
@@ -15,7 +16,6 @@
 * [2024-12-11 05:45 Weather Forcast](data/weather-reports/20241211.0545.weather-forcast.pdf)
 * [2024-12-10 16:00 Weather Forcast](data/weather-reports/20241210.1600.weather-forcast.pdf)
 * [2024-12-10 14:00 Advisory for heavy rain strong winds and rough seas](data/weather-reports/20241210.1400.advisory-for-heavy-rain-strong-winds-and-rough-seas.pdf)
-* [2024-12-10 14:00 Advisory for heavy rain strong winds and rough seas  Tamil](data/weather-reports/20241210.1400.advisory-for-heavy-rain-strong-winds-and-rough-seas-tamil.pdf)
 
 ## Emergency Response Data Viewer
 
