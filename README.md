@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**9022/9240** documents downloaded.
+**9023/9241** documents downloaded.
 
+* [2024-12-14 05:30 Weather Report](data/weather-reports/20241214.0530.weather-report.pdf)
 * [2024-12-13 16:00 Weather Forecast](data/weather-reports/20241213.1600.weather-forecast.pdf)
 * [2024-12-13 12:00 Weather Forecast](data/weather-reports/20241213.1200.weather-forecast.pdf)
 * [2024-12-13 05:30 Weather Forcast](data/weather-reports/20241213.0530.weather-forcast.pdf)
@@ -14,7 +15,6 @@
 * [2024-12-12 05:30 Weather Forcast](data/weather-reports/20241212.0530.weather-forcast.pdf)
 * [2024-12-11 14:00 Advisory for heavy rain strong winds and rough seas](data/weather-reports/20241211.1400.advisory-for-heavy-rain-strong-winds-and-rough-seas.pdf)
 * [2024-12-11 14:00 Advisory for heavy rain strong winds and rough seas  Tamil](data/weather-reports/20241211.1400.advisory-for-heavy-rain-strong-winds-and-rough-seas-tamil.pdf)
-* [2024-12-11 12:00 Weather Forcast](data/weather-reports/20241211.1200.weather-forcast.pdf)
 * [2024-12-11 12:00 Weather Forcast](data/weather-reports/20241211.1200.weather-forcast.pdf)
 
 ## Emergency Response Data Viewer
