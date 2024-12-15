@@ -8,6 +8,14 @@
     "ext": "pdf"
   },
   {
+    "name": "Weather advisory ",
+    "time_str": "2024-12-15 16:00",
+    "time_id": "20241215.1600",
+    "ut": 1734258600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_AdvisoryFor_the_land_and_the_sea_areas_around_the_island_at_1600_hrs_on_2024__1734259854.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2024-12-15 12:00",
     "time_id": "20241215.1200",

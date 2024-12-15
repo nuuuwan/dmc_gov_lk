@@ -4,9 +4,10 @@
 
 ## Weather Reports
 
-**9028/9246** documents downloaded.
+**9029/9247** documents downloaded.
 
 * [2024-12-15 16:00 Weather Forcast](data/weather-reports/20241215.1600.weather-forcast.pdf)
+* [2024-12-15 16:00 Weather advisory](data/weather-reports/20241215.1600.weather-advisory.pdf)
 * [2024-12-15 12:00 Weather Forcast](data/weather-reports/20241215.1200.weather-forcast.pdf)
 * [2024-12-15 05:30 Weather Forcast](data/weather-reports/20241215.0530.weather-forcast.pdf)
 * [2024-12-14 16:00 Weather Forcast](data/weather-reports/20241214.1600.weather-forcast.pdf)
@@ -15,7 +16,6 @@
 * [2024-12-13 16:00 Weather Forecast](data/weather-reports/20241213.1600.weather-forecast.pdf)
 * [2024-12-13 12:00 Weather Forecast](data/weather-reports/20241213.1200.weather-forecast.pdf)
 * [2024-12-13 05:30 Weather Forcast](data/weather-reports/20241213.0530.weather-forcast.pdf)
-* [2024-12-12 16:00 Weather Forcast](data/weather-reports/20241212.1600.weather-forcast.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -42,8 +42,9 @@
 
 ## Landslide Warnings
 
-**628/634** documents downloaded.
+**629/635** documents downloaded.
 
+* [2024-12-15 16:00 Landslide Early Warning](data/landslide-warnings/20241215.1600.landslide-early-warning.pdf)
 * [2024-12-14 16:00 Landslide Early Warning](data/landslide-warnings/20241214.1600.landslide-early-warning.pdf)
 * [2024-12-02 16:00 Landslide early warning](data/landslide-warnings/20241202.1600.landslide-early-warning.pdf)
 * [2024-12-01 16:00 Landslide Early Warning](data/landslide-warnings/20241201.1600.landslide-early-warning.pdf)
@@ -53,7 +54,6 @@
 * [2024-11-27 19:00 Landslide Ew Report](data/landslide-warnings/20241127.1900.landslide-ew-report.pdf)
 * [2024-11-27 16:00 Landslide Early Warning](data/landslide-warnings/20241127.1600.landslide-early-warning.pdf)
 * [2024-11-26 21:00 Landslide early warning Report](data/landslide-warnings/20241126.2100.landslide-early-warning-report.pdf)
-* [2024-11-26 12:00 Landslide early warning Report](data/landslide-warnings/20241126.1200.landslide-early-warning-report.pdf)
 
 ## Earthquakes
 
