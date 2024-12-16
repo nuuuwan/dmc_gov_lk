@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**9031/9249** documents downloaded.
+**9032/9250** documents downloaded.
 
+* [2024-12-16 16:00 Weather Advisory For the land and the sea areas around the island issued](data/weather-reports/20241216.1600.weather-advisory-for-the-land-and-the-sea-areas-around-the-island-issued.pdf)
 * [2024-12-16 12:00 Weather Forcast](data/weather-reports/20241216.1200.weather-forcast.pdf)
 * [2024-12-16 05:30 Weather Forcast](data/weather-reports/20241216.0530.weather-forcast.pdf)
 * [2024-12-15 16:00 Weather Forcast](data/weather-reports/20241215.1600.weather-forcast.pdf)
@@ -15,7 +16,6 @@
 * [2024-12-14 16:00 Weather Forcast](data/weather-reports/20241214.1600.weather-forcast.pdf)
 * [2024-12-14 12:00 Weather Forecast](data/weather-reports/20241214.1200.weather-forecast.pdf)
 * [2024-12-14 05:30 Weather Report](data/weather-reports/20241214.0530.weather-report.pdf)
-* [2024-12-13 16:00 Weather Forecast](data/weather-reports/20241213.1600.weather-forecast.pdf)
 
 ## Emergency Response Data Viewer
 
