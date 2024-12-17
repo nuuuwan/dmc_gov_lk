@@ -27,8 +27,9 @@
 
 ## Situation Reports
 
-**4125/4189** documents downloaded.
+**4126/4190** documents downloaded.
 
+* [2024-12-17 09:00 Situation Report](data/situation-reports/20241217.0900.situation-report.pdf)
 * [2024-12-16 09:00 Situation Report](data/situation-reports/20241216.0900.situation-report.pdf)
 * [2024-12-15 09:00 Situation Report](data/situation-reports/20241215.0900.situation-report.pdf)
 * [2024-12-14 09:00 Situation Report](data/situation-reports/20241214.0900.situation-report.pdf)
@@ -38,7 +39,6 @@
 * [2024-12-10 09:00 Situation Report](data/situation-reports/20241210.0900.situation-report.pdf)
 * [2024-12-09 10:00 Situation Report](data/situation-reports/20241209.1000.situation-report.pdf)
 * [2024-12-08 09:00 Situation Report](data/situation-reports/20241208.0900.situation-report.pdf)
-* [2024-12-07 09:00 Situation Report](data/situation-reports/20241207.0900.situation-report.pdf)
 
 ## Landslide Warnings
 
