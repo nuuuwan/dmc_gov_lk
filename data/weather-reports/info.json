@@ -8,6 +8,14 @@
     "ext": "pdf"
   },
   {
+    "name": "Weather Advisor",
+    "time_str": "2024-12-18 16:00",
+    "time_id": "20241218.1600",
+    "ut": 1734517800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Advisory_For_the_Northern_and_Bay_of_Bengal_sea_areas_at_1600hrs_on_2024__1734519868.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2024-12-18 05:30",
     "time_id": "20241218.0530",
