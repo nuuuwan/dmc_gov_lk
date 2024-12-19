@@ -1,5 +1,21 @@
 [
   {
+    "name": "Weather advisory",
+    "time_str": "2024-12-19 16:00",
+    "time_id": "20241219.1600",
+    "ut": 1734604200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Advisory_Report_at_1600hrs_on_2024__1734604788.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2024-12-19 16:00",
+    "time_id": "20241219.1600",
+    "ut": 1734604200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2024__1734604916.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2024-12-19 12:00",
     "time_id": "20241219.1200",
