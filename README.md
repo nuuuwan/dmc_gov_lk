@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**9084/9303** documents downloaded.
+**9085/9304** documents downloaded.
 
+* [2025-01-01 12:00 Weather Forecast](data/weather-reports/20250101.1200.weather-forecast.pdf)
 * [2025-01-01 05:30 Weather Forcast](data/weather-reports/20250101.0530.weather-forcast.pdf)
 * [2024-12-31 16:00 Weather Forecast](data/weather-reports/20241231.1600.weather-forecast.pdf)
 * [2024-12-31 15:00 Weather Forecast](data/weather-reports/20241231.1500.weather-forecast.pdf)
@@ -14,7 +15,6 @@
 * [2024-12-30 16:00 Weather Forecast](data/weather-reports/20241230.1600.weather-forecast.pdf)
 * [2024-12-30 12:00 Weather Forecast](data/weather-reports/20241230.1200.weather-forecast.pdf)
 * [2024-12-30 05:30 Weather Forcast](data/weather-reports/20241230.0530.weather-forcast.pdf)
-* [2024-12-29 12:00 Weather Forcast](data/weather-reports/20241229.1200.weather-forcast.pdf)
 * [2024-12-29 12:00 Weather Forcast](data/weather-reports/20241229.1200.weather-forcast.pdf)
 
 ## Emergency Response Data Viewer
@@ -27,8 +27,9 @@
 
 ## Situation Reports
 
-**4137/4201** documents downloaded.
+**4138/4202** documents downloaded.
 
+* [2025-01-01 09:00 Situation Report](data/situation-reports/20250101.0900.situation-report.pdf)
 * [2024-12-29 09:00 Situation Report](data/situation-reports/20241229.0900.situation-report.pdf)
 * [2024-12-28 09:00 Situation Report](data/situation-reports/20241228.0900.situation-report.pdf)
 * [2024-12-27 09:00 Situation Report](data/situation-reports/20241227.0900.situation-report.pdf)
@@ -38,7 +39,6 @@
 * [2024-12-23 09:00 Situation Report](data/situation-reports/20241223.0900.situation-report.pdf)
 * [2024-12-21 09:00 Situation Report](data/situation-reports/20241221.0900.situation-report.pdf)
 * [2024-12-20 09:00 Situation Report](data/situation-reports/20241220.0900.situation-report.pdf)
-* [2024-12-19 09:00 Situation Report](data/situation-reports/20241219.0900.situation-report.pdf)
 
 ## Landslide Warnings
 
