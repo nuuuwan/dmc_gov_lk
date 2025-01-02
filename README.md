@@ -27,8 +27,9 @@
 
 ## Situation Reports
 
-**4138/4202** documents downloaded.
+**4139/4203** documents downloaded.
 
+* [2025-01-02 09:00 Situation Report](data/situation-reports/20250102.0900.situation-report.pdf)
 * [2025-01-01 09:00 Situation Report](data/situation-reports/20250101.0900.situation-report.pdf)
 * [2024-12-29 09:00 Situation Report](data/situation-reports/20241229.0900.situation-report.pdf)
 * [2024-12-28 09:00 Situation Report](data/situation-reports/20241228.0900.situation-report.pdf)
@@ -38,7 +39,6 @@
 * [2024-12-24 09:00 Situation Report](data/situation-reports/20241224.0900.situation-report.pdf)
 * [2024-12-23 09:00 Situation Report](data/situation-reports/20241223.0900.situation-report.pdf)
 * [2024-12-21 09:00 Situation Report](data/situation-reports/20241221.0900.situation-report.pdf)
-* [2024-12-20 09:00 Situation Report](data/situation-reports/20241220.0900.situation-report.pdf)
 
 ## Landslide Warnings
 
@@ -87,8 +87,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1714/1937** documents downloaded.
+**1714/1938** documents downloaded.
 
+* [2025-01-02 09:30 water level](data/river-water-level-and-flood-warnings/20250102.0930.water-level.jpg)
 * [2024-12-31 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241231.0930.water-level-rainfall.jpg)
 * [2024-12-31 06:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241231.0630.water-level-rainfall.jpg)
 * [2024-12-26 10:00 Water Level](data/river-water-level-and-flood-warnings/20241226.1000.water-level.jpg)
@@ -98,4 +99,3 @@
 * [2024-12-23 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241223.0930.water-level-rainfall.jpg)
 * [2024-12-23 05:30 water level](data/river-water-level-and-flood-warnings/20241223.0530.water-level.jpg)
 * [2024-12-22 18:30 water level](data/river-water-level-and-flood-warnings/20241222.1830.water-level.jpg)
-* [2024-12-22 09:30 Water level](data/river-water-level-and-flood-warnings/20241222.0930.water-level.jpg)
