@@ -1,5 +1,13 @@
 [
   {
+    "name": "Water level  Rainfall",
+    "time_str": "2025-01-04 09:30",
+    "time_id": "20250104.0930",
+    "ut": 1735963200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2025__1735964866.jpg",
+    "ext": "jpg"
+  },
+  {
     "name": "water level",
     "time_str": "2025-01-02 09:30",
     "time_id": "20250102.0930",
