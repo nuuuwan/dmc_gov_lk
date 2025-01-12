@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**9122/9341** documents downloaded.
+**9123/9342** documents downloaded.
 
+* [2025-01-12 12:00 Weather Forcast](data/weather-reports/20250112.1200.weather-forcast.pdf)
 * [2025-01-12 08:00 Advisory for strong winds and rough seas](data/weather-reports/20250112.0800.advisory-for-strong-winds-and-rough-seas.pdf)
 * [2025-01-12 05:30 Weather Forcast](data/weather-reports/20250112.0530.weather-forcast.pdf)
 * [2025-01-11 16:00 Weather Forecast](data/weather-reports/20250111.1600.weather-forecast.pdf)
@@ -15,7 +16,6 @@
 * [2025-01-10 16:00 Weather Forecast](data/weather-reports/20250110.1600.weather-forecast.pdf)
 * [2025-01-10 12:00 Weather Forcast](data/weather-reports/20250110.1200.weather-forcast.pdf)
 * [2025-01-10 05:30 Weather Forcast](data/weather-reports/20250110.0530.weather-forcast.pdf)
-* [2025-01-09 16:00 Weather Forecast](data/weather-reports/20250109.1600.weather-forecast.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -87,8 +87,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1714/1940** documents downloaded.
+**1714/1941** documents downloaded.
 
+* [2025-01-12 09:30 water level](data/river-water-level-and-flood-warnings/20250112.0930.water-level.png)
 * [2025-01-08 10:00 water level](data/river-water-level-and-flood-warnings/20250108.1000.water-level.jpg)
 * [2025-01-04 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20250104.0930.water-level-rainfall.jpg)
 * [2025-01-02 09:30 water level](data/river-water-level-and-flood-warnings/20250102.0930.water-level.jpg)
@@ -98,4 +99,3 @@
 * [2024-12-25 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241225.0930.water-level-rainfall.jpg)
 * [2024-12-24 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241224.0930.water-level-rainfall.jpg)
 * [2024-12-23 12:30 water level](data/river-water-level-and-flood-warnings/20241223.1230.water-level.jpg)
-* [2024-12-23 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20241223.0930.water-level-rainfall.jpg)
