@@ -4,8 +4,10 @@
 
 ## Weather Reports
 
-**9127/9346** documents downloaded.
+**9129/9348** documents downloaded.
 
+* [2025-01-14 06:00 Advisory for Strong Winds and Rough Seas](data/weather-reports/20250114.0600.advisory-for-strong-winds-and-rough-seas.pdf)
+* [2025-01-14 05:30 Weather Forcast](data/weather-reports/20250114.0530.weather-forcast.pdf)
 * [2025-01-13 16:00 Weather Forecast](data/weather-reports/20250113.1600.weather-forecast.pdf)
 * [2025-01-13 12:00 Weather Forcast](data/weather-reports/20250113.1200.weather-forcast.pdf)
 * [2025-01-13 05:30 Weather Forcast](data/weather-reports/20250113.0530.weather-forcast.pdf)
@@ -14,8 +16,6 @@
 * [2025-01-12 08:00 Advisory for strong winds and rough seas](data/weather-reports/20250112.0800.advisory-for-strong-winds-and-rough-seas.pdf)
 * [2025-01-12 05:30 Weather Forcast](data/weather-reports/20250112.0530.weather-forcast.pdf)
 * [2025-01-11 16:00 Weather Forecast](data/weather-reports/20250111.1600.weather-forecast.pdf)
-* [2025-01-11 12:30 Advisory for Heavy Rain](data/weather-reports/20250111.1230.advisory-for-heavy-rain.pdf)
-* [2025-01-11 12:00 Weather Forcast](data/weather-reports/20250111.1200.weather-forcast.pdf)
 
 ## Emergency Response Data Viewer
 
