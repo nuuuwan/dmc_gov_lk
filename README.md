@@ -4,8 +4,9 @@
 
 ## Weather Reports
 
-**9141/9360** documents downloaded.
+**9142/9361** documents downloaded.
 
+* [2025-01-17 05:30 Weather Forcast](data/weather-reports/20250117.0530.weather-forcast.pdf)
 * [2025-01-16 16:00 Weather Forecast](data/weather-reports/20250116.1600.weather-forecast.pdf)
 * [2025-01-16 12:00 Weather Forcast](data/weather-reports/20250116.1200.weather-forcast.pdf)
 * [2025-01-16 07:00 Weather forecast for multi-day boats for the sea areas](data/weather-reports/20250116.0700.weather-forecast-for-multiday-boats-for-the-sea-areas.pdf)
@@ -15,7 +16,6 @@
 * [2025-01-15 12:00 Weather Forcast](data/weather-reports/20250115.1200.weather-forcast.pdf)
 * [2025-01-15 06:00 Advisory for Strong Winds and Rough Seas](data/weather-reports/20250115.0600.advisory-for-strong-winds-and-rough-seas.pdf)
 * [2025-01-15 05:30 Weather Forcast](data/weather-reports/20250115.0530.weather-forcast.pdf)
-* [2025-01-14 20:45 Advisory for Heavy Rain](data/weather-reports/20250114.2045.advisory-for-heavy-rain.pdf)
 
 ## Emergency Response Data Viewer
 
