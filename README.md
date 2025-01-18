@@ -42,8 +42,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1716/1956** documents downloaded.
+**1716/1957** documents downloaded.
 
+* [2025-01-19 03:45 water level](data/river-water-level-and-flood-warnings/20250119.0345.water-level.jpg)
 * [2025-01-19 00:30 Water level](data/river-water-level-and-flood-warnings/20250119.0030.water-level.jpg)
 * [2025-01-18 09:30 Water Level  Rainfall](data/river-water-level-and-flood-warnings/20250118.0930.water-level-rainfall.jpg)
 * [2025-01-17 09:30 Water Level  Rainfall](data/river-water-level-and-flood-warnings/20250117.0930.water-level-rainfall.jpg)
@@ -53,7 +54,6 @@
 * [2025-01-16 09:30 water level](data/river-water-level-and-flood-warnings/20250116.0930.water-level.jpg)
 * [2025-01-16 06:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20250116.0630.water-level-rainfall.jpg)
 * [2025-01-16 00:30 water level](data/river-water-level-and-flood-warnings/20250116.0030.water-level.jpg)
-* [2025-01-15 18:30 water level](data/river-water-level-and-flood-warnings/20250115.1830.water-level.png)
 
 ## Landslide Warnings
 
@@ -87,8 +87,9 @@
 
 ## Weather Reports
 
-**9151/9370** documents downloaded.
+**9152/9371** documents downloaded.
 
+* [2025-01-19 03:30 Advisory for Heavy Rain](data/weather-reports/20250119.0330.advisory-for-heavy-rain.pdf)
 * [2025-01-18 16:00 Weather Forecast](data/weather-reports/20250118.1600.weather-forecast.pdf)
 * [2025-01-18 12:00 Weather Forecast](data/weather-reports/20250118.1200.weather-forecast.pdf)
 * [2025-01-18 07:30 Advisory for strong winds and rough seas](data/weather-reports/20250118.0730.advisory-for-strong-winds-and-rough-seas.pdf)
@@ -98,4 +99,3 @@
 * [2025-01-17 15:30 Advisory for Heavy Rain](data/weather-reports/20250117.1530.advisory-for-heavy-rain.pdf)
 * [2025-01-17 12:00 Weather Forecast](data/weather-reports/20250117.1200.weather-forecast.pdf)
 * [2025-01-17 07:30 Advisory for strong winds and rough seas](data/weather-reports/20250117.0730.advisory-for-strong-winds-and-rough-seas.pdf)
-* [2025-01-17 05:30 Weather Forcast](data/weather-reports/20250117.0530.weather-forcast.pdf)
