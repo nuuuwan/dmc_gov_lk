@@ -87,8 +87,9 @@
 
 ## Weather Reports
 
-**9153/9372** documents downloaded.
+**9154/9373** documents downloaded.
 
+* [2025-01-19 10:30 Advisory for strong winds and rough seas](data/weather-reports/20250119.1030.advisory-for-strong-winds-and-rough-seas.pdf)
 * [2025-01-19 05:30 Weather Forcast](data/weather-reports/20250119.0530.weather-forcast.pdf)
 * [2025-01-19 03:30 Advisory for Heavy Rain](data/weather-reports/20250119.0330.advisory-for-heavy-rain.pdf)
 * [2025-01-18 16:00 Weather Forecast](data/weather-reports/20250118.1600.weather-forecast.pdf)
@@ -98,4 +99,3 @@
 * [2025-01-17 16:30 Withdrawal of Flood warning (Malwathu Oya)](data/weather-reports/20250117.1630.withdrawal-of-flood-warning-malwathu-oya.pdf)
 * [2025-01-17 16:00 Weather Forecast](data/weather-reports/20250117.1600.weather-forecast.pdf)
 * [2025-01-17 15:30 Advisory for Heavy Rain](data/weather-reports/20250117.1530.advisory-for-heavy-rain.pdf)
-* [2025-01-17 12:00 Weather Forecast](data/weather-reports/20250117.1200.weather-forecast.pdf)
