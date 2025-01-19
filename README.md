@@ -87,8 +87,9 @@
 
 ## Weather Reports
 
-**9152/9371** documents downloaded.
+**9153/9372** documents downloaded.
 
+* [2025-01-19 05:30 Weather Forcast](data/weather-reports/20250119.0530.weather-forcast.pdf)
 * [2025-01-19 03:30 Advisory for Heavy Rain](data/weather-reports/20250119.0330.advisory-for-heavy-rain.pdf)
 * [2025-01-18 16:00 Weather Forecast](data/weather-reports/20250118.1600.weather-forecast.pdf)
 * [2025-01-18 12:00 Weather Forecast](data/weather-reports/20250118.1200.weather-forecast.pdf)
@@ -98,4 +99,3 @@
 * [2025-01-17 16:00 Weather Forecast](data/weather-reports/20250117.1600.weather-forecast.pdf)
 * [2025-01-17 15:30 Advisory for Heavy Rain](data/weather-reports/20250117.1530.advisory-for-heavy-rain.pdf)
 * [2025-01-17 12:00 Weather Forecast](data/weather-reports/20250117.1200.weather-forecast.pdf)
-* [2025-01-17 07:30 Advisory for strong winds and rough seas](data/weather-reports/20250117.0730.advisory-for-strong-winds-and-rough-seas.pdf)
