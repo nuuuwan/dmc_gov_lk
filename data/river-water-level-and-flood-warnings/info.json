@@ -1,5 +1,21 @@
 [
   {
+    "name": "Major Flood warning for Malwathu Oya Basin",
+    "time_str": "2025-01-19 16:45",
+    "time_id": "20250119.1645",
+    "ut": 1737285300.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Major_Flood_warning_for_Malwathu_Oya_Basin_-_No_02_-_2025__1737285749.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Flood Warning for Galoya Basin  No 01",
+    "time_str": "2025-01-19 16:00",
+    "time_id": "20250119.1600",
+    "ut": 1737282600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Flood_warning_for_Gal_Oya_Basin_-_No_01_-_2025__1737284303.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "water level",
     "time_str": "2025-01-19 15:30",
     "time_id": "20250119.1530",
