@@ -42,8 +42,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1720/1968** documents downloaded.
+**1720/1969** documents downloaded.
 
+* [2025-01-20 03:00 water level](data/river-water-level-and-flood-warnings/20250120.0300.water-level.jpg)
 * [2025-01-20 00:30 Water level](data/river-water-level-and-flood-warnings/20250120.0030.water-level.jpg)
 * [2025-01-19 21:00 Water Level](data/river-water-level-and-flood-warnings/20250119.2100.water-level.jpg)
 * [2025-01-19 18:45 Flood Warning for Kala Oya Basin  No 01](data/river-water-level-and-flood-warnings/20250119.1845.flood-warning-for-kala-oya-basin-no-01.pdf)
@@ -53,7 +54,6 @@
 * [2025-01-19 16:00 Flood Warning for Galoya Basin  No 01](data/river-water-level-and-flood-warnings/20250119.1600.flood-warning-for-galoya-basin-no-01.pdf)
 * [2025-01-19 15:30 water level](data/river-water-level-and-flood-warnings/20250119.1530.water-level.jpg)
 * [2025-01-19 12:30 Water Level  Rainfall](data/river-water-level-and-flood-warnings/20250119.1230.water-level-rainfall.jpg)
-* [2025-01-19 09:30 Water Level  Rainfall](data/river-water-level-and-flood-warnings/20250119.0930.water-level-rainfall.jpg)
 
 ## Landslide Warnings
 
