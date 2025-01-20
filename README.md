@@ -42,8 +42,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1720/1972** documents downloaded.
+**1720/1973** documents downloaded.
 
+* [2025-01-20 15:30 Water Level  Rainfall](data/river-water-level-and-flood-warnings/20250120.1530.water-level-rainfall.jpg)
 * [2025-01-20 12:30 water level](data/river-water-level-and-flood-warnings/20250120.1230.water-level.jpg)
 * [2025-01-20 09:30 water level](data/river-water-level-and-flood-warnings/20250120.0930.water-level.jpg)
 * [2025-01-20 06:30 water level](data/river-water-level-and-flood-warnings/20250120.0630.water-level.jpg)
@@ -53,12 +54,12 @@
 * [2025-01-19 18:45 Flood Warning for Kala Oya Basin  No 01](data/river-water-level-and-flood-warnings/20250119.1845.flood-warning-for-kala-oya-basin-no-01.pdf)
 * [2025-01-19 18:30 water level](data/river-water-level-and-flood-warnings/20250119.1830.water-level.png)
 * [2025-01-19 18:00 Deduruoya](data/river-water-level-and-flood-warnings/20250119.1800.deduruoya.pdf)
-* [2025-01-19 16:45 Major Flood warning for Malwathu Oya Basin](data/river-water-level-and-flood-warnings/20250119.1645.major-flood-warning-for-malwathu-oya-basin.pdf)
 
 ## Landslide Warnings
 
-**634/640** documents downloaded.
+**635/641** documents downloaded.
 
+* [2025-01-20 16:00 Landslide EW Report](data/landslide-warnings/20250120.1600.landslide-ew-report.pdf)
 * [2025-01-19 17:00 Landslide Early Warning](data/landslide-warnings/20250119.1700.landslide-early-warning.pdf)
 * [2025-01-19 08:00 Landslide EW Report](data/landslide-warnings/20250119.0800.landslide-ew-report.pdf)
 * [2025-01-14 16:00 Landslide Early Warning](data/landslide-warnings/20250114.1600.landslide-early-warning.pdf)
@@ -68,7 +69,6 @@
 * [2024-12-14 16:00 Landslide Early Warning](data/landslide-warnings/20241214.1600.landslide-early-warning.pdf)
 * [2024-12-02 16:00 Landslide early warning](data/landslide-warnings/20241202.1600.landslide-early-warning.pdf)
 * [2024-12-01 16:00 Landslide Early Warning](data/landslide-warnings/20241201.1600.landslide-early-warning.pdf)
-* [2024-11-30 16:00 Landslide Early Warning](data/landslide-warnings/20241130.1600.landslide-early-warning.pdf)
 
 ## Situation Reports
 
@@ -87,8 +87,9 @@
 
 ## Weather Reports
 
-**9158/9377** documents downloaded.
+**9159/9378** documents downloaded.
 
+* [2025-01-20 16:00 Weather Forecast](data/weather-reports/20250120.1600.weather-forecast.pdf)
 * [2025-01-20 12:00 Weather Forcast](data/weather-reports/20250120.1200.weather-forcast.pdf)
 * [2025-01-20 05:30 Weather Forcast](data/weather-reports/20250120.0530.weather-forcast.pdf)
 * [2025-01-19 16:00 Weather Forcast](data/weather-reports/20250119.1600.weather-forcast.pdf)
@@ -98,4 +99,3 @@
 * [2025-01-19 03:30 Advisory for Heavy Rain](data/weather-reports/20250119.0330.advisory-for-heavy-rain.pdf)
 * [2025-01-18 16:00 Weather Forecast](data/weather-reports/20250118.1600.weather-forecast.pdf)
 * [2025-01-18 12:00 Weather Forecast](data/weather-reports/20250118.1200.weather-forecast.pdf)
-* [2025-01-18 07:30 Advisory for strong winds and rough seas](data/weather-reports/20250118.0730.advisory-for-strong-winds-and-rough-seas.pdf)
