@@ -42,8 +42,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1720/1971** documents downloaded.
+**1720/1972** documents downloaded.
 
+* [2025-01-20 12:30 water level](data/river-water-level-and-flood-warnings/20250120.1230.water-level.jpg)
 * [2025-01-20 09:30 water level](data/river-water-level-and-flood-warnings/20250120.0930.water-level.jpg)
 * [2025-01-20 06:30 water level](data/river-water-level-and-flood-warnings/20250120.0630.water-level.jpg)
 * [2025-01-20 03:00 water level](data/river-water-level-and-flood-warnings/20250120.0300.water-level.jpg)
@@ -53,7 +54,6 @@
 * [2025-01-19 18:30 water level](data/river-water-level-and-flood-warnings/20250119.1830.water-level.png)
 * [2025-01-19 18:00 Deduruoya](data/river-water-level-and-flood-warnings/20250119.1800.deduruoya.pdf)
 * [2025-01-19 16:45 Major Flood warning for Malwathu Oya Basin](data/river-water-level-and-flood-warnings/20250119.1645.major-flood-warning-for-malwathu-oya-basin.pdf)
-* [2025-01-19 16:00 Flood Warning for Galoya Basin  No 01](data/river-water-level-and-flood-warnings/20250119.1600.flood-warning-for-galoya-basin-no-01.pdf)
 
 ## Landslide Warnings
 
@@ -87,8 +87,9 @@
 
 ## Weather Reports
 
-**9157/9376** documents downloaded.
+**9158/9377** documents downloaded.
 
+* [2025-01-20 12:00 Weather Forcast](data/weather-reports/20250120.1200.weather-forcast.pdf)
 * [2025-01-20 05:30 Weather Forcast](data/weather-reports/20250120.0530.weather-forcast.pdf)
 * [2025-01-19 16:00 Weather Forcast](data/weather-reports/20250119.1600.weather-forcast.pdf)
 * [2025-01-19 12:00 Weather Forecast](data/weather-reports/20250119.1200.weather-forecast.pdf)
@@ -98,4 +99,3 @@
 * [2025-01-18 16:00 Weather Forecast](data/weather-reports/20250118.1600.weather-forecast.pdf)
 * [2025-01-18 12:00 Weather Forecast](data/weather-reports/20250118.1200.weather-forecast.pdf)
 * [2025-01-18 07:30 Advisory for strong winds and rough seas](data/weather-reports/20250118.0730.advisory-for-strong-winds-and-rough-seas.pdf)
-* [2025-01-18 05:30 Weather Report](data/weather-reports/20250118.0530.weather-report.pdf)
