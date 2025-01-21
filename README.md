@@ -57,8 +57,10 @@
 
 ## Landslide Warnings
 
-**635/641** documents downloaded.
+**636/643** documents downloaded.
 
+* [2025-01-21 16:00 Landslide EW Report](data/landslide-warnings/20250121.1600.landslide-ew-report.pdf)
+* [2025-01-21 16:00 Landslide EW Report](data/landslide-warnings/20250121.1600.landslide-ew-report.pdf)
 * [2025-01-20 16:00 Landslide EW Report](data/landslide-warnings/20250120.1600.landslide-ew-report.pdf)
 * [2025-01-19 17:00 Landslide Early Warning](data/landslide-warnings/20250119.1700.landslide-early-warning.pdf)
 * [2025-01-19 08:00 Landslide EW Report](data/landslide-warnings/20250119.0800.landslide-ew-report.pdf)
@@ -67,8 +69,6 @@
 * [2024-12-16 16:00 Landslide Early Warning](data/landslide-warnings/20241216.1600.landslide-early-warning.pdf)
 * [2024-12-15 16:00 Landslide Early Warning](data/landslide-warnings/20241215.1600.landslide-early-warning.pdf)
 * [2024-12-14 16:00 Landslide Early Warning](data/landslide-warnings/20241214.1600.landslide-early-warning.pdf)
-* [2024-12-02 16:00 Landslide early warning](data/landslide-warnings/20241202.1600.landslide-early-warning.pdf)
-* [2024-12-01 16:00 Landslide Early Warning](data/landslide-warnings/20241201.1600.landslide-early-warning.pdf)
 
 ## Situation Reports
 
@@ -87,8 +87,9 @@
 
 ## Weather Reports
 
-**9161/9380** documents downloaded.
+**9162/9381** documents downloaded.
 
+* [2025-01-21 16:00 Weather Forecast](data/weather-reports/20250121.1600.weather-forecast.pdf)
 * [2025-01-21 12:00 Weather Forecast](data/weather-reports/20250121.1200.weather-forecast.pdf)
 * [2025-01-21 05:30 Weather Forcast](data/weather-reports/20250121.0530.weather-forcast.pdf)
 * [2025-01-20 16:00 Weather Forecast](data/weather-reports/20250120.1600.weather-forecast.pdf)
@@ -98,4 +99,3 @@
 * [2025-01-19 12:00 Weather Forecast](data/weather-reports/20250119.1200.weather-forecast.pdf)
 * [2025-01-19 10:30 Advisory for strong winds and rough seas](data/weather-reports/20250119.1030.advisory-for-strong-winds-and-rough-seas.pdf)
 * [2025-01-19 05:30 Weather Forcast](data/weather-reports/20250119.0530.weather-forcast.pdf)
-* [2025-01-19 03:30 Advisory for Heavy Rain](data/weather-reports/20250119.0330.advisory-for-heavy-rain.pdf)
