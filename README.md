@@ -42,8 +42,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1720/1979** documents downloaded.
+**1720/1980** documents downloaded.
 
+* [2025-01-21 12:00 Water Level  Rainfall](data/river-water-level-and-flood-warnings/20250121.1200.water-level-rainfall.jpg)
 * [2025-01-21 09:30 Water Level  Rainfall](data/river-water-level-and-flood-warnings/20250121.0930.water-level-rainfall.jpg)
 * [2025-01-21 06:00 Water level](data/river-water-level-and-flood-warnings/20250121.0600.water-level.jpg)
 * [2025-01-21 03:30 water level](data/river-water-level-and-flood-warnings/20250121.0330.water-level.jpg)
@@ -53,7 +54,6 @@
 * [2025-01-20 15:30 Water Level  Rainfall](data/river-water-level-and-flood-warnings/20250120.1530.water-level-rainfall.jpg)
 * [2025-01-20 12:30 water level](data/river-water-level-and-flood-warnings/20250120.1230.water-level.jpg)
 * [2025-01-20 09:30 water level](data/river-water-level-and-flood-warnings/20250120.0930.water-level.jpg)
-* [2025-01-20 06:30 water level](data/river-water-level-and-flood-warnings/20250120.0630.water-level.jpg)
 
 ## Landslide Warnings
 
@@ -87,8 +87,9 @@
 
 ## Weather Reports
 
-**9160/9379** documents downloaded.
+**9161/9380** documents downloaded.
 
+* [2025-01-21 12:00 Weather Forecast](data/weather-reports/20250121.1200.weather-forecast.pdf)
 * [2025-01-21 05:30 Weather Forcast](data/weather-reports/20250121.0530.weather-forcast.pdf)
 * [2025-01-20 16:00 Weather Forecast](data/weather-reports/20250120.1600.weather-forecast.pdf)
 * [2025-01-20 12:00 Weather Forcast](data/weather-reports/20250120.1200.weather-forcast.pdf)
@@ -98,4 +99,3 @@
 * [2025-01-19 10:30 Advisory for strong winds and rough seas](data/weather-reports/20250119.1030.advisory-for-strong-winds-and-rough-seas.pdf)
 * [2025-01-19 05:30 Weather Forcast](data/weather-reports/20250119.0530.weather-forcast.pdf)
 * [2025-01-19 03:30 Advisory for Heavy Rain](data/weather-reports/20250119.0330.advisory-for-heavy-rain.pdf)
-* [2025-01-18 16:00 Weather Forecast](data/weather-reports/20250118.1600.weather-forecast.pdf)
