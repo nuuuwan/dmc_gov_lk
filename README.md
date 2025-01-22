@@ -42,8 +42,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1720/1984** documents downloaded.
+**1720/1985** documents downloaded.
 
+* [2025-01-22 03:00 water level](data/river-water-level-and-flood-warnings/20250122.0300.water-level.jpg)
 * [2025-01-22 03:00 water level](data/river-water-level-and-flood-warnings/20250122.0300.water-level.jpg)
 * [2025-01-22 00:30 water level](data/river-water-level-and-flood-warnings/20250122.0030.water-level.jpg)
 * [2025-01-21 18:30 water level](data/river-water-level-and-flood-warnings/20250121.1830.water-level.jpg)
@@ -53,7 +54,6 @@
 * [2025-01-21 06:00 Water level](data/river-water-level-and-flood-warnings/20250121.0600.water-level.jpg)
 * [2025-01-21 03:30 water level](data/river-water-level-and-flood-warnings/20250121.0330.water-level.jpg)
 * [2025-01-21 00:30 water level](data/river-water-level-and-flood-warnings/20250121.0030.water-level.jpg)
-* [2025-01-20 21:00 Water level](data/river-water-level-and-flood-warnings/20250120.2100.water-level.jpg)
 
 ## Landslide Warnings
 
@@ -87,8 +87,9 @@
 
 ## Weather Reports
 
-**9162/9381** documents downloaded.
+**9163/9382** documents downloaded.
 
+* [2025-01-22 05:30 Weather Forcast](data/weather-reports/20250122.0530.weather-forcast.pdf)
 * [2025-01-21 16:00 Weather Forecast](data/weather-reports/20250121.1600.weather-forecast.pdf)
 * [2025-01-21 12:00 Weather Forecast](data/weather-reports/20250121.1200.weather-forecast.pdf)
 * [2025-01-21 05:30 Weather Forcast](data/weather-reports/20250121.0530.weather-forcast.pdf)
@@ -98,4 +99,3 @@
 * [2025-01-19 16:00 Weather Forcast](data/weather-reports/20250119.1600.weather-forcast.pdf)
 * [2025-01-19 12:00 Weather Forecast](data/weather-reports/20250119.1200.weather-forecast.pdf)
 * [2025-01-19 10:30 Advisory for strong winds and rough seas](data/weather-reports/20250119.1030.advisory-for-strong-winds-and-rough-seas.pdf)
-* [2025-01-19 05:30 Weather Forcast](data/weather-reports/20250119.0530.weather-forcast.pdf)
