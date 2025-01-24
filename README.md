@@ -27,8 +27,9 @@
 
 ## Weather Reports
 
-**9170/9389** documents downloaded.
+**9171/9390** documents downloaded.
 
+* [2025-01-24 16:00 Weather report](data/weather-reports/20250124.1600.weather-report.pdf)
 * [2025-01-24 12:00 Weather Forecast](data/weather-reports/20250124.1200.weather-forecast.pdf)
 * [2025-01-24 05:30 Weather Forcast](data/weather-reports/20250124.0530.weather-forcast.pdf)
 * [2025-01-23 16:00 Weather Report at 1600hrs on 2025.01.23](data/weather-reports/20250123.1600.weather-report-at-1600hrs-on-20250123.pdf)
@@ -38,7 +39,6 @@
 * [2025-01-22 12:00 Weather Forecast](data/weather-reports/20250122.1200.weather-forecast.pdf)
 * [2025-01-22 05:30 Weather Forcast](data/weather-reports/20250122.0530.weather-forcast.pdf)
 * [2025-01-21 16:00 Weather Forecast](data/weather-reports/20250121.1600.weather-forecast.pdf)
-* [2025-01-21 12:00 Weather Forecast](data/weather-reports/20250121.1200.weather-forecast.pdf)
 
 ## Situation Reports
 
@@ -57,8 +57,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1720/2003** documents downloaded.
+**1720/2004** documents downloaded.
 
+* [2025-01-24 15:30 Water Level](data/river-water-level-and-flood-warnings/20250124.1530.water-level.jpg)
 * [2025-01-24 12:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20250124.1230.water-level-rainfall.jpg)
 * [2025-01-24 09:00 Water Level](data/river-water-level-and-flood-warnings/20250124.0900.water-level.jpg)
 * [2025-01-24 06:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20250124.0630.water-level-rainfall.jpg)
@@ -68,7 +69,6 @@
 * [2025-01-23 15:30 Water Level  Rainfall](data/river-water-level-and-flood-warnings/20250123.1530.water-level-rainfall.jpg)
 * [2025-01-23 12:30 Water Level  Rainfall](data/river-water-level-and-flood-warnings/20250123.1230.water-level-rainfall.jpg)
 * [2025-01-23 09:30 Water Level  Rainfall](data/river-water-level-and-flood-warnings/20250123.0930.water-level-rainfall.jpg)
-* [2025-01-23 06:30 Water Level  Rainfall](data/river-water-level-and-flood-warnings/20250123.0630.water-level-rainfall.jpg)
 
 ## Landslide Warnings
 
