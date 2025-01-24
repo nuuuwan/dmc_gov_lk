@@ -57,8 +57,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1720/2000** documents downloaded.
+**1720/2001** documents downloaded.
 
+* [2025-01-24 06:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20250124.0630.water-level-rainfall.jpg)
 * [2025-01-24 03:30 water level](data/river-water-level-and-flood-warnings/20250124.0330.water-level.jpg)
 * [2025-01-24 00:30 ](data/river-water-level-and-flood-warnings/20250124.0030..jpg)
 * [2025-01-23 21:30 water level](data/river-water-level-and-flood-warnings/20250123.2130.water-level.jpg)
@@ -68,7 +69,6 @@
 * [2025-01-23 06:30 Water Level  Rainfall](data/river-water-level-and-flood-warnings/20250123.0630.water-level-rainfall.jpg)
 * [2025-01-23 03:00 water level](data/river-water-level-and-flood-warnings/20250123.0300.water-level.jpg)
 * [2025-01-23 00:30 water level](data/river-water-level-and-flood-warnings/20250123.0030.water-level.jpg)
-* [2025-01-22 21:00 Water Level](data/river-water-level-and-flood-warnings/20250122.2100.water-level.jpg)
 
 ## Landslide Warnings
 
