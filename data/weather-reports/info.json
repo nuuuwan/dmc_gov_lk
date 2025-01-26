@@ -16,6 +16,14 @@
     "ext": "pdf"
   },
   {
+    "name": "Weather advisory (Tamil)",
+    "time_str": "2025-01-26 13:30",
+    "time_id": "20250126.1330",
+    "ut": 1737878400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/WWO25012601_Tamil__1737887466.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2025-01-26 12:00",
     "time_id": "20250126.1200",
