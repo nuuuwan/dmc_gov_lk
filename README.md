@@ -42,8 +42,9 @@
 
 ## Situation Reports
 
-**4162/4226** documents downloaded.
+**4163/4227** documents downloaded.
 
+* [2025-01-27 09:00 Situation Reports](data/situation-reports/20250127.0900.situation-reports.pdf)
 * [2025-01-26 09:00 Situation Report](data/situation-reports/20250126.0900.situation-report.pdf)
 * [2025-01-25 09:00 Situation Report](data/situation-reports/20250125.0900.situation-report.pdf)
 * [2025-01-24 09:00 Situation Report](data/situation-reports/20250124.0900.situation-report.pdf)
@@ -53,12 +54,13 @@
 * [2025-01-20 09:00 Situation Report](data/situation-reports/20250120.0900.situation-report.pdf)
 * [2025-01-19 09:00 Situation Report](data/situation-reports/20250119.0900.situation-report.pdf)
 * [2025-01-18 09:00 Situation Report](data/situation-reports/20250118.0900.situation-report.pdf)
-* [2025-01-17 09:00 Situation Report](data/situation-reports/20250117.0900.situation-report.pdf)
 
 ## River Water Level And Flood Warnings
 
-**1720/2005** documents downloaded.
+**1721/2007** documents downloaded.
 
+* [2025-01-27 10:00 water level](data/river-water-level-and-flood-warnings/20250127.1000.water-level.jpg)
+* [2025-01-27 09:00 Withdrawal of Flood warning](data/river-water-level-and-flood-warnings/20250127.0900.withdrawal-of-flood-warning.pdf)
 * [2025-01-26 11:00 water level](data/river-water-level-and-flood-warnings/20250126.1100.water-level.jpg)
 * [2025-01-24 15:30 Water Level](data/river-water-level-and-flood-warnings/20250124.1530.water-level.jpg)
 * [2025-01-24 12:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20250124.1230.water-level-rainfall.jpg)
@@ -67,8 +69,6 @@
 * [2025-01-24 03:30 water level](data/river-water-level-and-flood-warnings/20250124.0330.water-level.jpg)
 * [2025-01-24 00:30 ](data/river-water-level-and-flood-warnings/20250124.0030..jpg)
 * [2025-01-23 21:30 water level](data/river-water-level-and-flood-warnings/20250123.2130.water-level.jpg)
-* [2025-01-23 15:30 Water Level  Rainfall](data/river-water-level-and-flood-warnings/20250123.1530.water-level-rainfall.jpg)
-* [2025-01-23 12:30 Water Level  Rainfall](data/river-water-level-and-flood-warnings/20250123.1230.water-level-rainfall.jpg)
 
 ## Landslide Warnings
 
