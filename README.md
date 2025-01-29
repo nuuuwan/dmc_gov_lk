@@ -27,8 +27,9 @@
 
 ## Weather Reports
 
-**9184/9404** documents downloaded.
+**9185/9405** documents downloaded.
 
+* [2025-01-29 05:30 Weather Report](data/weather-reports/20250129.0530.weather-report.pdf)
 * [2025-01-28 16:00 Weather Report](data/weather-reports/20250128.1600.weather-report.pdf)
 * [2025-01-28 12:00 Weather Forecast](data/weather-reports/20250128.1200.weather-forecast.pdf)
 * [2025-01-28 05:30 Weather Forcast](data/weather-reports/20250128.0530.weather-forcast.pdf)
@@ -38,7 +39,6 @@
 * [2025-01-26 14:00 Weather advisory](data/weather-reports/20250126.1400.weather-advisory.pdf)
 * [2025-01-26 14:00 Weather advisory](data/weather-reports/20250126.1400.weather-advisory.pdf)
 * [2025-01-26 13:30 Weather advisory (Tamil)](data/weather-reports/20250126.1330.weather-advisory-tamil.pdf)
-* [2025-01-26 12:00 Weather Forcast](data/weather-reports/20250126.1200.weather-forcast.pdf)
 
 ## Situation Reports
 
