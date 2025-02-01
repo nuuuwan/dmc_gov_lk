@@ -27,8 +27,9 @@
 
 ## Weather Reports
 
-**9194/9414** documents downloaded.
+**9195/9415** documents downloaded.
 
+* [2025-02-01 05:30 Weather Forecast](data/weather-reports/20250201.0530.weather-forecast.pdf)
 * [2025-01-31 16:00 Weather Forecast](data/weather-reports/20250131.1600.weather-forecast.pdf)
 * [2025-01-31 16:00 Weather Forcast](data/weather-reports/20250131.1600.weather-forcast.pdf)
 * [2025-01-31 12:00 Weather Forecast](data/weather-reports/20250131.1200.weather-forecast.pdf)
@@ -38,7 +39,6 @@
 * [2025-01-30 05:30 weather report](data/weather-reports/20250130.0530.weather-report.pdf)
 * [2025-01-29 16:00 Weather Forecast](data/weather-reports/20250129.1600.weather-forecast.pdf)
 * [2025-01-29 12:00 Weather Forecast](data/weather-reports/20250129.1200.weather-forecast.pdf)
-* [2025-01-29 05:30 Weather Report](data/weather-reports/20250129.0530.weather-report.pdf)
 
 ## Situation Reports
 
