@@ -42,8 +42,9 @@
 
 ## Situation Reports
 
-**4167/4231** documents downloaded.
+**4168/4232** documents downloaded.
 
+* [2025-02-01 09:00 Situation Report](data/situation-reports/20250201.0900.situation-report.pdf)
 * [2025-01-31 09:00 Situation Report](data/situation-reports/20250131.0900.situation-report.pdf)
 * [2025-01-30 09:00 Situation Report](data/situation-reports/20250130.0900.situation-report.pdf)
 * [2025-01-29 09:00 Situation Report](data/situation-reports/20250129.0900.situation-report.pdf)
@@ -53,7 +54,6 @@
 * [2025-01-25 09:00 Situation Report](data/situation-reports/20250125.0900.situation-report.pdf)
 * [2025-01-24 09:00 Situation Report](data/situation-reports/20250124.0900.situation-report.pdf)
 * [2025-01-23 09:00 Situation Report](data/situation-reports/20250123.0900.situation-report.pdf)
-* [2025-01-22 09:00 Situation Report](data/situation-reports/20250122.0900.situation-report.pdf)
 
 ## River Water Level And Flood Warnings
 
