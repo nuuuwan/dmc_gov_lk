@@ -27,8 +27,9 @@
 
 ## Weather Reports
 
-**9204/9424** documents downloaded.
+**9205/9425** documents downloaded.
 
+* [2025-02-04 12:00 Weather Forecast](data/weather-reports/20250204.1200.weather-forecast.pdf)
 * [2025-02-04 05:30 Weather Forcast](data/weather-reports/20250204.0530.weather-forcast.pdf)
 * [2025-02-03 16:00 Weather Forecast](data/weather-reports/20250203.1600.weather-forecast.pdf)
 * [2025-02-03 12:00 Weather Forecast](data/weather-reports/20250203.1200.weather-forecast.pdf)
@@ -38,12 +39,12 @@
 * [2025-02-02 05:30 Weather Forcast](data/weather-reports/20250202.0530.weather-forcast.pdf)
 * [2025-02-01 16:00 Weather Forecast](data/weather-reports/20250201.1600.weather-forecast.pdf)
 * [2025-02-01 12:00 Weather Forecast](data/weather-reports/20250201.1200.weather-forecast.pdf)
-* [2025-02-01 05:30 Weather Forecast](data/weather-reports/20250201.0530.weather-forecast.pdf)
 
 ## Situation Reports
 
-**4170/4234** documents downloaded.
+**4171/4235** documents downloaded.
 
+* [2025-02-04 09:00 Situation Report](data/situation-reports/20250204.0900.situation-report.pdf)
 * [2025-02-03 09:00 Situation Reports](data/situation-reports/20250203.0900.situation-reports.pdf)
 * [2025-02-02 09:00 Situation Report](data/situation-reports/20250202.0900.situation-report.pdf)
 * [2025-02-01 09:00 Situation Report](data/situation-reports/20250201.0900.situation-report.pdf)
@@ -53,7 +54,6 @@
 * [2025-01-28 09:00 Situation Report](data/situation-reports/20250128.0900.situation-report.pdf)
 * [2025-01-27 09:00 Situation Reports](data/situation-reports/20250127.0900.situation-reports.pdf)
 * [2025-01-26 09:00 Situation Report](data/situation-reports/20250126.0900.situation-report.pdf)
-* [2025-01-25 09:00 Situation Report](data/situation-reports/20250125.0900.situation-report.pdf)
 
 ## River Water Level And Flood Warnings
 
