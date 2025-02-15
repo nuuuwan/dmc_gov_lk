@@ -19,9 +19,9 @@
 
 ## Weather Reports
 
-**9239/9459** documents downloaded.
+**9240/9459** documents downloaded.
 
-* [2025-02-15 09:00 Weather Forcast](data/weather-reports/20250215.0900.weather-forcast.pdf)
+* [2025-02-15 12:00 Weather Forcast](data/weather-reports/20250215.1200.weather-forcast.pdf)
 * [2025-02-15 05:30 Weather Forcast](data/weather-reports/20250215.0530.weather-forcast.pdf)
 * [2025-02-14 16:00 Weather Forcast](data/weather-reports/20250214.1600.weather-forcast.pdf)
 * [2025-02-14 12:00 Weather Report](data/weather-reports/20250214.1200.weather-report.pdf)
@@ -34,8 +34,9 @@
 
 ## Situation Reports
 
-**4181/4245** documents downloaded.
+**4182/4246** documents downloaded.
 
+* [2025-02-15 09:00 Situation Report](data/situation-reports/20250215.0900.situation-report.pdf)
 * [2025-02-14 09:00 Situation Report](data/situation-reports/20250214.0900.situation-report.pdf)
 * [2025-02-13 09:00 Situation Report](data/situation-reports/20250213.0900.situation-report.pdf)
 * [2025-02-12 09:00 Situation Report](data/situation-reports/20250212.0900.situation-report.pdf)
@@ -45,7 +46,6 @@
 * [2025-02-08 09:00 Situation Report](data/situation-reports/20250208.0900.situation-report.pdf)
 * [2025-02-07 09:00 Situation Report](data/situation-reports/20250207.0900.situation-report.pdf)
 * [2025-02-06 09:00 Situation Report](data/situation-reports/20250206.0900.situation-report.pdf)
-* [2025-02-05 09:00 Situation Report](data/situation-reports/20250205.0900.situation-report.pdf)
 
 ## Earthquakes
 
