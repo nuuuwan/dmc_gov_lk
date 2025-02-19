@@ -1,5 +1,13 @@
 [
   {
+    "name": "Heat Advisory",
+    "time_str": "2025-02-19 15:00",
+    "time_id": "20250219.1500",
+    "ut": 1739957400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Heat_Index_Advisory_Report_at_1500hrs_on_2025__1739958475.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2025-02-19 14:00",
     "time_id": "20250219.1400",
