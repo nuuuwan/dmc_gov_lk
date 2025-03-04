@@ -1,5 +1,13 @@
 [
   {
+    "name": "Situation Report",
+    "time_str": "2025-03-04 09:00",
+    "time_id": "20250304.0900",
+    "ut": 1741059000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report_on_2025__1741064550.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2025-03-03 16:00",
     "time_id": "20250303.1600",
