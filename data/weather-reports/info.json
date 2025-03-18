@@ -1,5 +1,13 @@
 [
   {
+    "name": "Weather Report at 0530hrs",
+    "time_str": "2025-03-18 05:30",
+    "time_id": "20250318.0530",
+    "ut": 1742256000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs__1742257323.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Advisory for Severe Lightning",
     "time_str": "2025-03-17 16:00",
     "time_id": "20250317.1600",
