@@ -4,8 +4,9 @@
 
 ## Situation Reports
 
-**4215/4278** documents downloaded.
+**4216/4279** documents downloaded.
 
+* [2025-03-18 09:00 Situation Report](data/situation-reports/20250318.0900.situation-report.pdf)
 * [2025-03-17 09:00 Situation Report](data/situation-reports/20250317.0900.situation-report.pdf)
 * [2025-03-16 09:00 Situation Report](data/situation-reports/20250316.0900.situation-report.pdf)
 * [2025-03-13 09:30 Situation Report](data/situation-reports/20250313.0930.situation-report.pdf)
@@ -15,7 +16,6 @@
 * [2025-03-09 09:00 Situation Report](data/situation-reports/20250309.0900.situation-report.pdf)
 * [2025-03-08 09:00 Situation Report](data/situation-reports/20250308.0900.situation-report.pdf)
 * [2025-03-07 09:00 Situation Report](data/situation-reports/20250307.0900.situation-report.pdf)
-* [2025-03-06 09:00 Situation Report](data/situation-reports/20250306.0900.situation-report.pdf)
 
 ## Earthquakes
 
@@ -72,9 +72,9 @@
 
 ## Weather Reports
 
-**9341/9560** documents downloaded.
+**9342/9560** documents downloaded.
 
-* [2025-03-18 05:30 Weather Report at 0530hrs](data/weather-reports/20250318.0530.weather-report-at-0530hrs.pdf)
+* [2025-03-18 05:30 Weather Report](data/weather-reports/20250318.0530.weather-report.pdf)
 * [2025-03-17 16:00 Advisory for Severe Lightning](data/weather-reports/20250317.1600.advisory-for-severe-lightning.pdf)
 * [2025-03-17 16:00 Weather Forcast](data/weather-reports/20250317.1600.weather-forcast.pdf)
 * [2025-03-17 14:00 Weather Forcast](data/weather-reports/20250317.1400.weather-forcast.pdf)
