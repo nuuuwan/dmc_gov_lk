@@ -1,5 +1,21 @@
 [
   {
+    "name": "Weather forecast for Multiday boats",
+    "time_str": "2025-03-19 07:00",
+    "time_id": "20250319.0700",
+    "ut": 1742347800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Forecast_for__Multiday_boats__1742348947.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2025-03-19 05:30",
+    "time_id": "20250319.0530",
+    "ut": 1742342400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs__1742343643.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2025-03-18 16:00",
     "time_id": "20250318.1600",
