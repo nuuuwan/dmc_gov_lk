@@ -4,8 +4,9 @@
 
 ## Situation Reports
 
-**4221/4284** documents downloaded.
+**4222/4285** documents downloaded.
 
+* [2025-03-24 09:00 Situation Report](data/situation-reports/20250324.0900.situation-report.pdf)
 * [2025-03-23 09:00 Situation Report](data/situation-reports/20250323.0900.situation-report.pdf)
 * [2025-03-22 09:00 Situation Report](data/situation-reports/20250322.0900.situation-report.pdf)
 * [2025-03-21 09:00 Situation Report](data/situation-reports/20250321.0900.situation-report.pdf)
@@ -15,7 +16,6 @@
 * [2025-03-17 09:00 Situation Report](data/situation-reports/20250317.0900.situation-report.pdf)
 * [2025-03-16 09:00 Situation Report](data/situation-reports/20250316.0900.situation-report.pdf)
 * [2025-03-13 09:30 Situation Report](data/situation-reports/20250313.0930.situation-report.pdf)
-* [2025-03-12 09:00 Situation Report](data/situation-reports/20250312.0900.situation-report.pdf)
 
 ## Earthquakes
 
@@ -42,8 +42,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1722/2022** documents downloaded.
+**1722/2023** documents downloaded.
 
+* [2025-03-24 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20250324.0930.water-level-rainfall.jpg)
 * [2025-03-23 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20250323.0930.water-level-rainfall.jpg)
 * [2025-03-05 09:00 water level](data/river-water-level-and-flood-warnings/20250305.0900.water-level.jpg)
 * [2025-03-04 09:00 water level](data/river-water-level-and-flood-warnings/20250304.0900.water-level.jpg)
@@ -53,7 +54,6 @@
 * [2025-02-08 09:30 Water Level  Rainfall](data/river-water-level-and-flood-warnings/20250208.0930.water-level-rainfall.jpg)
 * [2025-02-07 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20250207.0930.water-level-rainfall.jpg)
 * [2025-02-03 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20250203.0930.water-level-rainfall.jpg)
-* [2025-02-02 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20250202.0930.water-level-rainfall.png)
 
 ## Landslide Warnings
 
