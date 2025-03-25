@@ -4,8 +4,9 @@
 
 ## Situation Reports
 
-**4222/4285** documents downloaded.
+**4223/4286** documents downloaded.
 
+* [2025-03-25 09:00 Situation Report](data/situation-reports/20250325.0900.situation-report.pdf)
 * [2025-03-24 09:00 Situation Report](data/situation-reports/20250324.0900.situation-report.pdf)
 * [2025-03-23 09:00 Situation Report](data/situation-reports/20250323.0900.situation-report.pdf)
 * [2025-03-22 09:00 Situation Report](data/situation-reports/20250322.0900.situation-report.pdf)
@@ -15,7 +16,6 @@
 * [2025-03-18 09:00 Situation Report](data/situation-reports/20250318.0900.situation-report.pdf)
 * [2025-03-17 09:00 Situation Report](data/situation-reports/20250317.0900.situation-report.pdf)
 * [2025-03-16 09:00 Situation Report](data/situation-reports/20250316.0900.situation-report.pdf)
-* [2025-03-13 09:30 Situation Report](data/situation-reports/20250313.0930.situation-report.pdf)
 
 ## Earthquakes
 
