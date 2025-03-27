@@ -1,5 +1,13 @@
 [
   {
+    "name": "Advisory for Severe Lightning",
+    "time_str": "2025-03-27 13:30",
+    "time_id": "20250327.1330",
+    "ut": 1743062400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_1330hrs___1743063770.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2025-03-27 05:30",
     "time_id": "20250327.0530",
