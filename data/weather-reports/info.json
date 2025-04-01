@@ -16,6 +16,14 @@
     "ext": "pdf"
   },
   {
+    "name": "Advisory for Severe Lightning (Tamil)",
+    "time_str": "2025-04-01 14:00",
+    "time_id": "20250401.1400",
+    "ut": 1743496200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_(Tamil)_at_1400hrs_on_2025__1743498135.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2025-04-01 05:30",
     "time_id": "20250401.0530",
