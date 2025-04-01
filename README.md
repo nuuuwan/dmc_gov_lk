@@ -4,8 +4,9 @@
 
 ## Situation Reports
 
-**4228/4291** documents downloaded.
+**4229/4292** documents downloaded.
 
+* [2025-04-01 09:00 Situation Report](data/situation-reports/20250401.0900.situation-report.pdf)
 * [2025-03-29 09:00 Situation Report](data/situation-reports/20250329.0900.situation-report.pdf)
 * [2025-03-28 09:00 Situation Report](data/situation-reports/20250328.0900.situation-report.pdf)
 * [2025-03-27 16:00 Situation Report](data/situation-reports/20250327.1600.situation-report.pdf)
@@ -15,7 +16,6 @@
 * [2025-03-24 09:00 Situation Report](data/situation-reports/20250324.0900.situation-report.pdf)
 * [2025-03-23 09:00 Situation Report](data/situation-reports/20250323.0900.situation-report.pdf)
 * [2025-03-22 09:00 Situation Report](data/situation-reports/20250322.0900.situation-report.pdf)
-* [2025-03-21 09:00 Situation Report](data/situation-reports/20250321.0900.situation-report.pdf)
 
 ## Earthquakes
 
@@ -72,8 +72,10 @@
 
 ## Weather Reports
 
-**9395/9614** documents downloaded.
+**9397/9616** documents downloaded.
 
+* [2025-04-01 14:00 Weather Forecast](data/weather-reports/20250401.1400.weather-forecast.pdf)
+* [2025-04-01 14:00 Advisory for Severe Lightning](data/weather-reports/20250401.1400.advisory-for-severe-lightning.pdf)
 * [2025-04-01 05:30 Weather Forcast](data/weather-reports/20250401.0530.weather-forcast.pdf)
 * [2025-03-31 22:00 Weather Forcast for sea area](data/weather-reports/20250331.2200.weather-forcast-for-sea-area.pdf)
 * [2025-03-31 16:00 Weather Forecast](data/weather-reports/20250331.1600.weather-forecast.pdf)
@@ -82,8 +84,6 @@
 * [2025-03-31 05:30 Weather Forcast](data/weather-reports/20250331.0530.weather-forcast.pdf)
 * [2025-03-30 16:00 Weather Forecast](data/weather-reports/20250330.1600.weather-forecast.pdf)
 * [2025-03-30 16:00 Heat Weather Advisory  03](data/weather-reports/20250330.1600.heat-weather-advisory-03.pdf)
-* [2025-03-30 14:00 Weather Forecast](data/weather-reports/20250330.1400.weather-forecast.pdf)
-* [2025-03-30 05:30 Weather Forcast](data/weather-reports/20250330.0530.weather-forcast.pdf)
 
 ## Flood Inundation Maps
 
