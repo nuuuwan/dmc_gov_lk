@@ -1,5 +1,13 @@
 [
   {
+    "name": "Warm Weather Advisory",
+    "time_str": "2025-04-02 15:30",
+    "time_id": "20250402.1530",
+    "ut": 1743588000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Warm_Weather_Advisory_at_1530_hrs_on_2025__1743588669.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2025-04-02 14:00",
     "time_id": "20250402.1400",
