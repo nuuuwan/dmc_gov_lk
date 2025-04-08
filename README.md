@@ -4,8 +4,9 @@
 
 ## Situation Reports
 
-**4235/4298** documents downloaded.
+**4236/4299** documents downloaded.
 
+* [2025-04-08 09:00 Situation Report](data/situation-reports/20250408.0900.situation-report.pdf)
 * [2025-04-07 09:00 Situation Report](data/situation-reports/20250407.0900.situation-report.pdf)
 * [2025-04-06 09:00 Situation Report](data/situation-reports/20250406.0900.situation-report.pdf)
 * [2025-04-05 09:00 Situation Report](data/situation-reports/20250405.0900.situation-report.pdf)
@@ -15,7 +16,6 @@
 * [2025-04-01 09:00 Situation Report](data/situation-reports/20250401.0900.situation-report.pdf)
 * [2025-03-29 09:00 Situation Report](data/situation-reports/20250329.0900.situation-report.pdf)
 * [2025-03-28 09:00 Situation Report](data/situation-reports/20250328.0900.situation-report.pdf)
-* [2025-03-27 16:00 Situation Report](data/situation-reports/20250327.1600.situation-report.pdf)
 
 ## Earthquakes
 
@@ -42,8 +42,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1722/2025** documents downloaded.
+**1722/2026** documents downloaded.
 
+* [2025-04-08 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20250408.0930.water-level-rainfall.jpg)
 * [2025-03-26 09:00 water level](data/river-water-level-and-flood-warnings/20250326.0900.water-level.jpg)
 * [2025-03-25 09:30 water level](data/river-water-level-and-flood-warnings/20250325.0930.water-level.jpg)
 * [2025-03-24 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20250324.0930.water-level-rainfall.jpg)
@@ -53,7 +54,6 @@
 * [2025-03-03 09:00 water level](data/river-water-level-and-flood-warnings/20250303.0900.water-level.jpg)
 * [2025-03-02 09:30 water level](data/river-water-level-and-flood-warnings/20250302.0930.water-level.jpg)
 * [2025-02-14 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20250214.0930.water-level-rainfall.jpg)
-* [2025-02-08 09:30 Water Level  Rainfall](data/river-water-level-and-flood-warnings/20250208.0930.water-level-rainfall.jpg)
 
 ## Landslide Warnings
 
