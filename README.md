@@ -4,8 +4,9 @@
 
 ## Situation Reports
 
-**4238/4301** documents downloaded.
+**4239/4302** documents downloaded.
 
+* [2025-04-11 09:00 Situation Report](data/situation-reports/20250411.0900.situation-report.pdf)
 * [2025-04-10 09:00 Situation Report](data/situation-reports/20250410.0900.situation-report.pdf)
 * [2025-04-09 09:00 Situation Report](data/situation-reports/20250409.0900.situation-report.pdf)
 * [2025-04-08 09:00 Situation Report](data/situation-reports/20250408.0900.situation-report.pdf)
@@ -15,7 +16,6 @@
 * [2025-04-04 09:00 Situation Report](data/situation-reports/20250404.0900.situation-report.pdf)
 * [2025-04-03 09:00 Situation Report](data/situation-reports/20250403.0900.situation-report.pdf)
 * [2025-04-02 09:00 Situation Report](data/situation-reports/20250402.0900.situation-report.pdf)
-* [2025-04-01 09:00 Situation Report](data/situation-reports/20250401.0900.situation-report.pdf)
 
 ## Earthquakes
 
@@ -42,8 +42,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1722/2026** documents downloaded.
+**1722/2027** documents downloaded.
 
+* [2025-04-11 09:30 Water Level](data/river-water-level-and-flood-warnings/20250411.0930.water-level.jpg)
 * [2025-04-08 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20250408.0930.water-level-rainfall.jpg)
 * [2025-03-26 09:00 water level](data/river-water-level-and-flood-warnings/20250326.0900.water-level.jpg)
 * [2025-03-25 09:30 water level](data/river-water-level-and-flood-warnings/20250325.0930.water-level.jpg)
@@ -53,7 +54,6 @@
 * [2025-03-04 09:00 water level](data/river-water-level-and-flood-warnings/20250304.0900.water-level.jpg)
 * [2025-03-03 09:00 water level](data/river-water-level-and-flood-warnings/20250303.0900.water-level.jpg)
 * [2025-03-02 09:30 water level](data/river-water-level-and-flood-warnings/20250302.0930.water-level.jpg)
-* [2025-02-14 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20250214.0930.water-level-rainfall.jpg)
 
 ## Landslide Warnings
 
