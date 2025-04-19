@@ -1,6 +1,22 @@
 [
   {
     "name": "Weather Forecast",
+    "time_str": "2025-04-19 16:00",
+    "time_id": "20250419.1600",
+    "ut": 1745058600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2025__1745058711.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Warm Weather Advisory",
+    "time_str": "2025-04-19 15:30",
+    "time_id": "20250419.1530",
+    "ut": 1745056800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Warm_Weather_Advisory_at_3__1745057106.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forecast",
     "time_str": "2025-04-19 14:00",
     "time_id": "20250419.1400",
     "ut": 1745051400.0,
