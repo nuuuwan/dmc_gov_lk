@@ -1,5 +1,13 @@
 [
   {
+    "name": "Heat Weather Advisory ",
+    "time_str": "2025-04-20 15:30",
+    "time_id": "20250420.1530",
+    "ut": 1745143200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Heat_Weather_Advisory_at_1530hrs_on_2025__1745144720.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forecast",
     "time_str": "2025-04-20 14:00",
     "time_id": "20250420.1400",
