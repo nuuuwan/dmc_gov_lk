@@ -8,6 +8,22 @@
     "ext": "pdf"
   },
   {
+    "name": "Advisory for Severe Lightning",
+    "time_str": "2025-04-23 01:30",
+    "time_id": "20250423.0130",
+    "ut": 1745352000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/WW_T_20250423SN__1745396756.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Severe Lightning",
+    "time_str": "2025-04-23 01:30",
+    "time_id": "20250423.0130",
+    "ut": 1745352000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/WW_T_20250423EN__1745396777.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forecast",
     "time_str": "2025-04-22 16:00",
     "time_id": "20250422.1600",
