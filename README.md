@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**9499/9719** documents downloaded.
+**9500/9720** documents downloaded.
 
+* [2025-04-25 14:00 Weather Report](data/weather-reports/20250425.1400.weather-report.pdf)
 * [2025-04-25 07:00 Advisory for Heavy Rain](data/weather-reports/20250425.0700.advisory-for-heavy-rain.pdf)
 * [2025-04-25 05:30 Weather Forcast](data/weather-reports/20250425.0530.weather-forcast.pdf)
 * [2025-04-24 16:00 Weather Report at 1600hrs on 2025.04.24](data/weather-reports/20250424.1600.weather-report-at-1600hrs-on-20250424.pdf)
@@ -68,7 +69,6 @@
 * [2025-04-24 05:30 Weather Reports](data/weather-reports/20250424.0530.weather-reports.pdf)
 * [2025-04-23 16:00 Weather Forecast](data/weather-reports/20250423.1600.weather-forecast.pdf)
 * [2025-04-23 14:00 Weather Forcast](data/weather-reports/20250423.1400.weather-forcast.pdf)
-* [2025-04-23 05:30 Weather Report](data/weather-reports/20250423.0530.weather-report.pdf)
 
 ## River Water Level And Flood Warnings
 
