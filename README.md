@@ -19,8 +19,9 @@
 
 ## Situation Reports
 
-**4255/4318** documents downloaded.
+**4256/4319** documents downloaded.
 
+* [2025-04-28 09:00 Situation Report](data/situation-reports/20250428.0900.situation-report.pdf)
 * [2025-04-27 09:00 Situation Report](data/situation-reports/20250427.0900.situation-report.pdf)
 * [2025-04-26 09:00 Situation Report](data/situation-reports/20250426.0900.situation-report.pdf)
 * [2025-04-25 09:00 Situation Report](data/situation-reports/20250425.0900.situation-report.pdf)
@@ -30,7 +31,6 @@
 * [2025-04-21 09:00 Situation Report](data/situation-reports/20250421.0900.situation-report.pdf)
 * [2025-04-20 09:00 Situation Report](data/situation-reports/20250420.0900.situation-report.pdf)
 * [2025-04-19 09:00 Situation Report](data/situation-reports/20250419.0900.situation-report.pdf)
-* [2025-04-18 09:00 Situation Report](data/situation-reports/20250418.0900.situation-report.pdf)
 
 ## Earthquakes
 
@@ -57,8 +57,11 @@
 
 ## Weather Reports
 
-**9512/9732** documents downloaded.
+**9515/9735** documents downloaded.
 
+* [2025-04-28 16:00 Weather Forecast](data/weather-reports/20250428.1600.weather-forecast.pdf)
+* [2025-04-28 14:00 Weather Forecast](data/weather-reports/20250428.1400.weather-forecast.pdf)
+* [2025-04-28 12:00 Advisory for Severe Lightning](data/weather-reports/20250428.1200.advisory-for-severe-lightning.pdf)
 * [2025-04-28 05:30 Weather Forcast](data/weather-reports/20250428.0530.weather-forcast.pdf)
 * [2025-04-27 16:00 Weather Forecast](data/weather-reports/20250427.1600.weather-forecast.pdf)
 * [2025-04-27 14:00 Weather Forecast](data/weather-reports/20250427.1400.weather-forecast.pdf)
@@ -66,9 +69,6 @@
 * [2025-04-27 05:30 Weather Forcast](data/weather-reports/20250427.0530.weather-forcast.pdf)
 * [2025-04-26 16:00 Weather Forecast](data/weather-reports/20250426.1600.weather-forecast.pdf)
 * [2025-04-26 15:30 Warm Weather Advisory](data/weather-reports/20250426.1530.warm-weather-advisory.pdf)
-* [2025-04-26 14:00 Weather Forecast](data/weather-reports/20250426.1400.weather-forecast.pdf)
-* [2025-04-26 12:30 Advisory for Severe Lightning](data/weather-reports/20250426.1230.advisory-for-severe-lightning.pdf)
-* [2025-04-26 05:30 Weather Forcast](data/weather-reports/20250426.0530.weather-forcast.pdf)
 
 ## River Water Level And Flood Warnings
 
