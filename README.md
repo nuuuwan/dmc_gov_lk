@@ -57,8 +57,11 @@
 
 ## Weather Reports
 
-**9517/9738** documents downloaded.
+**9520/9741** documents downloaded.
 
+* [2025-04-29 16:00 Weather Forecast](data/weather-reports/20250429.1600.weather-forecast.pdf)
+* [2025-04-29 15:30 Warm Weather Advisory](data/weather-reports/20250429.1530.warm-weather-advisory.pdf)
+* [2025-04-29 14:00 Weather Forecast](data/weather-reports/20250429.1400.weather-forecast.pdf)
 * [2025-04-29 12:00 Advisory for Severe Lightning](data/weather-reports/20250429.1200.advisory-for-severe-lightning.pdf)
 * [2025-04-29 12:00 Advisory for Severe Lightning](data/weather-reports/20250429.1200.advisory-for-severe-lightning.pdf)
 * [2025-04-29 05:30 Weather Forcast](data/weather-reports/20250429.0530.weather-forcast.pdf)
@@ -66,9 +69,6 @@
 * [2025-04-28 14:00 Weather Forecast](data/weather-reports/20250428.1400.weather-forecast.pdf)
 * [2025-04-28 12:00 Advisory for Severe Lightning](data/weather-reports/20250428.1200.advisory-for-severe-lightning.pdf)
 * [2025-04-28 05:30 Weather Forcast](data/weather-reports/20250428.0530.weather-forcast.pdf)
-* [2025-04-27 16:00 Weather Forecast](data/weather-reports/20250427.1600.weather-forecast.pdf)
-* [2025-04-27 14:00 Weather Forecast](data/weather-reports/20250427.1400.weather-forecast.pdf)
-* [2025-04-27 12:30 Advisory for Severe Lightning](data/weather-reports/20250427.1230.advisory-for-severe-lightning.pdf)
 
 ## River Water Level And Flood Warnings
 
