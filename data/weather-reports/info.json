@@ -1,5 +1,21 @@
 [
   {
+    "name": "Warm Weather Advisory -",
+    "time_str": "2025-04-30 15:30",
+    "time_id": "20250430.1530",
+    "ut": 1746007200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/WW_HI_20250430EN__1746008835.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Warm Weather Advisory -",
+    "time_str": "2025-04-30 15:30",
+    "time_id": "20250430.1530",
+    "ut": 1746007200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/WW_HI_20250430SN__1746008857.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Advisory for Severe Lightning",
     "time_str": "2025-04-30 12:00",
     "time_id": "20250430.1200",
