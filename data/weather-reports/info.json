@@ -1,11 +1,19 @@
 [
   {
+    "name": "Weather Forcast",
+    "time_str": "2025-05-05 14:00",
+    "time_id": "20250505.1400",
+    "ut": 1746433800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_2025__1746434419.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Advisory for Severe Lightning",
     "time_str": "2025-05-05 12:30",
     "time_id": "20250505.1230",
     "ut": 1746428400.0,
-    "href": "https://www.dmc.gov.lk/images/dmcreports/",
-    "ext": "lk/images/dmcreports/"
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_at_12__1746434518.pdf",
+    "ext": "pdf"
   },
   {
     "name": "Weather Forcast",
