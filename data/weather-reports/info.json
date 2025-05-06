@@ -1,5 +1,13 @@
 [
   {
+    "name": "Advisory for Severe Lightning",
+    "time_str": "2025-05-06 12:00",
+    "time_id": "20250506.1200",
+    "ut": 1746513000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_at_12__1746513654.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather forecast for Multiday boats",
     "time_str": "2025-05-06 07:00",
     "time_id": "20250506.0700",
