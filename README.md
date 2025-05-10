@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**9565/9788** documents downloaded.
+**9566/9789** documents downloaded.
 
+* [2025-05-10 05:30 Weather Forcast](data/weather-reports/20250510.0530.weather-forcast.pdf)
 * [2025-05-09 16:00 Weather Forecast](data/weather-reports/20250509.1600.weather-forecast.pdf)
 * [2025-05-09 16:00 Warm Weather Advisory](data/weather-reports/20250509.1600.warm-weather-advisory.pdf)
 * [2025-05-09 14:00 Weather Forecast](data/weather-reports/20250509.1400.weather-forecast.pdf)
@@ -68,7 +69,6 @@
 * [2025-05-08 14:00 Weather Forecast](data/weather-reports/20250508.1400.weather-forecast.pdf)
 * [2025-05-08 12:30 Advisory for Severe Lightning](data/weather-reports/20250508.1230.advisory-for-severe-lightning.pdf)
 * [2025-05-08 05:30 Weather Forcast](data/weather-reports/20250508.0530.weather-forcast.pdf)
-* [2025-05-07 14:00 Weather Forcast](data/weather-reports/20250507.1400.weather-forcast.pdf)
 
 ## Earthquakes
 
