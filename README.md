@@ -4,8 +4,9 @@
 
 ## Situation Reports
 
-**4271/4334** documents downloaded.
+**4272/4335** documents downloaded.
 
+* [2025-05-17 09:00 Situation Report](data/situation-reports/20250517.0900.situation-report.pdf)
 * [2025-05-14 09:00 Situation Report](data/situation-reports/20250514.0900.situation-report.pdf)
 * [2025-05-13 09:00 Situation Report](data/situation-reports/20250513.0900.situation-report.pdf)
 * [2025-05-12 09:00 Situation Report](data/situation-reports/20250512.0900.situation-report.pdf)
@@ -15,7 +16,6 @@
 * [2025-05-08 09:00 Situation Report](data/situation-reports/20250508.0900.situation-report.pdf)
 * [2025-05-07 09:00 Situation Report](data/situation-reports/20250507.0900.situation-report.pdf)
 * [2025-05-06 09:00 Situation Report](data/situation-reports/20250506.0900.situation-report.pdf)
-* [2025-05-05 09:00 Situation Report](data/situation-reports/20250505.0900.situation-report.pdf)
 
 ## Flood Inundation Maps
 
@@ -72,8 +72,9 @@
 
 ## Weather Reports
 
-**9591/9815** documents downloaded.
+**9592/9816** documents downloaded.
 
+* [2025-05-17 08:30 Advisory for Heavy Rain](data/weather-reports/20250517.0830.advisory-for-heavy-rain.pdf)
 * [2025-05-17 05:30 Weather Forcast](data/weather-reports/20250517.0530.weather-forcast.pdf)
 * [2025-05-16 16:00 Weather Forecast](data/weather-reports/20250516.1600.weather-forecast.pdf)
 * [2025-05-16 14:00 Weather Forecast](data/weather-reports/20250516.1400.weather-forecast.pdf)
@@ -83,7 +84,6 @@
 * [2025-05-15 16:00 Weather Forecast](data/weather-reports/20250515.1600.weather-forecast.pdf)
 * [2025-05-15 14:00 Weather Forcast](data/weather-reports/20250515.1400.weather-forcast.pdf)
 * [2025-05-15 13:00 Advisory for Severe Lightning](data/weather-reports/20250515.1300.advisory-for-severe-lightning.pdf)
-* [2025-05-15 05:30 Weather Report](data/weather-reports/20250515.0530.weather-report.pdf)
 
 ## River Water Level And Flood Warnings
 
