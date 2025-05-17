@@ -1,5 +1,21 @@
 [
   {
+    "name": "Weather Forcast",
+    "time_str": "2025-05-17 16:00",
+    "time_id": "20250517.1600",
+    "ut": 1747477800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_report_at_1600hrs_on_2025__1747478425.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Fishermen bulletin for strong winds and rough seas ",
+    "time_str": "2025-05-17 15:00",
+    "time_id": "20250517.1500",
+    "ut": 1747474200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Fishermen_bulletin_for_strong_winds_and_rough_seas_at_1500hrs_on_17__1747476946.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forecast",
     "time_str": "2025-05-17 14:00",
     "time_id": "20250517.1400",
