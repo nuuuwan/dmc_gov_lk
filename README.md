@@ -72,8 +72,9 @@
 
 ## Weather Reports
 
-**9595/9819** documents downloaded.
+**9596/9820** documents downloaded.
 
+* [2025-05-18 05:30 Weather Forcast](data/weather-reports/20250518.0530.weather-forcast.pdf)
 * [2025-05-17 16:00 Weather Forcast](data/weather-reports/20250517.1600.weather-forcast.pdf)
 * [2025-05-17 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20250517.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
 * [2025-05-17 14:00 Weather Forecast](data/weather-reports/20250517.1400.weather-forecast.pdf)
@@ -83,7 +84,6 @@
 * [2025-05-16 14:00 Weather Forecast](data/weather-reports/20250516.1400.weather-forecast.pdf)
 * [2025-05-16 12:00 Advisory for Severe Lightning](data/weather-reports/20250516.1200.advisory-for-severe-lightning.pdf)
 * [2025-05-16 12:00 Advisory for Severe Lightning](data/weather-reports/20250516.1200.advisory-for-severe-lightning.pdf)
-* [2025-05-16 05:30 Weather Forcast](data/weather-reports/20250516.0530.weather-forcast.pdf)
 
 ## River Water Level And Flood Warnings
 
