@@ -4,8 +4,9 @@
 
 ## Situation Reports
 
-**4272/4335** documents downloaded.
+**4273/4336** documents downloaded.
 
+* [2025-05-18 09:00 Situation Report](data/situation-reports/20250518.0900.situation-report.pdf)
 * [2025-05-17 09:00 Situation Report](data/situation-reports/20250517.0900.situation-report.pdf)
 * [2025-05-14 09:00 Situation Report](data/situation-reports/20250514.0900.situation-report.pdf)
 * [2025-05-13 09:00 Situation Report](data/situation-reports/20250513.0900.situation-report.pdf)
@@ -15,7 +16,6 @@
 * [2025-05-09 09:00 Situation Report](data/situation-reports/20250509.0900.situation-report.pdf)
 * [2025-05-08 09:00 Situation Report](data/situation-reports/20250508.0900.situation-report.pdf)
 * [2025-05-07 09:00 Situation Report](data/situation-reports/20250507.0900.situation-report.pdf)
-* [2025-05-06 09:00 Situation Report](data/situation-reports/20250506.0900.situation-report.pdf)
 
 ## Flood Inundation Maps
 
@@ -72,8 +72,9 @@
 
 ## Weather Reports
 
-**9596/9820** documents downloaded.
+**9597/9821** documents downloaded.
 
+* [2025-05-18 09:00 Advisory for Heavy Rain](data/weather-reports/20250518.0900.advisory-for-heavy-rain.pdf)
 * [2025-05-18 05:30 Weather Forcast](data/weather-reports/20250518.0530.weather-forcast.pdf)
 * [2025-05-17 16:00 Weather Forcast](data/weather-reports/20250517.1600.weather-forcast.pdf)
 * [2025-05-17 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20250517.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
@@ -82,7 +83,6 @@
 * [2025-05-17 05:30 Weather Forcast](data/weather-reports/20250517.0530.weather-forcast.pdf)
 * [2025-05-16 16:00 Weather Forecast](data/weather-reports/20250516.1600.weather-forecast.pdf)
 * [2025-05-16 14:00 Weather Forecast](data/weather-reports/20250516.1400.weather-forecast.pdf)
-* [2025-05-16 12:00 Advisory for Severe Lightning](data/weather-reports/20250516.1200.advisory-for-severe-lightning.pdf)
 * [2025-05-16 12:00 Advisory for Severe Lightning](data/weather-reports/20250516.1200.advisory-for-severe-lightning.pdf)
 
 ## River Water Level And Flood Warnings
