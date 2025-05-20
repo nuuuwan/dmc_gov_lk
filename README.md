@@ -49,8 +49,9 @@
 
 ## Landslide Warnings
 
-**643/650** documents downloaded.
+**644/651** documents downloaded.
 
+* [2025-05-20 14:00 Landslide early warning](data/landslide-warnings/20250520.1400.landslide-early-warning.pdf)
 * [2025-05-19 14:00 Landslide early warning](data/landslide-warnings/20250519.1400.landslide-early-warning.pdf)
 * [2025-05-18 10:00 Landslide early warning](data/landslide-warnings/20250518.1000.landslide-early-warning.pdf)
 * [2025-04-10 16:00 Landslide Early Warning](data/landslide-warnings/20250410.1600.landslide-early-warning.pdf)
@@ -60,7 +61,6 @@
 * [2025-02-28 12:30 Landslide Early Warning](data/landslide-warnings/20250228.1230.landslide-early-warning.pdf)
 * [2025-01-21 16:00 Landslide EW Report](data/landslide-warnings/20250121.1600.landslide-ew-report.pdf)
 * [2025-01-21 16:00 Landslide EW Report](data/landslide-warnings/20250121.1600.landslide-ew-report.pdf)
-* [2025-01-20 16:00 Landslide EW Report](data/landslide-warnings/20250120.1600.landslide-ew-report.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -72,8 +72,9 @@
 
 ## Weather Reports
 
-**9608/9832** documents downloaded.
+**9609/9833** documents downloaded.
 
+* [2025-05-20 14:00 Weather Forecast](data/weather-reports/20250520.1400.weather-forecast.pdf)
 * [2025-05-20 08:00 Advisory for strong winds and rough seas](data/weather-reports/20250520.0800.advisory-for-strong-winds-and-rough-seas.pdf)
 * [2025-05-20 05:30 Weather Forcast](data/weather-reports/20250520.0530.weather-forcast.pdf)
 * [2025-05-19 16:00 Weather Forecast](data/weather-reports/20250519.1600.weather-forecast.pdf)
@@ -83,7 +84,6 @@
 * [2025-05-19 12:00 Advisory for Severe Lightning Issued](data/weather-reports/20250519.1200.advisory-for-severe-lightning-issued.pdf)
 * [2025-05-19 06:00 Advisory for Strong Winds and Rough Seas](data/weather-reports/20250519.0600.advisory-for-strong-winds-and-rough-seas.pdf)
 * [2025-05-19 05:30 Weather Forcast](data/weather-reports/20250519.0530.weather-forcast.pdf)
-* [2025-05-18 16:00 Weather Forecast](data/weather-reports/20250518.1600.weather-forecast.pdf)
 
 ## River Water Level And Flood Warnings
 
