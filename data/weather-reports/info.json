@@ -1,6 +1,22 @@
 [
   {
     "name": "Weather Forecast",
+    "time_str": "2025-05-26 16:00",
+    "time_id": "20250526.1600",
+    "ut": 1748255400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2025__1748256947.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forecast (Tamil)",
+    "time_str": "2025-05-26 16:00",
+    "time_id": "20250526.1600",
+    "ut": 1748255400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_(Tamil_Language)_at_1600hrs_on_2025__1748258486.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forecast",
     "time_str": "2025-05-26 14:00",
     "time_id": "20250526.1400",
     "ut": 1748248200.0,
