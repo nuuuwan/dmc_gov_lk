@@ -1,5 +1,21 @@
 [
   {
+    "name": "Advisory for Heavy Rain ",
+    "time_str": "2025-05-27 14:00",
+    "time_id": "20250527.1400",
+    "ut": 1748334600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_Rain_at_1400hrs_on_27__1748335733.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forecast",
+    "time_str": "2025-05-27 14:00",
+    "time_id": "20250527.1400",
+    "ut": 1748334600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400_hrs_on_2025__1748335994.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Warning for strong winds and rough seas",
     "time_str": "2025-05-27 12:30",
     "time_id": "20250527.1230",
