@@ -16,19 +16,19 @@
     "ext": "pdf"
   },
   {
+    "name": "Weather Forecast (Tamil Language)",
+    "time_str": "2025-05-27 14:00",
+    "time_id": "20250527.1400",
+    "ut": 1748334600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_(Tamil_Language)_at_1400hrs_on_2025__1748337573.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Warning for strong winds and rough seas",
     "time_str": "2025-05-27 12:30",
     "time_id": "20250527.1230",
     "ut": 1748329200.0,
     "href": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_strong_winds_and_rough_seas__1748330364.pdf",
-    "ext": "pdf"
-  },
-  {
-    "name": "Warning for strong winds and rough seas Issued (Tamil Language ",
-    "time_str": "2025-05-27 12:30",
-    "time_id": "20250527.1230",
-    "ut": 1748329200.0,
-    "href": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_strong_winds_and_rough_seas_Issued_(Tamil_Language)_at_12__1748331517.pdf",
     "ext": "pdf"
   },
   {
