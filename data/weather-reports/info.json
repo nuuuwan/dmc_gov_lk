@@ -1,5 +1,21 @@
 [
   {
+    "name": "Warning for strong winds and rough seas ",
+    "time_str": "2025-05-28 12:30",
+    "time_id": "20250528.1230",
+    "ut": 1748415600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_strong_winds_and_rough_seas_at_1230hrs_on_28__1748416458.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Strong winds  Land area",
+    "time_str": "2025-05-28 12:30",
+    "time_id": "20250528.1230",
+    "ut": 1748415600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Strong_winds_-_Land_area_at_1230hrs_on_28__1748416561.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2025-05-28 05:30",
     "time_id": "20250528.0530",
