@@ -16,6 +16,14 @@
     "ext": "pdf"
   },
   {
+    "name": "Warning for strong winds and rough seas",
+    "time_str": "2025-05-28 12:30",
+    "time_id": "20250528.1230",
+    "ut": 1748415600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/WWO25052801_Tamil__1748420460.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2025-05-28 05:30",
     "time_id": "20250528.0530",
