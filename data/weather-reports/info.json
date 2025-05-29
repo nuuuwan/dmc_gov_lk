@@ -8,6 +8,14 @@
     "ext": "pdf"
   },
   {
+    "name": "Weather Forcast at 160 hrs (Tamil)",
+    "time_str": "2025-05-29 16:00",
+    "time_id": "20250529.1600",
+    "ut": 1748514600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600_hrs_on_2025__1748522653.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2025-05-29 14:00",
     "time_id": "20250529.1400",
