@@ -72,8 +72,11 @@
 
 ## Weather Reports
 
-**9657/9886** documents downloaded.
+**9660/9890** documents downloaded.
 
+* [2025-05-30 14:00 Warning for strong winds and rough seas](data/weather-reports/20250530.1400.warning-for-strong-winds-and-rough-seas.pdf)
+* [2025-05-30 14:00 Warning for strong winds and rough seas](data/weather-reports/20250530.1400.warning-for-strong-winds-and-rough-seas.pdf)
+* [2025-05-30 14:00 Weather Forcast](data/weather-reports/20250530.1400.weather-forcast.pdf)
 * [2025-05-30 09:00 Advisory for Strong winds](data/weather-reports/20250530.0900.advisory-for-strong-winds.pdf)
 * [2025-05-30 08:30 Advisory for Heavy Rain](data/weather-reports/20250530.0830.advisory-for-heavy-rain.pdf)
 * [2025-05-30 05:30 Weather Forcast](data/weather-reports/20250530.0530.weather-forcast.pdf)
@@ -81,9 +84,6 @@
 * [2025-05-29 16:00 Weather Forcast at 160 hrs (Tamil)](data/weather-reports/20250529.1600.weather-forcast-at-160-hrs-tamil.pdf)
 * [2025-05-29 14:00 Weather Forcast](data/weather-reports/20250529.1400.weather-forcast.pdf)
 * [2025-05-29 13:00 Warning for strong winds and rough seas](data/weather-reports/20250529.1300.warning-for-strong-winds-and-rough-seas.pdf)
-* [2025-05-29 13:00 Warning for strong winds and rough seas](data/weather-reports/20250529.1300.warning-for-strong-winds-and-rough-seas.pdf)
-* [2025-05-29 13:00 Warning for strong winds and rough seas](data/weather-reports/20250529.1300.warning-for-strong-winds-and-rough-seas.pdf)
-* [2025-05-29 12:30 Advisory for Strong winds](data/weather-reports/20250529.1230.advisory-for-strong-winds.pdf)
 
 ## Flood Inundation Maps
 
