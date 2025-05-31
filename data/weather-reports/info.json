@@ -1,5 +1,13 @@
 [
   {
+    "name": "Advisory for Strong winds",
+    "time_str": "2025-05-31 08:30",
+    "time_id": "20250531.0830",
+    "ut": 1748660400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Strong_winds_at_0830_hrs_on_2025__1748661846.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2025-05-31 05:30",
     "time_id": "20250531.0530",
