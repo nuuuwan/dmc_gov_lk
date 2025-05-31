@@ -1,5 +1,29 @@
 [
   {
+    "name": "Warning for strong winds and rough seas",
+    "time_str": "2025-05-31 12:30",
+    "time_id": "20250531.1230",
+    "ut": 1748674800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/WWO2025053101S__1748676101.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Warning for strong winds and rough seas",
+    "time_str": "2025-05-31 12:30",
+    "time_id": "20250531.1230",
+    "ut": 1748674800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/WWO2025053101E__1748676115.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Warning for strong winds and rough seas",
+    "time_str": "2025-05-31 12:30",
+    "time_id": "20250531.1230",
+    "ut": 1748674800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/WWO25053101_Tamil__1748677588.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Advisory for Strong winds",
     "time_str": "2025-05-31 08:30",
     "time_id": "20250531.0830",
