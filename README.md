@@ -72,8 +72,10 @@
 
 ## Weather Reports
 
-**9664/9896** documents downloaded.
+**9665/9898** documents downloaded.
 
+* [2025-05-31 14:00 Weather Forcast](data/weather-reports/20250531.1400.weather-forcast.pdf)
+* [2025-05-31 14:00 Weather Forcast](data/weather-reports/20250531.1400.weather-forcast.pdf)
 * [2025-05-31 12:30 Warning for strong winds and rough seas](data/weather-reports/20250531.1230.warning-for-strong-winds-and-rough-seas.pdf)
 * [2025-05-31 12:30 Warning for strong winds and rough seas](data/weather-reports/20250531.1230.warning-for-strong-winds-and-rough-seas.pdf)
 * [2025-05-31 12:30 Warning for strong winds and rough seas](data/weather-reports/20250531.1230.warning-for-strong-winds-and-rough-seas.pdf)
@@ -82,8 +84,6 @@
 * [2025-05-30 16:00 Weather Forcast](data/weather-reports/20250530.1600.weather-forcast.pdf)
 * [2025-05-30 14:00 Warning for strong winds and rough seas](data/weather-reports/20250530.1400.warning-for-strong-winds-and-rough-seas.pdf)
 * [2025-05-30 14:00 Warning for strong winds and rough seas](data/weather-reports/20250530.1400.warning-for-strong-winds-and-rough-seas.pdf)
-* [2025-05-30 14:00 Weather Forcast](data/weather-reports/20250530.1400.weather-forcast.pdf)
-* [2025-05-30 09:00 Advisory for Strong winds](data/weather-reports/20250530.0900.advisory-for-strong-winds.pdf)
 
 ## Flood Inundation Maps
 
