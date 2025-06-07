@@ -8,6 +8,14 @@
     "ext": "pdf"
   },
   {
+    "name": "Weather Forecast (Tamil Language ",
+    "time_str": "2025-06-07 16:00",
+    "time_id": "20250607.1600",
+    "ut": 1749292200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Forecast_at_1600hrs_on_07__1749294251.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forecast",
     "time_str": "2025-06-07 14:00",
     "time_id": "20250607.1400",
