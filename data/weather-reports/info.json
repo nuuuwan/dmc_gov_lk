@@ -1,5 +1,29 @@
 [
   {
+    "name": "Advisory for Strong winds",
+    "time_str": "2025-06-09 15:00",
+    "time_id": "20250609.1500",
+    "ut": 1749461400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Strong_winds_at_1500_hrs_on_2025__1749462398.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Strong winds",
+    "time_str": "2025-06-09 15:00",
+    "time_id": "20250609.1500",
+    "ut": 1749461400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Strong_winds_at_1500_hrs_on_2025__1749462442.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2025-06-09 14:00",
+    "time_id": "20250609.1400",
+    "ut": 1749457800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Forecast_at_1400hrs_on_2025__1749459699.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather forecast for Multiday boats",
     "time_str": "2025-06-09 08:30",
     "time_id": "20250609.0830",
