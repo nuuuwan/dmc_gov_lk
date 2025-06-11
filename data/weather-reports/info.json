@@ -8,6 +8,22 @@
     "ext": "pdf"
   },
   {
+    "name": "Warning for strong winds and rough seas",
+    "time_str": "2025-06-11 14:00",
+    "time_id": "20250611.1400",
+    "ut": 1749630600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/WWO2025061101S__1749632989.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Warning for strong winds and rough seas",
+    "time_str": "2025-06-11 14:00",
+    "time_id": "20250611.1400",
+    "ut": 1749630600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/WWO2025061101E__1749633015.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2025-06-11 09:30",
     "time_id": "20250611.0930",
