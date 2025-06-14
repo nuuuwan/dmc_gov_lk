@@ -1,5 +1,13 @@
 [
   {
+    "name": "Advisory for Strong winds",
+    "time_str": "2025-06-14 09:30",
+    "time_id": "20250614.0930",
+    "ut": 1749873600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Strong_winds_Issued_at_09__1749874752.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Advisory for Heavy Rain ",
     "time_str": "2025-06-14 08:00",
     "time_id": "20250614.0800",
