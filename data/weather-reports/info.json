@@ -1,5 +1,21 @@
 [
   {
+    "name": "Advisory for Strong Winds (Tamil)",
+    "time_str": "2025-06-15 10:20",
+    "time_id": "20250615.1020",
+    "ut": 1749963000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Strong_winds_(Tamil_Language)_at_0930hrs_on_15__1749963274.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Strong winds",
+    "time_str": "2025-06-15 09:30",
+    "time_id": "20250615.0930",
+    "ut": 1749960000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Strong_winds_at_0930hrs_on_15__1749960527.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Advisory for Heavy Rain",
     "time_str": "2025-06-15 08:00",
     "time_id": "20250615.0800",
