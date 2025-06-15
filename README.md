@@ -49,8 +49,9 @@
 
 ## Weather Reports
 
-**9725/9964** documents downloaded.
+**9726/9965** documents downloaded.
 
+* [2025-06-15 08:00 Advisory for Heavy Rain](data/weather-reports/20250615.0800.advisory-for-heavy-rain.pdf)
 * [2025-06-15 05:30 Weather Forcast](data/weather-reports/20250615.0530.weather-forcast.pdf)
 * [2025-06-14 16:00 Weather Forecast](data/weather-reports/20250614.1600.weather-forecast.pdf)
 * [2025-06-14 15:15 Weather Forecast](data/weather-reports/20250614.1515.weather-forecast.pdf)
@@ -60,7 +61,6 @@
 * [2025-06-14 09:30 Advisory for Strong winds](data/weather-reports/20250614.0930.advisory-for-strong-winds.pdf)
 * [2025-06-14 08:00 Advisory for Heavy Rain](data/weather-reports/20250614.0800.advisory-for-heavy-rain.pdf)
 * [2025-06-14 05:30 Weather Forcast](data/weather-reports/20250614.0530.weather-forcast.pdf)
-* [2025-06-13 16:00 Weather Forecast](data/weather-reports/20250613.1600.weather-forecast.pdf)
 
 ## River Water Level And Flood Warnings
 
@@ -87,8 +87,9 @@
 
 ## Landslide Warnings
 
-**650/657** documents downloaded.
+**651/658** documents downloaded.
 
+* [2025-06-15 08:00 Landslide Early Warning](data/landslide-warnings/20250615.0800.landslide-early-warning.pdf)
 * [2025-06-14 16:00 Landslide Early Warning](data/landslide-warnings/20250614.1600.landslide-early-warning.pdf)
 * [2025-06-11 16:00 Landslide Early Warning](data/landslide-warnings/20250611.1600.landslide-early-warning.pdf)
 * [2025-05-31 16:00 Landslide Early Warning](data/landslide-warnings/20250531.1600.landslide-early-warning.pdf)
@@ -98,4 +99,3 @@
 * [2025-05-20 14:00 Landslide early warning](data/landslide-warnings/20250520.1400.landslide-early-warning.pdf)
 * [2025-05-19 14:00 Landslide early warning](data/landslide-warnings/20250519.1400.landslide-early-warning.pdf)
 * [2025-05-18 10:00 Landslide early warning](data/landslide-warnings/20250518.1000.landslide-early-warning.pdf)
-* [2025-04-10 16:00 Landslide Early Warning](data/landslide-warnings/20250410.1600.landslide-early-warning.pdf)
