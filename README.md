@@ -49,8 +49,9 @@
 
 ## Weather Reports
 
-**9735/9975** documents downloaded.
+**9736/9976** documents downloaded.
 
+* [2025-06-16 16:00 Weather forecast](data/weather-reports/20250616.1600.weather-forecast.pdf)
 * [2025-06-16 14:25 Weather Forecast (Tamil)](data/weather-reports/20250616.1425.weather-forecast-tamil.pdf)
 * [2025-06-16 14:00 Weather forecast](data/weather-reports/20250616.1400.weather-forecast.pdf)
 * [2025-06-16 05:30 Weather Forcast](data/weather-reports/20250616.0530.weather-forcast.pdf)
@@ -60,7 +61,6 @@
 * [2025-06-15 14:30 Warning for strong winds and rough seas](data/weather-reports/20250615.1430.warning-for-strong-winds-and-rough-seas.pdf)
 * [2025-06-15 14:00 Weather forecast](data/weather-reports/20250615.1400.weather-forecast.pdf)
 * [2025-06-15 10:20 Advisory for Strong Winds (Tamil)](data/weather-reports/20250615.1020.advisory-for-strong-winds-tamil.pdf)
-* [2025-06-15 09:30 Advisory for Strong winds](data/weather-reports/20250615.0930.advisory-for-strong-winds.pdf)
 
 ## River Water Level And Flood Warnings
 
@@ -87,8 +87,9 @@
 
 ## Landslide Warnings
 
-**652/659** documents downloaded.
+**653/660** documents downloaded.
 
+* [2025-06-16 16:00 Landslide Early Warning](data/landslide-warnings/20250616.1600.landslide-early-warning.pdf)
 * [2025-06-15 16:00 Landslide Early Warning](data/landslide-warnings/20250615.1600.landslide-early-warning.pdf)
 * [2025-06-15 08:00 Landslide Early Warning](data/landslide-warnings/20250615.0800.landslide-early-warning.pdf)
 * [2025-06-14 16:00 Landslide Early Warning](data/landslide-warnings/20250614.1600.landslide-early-warning.pdf)
@@ -98,4 +99,3 @@
 * [2025-05-28 10:00 Landslide Early Warning](data/landslide-warnings/20250528.1000.landslide-early-warning.pdf)
 * [2025-05-27 10:00 Landslide early warning](data/landslide-warnings/20250527.1000.landslide-early-warning.pdf)
 * [2025-05-20 14:00 Landslide early warning](data/landslide-warnings/20250520.1400.landslide-early-warning.pdf)
-* [2025-05-19 14:00 Landslide early warning](data/landslide-warnings/20250519.1400.landslide-early-warning.pdf)
