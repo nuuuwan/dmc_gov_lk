@@ -49,8 +49,9 @@
 
 ## Weather Reports
 
-**9739/9979** documents downloaded.
+**9740/9980** documents downloaded.
 
+* [2025-06-17 16:00 Weather forecast](data/weather-reports/20250617.1600.weather-forecast.pdf)
 * [2025-06-17 14:00 Weather forecast](data/weather-reports/20250617.1400.weather-forecast.pdf)
 * [2025-06-17 14:00 Weather Forecast (Tamil)](data/weather-reports/20250617.1400.weather-forecast-tamil.pdf)
 * [2025-06-17 05:30 Weather Forcast](data/weather-reports/20250617.0530.weather-forcast.pdf)
@@ -60,7 +61,6 @@
 * [2025-06-16 05:30 Weather Forcast](data/weather-reports/20250616.0530.weather-forcast.pdf)
 * [2025-06-15 16:00 Weather forecast](data/weather-reports/20250615.1600.weather-forecast.pdf)
 * [2025-06-15 16:00 Weather forecast](data/weather-reports/20250615.1600.weather-forecast.pdf)
-* [2025-06-15 16:00 Warning for strong winds and rough seas (Tamil)](data/weather-reports/20250615.1600.warning-for-strong-winds-and-rough-seas-tamil.pdf)
 
 ## River Water Level And Flood Warnings
 
@@ -87,8 +87,9 @@
 
 ## Landslide Warnings
 
-**653/660** documents downloaded.
+**654/661** documents downloaded.
 
+* [2025-06-17 16:00 Landslide Early Warning](data/landslide-warnings/20250617.1600.landslide-early-warning.pdf)
 * [2025-06-16 16:00 Landslide Early Warning](data/landslide-warnings/20250616.1600.landslide-early-warning.pdf)
 * [2025-06-15 16:00 Landslide Early Warning](data/landslide-warnings/20250615.1600.landslide-early-warning.pdf)
 * [2025-06-15 08:00 Landslide Early Warning](data/landslide-warnings/20250615.0800.landslide-early-warning.pdf)
@@ -98,4 +99,3 @@
 * [2025-05-30 21:00 Landslide Early Warning](data/landslide-warnings/20250530.2100.landslide-early-warning.pdf)
 * [2025-05-28 10:00 Landslide Early Warning](data/landslide-warnings/20250528.1000.landslide-early-warning.pdf)
 * [2025-05-27 10:00 Landslide early warning](data/landslide-warnings/20250527.1000.landslide-early-warning.pdf)
-* [2025-05-20 14:00 Landslide early warning](data/landslide-warnings/20250520.1400.landslide-early-warning.pdf)
