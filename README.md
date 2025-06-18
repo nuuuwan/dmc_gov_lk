@@ -49,8 +49,9 @@
 
 ## Weather Reports
 
-**9742/9982** documents downloaded.
+**9743/9983** documents downloaded.
 
+* [2025-06-18 14:30 Weather Forecast (Tamil)](data/weather-reports/20250618.1430.weather-forecast-tamil.pdf)
 * [2025-06-18 14:00 Weather Forecast](data/weather-reports/20250618.1400.weather-forecast.pdf)
 * [2025-06-18 05:30 Weather Forcast](data/weather-reports/20250618.0530.weather-forcast.pdf)
 * [2025-06-17 16:00 Weather forecast](data/weather-reports/20250617.1600.weather-forecast.pdf)
@@ -60,7 +61,6 @@
 * [2025-06-16 16:00 Weather forecast](data/weather-reports/20250616.1600.weather-forecast.pdf)
 * [2025-06-16 14:25 Weather Forecast (Tamil)](data/weather-reports/20250616.1425.weather-forecast-tamil.pdf)
 * [2025-06-16 14:00 Weather forecast](data/weather-reports/20250616.1400.weather-forecast.pdf)
-* [2025-06-16 05:30 Weather Forcast](data/weather-reports/20250616.0530.weather-forcast.pdf)
 
 ## River Water Level And Flood Warnings
 
