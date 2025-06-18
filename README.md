@@ -4,8 +4,9 @@
 
 ## Situation Reports
 
-**4303/4366** documents downloaded.
+**4304/4367** documents downloaded.
 
+* [2025-06-18 09:00 Situation Report](data/situation-reports/20250618.0900.situation-report.pdf)
 * [2025-06-17 09:00 Situation Report](data/situation-reports/20250617.0900.situation-report.pdf)
 * [2025-06-16 09:00 Situation Report](data/situation-reports/20250616.0900.situation-report.pdf)
 * [2025-06-15 09:00 Situation Report](data/situation-reports/20250615.0900.situation-report.pdf)
@@ -15,7 +16,6 @@
 * [2025-06-10 09:00 Situation Report](data/situation-reports/20250610.0900.situation-report.pdf)
 * [2025-06-09 09:00 Situation Report](data/situation-reports/20250609.0900.situation-report.pdf)
 * [2025-06-08 09:00 Situation Report](data/situation-reports/20250608.0900.situation-report.pdf)
-* [2025-06-07 09:00 Situation Report](data/situation-reports/20250607.0900.situation-report.pdf)
 
 ## Flood Inundation Maps
 
@@ -64,8 +64,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1728/2044** documents downloaded.
+**1728/2045** documents downloaded.
 
+* [2025-06-18 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20250618.0930.water-level-rainfall.jpg)
 * [2025-06-17 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20250617.0930.water-level-rainfall.pdf)
 * [2025-06-16 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20250616.0930.water-level-rainfall.pdf)
 * [2025-06-15 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20250615.0930.water-level-rainfall.pdf)
@@ -75,7 +76,6 @@
 * [2025-06-01 09:30 water level](data/river-water-level-and-flood-warnings/20250601.0930.water-level.png)
 * [2025-05-31 09:30 water level](data/river-water-level-and-flood-warnings/20250531.0930.water-level.jpg)
 * [2025-05-30 10:00 water level](data/river-water-level-and-flood-warnings/20250530.1000.water-level.jpg)
-* [2025-05-29 09:30 water level](data/river-water-level-and-flood-warnings/20250529.0930.water-level.jpg)
 
 ## Emergency Response Data Viewer
 
