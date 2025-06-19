@@ -1,5 +1,13 @@
 [
   {
+    "name": "Weather Forecast (Tamil)",
+    "time_str": "2025-06-19 16:40",
+    "time_id": "20250619.1640",
+    "ut": 1750331400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2025__1750332677.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forecast",
     "time_str": "2025-06-19 16:00",
     "time_id": "20250619.1600",
