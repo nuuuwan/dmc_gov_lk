@@ -4,8 +4,9 @@
 
 ## Situation Reports
 
-**4309/4372** documents downloaded.
+**4310/4373** documents downloaded.
 
+* [2025-06-24 09:00 Situation Report](data/situation-reports/20250624.0900.situation-report.pdf)
 * [2025-06-23 09:00 Situation Report](data/situation-reports/20250623.0900.situation-report.pdf)
 * [2025-06-22 09:00 Situation Report](data/situation-reports/20250622.0900.situation-report.pdf)
 * [2025-06-21 09:00 Situation Report](data/situation-reports/20250621.0900.situation-report.pdf)
@@ -15,7 +16,6 @@
 * [2025-06-17 09:00 Situation Report](data/situation-reports/20250617.0900.situation-report.pdf)
 * [2025-06-16 09:00 Situation Report](data/situation-reports/20250616.0900.situation-report.pdf)
 * [2025-06-15 09:00 Situation Report](data/situation-reports/20250615.0900.situation-report.pdf)
-* [2025-06-14 09:00 Situation Report](data/situation-reports/20250614.0900.situation-report.pdf)
 
 ## Flood Inundation Maps
 
