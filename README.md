@@ -49,8 +49,9 @@
 
 ## Weather Reports
 
-**9821/10061** documents downloaded.
+**9822/10062** documents downloaded.
 
+* [2025-07-12 09:00 Warning for strong winds and rough seas](data/weather-reports/20250712.0900.warning-for-strong-winds-and-rough-seas.pdf)
 * [2025-07-12 05:30 Weather Forcast](data/weather-reports/20250712.0530.weather-forcast.pdf)
 * [2025-07-11 16:00 Weather Forecast](data/weather-reports/20250711.1600.weather-forecast.pdf)
 * [2025-07-11 14:00 Weather Forecast](data/weather-reports/20250711.1400.weather-forecast.pdf)
@@ -60,7 +61,6 @@
 * [2025-07-10 14:30 Advisory for strong winds and rough seas](data/weather-reports/20250710.1430.advisory-for-strong-winds-and-rough-seas.pdf)
 * [2025-07-10 14:30 Advisory for strong winds and rough seas (Tamil)](data/weather-reports/20250710.1430.advisory-for-strong-winds-and-rough-seas-tamil.pdf)
 * [2025-07-10 14:00 Weather Forecast](data/weather-reports/20250710.1400.weather-forecast.pdf)
-* [2025-07-10 05:30 Weather Forcast](data/weather-reports/20250710.0530.weather-forcast.pdf)
 
 ## Flood Inundation Maps
 
@@ -87,8 +87,9 @@
 
 ## Situation Reports
 
-**4326/4389** documents downloaded.
+**4327/4390** documents downloaded.
 
+* [2025-07-12 09:00 Situation Report](data/situation-reports/20250712.0900.situation-report.pdf)
 * [2025-07-10 09:00 Situation Report](data/situation-reports/20250710.0900.situation-report.pdf)
 * [2025-07-09 09:00 Situation Report](data/situation-reports/20250709.0900.situation-report.pdf)
 * [2025-07-08 09:00 Situation Report](data/situation-reports/20250708.0900.situation-report.pdf)
@@ -98,4 +99,3 @@
 * [2025-07-04 09:00 Situation Report](data/situation-reports/20250704.0900.situation-report.pdf)
 * [2025-07-03 09:00 Situation Report](data/situation-reports/20250703.0900.situation-report.pdf)
 * [2025-07-02 09:00 Situation Report](data/situation-reports/20250702.0900.situation-report.pdf)
-* [2025-07-01 09:00 Situation Report](data/situation-reports/20250701.0900.situation-report.pdf)
