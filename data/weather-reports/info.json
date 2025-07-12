@@ -1,5 +1,13 @@
 [
   {
+    "name": "Warning for strong winds and rough seas (Tamil)",
+    "time_str": "2025-07-12 11:10",
+    "time_id": "20250712.1110",
+    "ut": 1752298800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_strong_winds_and_rough_seas,_issued_at_0900hrs_on_12__1752299246.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Warning for strong winds and rough seas ",
     "time_str": "2025-07-12 09:00",
     "time_id": "20250712.0900",
