@@ -1,5 +1,13 @@
 [
   {
+    "name": "Weather Forecast",
+    "time_str": "2025-07-13 14:00",
+    "time_id": "20250713.1400",
+    "ut": 1752395400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400_hrs_on_2025__1752396086.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Warning for strong winds and rough seas",
     "time_str": "2025-07-13 09:00",
     "time_id": "20250713.0900",
