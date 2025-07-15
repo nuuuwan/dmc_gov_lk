@@ -1,5 +1,13 @@
 [
   {
+    "name": "Advisory for Strong Winds and Rough Seas",
+    "time_str": "2025-07-15 10:00",
+    "time_id": "20250715.1000",
+    "ut": 1752553800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_strong_winds_and_rough_seas_at_0900hrs_on_2025__1752554658.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2025-07-15 05:30",
     "time_id": "20250715.0530",
