@@ -49,8 +49,9 @@
 
 ## Weather Reports
 
-**9837/10077** documents downloaded.
+**9838/10078** documents downloaded.
 
+* [2025-07-15 14:00 Weather Forcast](data/weather-reports/20250715.1400.weather-forcast.pdf)
 * [2025-07-15 10:00 Advisory for Strong Winds and Rough Seas](data/weather-reports/20250715.1000.advisory-for-strong-winds-and-rough-seas.pdf)
 * [2025-07-15 05:30 Weather Forcast](data/weather-reports/20250715.0530.weather-forcast.pdf)
 * [2025-07-14 16:00 Weather Forcast](data/weather-reports/20250714.1600.weather-forcast.pdf)
@@ -60,7 +61,6 @@
 * [2025-07-14 05:30 Weather Forcast](data/weather-reports/20250714.0530.weather-forcast.pdf)
 * [2025-07-13 16:00 Weather Forecast](data/weather-reports/20250713.1600.weather-forecast.pdf)
 * [2025-07-13 14:00 Weather Forecast](data/weather-reports/20250713.1400.weather-forecast.pdf)
-* [2025-07-13 14:00 Weather Forecast (Tamil)](data/weather-reports/20250713.1400.weather-forecast-tamil.pdf)
 
 ## Flood Inundation Maps
 
