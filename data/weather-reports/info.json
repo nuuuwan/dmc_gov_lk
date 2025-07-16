@@ -1,5 +1,21 @@
 [
   {
+    "name": "Advisory for Strong winds",
+    "time_str": "2025-07-16 10:00",
+    "time_id": "20250716.1000",
+    "ut": 1752640200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/WWO2025071601E__1752641268.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Strong winds",
+    "time_str": "2025-07-16 10:00",
+    "time_id": "20250716.1000",
+    "ut": 1752640200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/WWO2025071601S__1752641288.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2025-07-16 05:30",
     "time_id": "20250716.0530",
