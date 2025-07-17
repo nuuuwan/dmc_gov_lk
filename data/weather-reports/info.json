@@ -1,5 +1,13 @@
 [
   {
+    "name": "Special Weather Bulletin",
+    "time_str": "2025-07-17 09:30",
+    "time_id": "20250717.0930",
+    "ut": 1752724800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Special_Weather_Bulletin_Report_at_0930_hrs_on_2025__1752725720.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2025-07-17 05:30",
     "time_id": "20250717.0530",
