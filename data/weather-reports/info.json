@@ -24,6 +24,14 @@
     "ext": "pdf"
   },
   {
+    "name": "Warning for strong winds and rough seas (Tamil)",
+    "time_str": "2025-07-19 10:00",
+    "time_id": "20250719.1000",
+    "ut": 1752899400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_strong_winds_and_rough_seas_at_1000hrs_on_2025__1752901041.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2025-07-19 05:30",
     "time_id": "20250719.0530",
