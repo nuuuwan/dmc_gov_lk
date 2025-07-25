@@ -1,5 +1,29 @@
 [
   {
+    "name": "Warning for strong winds and rough seas (Tamil)",
+    "time_str": "2025-07-25 10:45",
+    "time_id": "20250725.1045",
+    "ut": 1753420500.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_strong_winds_and_rough_seas_at_1000hrs_on_25__1753420697.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Strong winds ",
+    "time_str": "2025-07-25 10:30",
+    "time_id": "20250725.1030",
+    "ut": 1753419600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Strong_winds_at_1030hrs_on_25__1753421335.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Warning for strong winds and rough seas ",
+    "time_str": "2025-07-25 10:00",
+    "time_id": "20250725.1000",
+    "ut": 1753417800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_strong_winds_and_rough_seas_at_1000hrs_on_25__1753420384.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast For Multiday Boats",
     "time_str": "2025-07-25 07:00",
     "time_id": "20250725.0700",
