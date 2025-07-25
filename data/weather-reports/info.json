@@ -1,5 +1,21 @@
 [
   {
+    "name": "Weather Forecast",
+    "time_str": "2025-07-25 16:00",
+    "time_id": "20250725.1600",
+    "ut": 1753439400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_25__1753442612.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forecast",
+    "time_str": "2025-07-25 14:00",
+    "time_id": "20250725.1400",
+    "ut": 1753432200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_25__1753442586.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Warning for strong winds and rough seas (Tamil)",
     "time_str": "2025-07-25 10:45",
     "time_id": "20250725.1045",
