@@ -1,5 +1,21 @@
 [
   {
+    "name": "Warm Weather Advisory -",
+    "time_str": "2025-07-30 15:30",
+    "time_id": "20250730.1530",
+    "ut": 1753869600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Warm_Weather_Advisory_at_1530_hrs_on_2025__1753870217.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Fishermen bulletin for strong winds and rough seas",
+    "time_str": "2025-07-30 15:00",
+    "time_id": "20250730.1500",
+    "ut": 1753867800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Fishermen_bulletin_for_strong_winds_and_rough_seas_at_1500hrs_on_30__1753868515.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2025-07-30 05:30",
     "time_id": "20250730.0530",
