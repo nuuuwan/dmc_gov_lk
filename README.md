@@ -4,8 +4,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1729/2046** documents downloaded.
+**1730/2047** documents downloaded.
 
+* [2025-08-03 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20250803.0930.water-level-rainfall.pdf)
 * [2025-06-19 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20250619.0930.water-level-rainfall.pdf)
 * [2025-06-18 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20250618.0930.water-level-rainfall.jpg)
 * [2025-06-17 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20250617.0930.water-level-rainfall.pdf)
@@ -15,7 +16,6 @@
 * [2025-06-12 09:30 water level](data/river-water-level-and-flood-warnings/20250612.0930.water-level.pdf)
 * [2025-06-10 10:00 Water Level](data/river-water-level-and-flood-warnings/20250610.1000.water-level.pdf)
 * [2025-06-01 09:30 water level](data/river-water-level-and-flood-warnings/20250601.0930.water-level.png)
-* [2025-05-31 09:30 water level](data/river-water-level-and-flood-warnings/20250531.0930.water-level.jpg)
 
 ## Earthquakes
 
