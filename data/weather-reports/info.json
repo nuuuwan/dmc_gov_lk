@@ -1,5 +1,13 @@
 [
   {
+    "name": "Weather Forecast",
+    "time_str": "2025-08-04 16:00",
+    "time_id": "20250804.1600",
+    "ut": 1754303400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_04__1754304035.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Advisory for Severe Lightning (Tamil)",
     "time_str": "2025-08-04 14:00",
     "time_id": "20250804.1400",
