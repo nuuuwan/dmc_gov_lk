@@ -49,8 +49,9 @@
 
 ## Weather Reports
 
-**9949/10191** documents downloaded.
+**9950/10192** documents downloaded.
 
+* [2025-08-07 16:00 Weather Forcast](data/weather-reports/20250807.1600.weather-forcast.pdf)
 * [2025-08-07 14:00 Weather Forecast](data/weather-reports/20250807.1400.weather-forecast.pdf)
 * [2025-08-07 05:30 Weather Forcast](data/weather-reports/20250807.0530.weather-forcast.pdf)
 * [2025-08-06 16:00 Weather Forcast](data/weather-reports/20250806.1600.weather-forcast.pdf)
@@ -60,7 +61,6 @@
 * [2025-08-06 03:30 Warm Weather Advisory](data/weather-reports/20250806.0330.warm-weather-advisory.pdf)
 * [2025-08-05 16:00 Weather Forcast](data/weather-reports/20250805.1600.weather-forcast.pdf)
 * [2025-08-05 16:00 Weather Forcast](data/weather-reports/20250805.1600.weather-forcast.pdf)
-* [2025-08-05 05:30 Weather Forcast](data/weather-reports/20250805.0530.weather-forcast.pdf)
 
 ## Flood Inundation Maps
 
