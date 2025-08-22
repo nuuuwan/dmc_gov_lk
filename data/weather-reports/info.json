@@ -1,5 +1,21 @@
 [
   {
+    "name": "Weather Forcast for coastal areas",
+    "time_str": "2025-08-22 16:00",
+    "time_id": "20250822.1600",
+    "ut": 1755858600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/8_Day_forecast_for_coastal_areas___1755859983.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2025-08-22 16:00",
+    "time_id": "20250822.1600",
+    "ut": 1755858600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs__1755860737.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Warm Weather Advisory",
     "time_str": "2025-08-22 15:30",
     "time_id": "20250822.1530",
