@@ -1,5 +1,21 @@
 [
   {
+    "name": "Weather Forecast",
+    "time_str": "2025-08-24 16:00",
+    "time_id": "20250824.1600",
+    "ut": 1756031400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_24__1756031871.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Warm Weather Advisory ",
+    "time_str": "2025-08-24 15:30",
+    "time_id": "20250824.1530",
+    "ut": 1756029600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Warm_Weather_Advisory_at_1530hrs_on_2025__1756030106.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2025-08-24 14:00",
     "time_id": "20250824.1400",
@@ -13,6 +29,14 @@
     "time_id": "20250824.0530",
     "ut": 1755993600.0,
     "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530_on_24__1755993894.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Fisherman Bulleting",
+    "time_str": "2025-08-24 03:00",
+    "time_id": "20250824.0300",
+    "ut": 1755984600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Fishermen_bulletin___1756029368.pdf",
     "ext": "pdf"
   },
   {
