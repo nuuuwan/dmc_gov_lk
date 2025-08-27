@@ -34,8 +34,9 @@
 
 ## Situation Reports
 
-**4371/4434** documents downloaded.
+**4372/4435** documents downloaded.
 
+* [2025-08-27 09:00 Situation Report](data/situation-reports/20250827.0900.situation-report.pdf)
 * [2025-08-26 09:00 Situation Report](data/situation-reports/20250826.0900.situation-report.pdf)
 * [2025-08-25 09:00 Situation Report](data/situation-reports/20250825.0900.situation-report.pdf)
 * [2025-08-24 09:00 Situation Report](data/situation-reports/20250824.0900.situation-report.pdf)
@@ -45,7 +46,6 @@
 * [2025-08-20 09:00 Situation Report](data/situation-reports/20250820.0900.situation-report.pdf)
 * [2025-08-19 09:00 Situation Report](data/situation-reports/20250819.0900.situation-report.pdf)
 * [2025-08-18 09:00 Situation Report](data/situation-reports/20250818.0900.situation-report.pdf)
-* [2025-08-17 09:00 Situation Report](data/situation-reports/20250817.0900.situation-report.pdf)
 
 ## Landslide Warnings
 
@@ -64,8 +64,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1731/2048** documents downloaded.
+**1732/2049** documents downloaded.
 
+* [2025-08-27 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20250827.0930.water-level-rainfall.pdf)
 * [2025-08-09 10:00 Water level  Rainfall](data/river-water-level-and-flood-warnings/20250809.1000.water-level-rainfall.pdf)
 * [2025-08-03 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20250803.0930.water-level-rainfall.pdf)
 * [2025-06-19 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20250619.0930.water-level-rainfall.pdf)
@@ -75,7 +76,6 @@
 * [2025-06-15 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20250615.0930.water-level-rainfall.pdf)
 * [2025-06-13 09:30 water level](data/river-water-level-and-flood-warnings/20250613.0930.water-level.pdf)
 * [2025-06-12 09:30 water level](data/river-water-level-and-flood-warnings/20250612.0930.water-level.pdf)
-* [2025-06-10 10:00 Water Level](data/river-water-level-and-flood-warnings/20250610.1000.water-level.pdf)
 
 ## Emergency Response Data Viewer
 
