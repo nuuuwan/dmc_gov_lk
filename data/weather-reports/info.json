@@ -1,6 +1,30 @@
 [
   {
     "name": "Weather Forecast",
+    "time_str": "2025-08-27 16:00",
+    "time_id": "20250827.1600",
+    "ut": 1756290600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_27__1756291637.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": " Day weather forecast for the sea areas ",
+    "time_str": "2025-08-27 16:00",
+    "time_id": "20250827.1600",
+    "ut": 1756290600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/8_Day_weather_forecast_for_the_sea_areas_at_1600hrs_on_2025_08_27__1756291931.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forecast (Tamil)",
+    "time_str": "2025-08-27 16:00",
+    "time_id": "20250827.1600",
+    "ut": 1756290600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_27__1756292171.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forecast",
     "time_str": "2025-08-27 14:00",
     "time_id": "20250827.1400",
     "ut": 1756283400.0,
