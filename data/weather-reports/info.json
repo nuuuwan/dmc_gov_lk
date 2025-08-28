@@ -1,5 +1,21 @@
 [
   {
+    "name": " day weather forecast for the sea areas ",
+    "time_str": "2025-08-28 16:00",
+    "time_id": "20250828.1600",
+    "ut": 1756377000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/8_day_weather_forecast_for_the_sea_areas_at_1600hrs_on_2025_08_28__1756378533.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forecast",
+    "time_str": "2025-08-28 16:00",
+    "time_id": "20250828.1600",
+    "ut": 1756377000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_28__1756378582.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forecast",
     "time_str": "2025-08-28 14:00",
     "time_id": "20250828.1400",
