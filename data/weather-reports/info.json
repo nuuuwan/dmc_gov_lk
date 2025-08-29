@@ -1,5 +1,13 @@
 [
   {
+    "name": "Weather Forcast",
+    "time_str": "2025-08-29 05:30",
+    "time_id": "20250829.0530",
+    "ut": 1756425600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_29__1756426252.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": " day weather forecast for the sea areas ",
     "time_str": "2025-08-28 16:00",
     "time_id": "20250828.1600",
