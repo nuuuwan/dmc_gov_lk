@@ -1,5 +1,21 @@
 [
   {
+    "name": "Weather Forecast",
+    "time_str": "2025-09-04 16:00",
+    "time_id": "20250904.1600",
+    "ut": 1756981800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_04__1756983747.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forecast (Tamil)",
+    "time_str": "2025-09-04 16:00",
+    "time_id": "20250904.1600",
+    "ut": 1756981800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_04__1756985725.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Warm Weather Advisory",
     "time_str": "2025-09-04 15:30",
     "time_id": "20250904.1530",
