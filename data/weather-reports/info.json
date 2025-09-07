@@ -1,5 +1,21 @@
 [
   {
+    "name": "Weather Forcast",
+    "time_str": "2025-09-07 16:00",
+    "time_id": "20250907.1600",
+    "ut": 1757241000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2025__1757242000.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Warm Weather Advisory  No 7",
+    "time_str": "2025-09-07 15:45",
+    "time_id": "20250907.1545",
+    "ut": 1757240100.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Warm_Weather_Advisory_-_No__1757240621.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Advisory for Severe Lightning",
     "time_str": "2025-09-07 15:00",
     "time_id": "20250907.1500",
