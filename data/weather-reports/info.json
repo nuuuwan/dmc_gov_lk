@@ -1,5 +1,13 @@
 [
   {
+    "name": "Advisory for Severe Lightning  Amber (Tamil)",
+    "time_str": "2025-09-08 14:30",
+    "time_id": "20250908.1430",
+    "ut": 1757322000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_-_Amber_at_1200hrs_on_08__1757322366.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forecast",
     "time_str": "2025-09-08 14:00",
     "time_id": "20250908.1400",
