@@ -1,5 +1,21 @@
 [
   {
+    "name": "Weather Forecast",
+    "time_str": "2025-09-09 14:00",
+    "time_id": "20250909.1400",
+    "ut": 1757406600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400_hrs_on_2025__1757407694.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Severe Lightning  Amber (Tamil)",
+    "time_str": "2025-09-09 13:30",
+    "time_id": "20250909.1330",
+    "ut": 1757404800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_-_Amber_at_1330hrs_on_09__1757406267.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Advisory for Severe Lightning  Amber ",
     "time_str": "2025-09-09 12:00",
     "time_id": "20250909.1200",
