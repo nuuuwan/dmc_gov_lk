@@ -34,8 +34,9 @@
 
 ## Weather Reports
 
-**10072/10314** documents downloaded.
+**10073/10315** documents downloaded.
 
+* [2025-09-09 12:00 Advisory for Severe Lightning  Amber](data/weather-reports/20250909.1200.advisory-for-severe-lightning-amber.pdf)
 * [2025-09-09 05:30 Weather Forcast](data/weather-reports/20250909.0530.weather-forcast.pdf)
 * [2025-09-08 16:00 Weather Forcast](data/weather-reports/20250908.1600.weather-forcast.pdf)
 * [2025-09-08 14:30 Advisory for Severe Lightning  Amber (Tamil)](data/weather-reports/20250908.1430.advisory-for-severe-lightning-amber-tamil.pdf)
@@ -45,7 +46,6 @@
 * [2025-09-07 16:20 Advisory for Severe Lightning](data/weather-reports/20250907.1620.advisory-for-severe-lightning.pdf)
 * [2025-09-07 16:00 Weather Forcast](data/weather-reports/20250907.1600.weather-forcast.pdf)
 * [2025-09-07 15:45 Warm Weather Advisory  No 7](data/weather-reports/20250907.1545.warm-weather-advisory-no-7.pdf)
-* [2025-09-07 15:00 Advisory for Severe Lightning](data/weather-reports/20250907.1500.advisory-for-severe-lightning.pdf)
 
 ## Flood Inundation Maps
 
