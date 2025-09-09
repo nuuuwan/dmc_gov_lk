@@ -34,8 +34,9 @@
 
 ## Weather Reports
 
-**10077/10319** documents downloaded.
+**10078/10320** documents downloaded.
 
+* [2025-09-09 16:20 Warm Weather Advisory  No  (Tamil)](data/weather-reports/20250909.1620.warm-weather-advisory-no-tamil.pdf)
 * [2025-09-09 16:00 Weather Forecast](data/weather-reports/20250909.1600.weather-forecast.pdf)
 * [2025-09-09 15:30 Warm Weather Advisory  Update No](data/weather-reports/20250909.1530.warm-weather-advisory-update-no.pdf)
 * [2025-09-09 14:00 Weather Forecast](data/weather-reports/20250909.1400.weather-forecast.pdf)
@@ -45,7 +46,6 @@
 * [2025-09-08 16:00 Weather Forcast](data/weather-reports/20250908.1600.weather-forcast.pdf)
 * [2025-09-08 14:30 Advisory for Severe Lightning  Amber (Tamil)](data/weather-reports/20250908.1430.advisory-for-severe-lightning-amber-tamil.pdf)
 * [2025-09-08 14:00 Weather Forecast](data/weather-reports/20250908.1400.weather-forecast.pdf)
-* [2025-09-08 11:00 Weather Forcast](data/weather-reports/20250908.1100.weather-forcast.pdf)
 
 ## Flood Inundation Maps
 
