@@ -87,8 +87,9 @@
 
 ## Situation Reports
 
-**4387/4450** documents downloaded.
+**4388/4451** documents downloaded.
 
+* [2025-09-11 09:00 Situation Report](data/situation-reports/20250911.0900.situation-report.pdf)
 * [2025-09-10 09:00 Situation Report](data/situation-reports/20250910.0900.situation-report.pdf)
 * [2025-09-09 09:00 Situation Report](data/situation-reports/20250909.0900.situation-report.pdf)
 * [2025-09-08 09:00 Situation Report](data/situation-reports/20250908.0900.situation-report.pdf)
@@ -98,4 +99,3 @@
 * [2025-09-04 09:00 Situation Report](data/situation-reports/20250904.0900.situation-report.pdf)
 * [2025-09-03 09:00 Situation Report](data/situation-reports/20250903.0900.situation-report.pdf)
 * [2025-09-02 09:00 Situation Report](data/situation-reports/20250902.0900.situation-report.pdf)
-* [2025-09-01 09:00 Situation Report](data/situation-reports/20250901.0900.situation-report.pdf)
