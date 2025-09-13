@@ -8,6 +8,14 @@
     "ext": "pdf"
   },
   {
+    "name": "Weather Forecast",
+    "time_str": "2025-09-13 16:00",
+    "time_id": "20250913.1600",
+    "ut": 1757759400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600_hrs_on_2025__1757760801.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2025-09-13 14:00",
     "time_id": "20250913.1400",
