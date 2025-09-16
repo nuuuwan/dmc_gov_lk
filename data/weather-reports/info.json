@@ -1,6 +1,22 @@
 [
   {
     "name": "Weather Forecast",
+    "time_str": "2025-09-16 16:00",
+    "time_id": "20250916.1600",
+    "ut": 1758018600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2025__1758020808.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2025-09-16 15:00",
+    "time_id": "20250916.1500",
+    "ut": 1758015000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Fisherman_Bulleting___1758021359.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forecast",
     "time_str": "2025-09-16 14:00",
     "time_id": "20250916.1400",
     "ut": 1758011400.0,
