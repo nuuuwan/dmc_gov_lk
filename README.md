@@ -19,8 +19,9 @@
 
 ## Landslide Warnings
 
-**654/661** documents downloaded.
+**655/662** documents downloaded.
 
+* [2025-09-19 10:00 Landslide Early Warning Report](data/landslide-warnings/20250919.1000.landslide-early-warning-report.pdf)
 * [2025-06-17 16:00 Landslide Early Warning](data/landslide-warnings/20250617.1600.landslide-early-warning.pdf)
 * [2025-06-16 16:00 Landslide Early Warning](data/landslide-warnings/20250616.1600.landslide-early-warning.pdf)
 * [2025-06-15 16:00 Landslide Early Warning](data/landslide-warnings/20250615.1600.landslide-early-warning.pdf)
@@ -30,7 +31,6 @@
 * [2025-05-31 16:00 Landslide Early Warning](data/landslide-warnings/20250531.1600.landslide-early-warning.pdf)
 * [2025-05-30 21:00 Landslide Early Warning](data/landslide-warnings/20250530.2100.landslide-early-warning.pdf)
 * [2025-05-28 10:00 Landslide Early Warning](data/landslide-warnings/20250528.1000.landslide-early-warning.pdf)
-* [2025-05-27 10:00 Landslide early warning](data/landslide-warnings/20250527.1000.landslide-early-warning.pdf)
 
 ## Weather Reports
 
@@ -87,8 +87,10 @@
 
 ## Situation Reports
 
-**4397/4460** documents downloaded.
+**4399/4462** documents downloaded.
 
+* [2025-09-19 09:00 Drought Situation Report](data/situation-reports/20250919.0900.drought-situation-report.pdf)
+* [2025-09-19 09:00 Situation Report](data/situation-reports/20250919.0900.situation-report.pdf)
 * [2025-09-18 09:00 Situation Report](data/situation-reports/20250918.0900.situation-report.pdf)
 * [2025-09-18 09:00 Drought Situation Report](data/situation-reports/20250918.0900.drought-situation-report.pdf)
 * [2025-09-17 09:00 Situation Report](data/situation-reports/20250917.0900.situation-report.pdf)
@@ -97,5 +99,3 @@
 * [2025-09-16 09:00 Drought Situation Report](data/situation-reports/20250916.0900.drought-situation-report.pdf)
 * [2025-09-14 09:00 Situation Report](data/situation-reports/20250914.0900.situation-report.pdf)
 * [2025-09-13 09:00 Situation Report](data/situation-reports/20250913.0900.situation-report.pdf)
-* [2025-09-12 09:00 Situation Report on 2025.09.1 at 0900hrs](data/situation-reports/20250912.0900.situation-report-on-2025091-at-0900hrs.pdf)
-* [2025-09-11 09:00 Situation Report](data/situation-reports/20250911.0900.situation-report.pdf)
