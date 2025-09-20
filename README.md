@@ -34,8 +34,9 @@
 
 ## Weather Reports
 
-**10117/10360** documents downloaded.
+**10118/10361** documents downloaded.
 
+* [2025-09-20 05:30 Weather Forcast](data/weather-reports/20250920.0530.weather-forcast.pdf)
 * [2025-09-19 16:00 Weather Forcast](data/weather-reports/20250919.1600.weather-forcast.pdf)
 * [2025-09-19 14:30 Weather Forecast (Tamil)](data/weather-reports/20250919.1430.weather-forecast-tamil.pdf)
 * [2025-09-19 14:00 Weather Forecast](data/weather-reports/20250919.1400.weather-forecast.pdf)
@@ -45,7 +46,6 @@
 * [2025-09-18 05:30 Weather Forecast](data/weather-reports/20250918.0530.weather-forecast.pdf)
 * [2025-09-17 16:00 Weather Forcast](data/weather-reports/20250917.1600.weather-forcast.pdf)
 * [2025-09-17 14:00 Weather Forcast](data/weather-reports/20250917.1400.weather-forcast.pdf)
-* [2025-09-17 07:00 Weather forecast for Multiday boats](data/weather-reports/20250917.0700.weather-forecast-for-multiday-boats.pdf)
 
 ## Flood Inundation Maps
 
