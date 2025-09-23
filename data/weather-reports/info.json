@@ -1,5 +1,21 @@
 [
   {
+    "name": "Advisory for strong winds and rough seas (Tamil)",
+    "time_str": "2025-09-23 11:00",
+    "time_id": "20250923.1100",
+    "ut": 1758605400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_strong_winds_and_rough_seas_at_0930hrs_on_23__1758606283.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for strong winds and rough seas",
+    "time_str": "2025-09-23 09:30",
+    "time_id": "20250923.0930",
+    "ut": 1758600000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_strong_winds_and_rough_seas_at_0930hrs_on_23__1758602416.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2025-09-23 05:30",
     "time_id": "20250923.0530",
