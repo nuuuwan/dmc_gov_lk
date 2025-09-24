@@ -34,8 +34,10 @@
 
 ## Weather Reports
 
-**10134/10377** documents downloaded.
+**10136/10379** documents downloaded.
 
+* [2025-09-24 10:00 Advisory for strong winds and rough seas For Multi-day boats in the Bay of Bengal deep sea areas](data/weather-reports/20250924.1000.advisory-for-strong-winds-and-rough-seas-for-multiday-boats-in-the-bay-of-bengal-deep-sea-areas.pdf)
+* [2025-09-24 09:30 Advisory for strong winds and rough seas](data/weather-reports/20250924.0930.advisory-for-strong-winds-and-rough-seas.pdf)
 * [2025-09-24 05:30 Weather Forcast](data/weather-reports/20250924.0530.weather-forcast.pdf)
 * [2025-09-23 16:00 Weather Forcast](data/weather-reports/20250923.1600.weather-forcast.pdf)
 * [2025-09-23 14:00 Weather Forecast](data/weather-reports/20250923.1400.weather-forecast.pdf)
@@ -44,8 +46,6 @@
 * [2025-09-23 05:30 Weather Forcast](data/weather-reports/20250923.0530.weather-forcast.pdf)
 * [2025-09-22 16:00 Weather Forecast](data/weather-reports/20250922.1600.weather-forecast.pdf)
 * [2025-09-22 14:00 Weather Forcast](data/weather-reports/20250922.1400.weather-forcast.pdf)
-* [2025-09-22 14:00 Weather Forcast (Tamil)](data/weather-reports/20250922.1400.weather-forcast-tamil.pdf)
-* [2025-09-22 05:30 Weather Forcast](data/weather-reports/20250922.0530.weather-forcast.pdf)
 
 ## Flood Inundation Maps
 
@@ -87,8 +87,10 @@
 
 ## Situation Reports
 
-**4407/4470** documents downloaded.
+**4409/4472** documents downloaded.
 
+* [2025-09-24 09:00 Situation Report](data/situation-reports/20250924.0900.situation-report.pdf)
+* [2025-09-24 09:00 Drought Situation Report](data/situation-reports/20250924.0900.drought-situation-report.pdf)
 * [2025-09-23 09:00 Situation Report](data/situation-reports/20250923.0900.situation-report.pdf)
 * [2025-09-23 09:00 Drought Situation Report](data/situation-reports/20250923.0900.drought-situation-report.pdf)
 * [2025-09-22 09:00 Drought Situation Report](data/situation-reports/20250922.0900.drought-situation-report.pdf)
@@ -97,5 +99,3 @@
 * [2025-09-21 09:00 Drought Situation Report](data/situation-reports/20250921.0900.drought-situation-report.pdf)
 * [2025-09-20 09:00 Situation Report](data/situation-reports/20250920.0900.situation-report.pdf)
 * [2025-09-20 09:00 Drought Situation Report](data/situation-reports/20250920.0900.drought-situation-report.pdf)
-* [2025-09-19 09:00 Drought Situation Report](data/situation-reports/20250919.0900.drought-situation-report.pdf)
-* [2025-09-19 09:00 Situation Report](data/situation-reports/20250919.0900.situation-report.pdf)

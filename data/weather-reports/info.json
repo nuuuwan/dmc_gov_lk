@@ -1,5 +1,21 @@
 [
   {
+    "name": "Advisory for strong winds and rough seas For Multi-day boats in the Bay of Bengal deep sea areas",
+    "time_str": "2025-09-24 10:00",
+    "time_id": "20250924.1000",
+    "ut": 1758688200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_strong_winds_and_rough_seas_For_Multi-day_boats_in_the_Bay_of_Bengal_deep_sea_areas_at_1000hrs_on_24__1758689249.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for strong winds and rough seas",
+    "time_str": "2025-09-24 09:30",
+    "time_id": "20250924.0930",
+    "ut": 1758686400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_strong_winds_and_rough_seas_at_0930hrs_on_24__1758686991.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2025-09-24 05:30",
     "time_id": "20250924.0530",
