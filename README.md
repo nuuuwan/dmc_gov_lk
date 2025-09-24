@@ -34,8 +34,9 @@
 
 ## Weather Reports
 
-**10136/10379** documents downloaded.
+**10137/10380** documents downloaded.
 
+* [2025-09-24 14:00 Weather Forecast](data/weather-reports/20250924.1400.weather-forecast.pdf)
 * [2025-09-24 10:00 Advisory for strong winds and rough seas For Multi-day boats in the Bay of Bengal deep sea areas](data/weather-reports/20250924.1000.advisory-for-strong-winds-and-rough-seas-for-multiday-boats-in-the-bay-of-bengal-deep-sea-areas.pdf)
 * [2025-09-24 09:30 Advisory for strong winds and rough seas](data/weather-reports/20250924.0930.advisory-for-strong-winds-and-rough-seas.pdf)
 * [2025-09-24 05:30 Weather Forcast](data/weather-reports/20250924.0530.weather-forcast.pdf)
@@ -45,7 +46,6 @@
 * [2025-09-23 09:30 Advisory for strong winds and rough seas](data/weather-reports/20250923.0930.advisory-for-strong-winds-and-rough-seas.pdf)
 * [2025-09-23 05:30 Weather Forcast](data/weather-reports/20250923.0530.weather-forcast.pdf)
 * [2025-09-22 16:00 Weather Forecast](data/weather-reports/20250922.1600.weather-forecast.pdf)
-* [2025-09-22 14:00 Weather Forcast](data/weather-reports/20250922.1400.weather-forcast.pdf)
 
 ## Flood Inundation Maps
 
