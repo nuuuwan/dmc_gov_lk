@@ -34,8 +34,10 @@
 
 ## Situation Reports
 
-**4409/4472** documents downloaded.
+**4411/4474** documents downloaded.
 
+* [2025-09-25 09:00 Drought Situation Report](data/situation-reports/20250925.0900.drought-situation-report.pdf)
+* [2025-09-25 09:00 Situation Report](data/situation-reports/20250925.0900.situation-report.pdf)
 * [2025-09-24 09:00 Situation Report](data/situation-reports/20250924.0900.situation-report.pdf)
 * [2025-09-24 09:00 Drought Situation Report](data/situation-reports/20250924.0900.drought-situation-report.pdf)
 * [2025-09-23 09:00 Situation Report](data/situation-reports/20250923.0900.situation-report.pdf)
@@ -44,8 +46,6 @@
 * [2025-09-22 09:00 Situation Report](data/situation-reports/20250922.0900.situation-report.pdf)
 * [2025-09-21 09:00 Situation Report](data/situation-reports/20250921.0900.situation-report.pdf)
 * [2025-09-21 09:00 Drought Situation Report](data/situation-reports/20250921.0900.drought-situation-report.pdf)
-* [2025-09-20 09:00 Situation Report](data/situation-reports/20250920.0900.situation-report.pdf)
-* [2025-09-20 09:00 Drought Situation Report](data/situation-reports/20250920.0900.drought-situation-report.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10140/10383** documents downloaded.
+**10141/10384** documents downloaded.
 
+* [2025-09-25 09:30 Advisory for strong winds and rough seas](data/weather-reports/20250925.0930.advisory-for-strong-winds-and-rough-seas.pdf)
 * [2025-09-25 05:30 Weather Forcast](data/weather-reports/20250925.0530.weather-forcast.pdf)
 * [2025-09-24 16:00 Weather Forecast](data/weather-reports/20250924.1600.weather-forecast.pdf)
 * [2025-09-24 14:00 Weather Forecast](data/weather-reports/20250924.1400.weather-forecast.pdf)
@@ -68,7 +69,6 @@
 * [2025-09-24 05:30 Weather Forcast](data/weather-reports/20250924.0530.weather-forcast.pdf)
 * [2025-09-23 16:00 Weather Forcast](data/weather-reports/20250923.1600.weather-forcast.pdf)
 * [2025-09-23 14:00 Weather Forecast](data/weather-reports/20250923.1400.weather-forecast.pdf)
-* [2025-09-23 11:00 Advisory for strong winds and rough seas (Tamil)](data/weather-reports/20250923.1100.advisory-for-strong-winds-and-rough-seas-tamil.pdf)
 
 ## River Water Level And Flood Warnings
 
