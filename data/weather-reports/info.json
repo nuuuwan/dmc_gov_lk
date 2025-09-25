@@ -1,5 +1,13 @@
 [
   {
+    "name": "Advisory for Heavy Rain ",
+    "time_str": "2025-09-25 10:30",
+    "time_id": "20250925.1030",
+    "ut": 1758776400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_heavy_rain_at_1030hrs_on_25__1758777285.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Advisory for strong winds and rough seas",
     "time_str": "2025-09-25 09:30",
     "time_id": "20250925.0930",
