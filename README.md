@@ -4,8 +4,9 @@
 
 ## Landslide Warnings
 
-**656/663** documents downloaded.
+**657/664** documents downloaded.
 
+* [2025-09-26 16:00 Landslide Early Warning](data/landslide-warnings/20250926.1600.landslide-early-warning.pdf)
 * [2025-09-25 22:00 Landslide Early Warning](data/landslide-warnings/20250925.2200.landslide-early-warning.pdf)
 * [2025-09-19 10:00 Landslide Early Warning Report](data/landslide-warnings/20250919.1000.landslide-early-warning-report.pdf)
 * [2025-06-17 16:00 Landslide Early Warning](data/landslide-warnings/20250617.1600.landslide-early-warning.pdf)
@@ -15,7 +16,6 @@
 * [2025-06-14 16:00 Landslide Early Warning](data/landslide-warnings/20250614.1600.landslide-early-warning.pdf)
 * [2025-06-11 16:00 Landslide Early Warning](data/landslide-warnings/20250611.1600.landslide-early-warning.pdf)
 * [2025-05-31 16:00 Landslide Early Warning](data/landslide-warnings/20250531.1600.landslide-early-warning.pdf)
-* [2025-05-30 21:00 Landslide Early Warning](data/landslide-warnings/20250530.2100.landslide-early-warning.pdf)
 
 ## Earthquakes
 
@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10152/10395** documents downloaded.
+**10153/10396** documents downloaded.
 
+* [2025-09-26 16:00 Weather Forecast](data/weather-reports/20250926.1600.weather-forecast.pdf)
 * [2025-09-26 14:00 Weather Forecast](data/weather-reports/20250926.1400.weather-forecast.pdf)
 * [2025-09-26 11:00 Advisory for strong winds and rough seas (Tamil)](data/weather-reports/20250926.1100.advisory-for-strong-winds-and-rough-seas-tamil.pdf)
 * [2025-09-26 10:00 Advisory for strong winds and rough seas](data/weather-reports/20250926.1000.advisory-for-strong-winds-and-rough-seas.pdf)
@@ -68,7 +69,6 @@
 * [2025-09-26 05:30 Weather Forcast](data/weather-reports/20250926.0530.weather-forcast.pdf)
 * [2025-09-26 02:00 warning for Heavy rain](data/weather-reports/20250926.0200.warning-for-heavy-rain.pdf)
 * [2025-09-25 16:00 Weather Forecast](data/weather-reports/20250925.1600.weather-forecast.pdf)
-* [2025-09-25 14:00 Weather Forcast](data/weather-reports/20250925.1400.weather-forcast.pdf)
 
 ## River Water Level And Flood Warnings
 
