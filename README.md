@@ -34,8 +34,10 @@
 
 ## Situation Reports
 
-**4411/4474** documents downloaded.
+**4413/4476** documents downloaded.
 
+* [2025-09-26 09:00 Drought Situation Report](data/situation-reports/20250926.0900.drought-situation-report.pdf)
+* [2025-09-26 09:00 Situation Report](data/situation-reports/20250926.0900.situation-report.pdf)
 * [2025-09-25 09:00 Drought Situation Report](data/situation-reports/20250925.0900.drought-situation-report.pdf)
 * [2025-09-25 09:00 Situation Report](data/situation-reports/20250925.0900.situation-report.pdf)
 * [2025-09-24 09:00 Situation Report](data/situation-reports/20250924.0900.situation-report.pdf)
@@ -44,8 +46,6 @@
 * [2025-09-23 09:00 Drought Situation Report](data/situation-reports/20250923.0900.drought-situation-report.pdf)
 * [2025-09-22 09:00 Drought Situation Report](data/situation-reports/20250922.0900.drought-situation-report.pdf)
 * [2025-09-22 09:00 Situation Report](data/situation-reports/20250922.0900.situation-report.pdf)
-* [2025-09-21 09:00 Situation Report](data/situation-reports/20250921.0900.situation-report.pdf)
-* [2025-09-21 09:00 Drought Situation Report](data/situation-reports/20250921.0900.drought-situation-report.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10148/10391** documents downloaded.
+**10149/10392** documents downloaded.
 
+* [2025-09-26 09:30 Advisory for strong winds and rough seas](data/weather-reports/20250926.0930.advisory-for-strong-winds-and-rough-seas.pdf)
 * [2025-09-26 07:55 Weather Forecast (Update)](data/weather-reports/20250926.0755.weather-forecast-update.pdf)
 * [2025-09-26 07:00 Weather Forcast](data/weather-reports/20250926.0700.weather-forcast.pdf)
 * [2025-09-26 05:30 Weather Forcast](data/weather-reports/20250926.0530.weather-forcast.pdf)
@@ -68,12 +69,12 @@
 * [2025-09-25 10:30 Advisory for Heavy Rain](data/weather-reports/20250925.1030.advisory-for-heavy-rain.pdf)
 * [2025-09-25 09:30 Advisory for strong winds and rough seas](data/weather-reports/20250925.0930.advisory-for-strong-winds-and-rough-seas.pdf)
 * [2025-09-25 05:30 Weather Forcast](data/weather-reports/20250925.0530.weather-forcast.pdf)
-* [2025-09-24 16:00 Weather Forecast](data/weather-reports/20250924.1600.weather-forecast.pdf)
 
 ## River Water Level And Flood Warnings
 
-**1732/2049** documents downloaded.
+**1733/2050** documents downloaded.
 
+* [2025-09-26 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20250926.0930.water-level-rainfall.pdf)
 * [2025-08-27 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20250827.0930.water-level-rainfall.pdf)
 * [2025-08-09 10:00 Water level  Rainfall](data/river-water-level-and-flood-warnings/20250809.1000.water-level-rainfall.pdf)
 * [2025-08-03 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20250803.0930.water-level-rainfall.pdf)
@@ -83,7 +84,6 @@
 * [2025-06-16 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20250616.0930.water-level-rainfall.pdf)
 * [2025-06-15 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20250615.0930.water-level-rainfall.pdf)
 * [2025-06-13 09:30 water level](data/river-water-level-and-flood-warnings/20250613.0930.water-level.pdf)
-* [2025-06-12 09:30 water level](data/river-water-level-and-flood-warnings/20250612.0930.water-level.pdf)
 
 ## Flood Inundation Maps
 
