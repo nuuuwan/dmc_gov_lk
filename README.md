@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10168/10411** documents downloaded.
+**10169/10412** documents downloaded.
 
+* [2025-09-30 07:00 Weather forecast for multi-day boats](data/weather-reports/20250930.0700.weather-forecast-for-multiday-boats.pdf)
 * [2025-09-30 05:30 Weather Forcast](data/weather-reports/20250930.0530.weather-forcast.pdf)
 * [2025-09-29 16:00 Weather Forecast](data/weather-reports/20250929.1600.weather-forecast.pdf)
 * [2025-09-29 15:45 Warm Weather Advisory](data/weather-reports/20250929.1545.warm-weather-advisory.pdf)
@@ -68,7 +69,6 @@
 * [2025-09-28 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20250928.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
 * [2025-09-28 14:00 Weather Forecast](data/weather-reports/20250928.1400.weather-forecast.pdf)
 * [2025-09-28 14:00 Weather Forecast (Tamil)](data/weather-reports/20250928.1400.weather-forecast-tamil.pdf)
-* [2025-09-28 07:00 Weather forecast for multi-day boats](data/weather-reports/20250928.0700.weather-forecast-for-multiday-boats.pdf)
 
 ## River Water Level And Flood Warnings
 
