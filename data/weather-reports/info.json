@@ -1,5 +1,77 @@
 [
   {
+    "name": "Weather Forcast",
+    "time_str": "2025-10-04 05:30",
+    "time_id": "20251004.0530",
+    "ut": 1759536000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_report_at_0530hrs__1759536986.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forecast",
+    "time_str": "2025-10-03 16:00",
+    "time_id": "20251003.1600",
+    "ut": 1759487400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_03__1759488616.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Fishermen bulletin for strong winds and rough seas ",
+    "time_str": "2025-10-03 15:00",
+    "time_id": "20251003.1500",
+    "ut": 1759483800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Fishermen_bulletin_for_strong_winds_and_rough_seas_at_1500hrs_on_03__1759484006.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forecast",
+    "time_str": "2025-10-03 14:00",
+    "time_id": "20251003.1400",
+    "ut": 1759480200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_03__1759482173.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Severe Lightning ",
+    "time_str": "2025-10-03 14:00",
+    "time_id": "20251003.1400",
+    "ut": 1759480200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_at_1400hrs_on_03__1759482282.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Severe Lightning",
+    "time_str": "2025-10-03 14:00",
+    "time_id": "20251003.1400",
+    "ut": 1759480200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_at_1400hrs_on_03__1759483404.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2025-10-03 05:30",
+    "time_id": "20251003.0530",
+    "ut": 1759449600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_report_at_0530hrs__1759450168.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Warm Weather Advisory",
+    "time_str": "2025-10-02 16:30",
+    "time_id": "20251002.1630",
+    "ut": 1759402800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Warm_Weather_Advisory_at_1630hrs_on_02__1759404334.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forecast",
+    "time_str": "2025-10-02 16:00",
+    "time_id": "20251002.1600",
+    "ut": 1759401000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2025__1759401654.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forecast",
     "time_str": "2025-10-02 14:00",
     "time_id": "20251002.1400",
