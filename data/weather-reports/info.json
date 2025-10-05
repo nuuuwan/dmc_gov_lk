@@ -1,10 +1,34 @@
 [
   {
+    "name": "Weather Forecast",
+    "time_str": "2025-10-05 14:00",
+    "time_id": "20251005.1400",
+    "ut": 1759653000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_05__1759653461.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forecast (Tamil)",
+    "time_str": "2025-10-05 14:00",
+    "time_id": "20251005.1400",
+    "ut": 1759653000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_05__1759653846.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Advisory for Severe Lightning",
     "time_str": "2025-10-05 12:30",
     "time_id": "20251005.1230",
     "ut": 1759647600.0,
     "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_at_1230hrs_on_05__1759649473.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Severe Lightning (Tamil)",
+    "time_str": "2025-10-05 12:30",
+    "time_id": "20251005.1230",
+    "ut": 1759647600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_-_03_at_1230hrs_on_05__1759651533.pdf",
     "ext": "pdf"
   },
   {
